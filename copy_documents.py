@@ -22,8 +22,8 @@ def initialize_remote_browser():
     options = Options()
     options.add_argument('--window-size=1920,1080')
     options.add_argument('--start-maximized')
-    options.add_argument('--headless=new')
-    options.add_argument('--no-sandbox')
+    # options.add_argument('--headless=new')
+    # options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
     options.add_experimental_option('prefs', {
         'download.default_directory': '/tmp/',
@@ -96,11 +96,9 @@ def fetch_nonsocial(driver, url):
             driver.get(url)
             time.sleep(5)
             body_text = driver.find_element(By.XPATH, '/html/body').text
-            retries = 0
-            while 'Checking if the site connection is secure' in body_text and retries < 5:
-                time.sleep(60)
+            if 'Checking if the site connection is secure' in body_text:
+                input("Press Enter to continue...")
                 body_text = driver.find_element(By.XPATH, '/html/body').text
-                retries += 1
             pdf_links = find_pdf_links(driver)
             if len(pdf_links) > 0:
                 time.sleep(5)
@@ -139,11 +137,9 @@ def fetch_nonsocial(driver, url):
             driver.get(url)
             time.sleep(5)
             body_text = driver.find_element(By.XPATH, '/html/body').text
-            retries = 0
-            while 'Checking if the site connection is secure' in body_text and retries < 5:
-                time.sleep(60)
+            if 'Checking if the site connection is secure' in body_text:
+                input("Press Enter to continue...")
                 body_text = driver.find_element(By.XPATH, '/html/body').text
-                retries += 1
             pdf_links = find_pdf_links(driver)
             if len(pdf_links) > 0:
                 pdf_link_results = fetch_nonsocial(driver, pdf_links[0])
@@ -227,11 +223,9 @@ def fetch_nonsocial(driver, url):
             driver.get(url)
             time.sleep(5)
             body_text = driver.find_element(By.XPATH, '/html/body').text
-            retries = 0
-            while 'Checking if the site connection is secure' in body_text and retries < 5:
-                time.sleep(60)
+            if 'Checking if the site connection is secure' in body_text:
+                input("Press Enter to continue...")
                 body_text = driver.find_element(By.XPATH, '/html/body').text
-                retries += 1
             title = driver.title
             try:
                 meta_description = driver.find_element(By.XPATH,"//meta[@name='description']").get_attribute("content")
