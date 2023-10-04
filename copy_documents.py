@@ -36,18 +36,19 @@ def initialize_remote_browser():
 
 
 def find_pdf_links(driver):
+    # Find all anchor elements (hyperlinks) on the page
     all_links = driver.find_elements(By.TAG_NAME, 'a')
 
     # Initialize a list to store the URLs
-    pdf_download_links = []
+    pdf_links = []
 
-    # Loop through all the links and check if the link text contains 'pdf' or 'download' (case-insensitive)
+    # Loop through all the links and check if the href attribute ends with 'pdf' (case-insensitive)
     for link in all_links:
-        link_text = link.text.lower()
-        if 'pdf' in link_text or 'download' in link_text:
-            pdf_download_links.append(link.get_attribute('href'))
+        href = link.get_attribute('href')
+        if href and href.lower().endswith('.pdf'):
+            pdf_links.append(href)
 
-    return pdf_download_links
+    return pdf_links
 
 
 def fetch_twitter(driver, url):
@@ -242,7 +243,7 @@ def main(metadata_path):
     problematic_ids = []
     short_ids = []
 
-    for document in tqdm(uncopied_documents.to_dict('records')[246:]):
+    for document in tqdm(uncopied_documents.to_dict('records')):
         domain = urlparse(document['url']).netloc
         if domain in ['twitter.com']:
             new_title, extension, full_text, bytes = fetch_twitter(driver, document['url']).values()
