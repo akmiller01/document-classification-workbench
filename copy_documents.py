@@ -53,7 +53,7 @@ def find_pdf_links(driver):
 
 def fetch_twitter(driver, url):
     driver.get(url)
-    time.sleep(5)
+    time.sleep(2)
     try:
         article = driver.find_element(By.XPATH, '//article')
     except:
@@ -81,20 +81,20 @@ def fetch_nonsocial(driver, url):
     requests_failure = False
     try:
         get_request = requests.get(url, headers=headers, allow_redirects=True)
-        time.sleep(5)
+        time.sleep(2)
     except:
         requests_failure = True
     if requests_failure == True:
         try:
             driver.get(url)
-            time.sleep(5)
+            time.sleep(2)
             body_text = driver.find_element(By.XPATH, '/html/body').text
             if 'Checking if the site connection is secure' in body_text:
                 input("Press Enter to continue...")
                 body_text = driver.find_element(By.XPATH, '/html/body').text
             pdf_links = find_pdf_links(driver)
             if len(pdf_links) > 0:
-                time.sleep(5)
+                time.sleep(2)
                 pdf_link_results = fetch_nonsocial(driver, pdf_links[0])
                 if pdf_link_results['full_text'] is not None and pdf_link_results['full_text'] != '':
                     return pdf_link_results
@@ -128,7 +128,7 @@ def fetch_nonsocial(driver, url):
             }
         if content_type.startswith('text'):
             driver.get(url)
-            time.sleep(5)
+            time.sleep(2)
             body_text = driver.find_element(By.XPATH, '/html/body').text
             if 'Checking if the site connection is secure' in body_text:
                 input("Press Enter to continue...")
@@ -214,7 +214,7 @@ def fetch_nonsocial(driver, url):
     else:
         try:
             driver.get(url)
-            time.sleep(5)
+            time.sleep(2)
             body_text = driver.find_element(By.XPATH, '/html/body').text
             if 'Checking if the site connection is secure' in body_text:
                 input("Press Enter to continue...")
