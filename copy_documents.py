@@ -15,7 +15,6 @@ from selenium.common.exceptions import NoSuchElementException
 from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 from tqdm import tqdm
-from selenium_stealth import stealth
 
 
 def initialize_remote_browser():
@@ -33,13 +32,6 @@ def initialize_remote_browser():
         'safebrowsing.enabled': False
     })
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-    stealth(driver,
-        languages=["en-US", "en"],
-        vendor="Google Inc.",
-        platform="Win32",
-        webgl_vendor="Intel Inc.",
-        renderer="Intel Iris OpenGL Engine",
-        fix_hairline=True)
     return driver
 
 
@@ -85,9 +77,10 @@ def fetch_twitter(driver, url):
 
 
 def fetch_nonsocial(driver, url):
+    headers = {'User-Agent': 'DI-Archivist/0.0.1 (Internal Knowledge Management System) https://devinit.org/contact-us/'}
     requests_failure = False
     try:
-        get_request = requests.get(url, allow_redirects=True)
+        get_request = requests.get(url, headers=headers, allow_redirects=True)
         time.sleep(5)
     except:
         requests_failure = True
