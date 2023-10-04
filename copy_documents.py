@@ -61,7 +61,7 @@ def find_pdf_links(driver):
 
 def fetch_twitter(driver, url):
     driver.get(url)
-    time.sleep(10)
+    time.sleep(5)
     try:
         article = driver.find_element(By.XPATH, '//article')
     except:
@@ -88,19 +88,22 @@ def fetch_nonsocial(driver, url):
     requests_failure = False
     try:
         get_request = requests.get(url, allow_redirects=True)
-        time.sleep(10)
+        time.sleep(5)
     except:
         requests_failure = True
     if requests_failure == True:
         try:
             driver.get(url)
-            time.sleep(10)
+            time.sleep(5)
             body_text = driver.find_element(By.XPATH, '/html/body').text
-            if 'Checking if the site connection is secure' in body_text:
+            retries = 0
+            while 'Checking if the site connection is secure' in body_text and retries < 5:
                 time.sleep(60)
+                body_text = driver.find_element(By.XPATH, '/html/body').text
+                retries += 1
             pdf_links = find_pdf_links(driver)
             if len(pdf_links) > 0:
-                time.sleep(10)
+                time.sleep(5)
                 pdf_link_results = fetch_nonsocial(driver, pdf_links[0])
                 if pdf_link_results['full_text'] is not None and pdf_link_results['full_text'] != '':
                     return pdf_link_results
@@ -134,10 +137,13 @@ def fetch_nonsocial(driver, url):
             }
         if content_type.startswith('text'):
             driver.get(url)
-            time.sleep(10)
+            time.sleep(5)
             body_text = driver.find_element(By.XPATH, '/html/body').text
-            if 'Checking if the site connection is secure' in body_text:
+            retries = 0
+            while 'Checking if the site connection is secure' in body_text and retries < 5:
                 time.sleep(60)
+                body_text = driver.find_element(By.XPATH, '/html/body').text
+                retries += 1
             pdf_links = find_pdf_links(driver)
             if len(pdf_links) > 0:
                 pdf_link_results = fetch_nonsocial(driver, pdf_links[0])
@@ -219,10 +225,13 @@ def fetch_nonsocial(driver, url):
     else:
         try:
             driver.get(url)
-            time.sleep(10)
+            time.sleep(5)
             body_text = driver.find_element(By.XPATH, '/html/body').text
-            if 'Checking if the site connection is secure' in body_text:
+            retries = 0
+            while 'Checking if the site connection is secure' in body_text and retries < 5:
                 time.sleep(60)
+                body_text = driver.find_element(By.XPATH, '/html/body').text
+                retries += 1
             title = driver.title
             try:
                 meta_description = driver.find_element(By.XPATH,"//meta[@name='description']").get_attribute("content")
