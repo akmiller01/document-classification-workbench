@@ -53,7 +53,7 @@ def find_pdf_links(driver):
 
 def fetch_twitter(driver, url):
     driver.get(url)
-    time.sleep(1)
+    time.sleep(10)
     try:
         article = driver.find_element(By.XPATH, '//article')
     except:
@@ -88,8 +88,12 @@ def fetch_nonsocial(driver, url):
         try:
             driver.get(url)
             time.sleep(10)
+            body_text = driver.find_element(By.XPATH, '/html/body').text
+            if 'Checking if the site connection is secure' in body_text:
+                time.sleep(60)
             pdf_links = find_pdf_links(driver)
             if len(pdf_links) > 0:
+                time.sleep(10)
                 pdf_link_results = fetch_nonsocial(driver, pdf_links[0])
                 if pdf_link_results['full_text'] is not None and pdf_link_results['full_text'] != '':
                     return pdf_link_results
@@ -101,7 +105,7 @@ def fetch_nonsocial(driver, url):
             return {
                 'title': title,
                 'extension': 'txt',
-                'full_text': title + '\n' + meta_description + '\n' + driver.find_element(By.XPATH, '/html/body').text,
+                'full_text': title + '\n' + meta_description + '\n' + body_text,
                 'bytes': None
             }
         except:
@@ -124,6 +128,9 @@ def fetch_nonsocial(driver, url):
         if content_type.startswith('text'):
             driver.get(url)
             time.sleep(10)
+            body_text = driver.find_element(By.XPATH, '/html/body').text
+            if 'Checking if the site connection is secure' in body_text:
+                time.sleep(60)
             pdf_links = find_pdf_links(driver)
             if len(pdf_links) > 0:
                 pdf_link_results = fetch_nonsocial(driver, pdf_links[0])
@@ -137,7 +144,7 @@ def fetch_nonsocial(driver, url):
             return {
                 'title': title,
                 'extension': 'txt',
-                'full_text': title + '\n' + meta_description + '\n' + driver.find_element(By.XPATH, '/html/body').text,
+                'full_text': title + '\n' + meta_description + '\n' + body_text,
                 'bytes': None
             }
         elif content_type.startswith('application/pdf'):
@@ -206,6 +213,9 @@ def fetch_nonsocial(driver, url):
         try:
             driver.get(url)
             time.sleep(10)
+            body_text = driver.find_element(By.XPATH, '/html/body').text
+            if 'Checking if the site connection is secure' in body_text:
+                time.sleep(60)
             title = driver.title
             try:
                 meta_description = driver.find_element(By.XPATH,"//meta[@name='description']").get_attribute("content")
@@ -214,7 +224,7 @@ def fetch_nonsocial(driver, url):
             return {
                 'title': title,
                 'extension': 'txt',
-                'full_text': title + '\n' + meta_description + '\n' + driver.find_element(By.XPATH, '/html/body').text,
+                'full_text': title + '\n' + meta_description + '\n' + body_text,
                 'bytes': None
             }
         except:
