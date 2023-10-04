@@ -109,7 +109,7 @@ def fetch_nonsocial(driver, user_agent, url):
             pdf_links = find_pdf_links(driver)
             if len(pdf_links) > 0:
                 time.sleep(2)
-                pdf_link_results = fetch_nonsocial(driver, pdf_links[0])
+                pdf_link_results = fetch_nonsocial(driver, user_agent, pdf_links[0])
                 if pdf_link_results['full_text'] is not None and pdf_link_results['full_text'] != '':
                     return pdf_link_results
             title = driver.title
@@ -149,7 +149,7 @@ def fetch_nonsocial(driver, user_agent, url):
                 body_text = driver.find_element(By.XPATH, '/html/body').text
             pdf_links = find_pdf_links(driver)
             if len(pdf_links) > 0:
-                pdf_link_results = fetch_nonsocial(driver, pdf_links[0])
+                pdf_link_results = fetch_nonsocial(driver, user_agent, pdf_links[0])
                 if pdf_link_results['full_text'] is not None and pdf_link_results['full_text'] != '':
                     return pdf_link_results
             title = driver.title
