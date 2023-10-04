@@ -15,10 +15,24 @@ from selenium.common.exceptions import NoSuchElementException
 from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 from tqdm import tqdm
+import random
+
+
+# List of user agents to cycle through
+user_agents = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/95.0",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/95.0",
+    # Add more user agents as needed
+]
 
 
 def initialize_remote_browser():
+    # Initialize WebDriver with a random user agent
+    user_agent = random.choice(user_agents)
     options = Options()
+    options.add_argument(f"user-agent={user_agent}")
     options.add_argument('--window-size=1920,1080')
     options.add_argument('--start-maximized')
     # options.add_argument('--headless=new')
@@ -32,7 +46,7 @@ def initialize_remote_browser():
         'safebrowsing.enabled': False
     })
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-    return driver
+    return driver, user_agent
 
 
 def find_pdf_links(driver):
@@ -51,7 +65,7 @@ def find_pdf_links(driver):
     return pdf_links
 
 
-def fetch_twitter(driver, url):
+def fetch_twitter(driver, user_agent, url):
     driver.get(url)
     time.sleep(2)
     try:
@@ -73,11 +87,11 @@ def fetch_twitter(driver, url):
             'full_text': article.text,
             'bytes': None
         }
-    return fetch_nonsocial(driver, hyperlink.get_attribute('href'))
+    return fetch_nonsocial(driver, user_agent, hyperlink.get_attribute('href'))
 
 
-def fetch_nonsocial(driver, url):
-    headers = {'User-Agent': 'DI-Archivist/0.0.1 (Internal Knowledge Management System) https://devinit.org/contact-us/'}
+def fetch_nonsocial(driver, user_agent, url):
+    headers = {'User-Agent': user_agent}
     requests_failure = False
     try:
         get_request = requests.get(url, headers=headers, allow_redirects=True)
@@ -251,17 +265,16 @@ def main(metadata_path):
     textdata_folder = os.path.join('textdata', metadata_basename)
     os.makedirs(textdata_folder, exist_ok=True)
 
-    driver = initialize_remote_browser()
-
     problematic_ids = []
     short_ids = []
 
     for document in tqdm(uncopied_documents.to_dict('records')):
+        driver, user_agent = initialize_remote_browser()
         domain = urlparse(document['url']).netloc
         if domain in ['twitter.com']:
-            new_title, extension, full_text, bytes = fetch_twitter(driver, document['url']).values()
+            new_title, extension, full_text, bytes = fetch_twitter(driver, user_agent, document['url']).values()
         else:
-            new_title, extension, full_text, bytes = fetch_nonsocial(driver, document['url']).values()
+            new_title, extension, full_text, bytes = fetch_nonsocial(driver, user_agent, document['url']).values()
 
         filename = '{}/{}.txt'.format(textdata_folder, document['id'])
         if full_text is None:
@@ -274,6 +287,8 @@ def main(metadata_path):
         elif len(full_text.split(' ')) < 100:
             short_ids.append(document['id'])
 
+        driver.close()
+
     print(
         "Problematic IDs: {}".format(
             ", ".join([str(id) for id in problematic_ids])
@@ -285,8 +300,6 @@ def main(metadata_path):
             ", ".join([str(id) for id in short_ids])
         )
     )
-
-    driver.close()
 
 if __name__ == '__main__':
     main(sys.argv[1])
