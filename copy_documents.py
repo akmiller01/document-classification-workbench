@@ -59,8 +59,10 @@ def find_pdf_links(driver):
     # Loop through all the links and check if the href attribute ends with 'pdf' (case-insensitive)
     for link in all_links:
         href = link.get_attribute('href')
+        link_text = link.text.lower()
         if href and href.lower().endswith('.pdf'):
-            pdf_links.append(href)
+            if 'pdf' in link_text or 'read' in link_text or 'download' in link_text or 'report' in link_text:
+                pdf_links.append(href)
 
     return pdf_links
 
@@ -102,21 +104,26 @@ def fetch_nonsocial(driver, user_agent, url):
         try:
             driver.get(url)
             time.sleep(2)
+            title = driver.title
             body_text = driver.find_element(By.XPATH, '/html/body').text
-            if 'Checking if the site connection is secure' in body_text:
-                input("Press Enter to continue...")
+            if 'not a robot' in body_text:
+                input('Press enter to continue...')
                 body_text = driver.find_element(By.XPATH, '/html/body').text
+            try:
+                meta_description = driver.find_element(By.XPATH,"//meta[@name='description']").get_attribute("content")
+            except:
+                meta_description = ''
             pdf_links = find_pdf_links(driver)
             if len(pdf_links) > 0:
                 time.sleep(2)
                 pdf_link_results = fetch_nonsocial(driver, user_agent, pdf_links[0])
                 if pdf_link_results['full_text'] is not None and pdf_link_results['full_text'] != '':
-                    return pdf_link_results
-            title = driver.title
-            try:
-                meta_description = driver.find_element(By.XPATH,"//meta[@name='description']").get_attribute("content")
-            except:
-                meta_description = ''
+                    return {
+                        'title': title,
+                        'extension': 'txt',
+                        'full_text': title + '\n' + meta_description + '\n' + body_text + '\n' + pdf_link_results['full_text'],
+                        'bytes': pdf_link_results['bytes']
+                    }
             return {
                 'title': title,
                 'extension': 'txt',
@@ -143,20 +150,26 @@ def fetch_nonsocial(driver, user_agent, url):
         if content_type.startswith('text'):
             driver.get(url)
             time.sleep(2)
-            body_text = driver.find_element(By.XPATH, '/html/body').text
-            if 'Checking if the site connection is secure' in body_text:
-                input("Press Enter to continue...")
-                body_text = driver.find_element(By.XPATH, '/html/body').text
-            pdf_links = find_pdf_links(driver)
-            if len(pdf_links) > 0:
-                pdf_link_results = fetch_nonsocial(driver, user_agent, pdf_links[0])
-                if pdf_link_results['full_text'] is not None and pdf_link_results['full_text'] != '':
-                    return pdf_link_results
             title = driver.title
+            body_text = driver.find_element(By.XPATH, '/html/body').text
+            if 'not a robot' in body_text:
+                input('Press enter to continue...')
+                body_text = driver.find_element(By.XPATH, '/html/body').text
             try:
                 meta_description = driver.find_element(By.XPATH,"//meta[@name='description']").get_attribute("content")
             except:
                 meta_description = ''
+            pdf_links = find_pdf_links(driver)
+            if len(pdf_links) > 0:
+                time.sleep(2)
+                pdf_link_results = fetch_nonsocial(driver, user_agent, pdf_links[0])
+                if pdf_link_results['full_text'] is not None and pdf_link_results['full_text'] != '':
+                    return {
+                        'title': title,
+                        'extension': 'txt',
+                        'full_text': title + '\n' + meta_description + '\n' + body_text + '\n' + pdf_link_results['full_text'],
+                        'bytes': pdf_link_results['bytes']
+                    }
             return {
                 'title': title,
                 'extension': 'txt',
@@ -229,15 +242,26 @@ def fetch_nonsocial(driver, user_agent, url):
         try:
             driver.get(url)
             time.sleep(2)
-            body_text = driver.find_element(By.XPATH, '/html/body').text
-            if 'Checking if the site connection is secure' in body_text:
-                input("Press Enter to continue...")
-                body_text = driver.find_element(By.XPATH, '/html/body').text
             title = driver.title
+            body_text = driver.find_element(By.XPATH, '/html/body').text
+            if 'not a robot' in body_text:
+                input('Press enter to continue...')
+                body_text = driver.find_element(By.XPATH, '/html/body').text
             try:
                 meta_description = driver.find_element(By.XPATH,"//meta[@name='description']").get_attribute("content")
             except:
                 meta_description = ''
+            pdf_links = find_pdf_links(driver)
+            if len(pdf_links) > 0:
+                time.sleep(2)
+                pdf_link_results = fetch_nonsocial(driver, user_agent, pdf_links[0])
+                if pdf_link_results['full_text'] is not None and pdf_link_results['full_text'] != '':
+                    return {
+                        'title': title,
+                        'extension': 'txt',
+                        'full_text': title + '\n' + meta_description + '\n' + body_text + '\n' + pdf_link_results['full_text'],
+                        'bytes': pdf_link_results['bytes']
+                    }
             return {
                 'title': title,
                 'extension': 'txt',
