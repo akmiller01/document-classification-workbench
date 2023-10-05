@@ -21,6 +21,12 @@ model_mapping = [
         'pickle': 'traindata/humanitarian_concepts.pkl',
         'name': 'Humanitarian'
     },
+    {
+        'id': 2,
+        'meta': 'metadata/development_concepts.csv',
+        'pickle': 'traindata/development_concepts.pkl',
+        'name': 'Development Finance'
+    },
 ]
 
 
