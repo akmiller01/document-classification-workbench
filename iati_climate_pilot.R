@@ -10,6 +10,22 @@ load_dot_env()
 api_key = Sys.getenv("API_KEY")
 authentication = add_headers(`Ocp-Apim-Subscription-Key` = api_key)
 
+sector_cl = fread("extra/Sector.csv")[,c("code","name")]
+sector_map = sector_cl$name
+names(sector_map) = sector_cl$code
+decode_sector = function(sector_code_column){
+  res = list()
+  for(i in 1:length(sector_code_column)){
+    sector_codes = sector_code_column[[i]]
+    if(!is.null(sector_codes)){
+      res[[i]] = paste(unique(unname(sector_map[sector_codes])), collapse=" ")
+    }else{
+      res[[i]] = NA
+    }
+  }
+  return(res)
+}
+
 
 data_list = list()
 data_index = 1
@@ -73,10 +89,16 @@ while(len_result > 0){
       docs[i, "climate"] = climate_significant
     }
     if("sector_code" %in% names(docs)){
-      docs$sector_code = paste(docs$sector_code)
+      docs$sector_code =
+          decode_sector(
+            docs$sector_code
+          )
     }
     if("transaction_sector_code" %in% names(docs)){
-      docs$transaction_sector_code = paste(docs$transaction_sector_code)
+      docs$transaction_sector_code = 
+        decode_sector(
+          docs$transaction_sector_code
+        )
     }
     data_list[[data_index]] = docs
     data_index = data_index + 1
