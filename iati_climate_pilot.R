@@ -1,0 +1,93 @@
+list.of.packages <- c("data.table","dotenv", "httr", "dplyr", "jsonlite")
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
+if(length(new.packages)) install.packages(new.packages)
+lapply(list.of.packages, require, character.only=T)
+rm(list.of.packages,new.packages)
+
+setwd("~/git/document-classification-workbench/")
+
+load_dot_env()
+api_key = Sys.getenv("API_KEY")
+authentication = add_headers(`Ocp-Apim-Subscription-Key` = api_key)
+
+
+data_list = list()
+data_index = 1
+
+org_ref = "GB-GOV-1"
+rows = 1000
+len_result = 1
+page_count = 0
+next_cursor_mark = "*"
+while(len_result > 0){
+  page_count = page_count + 1
+  message(page_count)
+  activity_path <- paste0("https://api.iatistandard.org/datastore/activity/select?",
+                          "q=(reporting_org_ref:(\"",
+                          org_ref,
+                          "\"))",
+                          "&fl=iati_identifier,policy_marker_code,policy_marker_significance,title_narrative,description_narrative&",
+                          "wt=json&",
+                          "sort=id asc&",
+                          "rows=",rows,"&",
+                          "cursorMark=", next_cursor_mark
+  )
+
+  activity_request <- GET(url = activity_path, authentication)
+  stopifnot(activity_request$status_code==200)
+  activity_response <- content(activity_request, encoding = "UTF-8", as = "text")
+  activity_json = fromJSON(activity_response)
+  next_cursor_mark = activity_json$nextCursorMark
+  len_result = length(activity_json$response$docs)
+  if(len_result > 0){
+    docs = activity_json$response$docs
+    docs$climate = NA
+    if(!"policy_marker_code" %in% names(docs)){
+      docs$policy_marker_code = c("6", "7")
+      docs$policy_marker_significance = c("0", "0")
+    }
+    for(i in 1:nrow(docs)){
+      doc = docs[i,]
+      codes = doc$policy_marker_code[[1]]
+      if(is.null(codes)){
+        codes = "6"
+      }
+      sigs = doc$policy_marker_significance[[1]]
+      if(is.null(sigs)){
+        sigs = "0"
+      }
+      if(!"6" %in% codes){
+        codes = c(codes, "6")
+        sigs = c(sigs, "0")
+      }
+      if(!"7" %in% codes){
+        codes = c(codes, "7")
+        sigs = c(sigs, "0")
+      }
+      climate_mitigation_index = which(codes=="6")
+      climate_adaptation_index = which(codes=="7")
+      climate_significant = (
+        sigs[climate_mitigation_index] != "0" |
+          sigs[climate_adaptation_index] != "0"
+      ) * 1
+      docs[i, "climate"] = climate_significant
+    }
+    data_list[[data_index]] = docs
+    data_index = data_index + 1
+  }
+  Sys.sleep(2)
+}
+
+activities = rbindlist(data_list, use.names=T)
+activities$id = c(1:nrow(activities))
+for(i in 1:nrow(activities)){
+  activity = activities[i,]
+  activity_text = paste(activity$title_narrative, activity$description_narrative)
+  filename = paste0("./textdata/iati_climate_pilot/", i, ".txt")
+  writeLines(activity_text, filename)
+}
+activities$climate_label = "No adaptation or mitigation as a principle or significant objective"
+activities$climate_label[which(activities$climate == 1)] = "Adaptation or mitigation as a principle or significant objective"
+
+activities = activities[,c("id", "iati_identifier", "climate_label"), with=F]
+fwrite(activities, "./metadata/iati_climate_pilot.csv")
