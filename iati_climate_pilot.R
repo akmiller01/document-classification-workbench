@@ -26,7 +26,7 @@ while(len_result > 0){
                           "q=(reporting_org_ref:(\"",
                           org_ref,
                           "\"))",
-                          "&fl=iati_identifier,policy_marker_code,policy_marker_significance,title_narrative,description_narrative&",
+                          "&fl=iati_identifier,policy_marker_code,policy_marker_significance,title_narrative,description_narrative,sector_code,transaction_sector_code&",
                           "wt=json&",
                           "sort=id asc&",
                           "rows=",rows,"&",
@@ -72,6 +72,12 @@ while(len_result > 0){
       ) * 1
       docs[i, "climate"] = climate_significant
     }
+    if("sector_code" %in% names(docs)){
+      docs$sector_code = paste(docs$sector_code)
+    }
+    if("transaction_sector_code" %in% names(docs)){
+      docs$transaction_sector_code = paste(docs$transaction_sector_code)
+    }
     data_list[[data_index]] = docs
     data_index = data_index + 1
   }
@@ -82,7 +88,12 @@ activities = rbindlist(data_list, use.names=T)
 activities$id = c(1:nrow(activities))
 for(i in 1:nrow(activities)){
   activity = activities[i,]
-  activity_text = paste(activity$title_narrative, activity$description_narrative)
+  activity_text = paste(
+    activity$title_narrative,
+    activity$description_narrative,
+    activity$sector_code,
+    activity$transaction_sector_code
+    )
   filename = paste0("./textdata/iati_climate_pilot/", i, ".txt")
   writeLines(activity_text, filename)
 }
