@@ -91,3 +91,17 @@ activities$climate_label[which(activities$climate == 1)] = "Adaptation or mitiga
 
 activities = activities[,c("id", "iati_identifier", "climate_label"), with=F]
 fwrite(activities, "./metadata/iati_climate_pilot.csv")
+
+no_climate = subset(activities, climate_label == "No adaptation or mitigation as a principle or significant objective")
+climate = subset(activities, climate_label != "No adaptation or mitigation as a principle or significant objective")
+
+set.seed(1337)
+no_climate = no_climate %>% slice_sample(n=nrow(climate))
+activities_balanced = rbind(no_climate, climate)
+fwrite(activities_balanced, "./metadata/iati_climate_pilot_balanced.csv")
+for(id in activities_balanced$id){
+  file.copy(
+    from=paste0("./textdata/iati_climate_pilot/", id, ".txt"),
+    to=paste0("./textdata/iati_climate_pilot_balanced/", id, ".txt")
+    )
+}
