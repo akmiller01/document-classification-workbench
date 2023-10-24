@@ -54,6 +54,12 @@ def main():
             text_data_texts = text_data['text']
             for text in text_data_texts:
                 words = tokenizer.tokenize(text)
+                words = [
+                    w for w in words if 
+                    w not in tokenizer.all_special_tokens and 
+                    '#' not in w and
+                    len(w) > 2
+                ]
                 all_words.update(words)
     all_words = list(all_words)
 
