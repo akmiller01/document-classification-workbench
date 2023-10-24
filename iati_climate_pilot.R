@@ -26,6 +26,28 @@ decode_sector = function(sector_code_column){
   return(res)
 }
 
+is_null_vectorized <- function(x) {
+  return(sapply(x, function(elem) identical(elem, NULL)))
+}
+
+concatenate_narratives <- function(narrative_df) {
+  
+  # Concatenate the columns row-wise
+  concatenated_narratives_str <- apply(narrative_df, 1, function(row) {
+    null_values = is_null_vectorized(row)
+    non_empty_values <- row[!null_values]
+    unique_non_empty = sapply(non_empty_values, unique)
+    concat_non_empty = sapply(unique_non_empty, paste, collapse=" ")
+    if (length(concat_non_empty) > 0) {
+      paste(concat_non_empty, collapse = " ")
+    } else {
+      NA
+    }
+  })
+  
+  return(concatenated_narratives_str)
+}
+
 
 data_list = list()
 data_index = 1
@@ -42,7 +64,7 @@ while(len_result > 0){
                           "q=(reporting_org_ref:(\"",
                           org_ref,
                           "\"))",
-                          "&fl=iati_identifier,policy_marker_code,policy_marker_significance,title_narrative,description_narrative,sector_code,transaction_sector_code&",
+                          "&fl=iati_identifier,policy_marker_code,policy_marker_significance,*_narrative,sector_code,transaction_sector_code&",
                           "wt=json&",
                           "sort=id asc&",
                           "rows=",rows,"&",
@@ -100,6 +122,10 @@ while(len_result > 0){
           docs$transaction_sector_code
         )
     }
+    narrative_cols = names(docs)[which(endsWith(names(docs), "_narrative"))]
+    narrative_df = docs[,narrative_cols]
+    docs[,narrative_cols] = NULL
+    docs$iati_text = concatenate_narratives(narrative_df)
     data_list[[data_index]] = docs
     data_index = data_index + 1
   }
@@ -111,8 +137,7 @@ activities$id = c(1:nrow(activities))
 for(i in 1:nrow(activities)){
   activity = activities[i,]
   activity_text = paste(
-    activity$title_narrative,
-    activity$description_narrative,
+    activity$iati_text,
     activity$sector_code,
     activity$transaction_sector_code
     )
