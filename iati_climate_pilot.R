@@ -123,6 +123,7 @@ while(len_result > 0){
         )
     }
     narrative_cols = names(docs)[which(endsWith(names(docs), "_narrative"))]
+    narrative_cols = narrative_cols[which(!startsWith(narrative_cols, "policy_marker"))]
     narrative_df = docs[,narrative_cols]
     docs[,narrative_cols] = NULL
     docs$iati_text = concatenate_narratives(narrative_df)
