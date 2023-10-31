@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 
 def main():
-    model_dir = 'models/iati_climate_pilot_balanced'
+    model_dir = 'models/iati_climate_pilot_wb_balanced'
 
     # Get a list of all folders in model_dir that start with "checkpoint"
     checkpoint_folders = [folder for folder in os.listdir(model_dir) if folder.startswith("checkpoint")]
@@ -26,7 +26,7 @@ def main():
     model = AutoModelForSequenceClassification.from_pretrained(most_recent_checkpoint)
 
     all_words = set()
-    pickle_path = "traindata/iati_climate_pilot_balanced.pkl"
+    pickle_path = "traindata/iati_climate_pilot_wb_balanced.pkl"
     with open(pickle_path, 'rb') as f:
         id2label, label2id, text_data = pickle.load(f)
         text_data_texts = text_data['text']
@@ -36,7 +36,7 @@ def main():
                 w for w in words if 
                 w not in tokenizer.all_special_tokens and 
                 '#' not in w and
-                len(w) > 2
+                len(w) > 3
             ]
             all_words.update(words)
     all_words = list(all_words)
@@ -52,7 +52,7 @@ def main():
         scores_obj['word'] = word
         word_results.append(scores_obj)
     
-    count = 30
+    count = 20
     for label in label2id:
         sorted_asc = sorted(word_results, key=lambda x: x[label])
         sorted_desc = sorted(word_results, key=lambda x: x[label], reverse=True)

@@ -14,6 +14,10 @@ def binary_logits_max(logits):
     return 1
 
 
+def logits_diff(logits):
+    return max(logits[0]) - min(logits[0])
+
+
 def chunk_by_tokens(tokenizer, input_text, model_max_size):
     chunks = list()
     tokens = tokenizer.encode(input_text)
@@ -67,32 +71,68 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(most_recent_checkpoint)
     model = AutoModelForSequenceClassification.from_pretrained(most_recent_checkpoint)
 
-    data_iati_identifiers = fetch_iati_identifiers(tokenizer, metadata_path="metadata/iati_climate_pilot_balanced.csv")
+    data_iati_identifiers = fetch_iati_identifiers(tokenizer, metadata_path="metadata/iati_climate_pilot_wb_balanced.csv")
 
     label_not_predict_climate = []
     label_climate_predict_not = []
-    pickle_path = "traindata/iati_climate_pilot_balanced.pkl"
+    count_positive = 0
+    count_true_positive = 0
+    count_negative = 0
+    count_true_negative = 0
+    pickle_path = "traindata/iati_climate_pilot_wb_balanced.pkl"
     with open(pickle_path, 'rb') as f:
         id2label, label2id, text_data = pickle.load(f)
 
     for i in tqdm(range(0, len(text_data['text']))):
         text = text_data['text'][i]
         id = text_data['label'][i]
+        if id == 1:
+            count_positive += 1
+        else:
+            count_negative += 1
         inputs = tokenizer(text, return_tensors="pt")
         with torch.no_grad():
             logits = model(**inputs).logits
         predicted_id = binary_logits_max(logits)
+        if id == 1 and predicted_id == 1:
+            count_true_positive += 1
+        if id == 0 and predicted_id == 0:
+            count_true_negative += 1
+        predicted_diff = logits_diff(logits)
         if id == 0 and predicted_id == 1:
             matching_id = data_iati_identifiers[i]
-            label_not_predict_climate.append(matching_id)
+            matching_obj = {'id': matching_id, 'diff': predicted_diff}
+            label_not_predict_climate.append(matching_obj)
         if id == 1 and predicted_id == 0:
             matching_id = data_iati_identifiers[i]
-            label_climate_predict_not.append(matching_id)
+            matching_obj = {'id': matching_id, 'diff': predicted_diff}
+            label_climate_predict_not.append(matching_obj)
+
+    label_not_predict_climate.sort(key=lambda x: x["diff"])
+    label_climate_predict_not.sort(key=lambda x: x["diff"])
+
+    print(
+        "Positive recall rate: {}/{} ({}%)".format(count_true_positive, count_positive,
+            round(
+                (count_true_positive / count_positive) * 100,
+                  1
+                )
+        )
+    )
+
+    print(
+        "Negative recall rate: {}/{} ({}%)".format(count_true_negative, count_negative,
+            round(
+                (count_true_negative / count_negative) * 100,
+                  1
+                )
+        )
+    )
 
     print(
         "Projects labeled not climate that should be: {}".format(
             ", ".join(
-                label_not_predict_climate
+                ["{}: {}".format(x["id"], x["diff"]) for x in label_not_predict_climate]
             )
         )
     )
@@ -100,7 +140,7 @@ def main():
     print(
         "Projects labeled climate that should not be: {}".format(
             ", ".join(
-                label_climate_predict_not
+                ["{}: {}".format(x["id"], x["diff"]) for x in label_climate_predict_not]
             )
         )
     )
