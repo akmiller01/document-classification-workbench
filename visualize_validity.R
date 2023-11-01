@@ -69,18 +69,26 @@ dat = data.frame(
   negative_recall=c(799/828, 5558/5847)
 )
 
-dat$y.min = dat$percent_potentially_invalid - (1 - dat$positive_recall)
-dat$y.max = dat$percent_potentially_invalid + (1 - dat$negative_recall)
+dat$y.min = dat$percent_potentially_invalid - (1 - dat$negative_recall)
+dat$y.min[which(dat$y.min<0)] = 0
+dat$y.max = dat$percent_potentially_invalid + (1 - dat$positive_recall)
 
 # Bar
-ggplot(test_data,aes(x=year,y=value,group=type,fill=type)) +
-  geom_bar(stat="identity") +
+ggplot(dat,aes(
+  x=donor,y=percent_potentially_invalid,group=donor,fill=donor,
+  ymin=y.min,
+  ymax=y.max
+  )) +
+  geom_bar(stat="identity", show.legend=F) +
+  geom_errorbar(linewidth=0.3, width=0.2) +
   scale_fill_manual(values=reds) + # Choose colour here
-  scale_y_continuous(expand = c(0, 0)) + # Force y-grid to start at x-axis
+  scale_y_continuous(expand = c(0, 0), labels=percent) + # Force y-grid to start at x-axis
   di_style +
   rotate_x_text_45 + # Or chose _90 or remove for horizontal
   labs(
-    y="US$ millions",
+    y="Mislabeled climate projects (%)",
     x="",
     fill=""
   )
+
+ggsave("validity_bars.png", width=7, height=4)

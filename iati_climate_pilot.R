@@ -64,7 +64,7 @@ while(len_result > 0){
                           "q=(reporting_org_ref:(\"",
                           org_ref,
                           "\"))",
-                          "&fl=iati_identifier,policy_marker_code,policy_marker_significance,*_narrative,sector_code,transaction_sector_code&",
+                          "&fl=iati_identifier,*_narrative,sector_code,transaction_sector_code&",
                           "wt=json&",
                           "sort=id asc&",
                           "rows=",rows,"&",
@@ -80,35 +80,13 @@ while(len_result > 0){
   if(len_result > 0){
     docs = activity_json$response$docs
     docs$climate = NA
-    if(!"policy_marker_code" %in% names(docs)){
-      docs$policy_marker_code = c("6", "7")
-      docs$policy_marker_significance = c("0", "0")
+    if(!"tag_narrative" %in% names(docs)){
+      docs$tag_narrative = c("")
     }
     for(i in 1:nrow(docs)){
       doc = docs[i,]
-      codes = doc$policy_marker_code[[1]]
-      if(is.null(codes)){
-        codes = "6"
-      }
-      sigs = doc$policy_marker_significance[[1]]
-      if(is.null(sigs)){
-        sigs = "0"
-      }
-      if(!"6" %in% codes){
-        codes = c(codes, "6")
-        sigs = c(sigs, "0")
-      }
-      if(!"7" %in% codes){
-        codes = c(codes, "7")
-        sigs = c(sigs, "0")
-      }
-      climate_mitigation_index = which(codes=="6")
-      climate_adaptation_index = which(codes=="7")
-      climate_significant = (
-        sigs[climate_mitigation_index] != "0" |
-          sigs[climate_adaptation_index] != "0"
-      ) * 1
-      docs[i, "climate"] = climate_significant
+      
+      docs[i, "climate"] = "International Climate Finance" %in% doc$tag_narrative[[1]] * 1
     }
     if("sector_code" %in% names(docs)){
       docs$sector_code =
@@ -124,6 +102,7 @@ while(len_result > 0){
     }
     narrative_cols = names(docs)[which(endsWith(names(docs), "_narrative"))]
     narrative_cols = narrative_cols[which(!startsWith(narrative_cols, "policy_marker"))]
+    narrative_cols = narrative_cols[which(!startsWith(narrative_cols, "tag"))]
     narrative_df = docs[,narrative_cols]
     docs[,narrative_cols] = NULL
     docs$iati_text = concatenate_narratives(narrative_df)
@@ -142,14 +121,14 @@ for(i in 1:nrow(activities)){
     activity$sector_code,
     activity$transaction_sector_code
     )
-  filename = paste0("./textdata/iati_climate_pilot/", i, ".txt")
+  filename = paste0("./textdata/iati_climate_pilot_icf/", i, ".txt")
   writeLines(activity_text, filename)
 }
 activities$climate_label = "No adaptation or mitigation as a principle or significant objective"
 activities$climate_label[which(activities$climate == 1)] = "Adaptation or mitigation as a principle or significant objective"
 
 activities = activities[,c("id", "iati_identifier", "climate_label"), with=F]
-fwrite(activities, "./metadata/iati_climate_pilot.csv")
+fwrite(activities, "./metadata/iati_climate_pilot_icf.csv")
 
 no_climate = subset(activities, climate_label == "No adaptation or mitigation as a principle or significant objective")
 climate = subset(activities, climate_label != "No adaptation or mitigation as a principle or significant objective")
@@ -157,10 +136,10 @@ climate = subset(activities, climate_label != "No adaptation or mitigation as a 
 set.seed(1337)
 no_climate = no_climate %>% slice_sample(n=nrow(climate))
 activities_balanced = rbind(no_climate, climate)
-fwrite(activities_balanced, "./metadata/iati_climate_pilot_balanced.csv")
+fwrite(activities_balanced, "./metadata/iati_climate_pilot_icf_balanced.csv")
 for(id in activities_balanced$id){
   file.copy(
-    from=paste0("./textdata/iati_climate_pilot/", id, ".txt"),
-    to=paste0("./textdata/iati_climate_pilot_balanced/", id, ".txt")
+    from=paste0("./textdata/iati_climate_pilot_icf/", id, ".txt"),
+    to=paste0("./textdata/iati_climate_pilot_icf_balanced/", id, ".txt")
     )
 }

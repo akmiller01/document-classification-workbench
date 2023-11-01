@@ -38,7 +38,9 @@ def main():
                 '#' not in w and
                 len(w) > 3
             ]
+            bigrams = ['{} {}'.format(word1, word2) for word1, word2 in zip(words, words[1:])]
             all_words.update(words)
+            all_words.update(bigrams)
     all_words = list(all_words)
 
     word_results = []
