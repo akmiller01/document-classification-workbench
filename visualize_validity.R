@@ -63,10 +63,10 @@ rotate_x_text_90 = theme(
 
 dat = data.frame(
   donor=c("FCDO","World Bank"),
-  percent_potentially_invalid=c(16/808, 380/1900),
-  accuracy=c(0.927, 0.839),
-  positive_recall=c(962/978, 4870/5210),
-  negative_recall=c(799/828, 5558/5847)
+  percent_potentially_invalid=c(47/1939, 380/1900),
+  accuracy=c(0.931, 0.839),
+  positive_recall=c(2076/2123, 4870/5210),
+  negative_recall=c(1961/2011, 5558/5847)
 )
 
 dat$y.min = dat$percent_potentially_invalid - (1 - dat$negative_recall)
