@@ -64,7 +64,7 @@ while(len_result > 0){
                           "q=(reporting_org_ref:(\"",
                           org_ref,
                           "\"))",
-                          "&fl=iati_identifier,policy_marker_code,policy_marker_significance,*_narrative,sector_code,transaction_sector_code&",
+                          "&fl=iati_identifier,policy_marker_code,policy_marker_significance,*_narrative,sector_code,sector_percentage,transaction_sector_code&",
                           "wt=json&",
                           "sort=id asc&",
                           "rows=",rows,"&",
@@ -84,14 +84,25 @@ while(len_result > 0){
       doc = docs[i,]
       climate_significant = 0
       if("sector_code" %in% names(docs)){
-        if("000081" %in% doc$sector_code[[1]]){
-          climate_significant = 1
-        }
-        if("000811" %in% doc$sector_code[[1]]){
-          climate_significant = 1
-        }
-        if("000812" %in% doc$sector_code[[1]]){
-          climate_significant = 1
+        if("sector_percentage" %in% names(docs)){
+          if("000081" %in% doc$sector_code[[1]]){
+            sector_index = which(doc$sector_code[[1]] == "000081")
+            if(doc$sector_percentage[[1]][sector_index] >= 20){
+              climate_significant = 1
+            }
+          }
+          if("000811" %in% doc$sector_code[[1]]){
+            sector_index = which(doc$sector_code[[1]] == "000811")
+            if(doc$sector_percentage[[1]][sector_index] >= 20){
+              climate_significant = 1
+            }
+          }
+          if("000812" %in% doc$sector_code[[1]]){
+            sector_index = which(doc$sector_code[[1]] == "000812")
+            if(doc$sector_percentage[[1]][sector_index] >= 20){
+              climate_significant = 1
+            }
+          }
         }
       }
       if("transaction_sector_code" %in% names(docs)){
