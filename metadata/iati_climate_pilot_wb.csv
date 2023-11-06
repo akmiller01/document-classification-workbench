@@ -16,7 +16,7 @@ id,iati_identifier,climate_label
 15,44000-P175221,Adaptation or mitigation as a principle or significant objective
 16,44000-P156880,Adaptation or mitigation as a principle or significant objective
 17,44000-P160223,Adaptation or mitigation as a principle or significant objective
-18,44000-P179291,Adaptation or mitigation as a principle or significant objective
+18,44000-P179291,No adaptation or mitigation as a principle or significant objective
 19,44000-P115647,No adaptation or mitigation as a principle or significant objective
 20,44000-P128867,No adaptation or mitigation as a principle or significant objective
 21,44000-P112956,No adaptation or mitigation as a principle or significant objective
@@ -39,7 +39,7 @@ id,iati_identifier,climate_label
 38,44000-P176756,No adaptation or mitigation as a principle or significant objective
 39,44000-P112446,No adaptation or mitigation as a principle or significant objective
 40,44000-P123729,Adaptation or mitigation as a principle or significant objective
-41,44000-P163157,Adaptation or mitigation as a principle or significant objective
+41,44000-P163157,No adaptation or mitigation as a principle or significant objective
 42,44000-P173799,No adaptation or mitigation as a principle or significant objective
 43,44000-P122785,No adaptation or mitigation as a principle or significant objective
 44,44000-P131084,No adaptation or mitigation as a principle or significant objective
@@ -88,7 +88,7 @@ id,iati_identifier,climate_label
 87,44000-P164686,No adaptation or mitigation as a principle or significant objective
 88,44000-P160641,Adaptation or mitigation as a principle or significant objective
 89,44000-P111567,No adaptation or mitigation as a principle or significant objective
-90,44000-P163108,Adaptation or mitigation as a principle or significant objective
+90,44000-P163108,No adaptation or mitigation as a principle or significant objective
 91,44000-P096931,No adaptation or mitigation as a principle or significant objective
 92,44000-P079736,No adaptation or mitigation as a principle or significant objective
 93,44000-P162599,No adaptation or mitigation as a principle or significant objective
@@ -98,7 +98,7 @@ id,iati_identifier,climate_label
 97,44000-P166220,Adaptation or mitigation as a principle or significant objective
 98,44000-P154805,No adaptation or mitigation as a principle or significant objective
 99,44000-P167260,No adaptation or mitigation as a principle or significant objective
-100,44000-P179512,Adaptation or mitigation as a principle or significant objective
+100,44000-P179512,No adaptation or mitigation as a principle or significant objective
 101,44000-P099369,No adaptation or mitigation as a principle or significant objective
 102,44000-P167601,No adaptation or mitigation as a principle or significant objective
 103,44000-P177776,Adaptation or mitigation as a principle or significant objective
@@ -134,7 +134,7 @@ id,iati_identifier,climate_label
 133,44000-P092618,No adaptation or mitigation as a principle or significant objective
 134,44000-P148435,No adaptation or mitigation as a principle or significant objective
 135,44000-P172567,Adaptation or mitigation as a principle or significant objective
-136,44000-P172899,Adaptation or mitigation as a principle or significant objective
+136,44000-P172899,No adaptation or mitigation as a principle or significant objective
 137,44000-P155694,No adaptation or mitigation as a principle or significant objective
 138,44000-P121152,No adaptation or mitigation as a principle or significant objective
 139,44000-P118410,No adaptation or mitigation as a principle or significant objective
@@ -193,7 +193,7 @@ id,iati_identifier,climate_label
 192,44000-P172479,Adaptation or mitigation as a principle or significant objective
 193,44000-P166298,No adaptation or mitigation as a principle or significant objective
 194,44000-P118023,No adaptation or mitigation as a principle or significant objective
-195,44000-P173980,Adaptation or mitigation as a principle or significant objective
+195,44000-P173980,No adaptation or mitigation as a principle or significant objective
 196,44000-P075566,No adaptation or mitigation as a principle or significant objective
 197,44000-P120825,No adaptation or mitigation as a principle or significant objective
 198,44000-P078382,No adaptation or mitigation as a principle or significant objective
@@ -204,7 +204,7 @@ id,iati_identifier,climate_label
 203,44000-P113488,No adaptation or mitigation as a principle or significant objective
 204,44000-P117082,No adaptation or mitigation as a principle or significant objective
 205,44000-P079314,No adaptation or mitigation as a principle or significant objective
-206,44000-P167547,Adaptation or mitigation as a principle or significant objective
+206,44000-P167547,No adaptation or mitigation as a principle or significant objective
 207,44000-P084967,No adaptation or mitigation as a principle or significant objective
 208,44000-P122735,Adaptation or mitigation as a principle or significant objective
 209,44000-P168385,Adaptation or mitigation as a principle or significant objective
@@ -217,7 +217,7 @@ id,iati_identifier,climate_label
 216,44000-P126454,Adaptation or mitigation as a principle or significant objective
 217,44000-P064876,No adaptation or mitigation as a principle or significant objective
 218,44000-P156433,No adaptation or mitigation as a principle or significant objective
-219,44000-P128938,Adaptation or mitigation as a principle or significant objective
+219,44000-P128938,No adaptation or mitigation as a principle or significant objective
 220,44000-P173391,Adaptation or mitigation as a principle or significant objective
 221,44000-P164289,Adaptation or mitigation as a principle or significant objective
 222,44000-P166328,Adaptation or mitigation as a principle or significant objective
@@ -257,7 +257,7 @@ id,iati_identifier,climate_label
 256,44000-P093787,No adaptation or mitigation as a principle or significant objective
 257,44000-P175758,Adaptation or mitigation as a principle or significant objective
 258,44000-P159053,No adaptation or mitigation as a principle or significant objective
-259,44000-P170728,Adaptation or mitigation as a principle or significant objective
+259,44000-P170728,No adaptation or mitigation as a principle or significant objective
 260,44000-P162956,Adaptation or mitigation as a principle or significant objective
 261,44000-P177043,Adaptation or mitigation as a principle or significant objective
 262,44000-P171644,Adaptation or mitigation as a principle or significant objective
@@ -268,7 +268,7 @@ id,iati_identifier,climate_label
 267,44000-P171250,No adaptation or mitigation as a principle or significant objective
 268,44000-P071160,No adaptation or mitigation as a principle or significant objective
 269,44000-P159213,No adaptation or mitigation as a principle or significant objective
-270,44000-P164486,Adaptation or mitigation as a principle or significant objective
+270,44000-P164486,No adaptation or mitigation as a principle or significant objective
 271,44000-P160592,No adaptation or mitigation as a principle or significant objective
 272,44000-P170590,Adaptation or mitigation as a principle or significant objective
 273,44000-P090768,No adaptation or mitigation as a principle or significant objective
@@ -327,7 +327,7 @@ id,iati_identifier,climate_label
 326,44000-P176088,Adaptation or mitigation as a principle or significant objective
 327,44000-P143283,No adaptation or mitigation as a principle or significant objective
 328,44000-P161600,No adaptation or mitigation as a principle or significant objective
-329,44000-P161167,Adaptation or mitigation as a principle or significant objective
+329,44000-P161167,No adaptation or mitigation as a principle or significant objective
 330,44000-P174732,Adaptation or mitigation as a principle or significant objective
 331,44000-P159544,No adaptation or mitigation as a principle or significant objective
 332,44000-P171098,No adaptation or mitigation as a principle or significant objective
@@ -355,7 +355,7 @@ id,iati_identifier,climate_label
 354,44000-P128909,No adaptation or mitigation as a principle or significant objective
 355,44000-P071170,No adaptation or mitigation as a principle or significant objective
 356,44000-P173834,No adaptation or mitigation as a principle or significant objective
-357,44000-P175110,Adaptation or mitigation as a principle or significant objective
+357,44000-P175110,No adaptation or mitigation as a principle or significant objective
 358,44000-P089733,No adaptation or mitigation as a principle or significant objective
 359,44000-P094220,No adaptation or mitigation as a principle or significant objective
 360,44000-P151058,No adaptation or mitigation as a principle or significant objective
@@ -364,7 +364,7 @@ id,iati_identifier,climate_label
 363,44000-P169064,No adaptation or mitigation as a principle or significant objective
 364,44000-P162893,No adaptation or mitigation as a principle or significant objective
 365,44000-P122770,No adaptation or mitigation as a principle or significant objective
-366,44000-P166305,Adaptation or mitigation as a principle or significant objective
+366,44000-P166305,No adaptation or mitigation as a principle or significant objective
 367,44000-P179786,Adaptation or mitigation as a principle or significant objective
 368,44000-P171850,No adaptation or mitigation as a principle or significant objective
 369,44000-P178122,Adaptation or mitigation as a principle or significant objective
@@ -422,14 +422,14 @@ id,iati_identifier,climate_label
 421,44000-P109588,No adaptation or mitigation as a principle or significant objective
 422,44000-P115938,No adaptation or mitigation as a principle or significant objective
 423,44000-P095314,No adaptation or mitigation as a principle or significant objective
-424,44000-P175363,Adaptation or mitigation as a principle or significant objective
+424,44000-P175363,No adaptation or mitigation as a principle or significant objective
 425,44000-P079935,No adaptation or mitigation as a principle or significant objective
 426,44000-P174535,No adaptation or mitigation as a principle or significant objective
 427,44000-P128628,No adaptation or mitigation as a principle or significant objective
 428,44000-P175325,Adaptation or mitigation as a principle or significant objective
-429,44000-P173688,Adaptation or mitigation as a principle or significant objective
+429,44000-P173688,No adaptation or mitigation as a principle or significant objective
 430,44000-P123151,No adaptation or mitigation as a principle or significant objective
-431,44000-P127200,Adaptation or mitigation as a principle or significant objective
+431,44000-P127200,No adaptation or mitigation as a principle or significant objective
 432,44000-P131212,No adaptation or mitigation as a principle or significant objective
 433,44000-P164271,No adaptation or mitigation as a principle or significant objective
 434,44000-P082817,No adaptation or mitigation as a principle or significant objective
@@ -459,7 +459,7 @@ id,iati_identifier,climate_label
 458,44000-P159215,No adaptation or mitigation as a principle or significant objective
 459,44000-P162042,No adaptation or mitigation as a principle or significant objective
 460,44000-P158739,No adaptation or mitigation as a principle or significant objective
-461,44000-P163239,Adaptation or mitigation as a principle or significant objective
+461,44000-P163239,No adaptation or mitigation as a principle or significant objective
 462,44000-P131945,No adaptation or mitigation as a principle or significant objective
 463,44000-P151469,No adaptation or mitigation as a principle or significant objective
 464,44000-P162833,No adaptation or mitigation as a principle or significant objective
@@ -468,7 +468,7 @@ id,iati_identifier,climate_label
 467,44000-P177930,No adaptation or mitigation as a principle or significant objective
 468,44000-P087304,No adaptation or mitigation as a principle or significant objective
 469,44000-P176788,Adaptation or mitigation as a principle or significant objective
-470,44000-P176763,Adaptation or mitigation as a principle or significant objective
+470,44000-P176763,No adaptation or mitigation as a principle or significant objective
 471,44000-P110481,No adaptation or mitigation as a principle or significant objective
 472,44000-P176687,Adaptation or mitigation as a principle or significant objective
 473,44000-P171316,No adaptation or mitigation as a principle or significant objective
@@ -482,7 +482,7 @@ id,iati_identifier,climate_label
 481,44000-P170734,Adaptation or mitigation as a principle or significant objective
 482,44000-P172225,Adaptation or mitigation as a principle or significant objective
 483,44000-P151072,No adaptation or mitigation as a principle or significant objective
-484,44000-P179466,Adaptation or mitigation as a principle or significant objective
+484,44000-P179466,No adaptation or mitigation as a principle or significant objective
 485,44000-P173387,Adaptation or mitigation as a principle or significant objective
 486,44000-P073370,No adaptation or mitigation as a principle or significant objective
 487,44000-P130891,No adaptation or mitigation as a principle or significant objective
@@ -549,7 +549,7 @@ id,iati_identifier,climate_label
 548,44000-P171658,Adaptation or mitigation as a principle or significant objective
 549,44000-P170329,No adaptation or mitigation as a principle or significant objective
 550,44000-P129565,No adaptation or mitigation as a principle or significant objective
-551,44000-P147280,Adaptation or mitigation as a principle or significant objective
+551,44000-P147280,No adaptation or mitigation as a principle or significant objective
 552,44000-P169161,No adaptation or mitigation as a principle or significant objective
 553,44000-P132277,Adaptation or mitigation as a principle or significant objective
 554,44000-P115695,No adaptation or mitigation as a principle or significant objective
@@ -591,7 +591,7 @@ id,iati_identifier,climate_label
 590,44000-P153781,No adaptation or mitigation as a principle or significant objective
 591,44000-P120836,No adaptation or mitigation as a principle or significant objective
 592,44000-P156972,Adaptation or mitigation as a principle or significant objective
-593,44000-P176559,Adaptation or mitigation as a principle or significant objective
+593,44000-P176559,No adaptation or mitigation as a principle or significant objective
 594,44000-P107847,No adaptation or mitigation as a principle or significant objective
 595,44000-P127241,No adaptation or mitigation as a principle or significant objective
 596,44000-P180033,Adaptation or mitigation as a principle or significant objective
@@ -692,21 +692,21 @@ id,iati_identifier,climate_label
 691,44000-P076735,No adaptation or mitigation as a principle or significant objective
 692,44000-P089985,No adaptation or mitigation as a principle or significant objective
 693,44000-P173912,No adaptation or mitigation as a principle or significant objective
-694,44000-P177875,Adaptation or mitigation as a principle or significant objective
+694,44000-P177875,No adaptation or mitigation as a principle or significant objective
 695,44000-P175742,No adaptation or mitigation as a principle or significant objective
 696,44000-P099811,No adaptation or mitigation as a principle or significant objective
-697,44000-P166322,Adaptation or mitigation as a principle or significant objective
+697,44000-P166322,No adaptation or mitigation as a principle or significant objective
 698,44000-P120664,Adaptation or mitigation as a principle or significant objective
 699,44000-P149233,No adaptation or mitigation as a principle or significant objective
 700,44000-P163742,Adaptation or mitigation as a principle or significant objective
-701,44000-P178215,Adaptation or mitigation as a principle or significant objective
+701,44000-P178215,No adaptation or mitigation as a principle or significant objective
 702,44000-P129472,No adaptation or mitigation as a principle or significant objective
 703,44000-P049290,No adaptation or mitigation as a principle or significant objective
 704,44000-P176419,Adaptation or mitigation as a principle or significant objective
 705,44000-P122201,No adaptation or mitigation as a principle or significant objective
 706,44000-P118177,No adaptation or mitigation as a principle or significant objective
 707,44000-P179019,No adaptation or mitigation as a principle or significant objective
-708,44000-P173582,Adaptation or mitigation as a principle or significant objective
+708,44000-P173582,No adaptation or mitigation as a principle or significant objective
 709,44000-P133133,Adaptation or mitigation as a principle or significant objective
 710,44000-P147486,No adaptation or mitigation as a principle or significant objective
 711,44000-P155732,No adaptation or mitigation as a principle or significant objective
@@ -746,7 +746,7 @@ id,iati_identifier,climate_label
 745,44000-P162178,Adaptation or mitigation as a principle or significant objective
 746,44000-P176781,No adaptation or mitigation as a principle or significant objective
 747,44000-P164885,Adaptation or mitigation as a principle or significant objective
-748,44000-P160359,Adaptation or mitigation as a principle or significant objective
+748,44000-P160359,No adaptation or mitigation as a principle or significant objective
 749,44000-P175490,No adaptation or mitigation as a principle or significant objective
 750,44000-P159427,No adaptation or mitigation as a principle or significant objective
 751,44000-P177876,Adaptation or mitigation as a principle or significant objective
@@ -768,7 +768,7 @@ id,iati_identifier,climate_label
 767,44000-P173866,Adaptation or mitigation as a principle or significant objective
 768,44000-P169927,No adaptation or mitigation as a principle or significant objective
 769,44000-P116748,No adaptation or mitigation as a principle or significant objective
-770,44000-P145054,Adaptation or mitigation as a principle or significant objective
+770,44000-P145054,No adaptation or mitigation as a principle or significant objective
 771,44000-P120895,No adaptation or mitigation as a principle or significant objective
 772,44000-P178320,No adaptation or mitigation as a principle or significant objective
 773,44000-P176965,No adaptation or mitigation as a principle or significant objective
@@ -793,7 +793,7 @@ id,iati_identifier,climate_label
 792,44000-P111155,No adaptation or mitigation as a principle or significant objective
 793,44000-P160619,Adaptation or mitigation as a principle or significant objective
 794,44000-P127080,No adaptation or mitigation as a principle or significant objective
-795,44000-P169274,Adaptation or mitigation as a principle or significant objective
+795,44000-P169274,No adaptation or mitigation as a principle or significant objective
 796,44000-P154669,Adaptation or mitigation as a principle or significant objective
 797,44000-P165114,Adaptation or mitigation as a principle or significant objective
 798,44000-P167543,No adaptation or mitigation as a principle or significant objective
@@ -805,7 +805,7 @@ id,iati_identifier,climate_label
 804,44000-P156125,Adaptation or mitigation as a principle or significant objective
 805,44000-P107845,No adaptation or mitigation as a principle or significant objective
 806,44000-P157599,Adaptation or mitigation as a principle or significant objective
-807,44000-P149610,Adaptation or mitigation as a principle or significant objective
+807,44000-P149610,No adaptation or mitigation as a principle or significant objective
 808,44000-P111840,No adaptation or mitigation as a principle or significant objective
 809,44000-P126964,No adaptation or mitigation as a principle or significant objective
 810,44000-P177240,Adaptation or mitigation as a principle or significant objective
@@ -848,7 +848,7 @@ id,iati_identifier,climate_label
 847,44000-P170868,Adaptation or mitigation as a principle or significant objective
 848,44000-P095873,No adaptation or mitigation as a principle or significant objective
 849,44000-P128013,No adaptation or mitigation as a principle or significant objective
-850,44000-P165873,Adaptation or mitigation as a principle or significant objective
+850,44000-P165873,No adaptation or mitigation as a principle or significant objective
 851,44000-P175342,No adaptation or mitigation as a principle or significant objective
 852,44000-P127245,No adaptation or mitigation as a principle or significant objective
 853,44000-P070063,No adaptation or mitigation as a principle or significant objective
@@ -907,7 +907,7 @@ id,iati_identifier,climate_label
 906,44000-P157117,No adaptation or mitigation as a principle or significant objective
 907,44000-P153473,Adaptation or mitigation as a principle or significant objective
 908,44000-P168308,Adaptation or mitigation as a principle or significant objective
-909,44000-P172439,Adaptation or mitigation as a principle or significant objective
+909,44000-P172439,No adaptation or mitigation as a principle or significant objective
 910,44000-P160230,No adaptation or mitigation as a principle or significant objective
 911,44000-P160250,No adaptation or mitigation as a principle or significant objective
 912,44000-P108368,No adaptation or mitigation as a principle or significant objective
@@ -915,7 +915,7 @@ id,iati_identifier,climate_label
 914,44000-P147050,No adaptation or mitigation as a principle or significant objective
 915,44000-P173743,Adaptation or mitigation as a principle or significant objective
 916,44000-P161283,No adaptation or mitigation as a principle or significant objective
-917,44000-P162901,Adaptation or mitigation as a principle or significant objective
+917,44000-P162901,No adaptation or mitigation as a principle or significant objective
 918,44000-P133591,No adaptation or mitigation as a principle or significant objective
 919,44000-P176982,Adaptation or mitigation as a principle or significant objective
 920,44000-P116410,No adaptation or mitigation as a principle or significant objective
@@ -938,7 +938,7 @@ id,iati_identifier,climate_label
 937,44000-P162069,No adaptation or mitigation as a principle or significant objective
 938,44000-P172657,No adaptation or mitigation as a principle or significant objective
 939,44000-P171613,Adaptation or mitigation as a principle or significant objective
-940,44000-P159974,Adaptation or mitigation as a principle or significant objective
+940,44000-P159974,No adaptation or mitigation as a principle or significant objective
 941,44000-P144726,No adaptation or mitigation as a principle or significant objective
 942,44000-P100740,No adaptation or mitigation as a principle or significant objective
 943,44000-P151816,No adaptation or mitigation as a principle or significant objective
@@ -960,7 +960,7 @@ id,iati_identifier,climate_label
 959,44000-P154389,No adaptation or mitigation as a principle or significant objective
 960,44000-P167946,Adaptation or mitigation as a principle or significant objective
 961,44000-P096207,No adaptation or mitigation as a principle or significant objective
-962,44000-P180755,Adaptation or mitigation as a principle or significant objective
+962,44000-P180755,No adaptation or mitigation as a principle or significant objective
 963,44000-P177786,Adaptation or mitigation as a principle or significant objective
 964,44000-P146318,No adaptation or mitigation as a principle or significant objective
 965,44000-P167359,Adaptation or mitigation as a principle or significant objective
@@ -979,11 +979,11 @@ id,iati_identifier,climate_label
 978,44000-P104848,No adaptation or mitigation as a principle or significant objective
 979,44000-P174178,No adaptation or mitigation as a principle or significant objective
 980,44000-P150696,No adaptation or mitigation as a principle or significant objective
-981,44000-P129769,Adaptation or mitigation as a principle or significant objective
+981,44000-P129769,No adaptation or mitigation as a principle or significant objective
 982,44000-P084035,No adaptation or mitigation as a principle or significant objective
 983,44000-P149091,No adaptation or mitigation as a principle or significant objective
 984,44000-P133424,No adaptation or mitigation as a principle or significant objective
-985,44000-P171311,Adaptation or mitigation as a principle or significant objective
+985,44000-P171311,No adaptation or mitigation as a principle or significant objective
 986,44000-P132824,No adaptation or mitigation as a principle or significant objective
 987,44000-P167534,No adaptation or mitigation as a principle or significant objective
 988,44000-P175043,Adaptation or mitigation as a principle or significant objective
@@ -1001,12 +1001,12 @@ id,iati_identifier,climate_label
 1000,44000-P166042,No adaptation or mitigation as a principle or significant objective
 1001,44000-P105024,No adaptation or mitigation as a principle or significant objective
 1002,44000-P100785,No adaptation or mitigation as a principle or significant objective
-1003,44000-P171976,Adaptation or mitigation as a principle or significant objective
+1003,44000-P171976,No adaptation or mitigation as a principle or significant objective
 1004,44000-P177825,Adaptation or mitigation as a principle or significant objective
 1005,44000-P162095,No adaptation or mitigation as a principle or significant objective
 1006,44000-P168564,No adaptation or mitigation as a principle or significant objective
 1007,44000-P147827,No adaptation or mitigation as a principle or significant objective
-1008,44000-P175783,Adaptation or mitigation as a principle or significant objective
+1008,44000-P175783,No adaptation or mitigation as a principle or significant objective
 1009,44000-P108143,No adaptation or mitigation as a principle or significant objective
 1010,44000-P082520,No adaptation or mitigation as a principle or significant objective
 1011,44000-P110407,No adaptation or mitigation as a principle or significant objective
@@ -1059,7 +1059,7 @@ id,iati_identifier,climate_label
 1058,44000-P177932,Adaptation or mitigation as a principle or significant objective
 1059,44000-P040712,No adaptation or mitigation as a principle or significant objective
 1060,44000-P149485,No adaptation or mitigation as a principle or significant objective
-1061,44000-P176902,Adaptation or mitigation as a principle or significant objective
+1061,44000-P176902,No adaptation or mitigation as a principle or significant objective
 1062,44000-P173911,No adaptation or mitigation as a principle or significant objective
 1063,44000-P163673,No adaptation or mitigation as a principle or significant objective
 1064,44000-P157801,Adaptation or mitigation as a principle or significant objective
@@ -1068,7 +1068,7 @@ id,iati_identifier,climate_label
 1067,44000-P166072,Adaptation or mitigation as a principle or significant objective
 1068,44000-P090993,No adaptation or mitigation as a principle or significant objective
 1069,44000-P145617,No adaptation or mitigation as a principle or significant objective
-1070,44000-P172834,Adaptation or mitigation as a principle or significant objective
+1070,44000-P172834,No adaptation or mitigation as a principle or significant objective
 1071,44000-P126325,No adaptation or mitigation as a principle or significant objective
 1072,44000-P168335,No adaptation or mitigation as a principle or significant objective
 1073,44000-P113028,No adaptation or mitigation as a principle or significant objective
@@ -1079,7 +1079,7 @@ id,iati_identifier,climate_label
 1078,44000-P179112,Adaptation or mitigation as a principle or significant objective
 1079,44000-P110538,No adaptation or mitigation as a principle or significant objective
 1080,44000-P124615,No adaptation or mitigation as a principle or significant objective
-1081,44000-P177814,Adaptation or mitigation as a principle or significant objective
+1081,44000-P177814,No adaptation or mitigation as a principle or significant objective
 1082,44000-P127955,No adaptation or mitigation as a principle or significant objective
 1083,44000-P144270,No adaptation or mitigation as a principle or significant objective
 1084,44000-P113350,No adaptation or mitigation as a principle or significant objective
@@ -1089,7 +1089,7 @@ id,iati_identifier,climate_label
 1088,44000-P174032,No adaptation or mitigation as a principle or significant objective
 1089,44000-P172422,No adaptation or mitigation as a principle or significant objective
 1090,44000-P106284,No adaptation or mitigation as a principle or significant objective
-1091,44000-P175298,Adaptation or mitigation as a principle or significant objective
+1091,44000-P175298,No adaptation or mitigation as a principle or significant objective
 1092,44000-P128434,Adaptation or mitigation as a principle or significant objective
 1093,44000-P167598,No adaptation or mitigation as a principle or significant objective
 1094,44000-P133261,No adaptation or mitigation as a principle or significant objective
@@ -1114,7 +1114,7 @@ id,iati_identifier,climate_label
 1113,44000-P157507,No adaptation or mitigation as a principle or significant objective
 1114,44000-P110446,No adaptation or mitigation as a principle or significant objective
 1115,44000-P083609,No adaptation or mitigation as a principle or significant objective
-1116,44000-P166941,Adaptation or mitigation as a principle or significant objective
+1116,44000-P166941,No adaptation or mitigation as a principle or significant objective
 1117,44000-P175731,No adaptation or mitigation as a principle or significant objective
 1118,44000-P082223,No adaptation or mitigation as a principle or significant objective
 1119,44000-P099224,Adaptation or mitigation as a principle or significant objective
@@ -1239,10 +1239,10 @@ id,iati_identifier,climate_label
 1238,44000-P076185,No adaptation or mitigation as a principle or significant objective
 1239,44000-P165660,Adaptation or mitigation as a principle or significant objective
 1240,44000-P098146,No adaptation or mitigation as a principle or significant objective
-1241,44000-P074288,Adaptation or mitigation as a principle or significant objective
+1241,44000-P074288,No adaptation or mitigation as a principle or significant objective
 1242,44000-P125961,No adaptation or mitigation as a principle or significant objective
 1243,44000-P143036,No adaptation or mitigation as a principle or significant objective
-1244,44000-P174798,Adaptation or mitigation as a principle or significant objective
+1244,44000-P174798,No adaptation or mitigation as a principle or significant objective
 1245,44000-P179095,No adaptation or mitigation as a principle or significant objective
 1246,44000-P132768,No adaptation or mitigation as a principle or significant objective
 1247,44000-P163870,Adaptation or mitigation as a principle or significant objective
@@ -1310,7 +1310,7 @@ id,iati_identifier,climate_label
 1309,44000-P075207,No adaptation or mitigation as a principle or significant objective
 1310,44000-P173018,No adaptation or mitigation as a principle or significant objective
 1311,44000-P160672,Adaptation or mitigation as a principle or significant objective
-1312,44000-P148294,Adaptation or mitigation as a principle or significant objective
+1312,44000-P148294,No adaptation or mitigation as a principle or significant objective
 1313,44000-P167890,No adaptation or mitigation as a principle or significant objective
 1314,44000-P173832,No adaptation or mitigation as a principle or significant objective
 1315,44000-P106390,No adaptation or mitigation as a principle or significant objective
@@ -1318,15 +1318,15 @@ id,iati_identifier,climate_label
 1317,44000-P149913,No adaptation or mitigation as a principle or significant objective
 1318,44000-P149953,Adaptation or mitigation as a principle or significant objective
 1319,44000-P112578,Adaptation or mitigation as a principle or significant objective
-1320,44000-P156590,Adaptation or mitigation as a principle or significant objective
+1320,44000-P156590,No adaptation or mitigation as a principle or significant objective
 1321,44000-P049724,No adaptation or mitigation as a principle or significant objective
 1322,44000-P178835,No adaptation or mitigation as a principle or significant objective
 1323,44000-P086411,No adaptation or mitigation as a principle or significant objective
 1324,44000-P151447,No adaptation or mitigation as a principle or significant objective
 1325,44000-P168061,Adaptation or mitigation as a principle or significant objective
 1326,44000-P172024,No adaptation or mitigation as a principle or significant objective
-1327,44000-P175588,Adaptation or mitigation as a principle or significant objective
-1328,44000-P075730,Adaptation or mitigation as a principle or significant objective
+1327,44000-P175588,No adaptation or mitigation as a principle or significant objective
+1328,44000-P075730,No adaptation or mitigation as a principle or significant objective
 1329,44000-P176981,No adaptation or mitigation as a principle or significant objective
 1330,44000-P113415,No adaptation or mitigation as a principle or significant objective
 1331,44000-P147367,No adaptation or mitigation as a principle or significant objective
@@ -1354,7 +1354,7 @@ id,iati_identifier,climate_label
 1353,44000-P177062,Adaptation or mitigation as a principle or significant objective
 1354,44000-P093096,No adaptation or mitigation as a principle or significant objective
 1355,44000-P170682,Adaptation or mitigation as a principle or significant objective
-1356,44000-P122065,Adaptation or mitigation as a principle or significant objective
+1356,44000-P122065,No adaptation or mitigation as a principle or significant objective
 1357,44000-P091747,No adaptation or mitigation as a principle or significant objective
 1358,44000-P152821,No adaptation or mitigation as a principle or significant objective
 1359,44000-P120843,No adaptation or mitigation as a principle or significant objective
@@ -1427,9 +1427,9 @@ id,iati_identifier,climate_label
 1426,44000-P172806,Adaptation or mitigation as a principle or significant objective
 1427,44000-P168097,Adaptation or mitigation as a principle or significant objective
 1428,44000-P169315,No adaptation or mitigation as a principle or significant objective
-1429,44000-P146194,Adaptation or mitigation as a principle or significant objective
+1429,44000-P146194,No adaptation or mitigation as a principle or significant objective
 1430,44000-P082295,No adaptation or mitigation as a principle or significant objective
-1431,44000-P126487,Adaptation or mitigation as a principle or significant objective
+1431,44000-P126487,No adaptation or mitigation as a principle or significant objective
 1432,44000-P149743,No adaptation or mitigation as a principle or significant objective
 1433,44000-P173766,No adaptation or mitigation as a principle or significant objective
 1434,44000-P174144,No adaptation or mitigation as a principle or significant objective
@@ -1475,12 +1475,12 @@ id,iati_identifier,climate_label
 1474,44000-P175676,No adaptation or mitigation as a principle or significant objective
 1475,44000-P082672,No adaptation or mitigation as a principle or significant objective
 1476,44000-P174414,Adaptation or mitigation as a principle or significant objective
-1477,44000-P177712,Adaptation or mitigation as a principle or significant objective
+1477,44000-P177712,No adaptation or mitigation as a principle or significant objective
 1478,44000-P102284,No adaptation or mitigation as a principle or significant objective
 1479,44000-P151794,No adaptation or mitigation as a principle or significant objective
 1480,44000-P102117,No adaptation or mitigation as a principle or significant objective
 1481,44000-P168577,No adaptation or mitigation as a principle or significant objective
-1482,44000-P159692,Adaptation or mitigation as a principle or significant objective
+1482,44000-P159692,No adaptation or mitigation as a principle or significant objective
 1483,44000-P179867,Adaptation or mitigation as a principle or significant objective
 1484,44000-P126735,No adaptation or mitigation as a principle or significant objective
 1485,44000-P129597,No adaptation or mitigation as a principle or significant objective
@@ -1505,7 +1505,7 @@ id,iati_identifier,climate_label
 1504,44000-P162246,No adaptation or mitigation as a principle or significant objective
 1505,44000-P122776,No adaptation or mitigation as a principle or significant objective
 1506,44000-P170113,Adaptation or mitigation as a principle or significant objective
-1507,44000-P172796,Adaptation or mitigation as a principle or significant objective
+1507,44000-P172796,No adaptation or mitigation as a principle or significant objective
 1508,44000-P149176,No adaptation or mitigation as a principle or significant objective
 1509,44000-P148238,No adaptation or mitigation as a principle or significant objective
 1510,44000-P113766,Adaptation or mitigation as a principle or significant objective
@@ -1533,7 +1533,7 @@ id,iati_identifier,climate_label
 1532,44000-P092724,No adaptation or mitigation as a principle or significant objective
 1533,44000-P128904,No adaptation or mitigation as a principle or significant objective
 1534,44000-P040653,No adaptation or mitigation as a principle or significant objective
-1535,44000-P174684,Adaptation or mitigation as a principle or significant objective
+1535,44000-P174684,No adaptation or mitigation as a principle or significant objective
 1536,44000-P174170,Adaptation or mitigation as a principle or significant objective
 1537,44000-P153064,No adaptation or mitigation as a principle or significant objective
 1538,44000-P154219,No adaptation or mitigation as a principle or significant objective
@@ -1638,7 +1638,7 @@ id,iati_identifier,climate_label
 1637,44000-P151760,No adaptation or mitigation as a principle or significant objective
 1638,44000-P151835,No adaptation or mitigation as a principle or significant objective
 1639,44000-P071443,No adaptation or mitigation as a principle or significant objective
-1640,44000-P107314,Adaptation or mitigation as a principle or significant objective
+1640,44000-P107314,No adaptation or mitigation as a principle or significant objective
 1641,44000-P178132,Adaptation or mitigation as a principle or significant objective
 1642,44000-P152394,No adaptation or mitigation as a principle or significant objective
 1643,44000-P173988,No adaptation or mitigation as a principle or significant objective
@@ -1660,7 +1660,7 @@ id,iati_identifier,climate_label
 1659,44000-P148797,No adaptation or mitigation as a principle or significant objective
 1660,44000-P157233,No adaptation or mitigation as a principle or significant objective
 1661,44000-P127209,No adaptation or mitigation as a principle or significant objective
-1662,44000-P165453,Adaptation or mitigation as a principle or significant objective
+1662,44000-P165453,No adaptation or mitigation as a principle or significant objective
 1663,44000-P123399,No adaptation or mitigation as a principle or significant objective
 1664,44000-P106603,No adaptation or mitigation as a principle or significant objective
 1665,44000-P173812,No adaptation or mitigation as a principle or significant objective
@@ -1668,7 +1668,7 @@ id,iati_identifier,climate_label
 1667,44000-P176786,Adaptation or mitigation as a principle or significant objective
 1668,44000-P147278,No adaptation or mitigation as a principle or significant objective
 1669,44000-P154112,No adaptation or mitigation as a principle or significant objective
-1670,44000-P164543,Adaptation or mitigation as a principle or significant objective
+1670,44000-P164543,No adaptation or mitigation as a principle or significant objective
 1671,44000-P111556,No adaptation or mitigation as a principle or significant objective
 1672,44000-P120541,No adaptation or mitigation as a principle or significant objective
 1673,44000-P079734,No adaptation or mitigation as a principle or significant objective
@@ -1708,7 +1708,7 @@ id,iati_identifier,climate_label
 1707,44000-P177779,Adaptation or mitigation as a principle or significant objective
 1708,44000-P149858,No adaptation or mitigation as a principle or significant objective
 1709,44000-P129431,No adaptation or mitigation as a principle or significant objective
-1710,44000-P162278,Adaptation or mitigation as a principle or significant objective
+1710,44000-P162278,No adaptation or mitigation as a principle or significant objective
 1711,44000-P158124,Adaptation or mitigation as a principle or significant objective
 1712,44000-P108178,No adaptation or mitigation as a principle or significant objective
 1713,44000-P161067,No adaptation or mitigation as a principle or significant objective
@@ -1743,7 +1743,7 @@ id,iati_identifier,climate_label
 1742,44000-P106851,No adaptation or mitigation as a principle or significant objective
 1743,44000-P158079,Adaptation or mitigation as a principle or significant objective
 1744,44000-P165870,Adaptation or mitigation as a principle or significant objective
-1745,44000-P178992,Adaptation or mitigation as a principle or significant objective
+1745,44000-P178992,No adaptation or mitigation as a principle or significant objective
 1746,44000-P175884,No adaptation or mitigation as a principle or significant objective
 1747,44000-P101684,No adaptation or mitigation as a principle or significant objective
 1748,44000-P114107,No adaptation or mitigation as a principle or significant objective
@@ -1769,13 +1769,13 @@ id,iati_identifier,climate_label
 1768,44000-P177768,No adaptation or mitigation as a principle or significant objective
 1769,44000-P176129,Adaptation or mitigation as a principle or significant objective
 1770,44000-P173851,No adaptation or mitigation as a principle or significant objective
-1771,44000-P159220,Adaptation or mitigation as a principle or significant objective
+1771,44000-P159220,No adaptation or mitigation as a principle or significant objective
 1772,44000-P145335,No adaptation or mitigation as a principle or significant objective
 1773,44000-P178715,Adaptation or mitigation as a principle or significant objective
 1774,44000-P163922,Adaptation or mitigation as a principle or significant objective
 1775,44000-P161432,Adaptation or mitigation as a principle or significant objective
 1776,44000-P088926,No adaptation or mitigation as a principle or significant objective
-1777,44000-P174911,Adaptation or mitigation as a principle or significant objective
+1777,44000-P174911,No adaptation or mitigation as a principle or significant objective
 1778,44000-P079027,No adaptation or mitigation as a principle or significant objective
 1779,44000-P174110,No adaptation or mitigation as a principle or significant objective
 1780,44000-P162565,No adaptation or mitigation as a principle or significant objective
@@ -1845,7 +1845,7 @@ id,iati_identifier,climate_label
 1844,44000-P108023,Adaptation or mitigation as a principle or significant objective
 1845,44000-P129539,No adaptation or mitigation as a principle or significant objective
 1846,44000-P095250,No adaptation or mitigation as a principle or significant objective
-1847,44000-P180849,Adaptation or mitigation as a principle or significant objective
+1847,44000-P180849,No adaptation or mitigation as a principle or significant objective
 1848,44000-P086518,No adaptation or mitigation as a principle or significant objective
 1849,44000-P149005,No adaptation or mitigation as a principle or significant objective
 1850,44000-P074020,No adaptation or mitigation as a principle or significant objective
@@ -1923,7 +1923,7 @@ id,iati_identifier,climate_label
 1922,44000-P110051,No adaptation or mitigation as a principle or significant objective
 1923,44000-P150751,Adaptation or mitigation as a principle or significant objective
 1924,44000-P144892,No adaptation or mitigation as a principle or significant objective
-1925,44000-P114138,Adaptation or mitigation as a principle or significant objective
+1925,44000-P114138,No adaptation or mitigation as a principle or significant objective
 1926,44000-P106445,No adaptation or mitigation as a principle or significant objective
 1927,44000-P147499,No adaptation or mitigation as a principle or significant objective
 1928,44000-P176631,No adaptation or mitigation as a principle or significant objective
@@ -1952,7 +1952,7 @@ id,iati_identifier,climate_label
 1951,44000-P149599,Adaptation or mitigation as a principle or significant objective
 1952,44000-P065898,No adaptation or mitigation as a principle or significant objective
 1953,44000-P104265,No adaptation or mitigation as a principle or significant objective
-1954,44000-P107612,Adaptation or mitigation as a principle or significant objective
+1954,44000-P107612,No adaptation or mitigation as a principle or significant objective
 1955,44000-P165000,No adaptation or mitigation as a principle or significant objective
 1956,44000-P156867,No adaptation or mitigation as a principle or significant objective
 1957,44000-P099047,No adaptation or mitigation as a principle or significant objective
@@ -1987,11 +1987,11 @@ id,iati_identifier,climate_label
 1986,44000-P150929,No adaptation or mitigation as a principle or significant objective
 1987,44000-P166785,Adaptation or mitigation as a principle or significant objective
 1988,44000-P167247,No adaptation or mitigation as a principle or significant objective
-1989,44000-P178658,Adaptation or mitigation as a principle or significant objective
+1989,44000-P178658,No adaptation or mitigation as a principle or significant objective
 1990,44000-P110599,No adaptation or mitigation as a principle or significant objective
 1991,44000-P148291,No adaptation or mitigation as a principle or significant objective
 1992,44000-P164747,Adaptation or mitigation as a principle or significant objective
-1993,44000-P166570,Adaptation or mitigation as a principle or significant objective
+1993,44000-P166570,No adaptation or mitigation as a principle or significant objective
 1994,44000-P154702,No adaptation or mitigation as a principle or significant objective
 1995,44000-P157127,Adaptation or mitigation as a principle or significant objective
 1996,44000-P082239,No adaptation or mitigation as a principle or significant objective
@@ -2085,10 +2085,10 @@ id,iati_identifier,climate_label
 2084,44000-P163143,No adaptation or mitigation as a principle or significant objective
 2085,44000-P166744,Adaptation or mitigation as a principle or significant objective
 2086,44000-P173125,Adaptation or mitigation as a principle or significant objective
-2087,44000-P168566,Adaptation or mitigation as a principle or significant objective
+2087,44000-P168566,No adaptation or mitigation as a principle or significant objective
 2088,44000-P176208,Adaptation or mitigation as a principle or significant objective
 2089,44000-P145268,No adaptation or mitigation as a principle or significant objective
-2090,44000-P121590,Adaptation or mitigation as a principle or significant objective
+2090,44000-P121590,No adaptation or mitigation as a principle or significant objective
 2091,44000-P101750,No adaptation or mitigation as a principle or significant objective
 2092,44000-P179595,No adaptation or mitigation as a principle or significant objective
 2093,44000-P105075,No adaptation or mitigation as a principle or significant objective
@@ -2128,7 +2128,7 @@ id,iati_identifier,climate_label
 2127,44000-P164331,Adaptation or mitigation as a principle or significant objective
 2128,44000-P122694,No adaptation or mitigation as a principle or significant objective
 2129,44000-P125405,No adaptation or mitigation as a principle or significant objective
-2130,44000-P179242,Adaptation or mitigation as a principle or significant objective
+2130,44000-P179242,No adaptation or mitigation as a principle or significant objective
 2131,44000-P095515,No adaptation or mitigation as a principle or significant objective
 2132,44000-P152440,No adaptation or mitigation as a principle or significant objective
 2133,44000-P123093,No adaptation or mitigation as a principle or significant objective
@@ -2157,8 +2157,8 @@ id,iati_identifier,climate_label
 2156,44000-P124848,No adaptation or mitigation as a principle or significant objective
 2157,44000-P144534,No adaptation or mitigation as a principle or significant objective
 2158,44000-P072644,No adaptation or mitigation as a principle or significant objective
-2159,44000-P167328,Adaptation or mitigation as a principle or significant objective
-2160,44000-P167156,Adaptation or mitigation as a principle or significant objective
+2159,44000-P167328,No adaptation or mitigation as a principle or significant objective
+2160,44000-P167156,No adaptation or mitigation as a principle or significant objective
 2161,44000-P174594,No adaptation or mitigation as a principle or significant objective
 2162,44000-P156963,No adaptation or mitigation as a principle or significant objective
 2163,44000-P169949,Adaptation or mitigation as a principle or significant objective
@@ -2274,7 +2274,7 @@ id,iati_identifier,climate_label
 2273,44000-P128072,No adaptation or mitigation as a principle or significant objective
 2274,44000-P146334,No adaptation or mitigation as a principle or significant objective
 2275,44000-P085727,No adaptation or mitigation as a principle or significant objective
-2276,44000-P167588,Adaptation or mitigation as a principle or significant objective
+2276,44000-P167588,No adaptation or mitigation as a principle or significant objective
 2277,44000-P148181,No adaptation or mitigation as a principle or significant objective
 2278,44000-P118152,No adaptation or mitigation as a principle or significant objective
 2279,44000-P161246,Adaptation or mitigation as a principle or significant objective
@@ -2284,7 +2284,7 @@ id,iati_identifier,climate_label
 2283,44000-P159515,No adaptation or mitigation as a principle or significant objective
 2284,44000-P145610,No adaptation or mitigation as a principle or significant objective
 2285,44000-P125565,No adaptation or mitigation as a principle or significant objective
-2286,44000-P153892,Adaptation or mitigation as a principle or significant objective
+2286,44000-P153892,No adaptation or mitigation as a principle or significant objective
 2287,44000-P159437,No adaptation or mitigation as a principle or significant objective
 2288,44000-P073886,No adaptation or mitigation as a principle or significant objective
 2289,44000-P091077,No adaptation or mitigation as a principle or significant objective
@@ -2360,15 +2360,15 @@ id,iati_identifier,climate_label
 2359,44000-P178973,No adaptation or mitigation as a principle or significant objective
 2360,44000-P124978,Adaptation or mitigation as a principle or significant objective
 2361,44000-P157489,No adaptation or mitigation as a principle or significant objective
-2362,44000-P174346,Adaptation or mitigation as a principle or significant objective
+2362,44000-P174346,No adaptation or mitigation as a principle or significant objective
 2363,44000-P159737,No adaptation or mitigation as a principle or significant objective
 2364,44000-P123505,Adaptation or mitigation as a principle or significant objective
 2365,44000-P160708,Adaptation or mitigation as a principle or significant objective
 2366,44000-P098889,No adaptation or mitigation as a principle or significant objective
 2367,44000-P171587,No adaptation or mitigation as a principle or significant objective
 2368,44000-P173838,No adaptation or mitigation as a principle or significant objective
-2369,44000-P159292,Adaptation or mitigation as a principle or significant objective
-2370,44000-P118737,Adaptation or mitigation as a principle or significant objective
+2369,44000-P159292,No adaptation or mitigation as a principle or significant objective
+2370,44000-P118737,No adaptation or mitigation as a principle or significant objective
 2371,44000-P126324,No adaptation or mitigation as a principle or significant objective
 2372,44000-P083235,No adaptation or mitigation as a principle or significant objective
 2373,44000-P144135,Adaptation or mitigation as a principle or significant objective
@@ -2416,7 +2416,7 @@ id,iati_identifier,climate_label
 2415,44000-P108583,No adaptation or mitigation as a principle or significant objective
 2416,44000-P159697,No adaptation or mitigation as a principle or significant objective
 2417,44000-P150999,No adaptation or mitigation as a principle or significant objective
-2418,44000-P173823,Adaptation or mitigation as a principle or significant objective
+2418,44000-P173823,No adaptation or mitigation as a principle or significant objective
 2419,44000-P174260,No adaptation or mitigation as a principle or significant objective
 2420,44000-P128516,No adaptation or mitigation as a principle or significant objective
 2421,44000-P179240,Adaptation or mitigation as a principle or significant objective
@@ -2432,9 +2432,9 @@ id,iati_identifier,climate_label
 2431,44000-P064918,No adaptation or mitigation as a principle or significant objective
 2432,44000-P178567,No adaptation or mitigation as a principle or significant objective
 2433,44000-P169403,Adaptation or mitigation as a principle or significant objective
-2434,44000-P049395,Adaptation or mitigation as a principle or significant objective
+2434,44000-P049395,No adaptation or mitigation as a principle or significant objective
 2435,44000-P122998,No adaptation or mitigation as a principle or significant objective
-2436,44000-P160505,Adaptation or mitigation as a principle or significant objective
+2436,44000-P160505,No adaptation or mitigation as a principle or significant objective
 2437,44000-P159995,No adaptation or mitigation as a principle or significant objective
 2438,44000-P175273,No adaptation or mitigation as a principle or significant objective
 2439,44000-P111633,No adaptation or mitigation as a principle or significant objective
@@ -2515,7 +2515,7 @@ id,iati_identifier,climate_label
 2514,44000-P168204,No adaptation or mitigation as a principle or significant objective
 2515,44000-P174259,No adaptation or mitigation as a principle or significant objective
 2516,44000-P129929,No adaptation or mitigation as a principle or significant objective
-2517,44000-P176898,Adaptation or mitigation as a principle or significant objective
+2517,44000-P176898,No adaptation or mitigation as a principle or significant objective
 2518,44000-P171034,No adaptation or mitigation as a principle or significant objective
 2519,44000-P166059,No adaptation or mitigation as a principle or significant objective
 2520,44000-P169165,Adaptation or mitigation as a principle or significant objective
@@ -2533,7 +2533,7 @@ id,iati_identifier,climate_label
 2532,44000-P178477,Adaptation or mitigation as a principle or significant objective
 2533,44000-P144029,Adaptation or mitigation as a principle or significant objective
 2534,44000-P173619,No adaptation or mitigation as a principle or significant objective
-2535,44000-P178143,Adaptation or mitigation as a principle or significant objective
+2535,44000-P178143,No adaptation or mitigation as a principle or significant objective
 2536,44000-P112872,No adaptation or mitigation as a principle or significant objective
 2537,44000-P113896,No adaptation or mitigation as a principle or significant objective
 2538,44000-P174137,Adaptation or mitigation as a principle or significant objective
@@ -2574,8 +2574,8 @@ id,iati_identifier,climate_label
 2573,44000-P177985,Adaptation or mitigation as a principle or significant objective
 2574,44000-P094212,No adaptation or mitigation as a principle or significant objective
 2575,44000-P132306,No adaptation or mitigation as a principle or significant objective
-2576,44000-P180566,Adaptation or mitigation as a principle or significant objective
-2577,44000-P172951,Adaptation or mitigation as a principle or significant objective
+2576,44000-P180566,No adaptation or mitigation as a principle or significant objective
+2577,44000-P172951,No adaptation or mitigation as a principle or significant objective
 2578,44000-P167790,No adaptation or mitigation as a principle or significant objective
 2579,44000-P175915,Adaptation or mitigation as a principle or significant objective
 2580,44000-P151923,No adaptation or mitigation as a principle or significant objective
@@ -2606,7 +2606,7 @@ id,iati_identifier,climate_label
 2605,44000-P172707,No adaptation or mitigation as a principle or significant objective
 2606,44000-P169021,Adaptation or mitigation as a principle or significant objective
 2607,44000-P167681,No adaptation or mitigation as a principle or significant objective
-2608,44000-P175492,Adaptation or mitigation as a principle or significant objective
+2608,44000-P175492,No adaptation or mitigation as a principle or significant objective
 2609,44000-P166820,Adaptation or mitigation as a principle or significant objective
 2610,44000-P175143,No adaptation or mitigation as a principle or significant objective
 2611,44000-P079633,No adaptation or mitigation as a principle or significant objective
@@ -2658,7 +2658,7 @@ id,iati_identifier,climate_label
 2657,44000-P094650,No adaptation or mitigation as a principle or significant objective
 2658,44000-P176683,Adaptation or mitigation as a principle or significant objective
 2659,44000-P130299,No adaptation or mitigation as a principle or significant objective
-2660,44000-P176505,Adaptation or mitigation as a principle or significant objective
+2660,44000-P176505,No adaptation or mitigation as a principle or significant objective
 2661,44000-P106663,No adaptation or mitigation as a principle or significant objective
 2662,44000-P089866,No adaptation or mitigation as a principle or significant objective
 2663,44000-P167596,Adaptation or mitigation as a principle or significant objective
@@ -2678,7 +2678,7 @@ id,iati_identifier,climate_label
 2677,44000-P144442,No adaptation or mitigation as a principle or significant objective
 2678,44000-P158505,No adaptation or mitigation as a principle or significant objective
 2679,44000-P164452,No adaptation or mitigation as a principle or significant objective
-2680,44000-P146830,Adaptation or mitigation as a principle or significant objective
+2680,44000-P146830,No adaptation or mitigation as a principle or significant objective
 2681,44000-P158140,No adaptation or mitigation as a principle or significant objective
 2682,44000-P050484,No adaptation or mitigation as a principle or significant objective
 2683,44000-P127319,No adaptation or mitigation as a principle or significant objective
@@ -2725,12 +2725,12 @@ id,iati_identifier,climate_label
 2724,44000-P165581,No adaptation or mitigation as a principle or significant objective
 2725,44000-P092218,No adaptation or mitigation as a principle or significant objective
 2726,44000-P130819,No adaptation or mitigation as a principle or significant objective
-2727,44000-P173998,Adaptation or mitigation as a principle or significant objective
+2727,44000-P173998,No adaptation or mitigation as a principle or significant objective
 2728,44000-P159512,No adaptation or mitigation as a principle or significant objective
 2729,44000-P166308,No adaptation or mitigation as a principle or significant objective
 2730,44000-P176803,No adaptation or mitigation as a principle or significant objective
 2731,44000-P176948,Adaptation or mitigation as a principle or significant objective
-2732,44000-P175493,Adaptation or mitigation as a principle or significant objective
+2732,44000-P175493,No adaptation or mitigation as a principle or significant objective
 2733,44000-P101504,No adaptation or mitigation as a principle or significant objective
 2734,44000-P113184,No adaptation or mitigation as a principle or significant objective
 2735,44000-P121842,No adaptation or mitigation as a principle or significant objective
@@ -2763,7 +2763,7 @@ id,iati_identifier,climate_label
 2762,44000-P070448,No adaptation or mitigation as a principle or significant objective
 2763,44000-P164354,No adaptation or mitigation as a principle or significant objective
 2764,44000-P113402,No adaptation or mitigation as a principle or significant objective
-2765,44000-P077317,Adaptation or mitigation as a principle or significant objective
+2765,44000-P077317,No adaptation or mitigation as a principle or significant objective
 2766,44000-P120005,No adaptation or mitigation as a principle or significant objective
 2767,44000-P151030,Adaptation or mitigation as a principle or significant objective
 2768,44000-P082373,No adaptation or mitigation as a principle or significant objective
@@ -2802,11 +2802,11 @@ id,iati_identifier,climate_label
 2801,44000-P157671,No adaptation or mitigation as a principle or significant objective
 2802,44000-P101614,No adaptation or mitigation as a principle or significant objective
 2803,44000-P171683,Adaptation or mitigation as a principle or significant objective
-2804,44000-P173933,Adaptation or mitigation as a principle or significant objective
+2804,44000-P173933,No adaptation or mitigation as a principle or significant objective
 2805,44000-P055383,No adaptation or mitigation as a principle or significant objective
 2806,44000-P102177,No adaptation or mitigation as a principle or significant objective
 2807,44000-P146970,No adaptation or mitigation as a principle or significant objective
-2808,44000-P177163,Adaptation or mitigation as a principle or significant objective
+2808,44000-P177163,No adaptation or mitigation as a principle or significant objective
 2809,44000-P106686,No adaptation or mitigation as a principle or significant objective
 2810,44000-P170445,No adaptation or mitigation as a principle or significant objective
 2811,44000-P176459,No adaptation or mitigation as a principle or significant objective
@@ -2838,7 +2838,7 @@ id,iati_identifier,climate_label
 2837,44000-P070899,No adaptation or mitigation as a principle or significant objective
 2838,44000-P157575,No adaptation or mitigation as a principle or significant objective
 2839,44000-P161770,No adaptation or mitigation as a principle or significant objective
-2840,44000-P157704,Adaptation or mitigation as a principle or significant objective
+2840,44000-P157704,No adaptation or mitigation as a principle or significant objective
 2841,44000-P114264,No adaptation or mitigation as a principle or significant objective
 2842,44000-P160652,No adaptation or mitigation as a principle or significant objective
 2843,44000-P152307,No adaptation or mitigation as a principle or significant objective
@@ -2981,19 +2981,19 @@ id,iati_identifier,climate_label
 2980,44000-P106870,No adaptation or mitigation as a principle or significant objective
 2981,44000-P119071,No adaptation or mitigation as a principle or significant objective
 2982,44000-P160658,Adaptation or mitigation as a principle or significant objective
-2983,44000-P173367,Adaptation or mitigation as a principle or significant objective
+2983,44000-P173367,No adaptation or mitigation as a principle or significant objective
 2984,44000-P083187,No adaptation or mitigation as a principle or significant objective
 2985,44000-P168756,No adaptation or mitigation as a principle or significant objective
 2986,44000-P107248,No adaptation or mitigation as a principle or significant objective
 2987,44000-P176532,No adaptation or mitigation as a principle or significant objective
 2988,44000-P083813,No adaptation or mitigation as a principle or significant objective
 2989,44000-P170052,Adaptation or mitigation as a principle or significant objective
-2990,44000-P101645,Adaptation or mitigation as a principle or significant objective
+2990,44000-P101645,No adaptation or mitigation as a principle or significant objective
 2991,44000-P108440,No adaptation or mitigation as a principle or significant objective
 2992,44000-P071063,No adaptation or mitigation as a principle or significant objective
 2993,44000-P114515,No adaptation or mitigation as a principle or significant objective
 2994,44000-P097921,No adaptation or mitigation as a principle or significant objective
-2995,44000-P174683,Adaptation or mitigation as a principle or significant objective
+2995,44000-P174683,No adaptation or mitigation as a principle or significant objective
 2996,44000-P152096,No adaptation or mitigation as a principle or significant objective
 2997,44000-P151492,No adaptation or mitigation as a principle or significant objective
 2998,44000-P145037,No adaptation or mitigation as a principle or significant objective
@@ -3072,7 +3072,7 @@ id,iati_identifier,climate_label
 3071,44000-P172226,No adaptation or mitigation as a principle or significant objective
 3072,44000-P180231,No adaptation or mitigation as a principle or significant objective
 3073,44000-P114236,No adaptation or mitigation as a principle or significant objective
-3074,44000-P161483,Adaptation or mitigation as a principle or significant objective
+3074,44000-P161483,No adaptation or mitigation as a principle or significant objective
 3075,44000-P160005,Adaptation or mitigation as a principle or significant objective
 3076,44000-P171700,Adaptation or mitigation as a principle or significant objective
 3077,44000-P132833,No adaptation or mitigation as a principle or significant objective
@@ -3086,7 +3086,7 @@ id,iati_identifier,climate_label
 3085,44000-P112821,No adaptation or mitigation as a principle or significant objective
 3086,44000-P103037,No adaptation or mitigation as a principle or significant objective
 3087,44000-P159395,No adaptation or mitigation as a principle or significant objective
-3088,44000-P119085,Adaptation or mitigation as a principle or significant objective
+3088,44000-P119085,No adaptation or mitigation as a principle or significant objective
 3089,44000-P173197,Adaptation or mitigation as a principle or significant objective
 3090,44000-P175382,Adaptation or mitigation as a principle or significant objective
 3091,44000-P161477,Adaptation or mitigation as a principle or significant objective
@@ -3172,7 +3172,7 @@ id,iati_identifier,climate_label
 3171,44000-P180631,No adaptation or mitigation as a principle or significant objective
 3172,44000-P127974,No adaptation or mitigation as a principle or significant objective
 3173,44000-P087964,No adaptation or mitigation as a principle or significant objective
-3174,44000-P132741,Adaptation or mitigation as a principle or significant objective
+3174,44000-P132741,No adaptation or mitigation as a principle or significant objective
 3175,44000-P112346,No adaptation or mitigation as a principle or significant objective
 3176,44000-P161905,No adaptation or mitigation as a principle or significant objective
 3177,44000-P113493,No adaptation or mitigation as a principle or significant objective
@@ -3201,7 +3201,7 @@ id,iati_identifier,climate_label
 3200,44000-P146464,No adaptation or mitigation as a principle or significant objective
 3201,44000-P133592,No adaptation or mitigation as a principle or significant objective
 3202,44000-P084160,No adaptation or mitigation as a principle or significant objective
-3203,44000-P177095,Adaptation or mitigation as a principle or significant objective
+3203,44000-P177095,No adaptation or mitigation as a principle or significant objective
 3204,44000-P095012,No adaptation or mitigation as a principle or significant objective
 3205,44000-P159517,No adaptation or mitigation as a principle or significant objective
 3206,44000-P171054,Adaptation or mitigation as a principle or significant objective
@@ -3234,7 +3234,7 @@ id,iati_identifier,climate_label
 3233,44000-P126274,No adaptation or mitigation as a principle or significant objective
 3234,44000-P090585,No adaptation or mitigation as a principle or significant objective
 3235,44000-P127956,Adaptation or mitigation as a principle or significant objective
-3236,44000-P162349,Adaptation or mitigation as a principle or significant objective
+3236,44000-P162349,No adaptation or mitigation as a principle or significant objective
 3237,44000-P132505,No adaptation or mitigation as a principle or significant objective
 3238,44000-P100582,No adaptation or mitigation as a principle or significant objective
 3239,44000-P157224,Adaptation or mitigation as a principle or significant objective
@@ -3243,11 +3243,11 @@ id,iati_identifier,climate_label
 3242,44000-P176770,Adaptation or mitigation as a principle or significant objective
 3243,44000-P168951,Adaptation or mitigation as a principle or significant objective
 3244,44000-P163428,No adaptation or mitigation as a principle or significant objective
-3245,44000-P160427,Adaptation or mitigation as a principle or significant objective
+3245,44000-P160427,No adaptation or mitigation as a principle or significant objective
 3246,44000-P150922,No adaptation or mitigation as a principle or significant objective
 3247,44000-P173939,No adaptation or mitigation as a principle or significant objective
 3248,44000-P120566,No adaptation or mitigation as a principle or significant objective
-3249,44000-P172348,Adaptation or mitigation as a principle or significant objective
+3249,44000-P172348,No adaptation or mitigation as a principle or significant objective
 3250,44000-P112893,No adaptation or mitigation as a principle or significant objective
 3251,44000-P127837,Adaptation or mitigation as a principle or significant objective
 3252,44000-P167651,Adaptation or mitigation as a principle or significant objective
@@ -3329,7 +3329,7 @@ id,iati_identifier,climate_label
 3328,44000-P106703,No adaptation or mitigation as a principle or significant objective
 3329,44000-P104752,No adaptation or mitigation as a principle or significant objective
 3330,44000-P173749,Adaptation or mitigation as a principle or significant objective
-3331,44000-P155038,Adaptation or mitigation as a principle or significant objective
+3331,44000-P155038,No adaptation or mitigation as a principle or significant objective
 3332,44000-P175791,Adaptation or mitigation as a principle or significant objective
 3333,44000-P117087,No adaptation or mitigation as a principle or significant objective
 3334,44000-P132386,No adaptation or mitigation as a principle or significant objective
@@ -3343,7 +3343,7 @@ id,iati_identifier,climate_label
 3342,44000-P173518,Adaptation or mitigation as a principle or significant objective
 3343,44000-P113441,No adaptation or mitigation as a principle or significant objective
 3344,44000-P170891,Adaptation or mitigation as a principle or significant objective
-3345,44000-P164654,Adaptation or mitigation as a principle or significant objective
+3345,44000-P164654,No adaptation or mitigation as a principle or significant objective
 3346,44000-P162671,Adaptation or mitigation as a principle or significant objective
 3347,44000-P173989,No adaptation or mitigation as a principle or significant objective
 3348,44000-P132431,Adaptation or mitigation as a principle or significant objective
@@ -3392,7 +3392,7 @@ id,iati_identifier,climate_label
 3391,44000-P085374,No adaptation or mitigation as a principle or significant objective
 3392,44000-P157395,No adaptation or mitigation as a principle or significant objective
 3393,44000-P156019,No adaptation or mitigation as a principle or significant objective
-3394,44000-P175327,Adaptation or mitigation as a principle or significant objective
+3394,44000-P175327,No adaptation or mitigation as a principle or significant objective
 3395,44000-P125590,No adaptation or mitigation as a principle or significant objective
 3396,44000-P127764,Adaptation or mitigation as a principle or significant objective
 3397,44000-P130091,No adaptation or mitigation as a principle or significant objective
@@ -3400,7 +3400,7 @@ id,iati_identifier,climate_label
 3399,44000-P167506,No adaptation or mitigation as a principle or significant objective
 3400,44000-P179255,Adaptation or mitigation as a principle or significant objective
 3401,44000-P176114,Adaptation or mitigation as a principle or significant objective
-3402,44000-P166415,Adaptation or mitigation as a principle or significant objective
+3402,44000-P166415,No adaptation or mitigation as a principle or significant objective
 3403,44000-P149990,Adaptation or mitigation as a principle or significant objective
 3404,44000-P124639,No adaptation or mitigation as a principle or significant objective
 3405,44000-P179079,Adaptation or mitigation as a principle or significant objective
@@ -3426,14 +3426,14 @@ id,iati_identifier,climate_label
 3425,44000-P074132,No adaptation or mitigation as a principle or significant objective
 3426,44000-P129267,No adaptation or mitigation as a principle or significant objective
 3427,44000-P158982,No adaptation or mitigation as a principle or significant objective
-3428,44000-P175811,Adaptation or mitigation as a principle or significant objective
+3428,44000-P175811,No adaptation or mitigation as a principle or significant objective
 3429,44000-P177070,No adaptation or mitigation as a principle or significant objective
 3430,44000-P145055,No adaptation or mitigation as a principle or significant objective
 3431,44000-P150816,Adaptation or mitigation as a principle or significant objective
 3432,44000-P124006,No adaptation or mitigation as a principle or significant objective
 3433,44000-P168153,Adaptation or mitigation as a principle or significant objective
 3434,44000-P133018,No adaptation or mitigation as a principle or significant objective
-3435,44000-P159577,Adaptation or mitigation as a principle or significant objective
+3435,44000-P159577,No adaptation or mitigation as a principle or significant objective
 3436,44000-P128393,Adaptation or mitigation as a principle or significant objective
 3437,44000-P122039,No adaptation or mitigation as a principle or significant objective
 3438,44000-P177856,Adaptation or mitigation as a principle or significant objective
@@ -3521,7 +3521,7 @@ id,iati_identifier,climate_label
 3520,44000-P157425,No adaptation or mitigation as a principle or significant objective
 3521,44000-P122229,No adaptation or mitigation as a principle or significant objective
 3522,44000-P122629,No adaptation or mitigation as a principle or significant objective
-3523,44000-P155066,Adaptation or mitigation as a principle or significant objective
+3523,44000-P155066,No adaptation or mitigation as a principle or significant objective
 3524,44000-P125298,No adaptation or mitigation as a principle or significant objective
 3525,44000-P175768,No adaptation or mitigation as a principle or significant objective
 3526,44000-P164044,No adaptation or mitigation as a principle or significant objective
@@ -3568,7 +3568,7 @@ id,iati_identifier,climate_label
 3567,44000-P099059,No adaptation or mitigation as a principle or significant objective
 3568,44000-P086446,No adaptation or mitigation as a principle or significant objective
 3569,44000-P145529,No adaptation or mitigation as a principle or significant objective
-3570,44000-P170658,Adaptation or mitigation as a principle or significant objective
+3570,44000-P170658,No adaptation or mitigation as a principle or significant objective
 3571,44000-P107992,Adaptation or mitigation as a principle or significant objective
 3572,44000-P093767,No adaptation or mitigation as a principle or significant objective
 3573,44000-P155962,Adaptation or mitigation as a principle or significant objective
@@ -3612,8 +3612,8 @@ id,iati_identifier,climate_label
 3611,44000-P167263,No adaptation or mitigation as a principle or significant objective
 3612,44000-P099062,No adaptation or mitigation as a principle or significant objective
 3613,44000-P121686,No adaptation or mitigation as a principle or significant objective
-3614,44000-P162071,Adaptation or mitigation as a principle or significant objective
-3615,44000-P112759,Adaptation or mitigation as a principle or significant objective
+3614,44000-P162071,No adaptation or mitigation as a principle or significant objective
+3615,44000-P112759,No adaptation or mitigation as a principle or significant objective
 3616,44000-P179414,No adaptation or mitigation as a principle or significant objective
 3617,44000-P173480,Adaptation or mitigation as a principle or significant objective
 3618,44000-P175218,No adaptation or mitigation as a principle or significant objective
@@ -3780,7 +3780,7 @@ id,iati_identifier,climate_label
 3779,44000-P151439,No adaptation or mitigation as a principle or significant objective
 3780,44000-P168481,No adaptation or mitigation as a principle or significant objective
 3781,44000-P124715,No adaptation or mitigation as a principle or significant objective
-3782,44000-P179010,Adaptation or mitigation as a principle or significant objective
+3782,44000-P179010,No adaptation or mitigation as a principle or significant objective
 3783,44000-P172213,No adaptation or mitigation as a principle or significant objective
 3784,44000-P164277,No adaptation or mitigation as a principle or significant objective
 3785,44000-P103881,No adaptation or mitigation as a principle or significant objective
@@ -3818,14 +3818,14 @@ id,iati_identifier,climate_label
 3817,44000-P150116,No adaptation or mitigation as a principle or significant objective
 3818,44000-P147695,Adaptation or mitigation as a principle or significant objective
 3819,44000-P128573,No adaptation or mitigation as a principle or significant objective
-3820,44000-P147342,Adaptation or mitigation as a principle or significant objective
+3820,44000-P147342,No adaptation or mitigation as a principle or significant objective
 3821,44000-P178796,Adaptation or mitigation as a principle or significant objective
 3822,44000-P156629,No adaptation or mitigation as a principle or significant objective
 3823,44000-P150631,No adaptation or mitigation as a principle or significant objective
 3824,44000-P166447,No adaptation or mitigation as a principle or significant objective
 3825,44000-P112526,No adaptation or mitigation as a principle or significant objective
 3826,44000-P157097,No adaptation or mitigation as a principle or significant objective
-3827,44000-P132652,Adaptation or mitigation as a principle or significant objective
+3827,44000-P132652,No adaptation or mitigation as a principle or significant objective
 3828,44000-P148585,No adaptation or mitigation as a principle or significant objective
 3829,44000-P126193,No adaptation or mitigation as a principle or significant objective
 3830,44000-P070937,No adaptation or mitigation as a principle or significant objective
@@ -3833,13 +3833,13 @@ id,iati_identifier,climate_label
 3832,44000-P146452,No adaptation or mitigation as a principle or significant objective
 3833,44000-P126049,No adaptation or mitigation as a principle or significant objective
 3834,44000-P119825,No adaptation or mitigation as a principle or significant objective
-3835,44000-P164031,Adaptation or mitigation as a principle or significant objective
+3835,44000-P164031,No adaptation or mitigation as a principle or significant objective
 3836,44000-P174169,No adaptation or mitigation as a principle or significant objective
 3837,44000-P160866,No adaptation or mitigation as a principle or significant objective
 3838,44000-P144933,No adaptation or mitigation as a principle or significant objective
 3839,44000-P106424,Adaptation or mitigation as a principle or significant objective
 3840,44000-P113506,No adaptation or mitigation as a principle or significant objective
-3841,44000-P179636,Adaptation or mitigation as a principle or significant objective
+3841,44000-P179636,No adaptation or mitigation as a principle or significant objective
 3842,44000-P143645,No adaptation or mitigation as a principle or significant objective
 3843,44000-P144103,No adaptation or mitigation as a principle or significant objective
 3844,44000-P117652,No adaptation or mitigation as a principle or significant objective
@@ -3848,7 +3848,7 @@ id,iati_identifier,climate_label
 3847,44000-P150394,No adaptation or mitigation as a principle or significant objective
 3848,44000-P155133,No adaptation or mitigation as a principle or significant objective
 3849,44000-P092898,No adaptation or mitigation as a principle or significant objective
-3850,44000-P167992,Adaptation or mitigation as a principle or significant objective
+3850,44000-P167992,No adaptation or mitigation as a principle or significant objective
 3851,44000-P164293,No adaptation or mitigation as a principle or significant objective
 3852,44000-P115386,No adaptation or mitigation as a principle or significant objective
 3853,44000-P093988,No adaptation or mitigation as a principle or significant objective
@@ -3933,7 +3933,7 @@ id,iati_identifier,climate_label
 3932,44000-P145861,No adaptation or mitigation as a principle or significant objective
 3933,44000-P170558,Adaptation or mitigation as a principle or significant objective
 3934,44000-P175801,No adaptation or mitigation as a principle or significant objective
-3935,44000-P179014,Adaptation or mitigation as a principle or significant objective
+3935,44000-P179014,No adaptation or mitigation as a principle or significant objective
 3936,44000-P146981,No adaptation or mitigation as a principle or significant objective
 3937,44000-P107666,No adaptation or mitigation as a principle or significant objective
 3938,44000-P171793,Adaptation or mitigation as a principle or significant objective
@@ -3958,7 +3958,7 @@ id,iati_identifier,climate_label
 3957,44000-P132311,No adaptation or mitigation as a principle or significant objective
 3958,44000-P170230,Adaptation or mitigation as a principle or significant objective
 3959,44000-P170131,Adaptation or mitigation as a principle or significant objective
-3960,44000-P166170,Adaptation or mitigation as a principle or significant objective
+3960,44000-P166170,No adaptation or mitigation as a principle or significant objective
 3961,44000-P089259,No adaptation or mitigation as a principle or significant objective
 3962,44000-P171851,No adaptation or mitigation as a principle or significant objective
 3963,44000-P129401,No adaptation or mitigation as a principle or significant objective
@@ -4035,7 +4035,7 @@ id,iati_identifier,climate_label
 4034,44000-P171099,No adaptation or mitigation as a principle or significant objective
 4035,44000-P087046,No adaptation or mitigation as a principle or significant objective
 4036,44000-P169901,Adaptation or mitigation as a principle or significant objective
-4037,44000-P122486,Adaptation or mitigation as a principle or significant objective
+4037,44000-P122486,No adaptation or mitigation as a principle or significant objective
 4038,44000-P153203,No adaptation or mitigation as a principle or significant objective
 4039,44000-P101171,No adaptation or mitigation as a principle or significant objective
 4040,44000-P178599,No adaptation or mitigation as a principle or significant objective
@@ -4083,7 +4083,7 @@ id,iati_identifier,climate_label
 4082,44000-P097201,No adaptation or mitigation as a principle or significant objective
 4083,44000-P106680,No adaptation or mitigation as a principle or significant objective
 4084,44000-P163760,Adaptation or mitigation as a principle or significant objective
-4085,44000-P177325,Adaptation or mitigation as a principle or significant objective
+4085,44000-P177325,No adaptation or mitigation as a principle or significant objective
 4086,44000-P171006,Adaptation or mitigation as a principle or significant objective
 4087,44000-P147272,No adaptation or mitigation as a principle or significant objective
 4088,44000-P160272,No adaptation or mitigation as a principle or significant objective
@@ -4101,7 +4101,7 @@ id,iati_identifier,climate_label
 4100,44000-P106909,No adaptation or mitigation as a principle or significant objective
 4101,44000-P116521,No adaptation or mitigation as a principle or significant objective
 4102,44000-P143382,No adaptation or mitigation as a principle or significant objective
-4103,44000-P176581,Adaptation or mitigation as a principle or significant objective
+4103,44000-P176581,No adaptation or mitigation as a principle or significant objective
 4104,44000-P157043,Adaptation or mitigation as a principle or significant objective
 4105,44000-P151916,No adaptation or mitigation as a principle or significant objective
 4106,44000-P132234,No adaptation or mitigation as a principle or significant objective
@@ -4110,7 +4110,7 @@ id,iati_identifier,climate_label
 4109,44000-P168233,Adaptation or mitigation as a principle or significant objective
 4110,44000-P167826,Adaptation or mitigation as a principle or significant objective
 4111,44000-P178988,Adaptation or mitigation as a principle or significant objective
-4112,44000-P128940,Adaptation or mitigation as a principle or significant objective
+4112,44000-P128940,No adaptation or mitigation as a principle or significant objective
 4113,44000-P172187,Adaptation or mitigation as a principle or significant objective
 4114,44000-P120589,No adaptation or mitigation as a principle or significant objective
 4115,44000-P129563,No adaptation or mitigation as a principle or significant objective
@@ -4193,5 +4193,5 @@ id,iati_identifier,climate_label
 4192,44000-P168185,Adaptation or mitigation as a principle or significant objective
 4193,44000-P156113,No adaptation or mitigation as a principle or significant objective
 4194,44000-P040907,No adaptation or mitigation as a principle or significant objective
-4195,44000-P163962,Adaptation or mitigation as a principle or significant objective
+4195,44000-P163962,No adaptation or mitigation as a principle or significant objective
 4196,44000-P177158,No adaptation or mitigation as a principle or significant objective

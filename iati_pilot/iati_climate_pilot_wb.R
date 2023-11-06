@@ -83,27 +83,26 @@ while(len_result > 0){
     for(i in 1:nrow(docs)){
       doc = docs[i,]
       climate_significant = 0
+      cumulative_climate_percentage = 0
       if("sector_code" %in% names(docs)){
         if("sector_percentage" %in% names(docs)){
           if("000081" %in% doc$sector_code[[1]]){
             sector_index = which(doc$sector_code[[1]] == "000081")
-            if(doc$sector_percentage[[1]][sector_index] >= 20){
-              climate_significant = 1
-            }
+            cumulative_climate_percentage = cumulative_climate_percentage + doc$sector_percentage[[1]][sector_index]
           }
           if("000811" %in% doc$sector_code[[1]]){
             sector_index = which(doc$sector_code[[1]] == "000811")
-            if(doc$sector_percentage[[1]][sector_index] >= 20){
-              climate_significant = 1
-            }
+            cumulative_climate_percentage = cumulative_climate_percentage + doc$sector_percentage[[1]][sector_index]
+            
           }
           if("000812" %in% doc$sector_code[[1]]){
             sector_index = which(doc$sector_code[[1]] == "000812")
-            if(doc$sector_percentage[[1]][sector_index] >= 20){
-              climate_significant = 1
-            }
+            cumulative_climate_percentage = cumulative_climate_percentage + doc$sector_percentage[[1]][sector_index]
           }
         }
+      }
+      if(cumulative_climate_percentage >= 50){
+        climate_significant = 1
       }
       if("transaction_sector_code" %in% names(docs)){
         if("000081" %in% doc$transaction_sector_code[[1]]){
