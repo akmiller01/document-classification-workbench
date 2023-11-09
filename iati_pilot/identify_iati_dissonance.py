@@ -32,7 +32,7 @@ def chunk_by_tokens(tokenizer, input_text, model_max_size):
 def fetch_iati_identifiers(tokenizer, metadata_path):
     metadata_filename = os.path.basename(metadata_path)
     metadata_basename, _ = os.path.splitext(metadata_filename)
-    textdata_folder = os.path.join('textdata', metadata_basename)
+    textdata_folder = os.path.join('../textdata', metadata_basename)
     chunk_ids = []
     with open(metadata_path) as csv_file:
         reader = csv.reader(csv_file)
@@ -53,7 +53,7 @@ def fetch_iati_identifiers(tokenizer, metadata_path):
 
 
 def main():
-    model_dir = 'models/iati_climate_pilot_icf_balanced'
+    model_dir = '../models/iati_climate_pilot_wb_balanced'
 
     # Get a list of all folders in model_dir that start with "checkpoint"
     checkpoint_folders = [folder for folder in os.listdir(model_dir) if folder.startswith("checkpoint")]
@@ -71,7 +71,7 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(most_recent_checkpoint)
     model = AutoModelForSequenceClassification.from_pretrained(most_recent_checkpoint)
 
-    data_iati_identifiers = fetch_iati_identifiers(tokenizer, metadata_path="metadata/iati_climate_pilot_wb_balanced.csv")
+    data_iati_identifiers = fetch_iati_identifiers(tokenizer, metadata_path="../metadata/iati_climate_pilot_wb_balanced.csv")
 
     label_not_predict_climate = []
     label_climate_predict_not = []
@@ -79,7 +79,7 @@ def main():
     count_true_positive = 0
     count_negative = 0
     count_true_negative = 0
-    pickle_path = "traindata/iati_climate_pilot_wb_balanced.pkl"
+    pickle_path = "../traindata/iati_climate_pilot_wb_balanced.pkl"
     with open(pickle_path, 'rb') as f:
         id2label, label2id, text_data = pickle.load(f)
 
