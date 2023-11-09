@@ -9,7 +9,7 @@ import transformers
 import math
 
 
-SUMMARIZER = transformers.pipeline("summarization", model='philschmid/distilbart-cnn-12-6-samsum')
+SUMMARIZER = transformers.pipeline("summarization", model='philschmid/distilbart-cnn-12-6-samsum', device=0)
 
 
 def chunk_by_tokens(tokenizer, input_text, model_max_size):
