@@ -1,0 +1,290 @@
+Address : IIASA, Schlossplatz 1, A -2361 Laxenburg, Austria  
+Email:  komendan@iiasa.ac.at   
+ 
+     
+ 
+ 
+ 
+ 
+Report  
+Contribution to the Global Digital Compact : 
+“Digital commons as a global public good . 
+Internet as a free space , and methods for 
+combating the spread of disinformation and 
+misinformation .” 
+Lead authors: Nadejda Komendantova , Dmitry Erokhin , Elena Rovenskaya  
+ 
+Contributing authors: Irina Dallo, Laure Fallou, Carmit Rapaport, Rosa Vicari, 
+Abraham Yosipof  
+[15 April 2023] 
+ 
+  
+www.iiasa.ac.at  2 Table of contents  
+ 
+ 
+ 
+Abstract ................................ ................................ ................................ .........................  3 
+About the authors  ................................ ................................ ................................ ..........  4 
+Acknowledgments  ................................ ................................ ................................ ..........  4 
+Topics, core principles, and key commitments  ................................ ................................ . 5 
+ 
+ 
+ 
+  
+ 
+ZVR 524808900  
+ 
+Disclaimer, funding acknowledgment, and cop yright information:  
+IIASA Reports report on research carried out at IIASA and have received only limited review. Views or opinions expressed herein do not nece ssarily represent 
+those of the institute, its National Member Organizations, or other organizations supporting the work.  
+ 
+The authors gratefully acknowledge funding from IIASA and the National Member Organizations that support the institute (The A ustrian Academy of Sciences; 
+The Brazilian Federal Agency for Support and Evaluation of Graduat e Education (CAPES); The National Natural Science Foundation of China (NSFC); The 
+Academy of Scientific Research and Technology (ASRT), Egypt; The Finnish Committee for IIASA; The Association for the Advance ment of IIASA, Germany; 
+The Technology Informatio n, Forecasting and Assessment Council (TIFAC), India; The Indonesian National Committee for IIASA; The Iran National Science 
+Foundation (INSF); The Israel Committee for IIASA; The Japan Committee for IIASA; The National Research Foundation of Korea ( NRF); The Mexican National 
+Committee for IIASA; The Research Council of Norway (RCN); The Russian Academy of Sciences (RAS); Ministry of Education, Scie nce, Research and Sport, 
+Slovakia; The National Research Foundation (NRF), South Africa; The Swedish Research Council for Environment, Agricultural Sciences and Spatial Planning 
+(FORMAS); The Ukrainian Academy of Sciences; The Research Councils of the UK; The National Academy of Sciences (NAS), USA; Th e Vietnam Academy of 
+Science and Technology (VAST).  
+ 
+The author s gratefully acknowledge funding from the European Union’s Horizon 2020 research and innovation program for the research proj ect 
+‘sCience&human factOr for Resilient sociEty’ (CORE, 101021746) .  
+ 
+ This work is licensed under a  Creative Commons Attribution -NonCommercial 4.0 International License . 
+For any commercial use please contact  permissions@iiasa.ac.at    
+ 
+
+www.iiasa.ac.at  3 Abstract  
+The Internet as a common good implies the absence of any restrictions, closures, and blockages with censorship 
+being unacceptable in democratic societies. However, it can lead to the uncontrolled growth and spread of 
+disinformation and misinformation, which can have negative effects on democratic processes, on emergency 
+management , and on human rights . While part of society sees the Internet as the last free space and considers 
+the restriction of the Internet an infringement of citizens’ rights to freedom of communication and information, 
+another part of society advocates at least reasonable censorship of the Internet. Parallel to this is the question 
+of who will be behind the ce nsorship – will it be the government, private companies, platforms, or search 
+engines, and what will be the rules and algorithms of censorship.  
+ 
+As part of its participation in the CORE project (sCience&human factOr for Resilient sociEty), IIASA held an 
+online consultation with project participants to discuss the topic of “Internet as a free space and methods for 
+combating the spread of disinformation and misinformation” and to prepare key principles and commitments as 
+a contribution to the Global Digital Compact . 
+ 
+This report provides a comprehensive overview of the key points raised by the participants in the consultation 
+process.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+www.iiasa.ac.at  4 About the authors  
+Nadejda Komendantova is Research Group Leader and Senior Research Scholar at the International Institute 
+for Applied Systems Analysis . (Contact komendan@iiasa.ac.at )  
+Dmitry Erokhin  is Researcher at the International Institute for Applied Systems Analysis . (Contact 
+erokhin@iiasa.ac.at ) 
+Elena Rovenskaya  is Program Director and Principal Research Scholar  at the International Institute for Applied 
+Systems Analysis . (Contact rovenska@iiasa.ac.at ) 
+Acknowledgments  
+We would like to thank the European Union’s Horizon 2020 research and innovation program under grant 
+agreement No. 101021746, C ORE ( sCience&human factOr for Resilient sociEty ) for supporting the online 
+consultation and the resulting report .  
+ 
+We would like to acknowledge and thank the following individuals for their valuable contributions to this report : 
+• Irina Dallo, P ostdoc , Swis s Seismological Service, ETH Zürich, Switzerland  
+• Laure Fallou, Research Officer, Euro -Mediterranean Seismological Centre, France  
+• Carmit Rapaport, Director, National Institute for Regulation of Emergency and Disaster , College of Law 
+& Business, Israel  
+• Rosa Vicari, Research Scholar, International Institute for Applied Systems Analysis, Austria  
+• Abraham Yosipof, Dean, Faculty of Information Systems and Computer Science , College of Law & 
+Business, Israel  
+Their input and expertise were essential in shaping the objectives and requirements of this work, and we are 
+grateful for their valuable contributions.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+www.iiasa.ac.at  5 Topics, core principles, and key commitments  
+ 
+During the online consultation, the following topics were discussed and served as the basis fo r formulating the 
+core principles and key commitments outlined in this report .  
+ 
+Relationship  and balance between Internet freedom and spread of misinformation/disinformation  
+ 
+While digital rights, freedom of information, freedom of speech, privacy, and the right to access the internet 
+are crucial for democracy, the open nature of the internet can also facilitate the spread of misinformation and 
+disinformation. This is due to th e incentive of the attention economy, which rewards people for attracting 
+attention rather than providing high -quality information, as well as the ease of posting and sharing content 
+without verifying its accuracy or context and the anonymity that allows a nyone to participate in any 
+conversation.  
+ 
+To ensure that internet freedom facilitates the common good, it is important to promote accurate and verifiable  
+information from trusted sources, as well as to combat hate speech and other forms of online harm. Moreover, 
+it is essential to recognize that freedom of expression should not come at the expense of other fundamental 
+human rights, such as the right to for m independent opinions and make informed choices without being 
+subjected to manipulation or interference  (Article 19 of the Universal Declaration of Human Rights ). 
+ 
+In some cases, governments may have a legitimate role in regulating information sharing to protect public 
+health and safety, while also upholding international human rights norms. Striking a balance between internet 
+freedom and other values and rights is therefore an ongoing challenge that requires careful deliberation and 
+cooperation among stak eholders.  
+ 
+The following key  recommendations were proposed  to promote responsible and informed use of the internet, 
+media, and information sources:  
+ 
+• Governments should prioritize education in critical and systems thinking, information searching, and 
+fact v alidation, as well as promote media independence, diversity of sources, and fact -based reporting. 
+This will equip individuals with the necessary skills for media and information literacy to distinguish 
+between reliable and false information and navigate in formation sources effectively.  
+• Governments should facilitate safe communication space s that enable individuals to exercise their right 
+to change opinions and encourage the correction of false beliefs to foster a culture of learning.  
+• Governments should hold  social media platforms and websites accountable for the content they host 
+by requiring them to mark and/or delete suspicious content or content clearly identified as 
+misinformation or disinformation. Allowing such content to spread freely undermines effor ts to combat 
+misinformation and disinformation, which is why social media platforms and websites should take 
+proactive measures such as fact -checking to prevent its spread.  
+• Governments should communicate transparently about the reasons for blocking certain  information to 
+ensure accountability and prevent arbitrary censorship.  
+www.iiasa.ac.at  6  
+These commitments reflect a dedication  to upholding the principles of free expression, access to information, 
+democratic participation, and the responsible use of information in the d igital age.  
+ 
+Classifying information as misinformation/disinformation and censorship  decisions  
+ 
+The information monitoring system should be multi -layered, involving individuals, independent national 
+institutions, and international collaborations to addres s the challenges posed by misinformation and 
+disinformation.  
+ 
+Given the decentralized and free nature of the internet, individuals should take responsibility for their own 
+consumption of information. At the national level, an independent institution, estab lished based on state laws 
+and regulations, should be responsible for ensuring that any decision of censorship is based on the rule of law 
+and international human rights principles. This institution should include civil society , media, scientists, experts,  
+social media  platform s, websites, and tech companies’  representatives  in its decision -making processes.  
+ 
+At the international level, joint efforts should be made by all affected nations to combat misinformation and 
+disinformation. A multi -stakeholder approach involving governments, civil society, media, scientists, and tech 
+companies should be adopted to iden tify and address misinformation and disinformation.  
+ 
+It is also important to differentiate between misinformation and disinformation, as the latter involves deliberate 
+attempts to harm others or manipulate public opinion. More efforts may be needed to addr ess disinformation, 
+including stronger legal and regulatory frameworks and greater collaboration among stakeholders.  
+ 
+The following key commitments were discussed to address the challenges posed by misinformation and 
+disinformation:  
+ 
+• Governments should prioritize providing education on critical thinking, information searching, fact 
+validation, and distinguishing between relevant information and 'noise'.  
+• Governments should prioritize public correction of misinformation instead of censorship.  
+• An int ernational point of contact should be established, which could involve a series of special 
+institutions with independent experts, where institutions and nations can seek an external and objective 
+evaluation of situations. At least two independent entities should be involved in verifying the accuracy 
+of information.  
+• A program should be developed to train experts in different fields to design guidelines for identifying 
+and addressing misinformation and disinformation in their respective fields of expertise.  
+• Governments should explore the use of AI to trace the origin and spread of information, which can help 
+identify the sources of misinformation and disinformation and prevent its further spread.  
+ 
+Control of misinformation/disinformation identification and pot ential censorship  
+ 
+Rather than a general control over information, each relevant entity such as  media and tech compan ies, social 
+media platform s, website s, and provider s of online algorithm s should be responsible for controlling the 
+www.iiasa.ac.at  7 information related to their scope . Each entity should be in charge of controlling their own information assets 
+in accordance with national laws. Ultimately, justice should be the final authority.  
+ 
+The following key commitments were discussed:  
+• A board of experts in various doma ins should be established to publish scientific and evidence -based 
+information  so that internet users  can refer to these and compare in case of special interest. However, 
+it is equally important to promote a diversity of sources that provide different pers pectives and 
+interpretations of information. This can enable internet users to compare and evaluate different sources 
+of information, develop their own critical thinking skills, and make informed decisions . 
+• International guidelines on content regulation sh ould be developed in the near future to ensure 
+compliance with human rights law. National laws should also regulate business models of media and 
+tech companies, as well as the algorithmic systems of tech companies to ensure compliance with human 
+rights.  
+• Citizens  should be educated on potential misinformation since it is often spread un-intentionally.  
+• A program should be developed to train internet experts in specific sectors or organizations, such as 
+government agencies, media companies, academic institutions, and technology firms, to identify 
+misinformation/disinformation in their respective fields. These data scientists should have a strong 
+understanding of the data sources and methods used in their sectors, as well as an ability to analyze 
+and interpret data. The program should also provide training on critical thinking and problem -solving 
+skills, as well as tools and techniques for evaluating the reliability of sources and detecting patterns of 
+misinformation and disinformation .  
+• Scientific m isinformation/disinformation identification should be done in collaboration with independent  
+scientific institutions to have an objective evaluation of what is scientifically correct and what is not. 
+The scientific  institutions should monitor the comments/dis cussions on their websites, social media 
+pages, or other digital platforms  and counteract them (e.g., state that the statement is incorr ect/remove 
+it if it is harmful).  
+Rules for misinformation/disinformation identification and potential censorship  
+ 
+From t he perspective of preserving freedom of information, it is important to have access to a diversity of 
+sources and opinions , but with verified and trusted means  for validation. However, rules around identifying 
+misinformation/disinformation and potential ce nsorship need to be balanced carefully in order to promote 
+accuracy without impinging on free speech or access to information . In addition, any policies and practices 
+around content regulation should be transparent and comply with human rights standards.  
+ 
+The following key commitments were discussed:  
+• States should ensure that restrictions are transparent, specific, based on a law that is sufficiently 
+precise, necessary, and proportionate  to the purpose of protecting international human rights.  
+• Internet users  that are censored should be accurately infor med about the reasons of censorship . 
+• There should be an international institution (to prevent government influence ) in case censored people 
+want to contest.  
+www.iiasa.ac.at  8 • Information providers  need to develop guidelines and policies for identifying and addressing 
+misinf ormation/disinformation. This may involve the use of fact -checking tools, algorithms, or experts 
+to identify potentially problematic content.  
+Algorithms of misinformation/disinformation identification and potential censorship  
+ 
+To effectively combat misinfo rmation and disinformation, it is essential to develop algorithms based on text and 
+image analysis that can identify and prioritize the most impactful instances of false information. These 
+algorithms should examine which topics are receiving attention and when this attention occurs, and compare it 
+to other trusted sources. However, it is important to emphasize that attention should also be paid to false 
+information that has not received widespread attention, as even a single instance of false information ca n have 
+serious consequences. Additionally, these algorithms should be public, accessible, transparent, and subject to 
+scrutiny by third parties as part of a global strategy that also addresses digital literacy and risks related to 
+algorithms.  
+ 
+However, alg orithms alone are not sufficient. It is also necessary to rely on internet individual users who should 
+be able to select reliable information . Digital literacy plays a pivotal role in this process. Equipping individuals 
+with the necessary skills and knowle dge to navigate the vast sea of information on the internet  empower s them 
+to make informed decisions and distinguish reliable sources from misinformation. Censorship algorithms should 
+only be used as a last resort when it is clear that misinformation or di sinformation is causing harm and cannot 
+be addressed through other means, such as providing correct information or argumentation.  
+ 
+The following key commitments were discussed:  
+• States and tech companies should ensure transparency, support media, and inform ation and digital 
+literacy, and should design social media user interfaces that support critical thinking.  
+• Artificial intelligence (AI) can help by identifying misinformation suspicion and by labelling suspicious 
+content. Such labels would suggest to indi vidual users to check if the information is trustworthy . 
+• Grants for academic research to develop such algorithms should be made available.   
+Other related topics  
+ 
+The participants of the online consultation also acknowledged the complexity and multifaceted nature of the 
+topic, which spans national, cross -national, and international levels, and may involve differing procedures across 
+these levels. They reiterated the importance of information and media literacy in addressing these challenges.  
+ 
+ 

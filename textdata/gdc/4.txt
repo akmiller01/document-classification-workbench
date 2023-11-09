@@ -1,0 +1,225 @@
+3
+
+4About CBAS
+The International Research Center of Big Data for Sustainable 
+Development Goals (CBAS), founded in 2021, was established 
+in response to the call by Chinese President Xi Jinping at the 75th UN General Assembly to utilize science, data, technology, and innovation to facilitate global progress towards 
+sustainable development. Following the UN Secretary General's 
+congratulatory remark at CBAS' inauguration to utilize big data to address global challenges, CBAS is therefore working to establish big data ecosystems with a particular focus on Big Earth Data. The vision of CBAS is to provide a range of 
+services essential for addressing the most challenging problems 
+facing sustainable development, such as lack of data and technological barriers to the implementation of the SDGs, through methods like data sharing, technological solutions, decision-making support, as well as capacity building for developing countries. Towards this end CBAS is working to develop data infrastructure and information and 
+data products; to create new knowledge for SDG monitoring and evaluation; to develop and launch a series of SDG 
+satellites; to provide policy and advisory services through an SDG Think Tank; and to improve global capacity for SDGs in developing countries.
+Lead Author:
+GUO Huadong
+Academician of the Chinese Academy of Sciences, Director General of CBAS
+Co-Authors:
+LIANG Dong, Zeeshan Shirazi, DENG Siming, CHEN Fang, LI Jianhui, Robert Duerler
+Contact:
+Cooperation & Development Division, CBAS
+No. 9 Dengzhuang South Road,Haidian District, Beijing 10094, ChinaEmail: cooperation@cbas.ac.cnWebsite: http://www.cbas.ac.cn/en/
+Suggested citation: Huadong Guo, et al. (2022): A Community-Driven Framework for Digital Public Goods for SDGs , 
+published by CBAS, Beijing China.
+ 
+Copyright: This work is licensed under the Creative Commons Attribution-Non Commercial-Share Alike 4.0 
+International License. 
+
+01Background 
+The rapid global digital transformation in the past two decades has revealed unique opportunities for 
+progress and development in addressing the evident risk and challenges that we face collectively. In 2018, the UN Secretary-General appointed a High-Level Panel (HLP) to deliberate on the question of digital cooperation to maximize benefits and minimize their negative impacts. The HLP submitted its recommendations
+1 in June 2019. Following the recommendations from the HLP, the Secretary-General 
+presented his Roadmap for Digital Cooperation2 in June 2020. One of the recommendations of the HLP 
+was to establish a platform to share digital public goods, which consequently led to the establishment of the Digital Public Goods Alliance in 2019.
+On the occasion of the commemoration of the 75th anniversary of the United Nations, following extensive 
+multi-stakeholder consultations the UN Member States adopted a Declaration on the Commemoration of the Seventy-Fifth Anniversary of the United Nations (A/RES/75/1)
+3, which includes a pledge to improve 
+Digital Cooperation and to ensure safe and affordable digital access for all. This pledge recognizes the unprecedented opportunities of digital technologies, the associated challenges, and seeks to realize their potential to accelerate progress towards fulfilling the 2030 Agenda. 
+Following this declaration, the UN Secretary-General released a report entitled “Our Common 
+Agenda”
+4 in September 2021. One of the proposals in the Common Agenda is a Global Digital 
+Compact5 to be finalized and agreed upon at the Summit of the Future, which will be held in September 
+2023. The Secretary-General has proposed that the Compact would be the main outcome of a multistakeholder technology track (involving all stakeholders: governments, the UN system, the private sector, civil society, and individuals, including youths) at the 2023 Summit. The UN Secretariat is now developing this proposal through an inclusive preparatory process ahead of negotiations on the Compact at the Summit.
+1 The age of digital interdependence| Report of the UN Secretary's General High-Level Panel on Digital Cooperation 
+(https://www.un.org/en/pdfs/DigitalCooperation-report-for%20web.pdf)
+2 Roadmap for Digital Cooperation (https://www.un.org/techenvoy/content/roadmap-digital-cooperation)
+3 Declaration on the commemoration of the seventy-fifth anniversary of the United Nations, Agenda item 128 (a) 
+(https://documents-dds-ny.un.org/doc/UNDOC/GEN/N20/248/80/PDF/N2024880.pdf?OpenElement)
+4 Our Common Agenda (https://www.un.org/en/common-agenda)
+5 Global Digital Compact (https://www.un.org/techenvoy/global-digital-compact)
+021. Introduction
+The term digital public good stems from the existing concept of public goods, which are defined as goods 
+that are accessible to all without exclusion or inhibition. With growing accessibility to digital space and its integration in the daily lives of millions of people, there has been a rapid transformation improving communication, introducing new business opportunities, facilitating existing enterprises, and improving access to information and services related to finance, investment, health care and other essential and recreational amenities. Similarly, in the past few decades open science and open-source software, data and methods have fueled innovation through data-driven science even in traditional scientific disciplines. 
+From the beginning the UN has also emphasized the importance of science, technology and innovation 
+in achieving the 2030 Agenda for Sustainable Development, and through its Technology Facilitation Mechanism it is working to improve multi-stakeholder cooperation to achieve SDGs via such methods. In 2018, the UN Secretary-General convened a High-level Panel on Digital Cooperation to advance proposals to strengthen cooperation in the digital space among governments, the private sector, civil society, international organizations, academic institutions, the technical community and other relevant stakeholders. The report by this High-level Panel recommended to promote an inclusive digital economy and society, digital public goods, digital inclusion, improving digital capacity, establishing digital human rights, responsible applications of AI, digital trust and security and global digital cooperation. 
+Based on these recommendations and realizing the importance of informed policies and decision-making 
+in the implementation of the SDGs, CBAS supports the idea of digital public goods particularly within the earth science information domain. Digital public goods are generally defined as open-source software, open data, open artificial intelligence models, open standards, and open content. CBAS holds the belief that information generated on air, water, ecosystems, and biodiversity etc. are information that should be publicly accessible for awareness, knowledge, and research to encourage innovative solutions to global and regional challenges, which are much in line with the UNEP efforts to promote environment data as digital public goods. Therefore, CBAS proposes the idea to develop a mechanism for nurturing, identifying, evaluating and standardizing new and existing digital public goods relevant to the SDG indicator framework, with the aim to continually upgrade to the latest and most precise methods, models, data products and datasets to improve global SDG monitoring, to facilitate filling in existing data gaps, and to create opportunities to improve global scientific and technical capacities.    
+   
+2. Digital Public Goods for SDG Indicators
+The global SDG indicator framework provides a foundation for quantifying SDG progress through 
+monitoring social, economic, and environmental dimensions, as well as a means to demonstrate interdependency and interlinkages among these various dimensions of sustainability. These indicators provide important means to inform national scale policies, support development of implementation strategies and allocation of resources. Unfortunately, the lack of qualified and timely datasets and methodologies hinders optimistic expectations, particularly due to the added complexities of uneven 
+03development, capacity and capability challenges between different regions and countries. Big data 
+resources, development and improving the accessibility of cloud and high-speed computation resources, including rapid development of earth observation infrastructure by both private and public organizations, provide new opportunities to mitigate these data gaps and provide macro, dynamic and objective monitoring of land, ocean, atmosphere and human activities. 
+The Digital Public Good Alliance (DPGA)
+6 has made significant contributions in promoting the concept 
+of Digital Public Goods and their accessibility. As a broad multi-stakeholder alliance, it has established 
+a platform for sharing digital public goods. They have defined a clear set of 9 indicators as standards7 
+for 5 categories of Digital Public Goods, including Open AI Model, Open Content, Open Data, Open Software, and Open Standards. These indicators provide a sound intellectual and functional foundation to promote open science and improve quality and accessibility of Digital Public Goods. These diverse sets of goals specific to Digital Public Goods available through the DPGA are very useful at organizational and institutional scales for implementation and facilitation of sustainability projects. However, they may or may not always be useful in policy development processes, administrative oversight at different level of governance or international comparisons on progress and level of sustainability simply due to difference in choices of digital public goods and standards adopted. 
+Considering the present progress and development of innovative Digital Public Goods, the growing role 
+of big data and the constant improvement of earth observation platforms and technologies, there is a good opportunity to promote innovative ideas, new methods, and useful technologies in monitoring the SDG framework. With the upcoming Summit of the Future and the Digital Compact in 2023, there is also an opportunity to introduce a program that can help to select and/or update existing sets of Digital Public Goods, derived from or developed using innovative data sources and methods, or promote development of more specific sets of digital products based on the principles and standards established through the DPGA to help progress multi-scale monitoring of SDGs around the world.
+Working toward these ambitious goals, CBAS initiated a process of consultation to seek expert advice 
+on the idea of a global project working to improve development, recognition, visibility, and accessibility of Digital Public Goods for the SDGs to improve global evaluation and assessment of SDG indicators. The core concept is to develop Digital Public Goods for SDGs that ensure access and availability of data, data services, data products models, digital resources, and information necessary to evaluate and monitor SDG indicators. This will help to ensure that digital resources relevant to monitoring SDGs are regularly updated to incorporate rapid developments in science and technology and to ensure that they remain accessible around the world to support information, science-driven policy, and decision support systems. 
+6 Digital Public Goods Alliance (https://digitalpublicgoods.net/)
+7 DPGA Standards (https://digitalpublicgoods.net/standard/)
+043. International Expert Survey on Digital Public Goods for 
+SDG Indicators
+To develop a preliminary framework and to benefit from a diverse range of expertise from around the 
+world, CBAS adopted the method of a consultative survey with the goal to shape a broad conceptual framework based on the experiences of experts working in international initiatives, projects, and organizations to help identify opportunities and challenges in the conception of digital public goods for SDGs, summarized in Section 2. The survey invited the experts to share their opinions and ideas on the viability of this concept, their suggestions on core principles and key actions necessary to develop this proposed framework, existing resources relevant to help realize and drive this process and likely challenges expected in the realization of this international framework. 
+A question-based survey was designed and shared with a large network of international experts, which 
+forms the basis of the concepts and opinions provided in this report. Experts were encouraged to provide their direct opinions to the survey questions and provide a response from their expert perspective and experiences. Experts were welcome to share their opinion in detail and elaborate on topics coinciding with their interests and were encouraged to share practical opinions in their responses to the survey questions 
+The following sections synthesize and collate the ideas discussed in a wide range of responses received 
+from different experts and present a preliminary concept of a community driven approach to develop Digital Public Goods for the SDG indicators conforming to the core principles identified within the responses of the experts. Section 4 collates the opinions of experts on the proposed concept and highlights existing resources relevant to developing digital public goods for SDG indicators. Section 5 compiles the core principles and relevant key actions suggested by experts. Section 6 discusses the challenges identified and proposes a framework inspired from the ideas and opinions collected from the experts. 
+ 
+Fig 01- Geographic scope of the survey
+
+05
+4. Existing Opportunities and Resources on Digital Public 
+Goods for Sustainable Development 
+All of the international experts consulted during this process predominantly agreed in principle with the 
+validity of the premise that Digital Public Goods can and will help the achievement of SDGs. However, it was broadly pointed out that it is not unconditional and guaranteed. It was highlighted that concepts, initiatives, experiences, organizations, cooperation, and assistances are necessary to ensure that digital public goods are properly identified and assessed, transformed into a common standard and made accessible for wider dissemination for SDG purposes. The importance of political will and support and allocation of adequate finances were also stated to be necessary for successful deployment of digital public goods for SDGs implementation. Ensuring multi-stakeholder commitment and promoting solidarity through a well-managed cooperation were also considered to be important to ensure continued support for a global program on development of digital public goods for SDGs  
+There were several important resources highlighted to be relevant to SDG digital public goods. Due to the 
+location-based attributes of SDG targets and their respective indicators, earth observation and geographic information data with their respective software, models, standards and technologies were pointed out to be an important digital resource for rapid implementation of SDGs, globally, regionally and locally. Earth observation big data, or Big Earth Data, were also pointed out to be inevitable references for context in SDGs necessary to enable professional and political decision-making processes towards their implementation.
+ 
+Fig 2: Important digital resources and technologies highlighted in survey to be required as digital public 
+goods to facilitate rapid implementation of SDGs
+6Relevance of mobile data in mapping human activity was suggested to be an important data resource 
+due to the high volume of mobile devices in use throughout the world. As suggested by one of the respondents, science is now big data centric. Therefore, big data, AI models and several iterations of these resources and methods are widely considered to be an important resource that can fuel development of digital public goods. Additionally ground observation data and data from modelling experiments, in particular for processes on land, atmosphere and oceans using deep learning techniques, were proposed to be key information sources for decision-making and management-related applications. 
+Overall, there was strong support for open data, open databases, open data models and open-source 
+software. FAIR principles
+8 of findable, accessible, interoperable, and reusable data also had strong support 
+among respondents. Data and science infrastructure, such as data cube and high-performance, computing resources, were considered to be important digital resources and technologies required to develop high quality digital public goods to facilitate the rapid implementation of SDGs globally. Several respondents also highlighted the importance of multi-source data and data interoperability as important methods to improve digital resources for SDGs globally to be complimented with open software to promote innovation. 
+The most important aspect highlighted towards the success of any digital public goods initiative was 
+predicated on the will to take action. For example, it was suggested by some respondents that the level of access, available tools and user-skills will eventually determine the effectiveness of any digital public goods initiative. Similarly, allocation of financial resources was also considered to be a critical limitation in this direction. It was suggested that broadly speaking the digital technologies and resources required to facilitate development of digital public goods are well-known, yet financing, limited data sharing and access to modeling infrastructure have limited the pace of progress in this direction. Legislations and geo-political and socio-economic and cultural challenges also hinder progress. Similarly, it was pointed out in some responses that isolated actions have produced duplication at the cost of time and resources. Therefore, coordinating efforts across administrative boundaries was considered to be highly desirable. With this in mind, the suggestion to improve the capacity of developing countries seems relevant to address multinational and coordinative challenges, in particular, investments to improve knowledge and capacity towards multi-source data acquisition, analytical tools and models will facilitate this process. 
+5. Core Principles and Key Actions 
+The experts identified several principles with a broad range of key actions in their responses. The suggestions from experts advised to ensure inclusivity, quality, adoption, development and innovation in the development and utility of digital public goods for SDG indicators. Principle overlaps between different experts broadly suggested to ensure that the information should be publicly accessible to promote awareness, knowledge, and research and to encourage innovative solutions to global and regional 
+8 Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management 
+and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18
+7challenges. Secondly, improvement of global scientific and technical capabilities through an open science 
+approach was extensively suggested by different experts in several of the responses received. Table 1 provides a summarized list of Core Principles with associated Key Actions to facilitate and guide the development process of proposed digital public goods for SDG indicators. 
+Table 1: Core Principles and Key Actions suggested by experts for developing digital public goods for 
+SDG Indicators
+Core Principles Key Actions
+1Universality of science1.1 Promote open science, open data, and open knowledge
+1.2Encourage scientific partnerships, collaborations, and cooperation and 
+multi-disciplinary stakeholder engagements
+2The digital public goods should be scalable 2.1Development process of digital public goods for SDG indicators should incorporate multi-stakeholder engagement and a mechanism for a bottom to top approach 
+3The development process should be inclusive and innovation driven.  3.1Digital public goods for SDG indicators should be initiated as community supported open-source project to drive innovation and creativity
+3.2 Create global SMART objectives, aligning with national goals
+3.3Ensure participation and engagement of relevant stakeholders from developing countries and local communities 
+3.4Identify and engage projects and organizations already developing similar or related digital products to avoid duplication
+3.5Promote interdisciplinary collaborations and pooling of digital and human resources between participants, leading organization and public sector institutions
+4Availability and accessibility to all without restrictions  4.1An open online distribution platform for digital public goods for SDGs indicators supporting information application infrastructure should provide access to the necessary tools, resources and data used in the development of the digital public goods
+4.2Intuitive and friendly user-interface for wider adoption and public 
+awareness 
+4.3 Compliance with FAIR principles
+5Ensure quality acceptability, 
+impartiality and reproducibility5.1A system of quality control, standardization and accreditation though an expert oversight committee with the support of UN custodian agency should be setup
+5.2 Ensure and maintain effective data standards and regulations
+5.3Highlight potential and usability through case studies, pilot projects and demonstration studies.
+5.4Develop a mechanism for user support and documentation to attract adoption and utility
+6Enhance training and upskilling 
+across sectors/nations6.1Educational and teaching content to promote development of skills at 
+all levels. 
+6.2Promote inspirational content to motivate younger generation to contribute their expertise to this pubic process in future
+86. A Community-Driven Open-Source Framework for 
+Digital Public Goods for SDG Indicators
+Availability, accessibility and literacy about digital tools and resources have improved rapidly during the 
+past decade. Nevertheless, differences in capacity, capability and priorities will likely introduce challenges for any development process working to produce digital public goods for SDG indicators intended for global use. The survey results highlighted that a single program or a single agency is not in the position to facilitate development of a diverse range of digital public goods necessary for SDG indicators. Therefore, there is a need for the development of a cooperative framework with a participatory approach that should also observe the principles of universality of science in accordance with the first core principle identified. Based on the opinions of all international experts that participated in the survey, and considering the key actions 1.1 and 1.2 that promote open science, inclusivity, consultations, joint contributions and shared benefits, this report suggests a community supported open-source development approach that will help to improve innovation and novelty in methods and processes. Supported by a UN driven recognition program, talents from all levels of expertise could be encouraged to participate in this community led development process. A more detailed, yet tentative process flow of the proposed process is provided in Fig 3.
+ 
+Fig 3- A proposed community driven open-science process to develop digital public goods for SDG indicators. 
+
+96.1. Organizational and Co-ordinational Challenges
+A community supported open-source development approach is quite an attractive proposition as it will 
+provide the necessary bottom-up approach suggested in Key Actions 2.1 (Core Principle 2) and help to encourage highly talented data scientists, programmers, and digital technology experts to voluntarily participate in devising novels solutions in-line with Core Principle 3. However, it will be a highly challenging undertaking to organize and streamline these efforts. In the absence of a designated team, open-source development environment will lead to competing methods and products which will require efficient quality assurance and control mechanisms (QA/QC) (Core Principle 5). Similarly, a community-based development approach will impact efficiency in the development process, particularly if voluntary members are involved alongside research and academic institutions, who may not be able to deliver on desired targets and deadlines.
+Some of these organizational challenges can be resolved by appointing designated product leaders from 
+the SDG indicator custodian agencies for separate classes of the digital public goods as identified by the DPGA (Models, Content, Data, Software, and Standards) working as focal persons for community inputs, with a clear understanding of the SDG indicator at hand and auditings requirements, whereby they might help to organize the community development process as per Key Action 3.2. The product leaders can provide relevant guidance to community developers and serve as a preliminary QA/QC control.
+Subsequently, a “Committee of Experts” can be established to evaluate different digital products received 
+and act as the next level of QA/QC control in line with Key actions 5.1 and 5.2. The Committee of Experts can select a list of viable products to be tested and verified by National Statistical Offices (NSO) for compliance and applicability at the next level (Fig. 3) and can also help to achieve Key Actions 5.3. After verification from NSOs the product can be adopted through a designated political forum for SDG evaluation reporting purposes by interested countries and organizations.
+In the development process discussed above, there are chances of duplication of efforts. Acting on Core 
+Principle 4 (Key actions 4.1, 4.2, and 4.3) shall provide the necessary resources and information to avoid this duplication, and thereby a descriptive, openly accessible catalogue of digital public goods efforts or ongoing efforts should help prospective developers to opt and develop new ideas and avoid duplication of existing efforts.      
+6.2. Data and Standardization Challenges
+SDG indicators are quantitative assessments for economic, environmental and social progress. Developing any digital public goods related to SDG indicators will therefore require access to relevant datasets in accordance with Core Principle 4. As previously noted, several SDGs indicators are still lacking sufficient data. Additionally, data sharing with a community supported open-source development approach may prevent different statistical agencies from openly sharing necessary data due to information security, privacy concerns or national and commercial legal restrictions. For software and model development tasks specifically, this challenge can be resolved by developing publicly accessible standardized datasets for different indicators for testing and performance evaluation of new methods, which is a standard practice within data science community. The best performing models and methods using these standard metrics and standardized dataset can then be used by NSOs according to their circumstances to verify performance for 
+10relevant scales, which will also help to achieve Core Principle 2 (Fig. 3, Lv3). Alternatively, encouraging 
+the use of publicly available resources, especially remote sensing data, can be beneficial to mitigate data access issues and develop globally usable multi-scale products. 
+Several experts highlighted the importance of data standardization and interoperability. This is because 
+a diverse range of formats and systems are being used for data collection by different countries due to differences in purpose by different institutions in these countries. Furthermore, differences in data frameworks implemented and varying capacities between different public and private organizations responsible to collect data relevant to SDG indicators complicates the standardization and interoperability processes, especially for a community driven process as proposed here. The open-source development process highlighted here would greatly benefit if the UN can initiate a database development program collecting samples of data preserving the formats and structure of relevant datasets from different countries and systems on SDG indicators from different countries. This will enable the community level developers and allow the data science community to understand the structure and formats of a diverse range of datasets to develop programs and processes to create standard datasets, fill in data gaps from alternative data sources and to devise interoperability and standardization solutions. These actions will also help to support the objectives of Key action 5.4. 
+6.3. Capacity, Political and Acceptability challenges 
+Several of the experts also stressed the need to build the capacity of all countries, particularly the least developed countries, landlocked developing countries and small island developing states. It was suggested that regional and social technical constraints and differences can reduce the capacity to develop and adopt digital public goods for SDG indicators. The open-source digital approach supplemented with human resource development programs supported by international organizations and the UN will help to rapidly improve the technical capacity of relevant organizations in different countries. This, however, has to be organized in parallel to the digital infrastructure and digital accessibility development programs being considered under the UN Secretary-Generals' Roadmap to Digital Cooperation. Additionally, all digital public goods approved at Lv 2 (Fig. 3) can be supported by community developed user-oriented training program for educational and capacity development resources to support Core Principle 6.  
+Similarly, other important challenges highlighted by different experts in the survey included overcoming 
+legislative and policy hurdles to improve cooperation between different countries, which are necessary to be addressed by different stakeholders. The STI Forum is an important platform to support this process and improve the accessibility of technology by developing nations to improve their capacity towards digital development. The political, social, and governance challenges were also highlighted specifically as the major challenge to build institutional confidence on the development of open-source projects. Efforts on the political level (Fig. 3, Lv4) can help to streamline this process. Furthermore, through open-source community supported projects there will be a number of implementation choices available to be adopted. Pilot studies and demonstrative case studies by NSOs on proposed solutions can help to support the Political Forum to reach an informed decision on the best method(s) to implement with consensus (Key Action 5.3).
+117. The Way Forward
+Globally rapid progress in science and technology has been the primary driver for unprecedented 
+development, innovation and progress in human society. They have demonstrated advantages in diverse aspects of societal, economic, cultural and environment, exerting a profound impact on our modern civilization. In particular digital technologies and applications have experienced extraordinary success at all levels of socio-economic classes around the world in the past few years. 
+The opinions drawn from the expert survey conducted for this report agree that digital public goods hold 
+tremendous potential to facilitate global sustainable development. The experts highlighted big data, AI, geospatial data and other digital tools and technologies and their utility for a diverse range of applications related to natural or human systems. Based on the responses and suggestions this report proposes 6 core principles and several key actions necessary for systematic development of digital public goods for SDG indicators. These core principles identified from expert response are still tentative, but a good starting point to initiate a global dialogue to highlight the concept of digital public goods for SDG indicators, as well as to refine such principles and develop a consensus to facilitate future actions. The Summit of the Future and the Digital Compact provide a good opportunity to discuss these concepts and garner global support for actions suggested here to achieve the 2030 Agenda. 
+This report also proposes a preliminary process for an open-source development environment for digital 
+public goods for SDG indicators inspired from the comments and suggestions collected through the expert survey. The process aims to inspire innovation at the grass root level by engaging a talented community to contribute their expertise and participate in a community driven movement towards sustainability. The process also suggests necessary QA/QC measures and political oversight to ensure multi-stakeholder engagements at national and international levels.  
+CBAS is working hard to develop and progress by expanding its technical resources, diversifying  
+capacity and strengthen its systems. CBAS invites all interested parties and the UN to discuss the proposed process and welcomes suggestions and comments from international community. CBAS hopes to continue to develop this concept further and improve it with the support of the international community. We also look forward to coordinating our work with that of other multinational initiatives focusing on the broad topic of digital public goods for the SDGs and the related challenges of open science, and also commit to support global efforts towards these aims. 
+8. Acknowledgements
+The team of authors would like to thank the following experts who participated in the expert survey and contributed to this report with their inspiring thoughts and suggestions regarding the Global Digital Compact and Digital Public Goods as part of the research process in preparation of this report. (List in Alphabetical Order).
+12Sukri Ahmed UN Food and Agriculture Organization
+Linyan Bai International Research Center of Big Data for Sustainable Development Goals
+Valery Bondur*Institute for Scientific Research of Aerospace Monitoring, Russian Academy of 
+Sciences
+Emily Ying Yang ChanCollaborating Centre for Oxford University and CUHK for Disaster and Medical Humanitarian Response (CCOUC)
+Lei Luo B/O 
+Digital Heritage LabInternational Research Center of Big Data for Sustainable Development Goals
+Yingying Dong Aerospace Information Research Institute, Chinese Academy of Sciences
+Changyong Dou International Research Center of Big Data for Sustainable Development Goals
+Jie Fang Zhejiang University City College
+Wenxue Fu International Research Center of Big Data for Sustainable Development Goals
+Gregory Giuliani* University of Geneva
+Changchui He* Academy of Digital China (Fujian)
+Mario Hernandez International Society of Digital Earth
+Wenjiang Huang International Research Center of Big Data for Sustainable Development Goals
+Guoqiang Jia International Research Center of Big Data for Sustainable Development Goals
+Hongdeng Jian International Research Center of Big Data for Sustainable Development Goals
+Gretchen Kalonji* Sichuan University
+Joni Kujansuu University of Helsinki, INAR
+Markku Kulmala University of Helsinki, INAR
+Kamal Labbassi Chouaib Doukkali University
+Hui Li International Research Center of Big Data for Sustainable Development Goals
+Lu Li International Research Center of Big Data for Sustainable Development Goals
+Xinwu Li International Research Center of Big Data for Sustainable Development Goals
+Shuang Liang International Research Center of Big Data for Sustainable Development Goals
+Jian Liu International Research Center of Big Data for Sustainable Development Goals
+Youqing Ma International Research Center of Big Data for Sustainable Development Goals
+Yuanxu Ma International Research Center of Big Data for Sustainable Development Goals
+Jihua Meng International Research Center of Big Data for Sustainable Development Goals
+Guang Liu B/O Microwave 
+Remote Sensing LabInternational Research Center of Big Data for Sustainable Development Goals
+Kassim S. MwitondiSheffield Hallam University, College of Business, Technology & Engineering (BTE), Industry & Innovation Research Institute
+13Stefano Nativi* National Research Council of Italy
+Jessie Pechmann Humanitarian OpenStreetMap Team
+Ronit Purian Tel Aviv University
+Guihua Shan Computer Network Information Center, Chinese Academy of Sciences
+Qian Shen International Research Center of Big Data for Sustainable Development Goals
+Hussein Sherief Almaahad Almutagadem Specialized Computer Training Center (AASCTC)
+MIHÁLY Szabolcs* Hungarian Society of Surveying, Mapping and Remote Sensing (MFTTT)
+Yunwei Tang Aerospace Information Research Institute, Chinese Academy of Sciences
+Paul Uhlir U.S. National Academy of Sciences
+Changlin Wang* International Research Center of Big Data for Sustainable Development Goals
+Qinjun Wang International Research Center of Big Data for Sustainable Development Goals
+Wenjin Wu International Research Center of Big Data for Sustainable Development Goals
+Jing Xie The Lanzhou Branch of the National Science Library
+Qiang Xing International Research Center of Big Data for Sustainable Development Goals
+Cunjin Xue International Research Center of Big Data for Sustainable Development Goals
+Lin Yan International Research Center of Big Data for Sustainable Development Goals
+Huichun Ye International Research Center of Big Data for Sustainable Development Goals
+Qin Zhan International Research Center of Big Data for Sustainable Development Goals
+Anzhi Zhang Institute of Atmospheric Physics, Chinese Academy of Sciences
+Haiying Zhang International Research Center of Big Data for Sustainable Development Goals
+Hao Zhang International Research Center of Big Data for Sustainable Development Goals
+Shuo Zhang International Research Center of Big Data for Sustainable Development Goals
+* CBAS International Advisory Committee Members
+2

@@ -1,0 +1,1451 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Research ICT Africa’s Submission to 
+the Global Digital Compact  
+ 
+What would a Just Global Digital Compact for Africa look 
+like?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Workshop 17  
+17 Dock Road  
+V&A Waterfront  
+Cape Town, 800 1 
+South Africa  
+Phone:  +27 21  447 6332  
+www .researchictafrica.net  
+
+  
+Table of Contents  
+Preface  4 
+1. Introduction  1 
+2. Policy prob lem  3 
+2.1. Intersectional inequality and the digital inequality paradox  3 
+2.1.1. The digital inequality paradox  Error! Bookmark not defined.  
+2.1.2 Intersectional inequality  4 
+2.1.3. Economic and social justice  5 
+2.1.4. Public -interest research and public data  7 
+3. The need for a governance framework in ensuring access to global digital public goods  8 
+3.1 Balancing demand  side -valuation in resource  allocation with commercial, supply -side valuation of scarce 
+resources  9 
+3.2 Global governance of digital public goods  10 
+3.3 Reco mmendations  11 
+4. Critical themes  11 
+4.1 Public data for evidence -based policy to redress digital inequa lity 11 
+4.1.1 Recommendations  15 
+4.2 Connectivity, access, pricing and quality  15 
+4.2.1 Conne ctivity  15 
+4.2.2 Pricing and affordability  16 
+4.2.3 Quality  17 
+4.2.4  Recomme ndations  18 
+4. 3  E -Trade, labour, taxation and social protection  19 
+4.3.1 Trade  19 
+4.3.2 Labour  20 
+4.3.3 Taxes  21 
+4.3.4 Social protection  22 
+4.3.5 Recommendations  22 
+4.4 Data governance and realising data justice in Africa  23 
+4.4.1 Data governance  25 
+4.4.2 Data justice  26 
+4.4.3 Reco mmendations  27 
+4.5. Disinformation an d information disorders  27 
+4.5.1 Information disorders in Africa  27 
+4.5.2 Disinformation and content reg ulation  28 
+4.5.3 Recommendations  30 
+4.6 Harnessing AI for Africa  30 
+4.6.1 Data governance tow ards innovation of AI in Africa  31 
+4.6.2 AI and biometric identification  31 
+4.6.3 AI and labour in Afric a 32 
+4.6.4 Recommendations  32 
+Annex 1. Summary of recommendations  34 
+  
+ 
+ Preface  
+This submission i s based on a public consu ltation of an earl ier discussion paper that draws on the 
+research and evidence base that Research ICT Africa (RIA)  has built over two decades  to support the 
+development of contextualised policy and r egulatory strategies, as alterna tives to those that have 
+failed to redress digital inequality and data injustice in Africa. The consultation took the form of a call 
+for comments on the discussion paper,  either through email or an online form on the RIA website.  
+We then held a consultati ve webinar to engage a multistakeholder audience on the content.  A 
+French version of the webinar presentation was posted for comment.  RIA then revised the discussion 
+document into this submission. This is intended to s erve as an evi dence base and propose d framing 
+for the online submission made in response to the UN Secretary General’s  call for input  into a Global 
+Digital Compact.   
+The overarching question we asked in our public consultation, and which informs our research 
+agenda is: what policies and forms of governance are required to realise global digital public goods  
+at the nation al level, to redress digital ine quality, harness the potential of new technologies for social 
+and economic development, improve public sector efficiency and delivery and create public value? 
+This submission was  prepared by:   Alison Gillwald , Andrew Patri dge, Andrew Rens, Abdiaziz Ahmed, 
+Araba Sey, Diana Nyakundi,  Guy Berger , Liz Orembo, Jackie Okello, Naila Govan Vassen , Rachael 
+Adams, Roland  Banya, Sandra Makumbirofa, Samantha  Msipa, Senka Hazdic with contributions from 
+Steve  Song.  
+We wo uld also like to thank all RIA staff past and presen t who have built the repository of knowledge 
+on which we draw, together with our partners  across Africa and collaborators across the world.  
+The authors would like to thank the participants in its online consultations and the donors that made 
+possible the independent research and the RIA ’s contribution to global regional and national policy 
+processes such as these, particularly current donors IDRC,  SIDA, the Bill and Melinda Gat es 
+Foundation and GIZ.   Th e views expressed are those of Research ICT Africa a nd do not represent or 
+reflect those of the donors.  
+For further information contact: Alison Gillwald agillwald@research ictafrica.net  or  Liz Oremb o 
+lorembo@researchictafrica.net   
+ 
+ 
+ 
+ 
+1 1. Introduction  
+Research ICT Africa (RIA) welcomes this call for submissions for stakeholders to contribute to the 
+development of a Global Digital Compact (GDC). We are an African digital policy, regulation and 
+gov ernance think tank that has operated for two decades to fill a strategic gap in the development of 
+a sustainable information society and di gital economy. Through rigorous and relevant research and 
+analysi s, RIA seeks to build an African knowledge base in s upport of digital equality and data justice  
+and to monitor and review developments on the continent. Our input into the GDC draws on the 
+evidence base that we have built over two decades of digital polic y research,  and which supports the 
+development of con textualised alternative policy and regulatory strategies to those that have thus 
+far failed to redress digital inequality and int ensifying data injustice in Africa.    
+The digitalisation of the e conomy and society and the datafication of almost all activiti es of the 
+connected has promoted economic efficiency, increased access to the means of production and 
+communication, and driven i nnovation. These developments have been extremely uneven however,  
+both between and within countries, with most  the world’s popu lation still marginalised from access, 
+or from productively using the Internet to enhance their well -being or to i mprove their livelihoods. 
+Moreover, inequality is being exacerbat ed by the layering of advanced technologies such as machine 
+learning and Arti ficial Intelligence (AI) over  existing  intersectional digital inequalities  – which already 
+reflect underlying str uctural inequalities. These intensifying global processes of digi talisation and 
+datafication are simultaneously accompanied by a plethora of i ndividual and (particularly poorly 
+understood and defined) collective risks that, unmitigated, could result in wid espread harms to 
+human rights, including to sustainable developme nt and democracy.  
+UN Secretary -General Antonio Guterres identified this when he described digitalisation as one of two 
+seismic shifts that will shape the 21st Century, the other being climate  change. He cautioned that 
+both would  widen inequalities eve n further unless urgently addressed on a planetary scale.  
+The COVID -19 pandemic h as further highlighted the compounding effects of digital inequality on 
+underlying structural inequality. The  uneven capabilities of individuals, formal and informal firms, 
+and states to mitigate the public health and economic risks associated with lockdow ns through the 
+digital substitution of access to work, schooling, food -sourcing, public services and  social relief 
+programmes have  highlighted the centrality of d igital inclusion. This bleak  scenario has been 
+compounded by high incidences of geographic, ge nder, race and ethnic marginalisation and 
+discrimination, particularly among refugees, who  fall out of even the most basic safety nets where 
+they exist.  
+This unevenness, marginalisation and exclusion  applies not only to economic and social 
+participation, global competitiveness or the geopolitical positioning of states  but also to exercising 
+effective citizenship. Rather than fostering politi cal inclusion, increased digitalisation is 
+accompanied  by a sense of democratic erosion, disinformation and disorder i n an increasingly 
+digitalised public sphere.  
+ 
+2 To arrest the se negative trends and the lack of progress being made towards achieving th e 2030 
+Sustainable Development Goals, the UN Secretary General has called for a renewal of the social 
+contract, anchored in human rights and gender equality, to rebuild trust and so cial cohesion  
+that people need to see reflected in their daily lives.   Hi ghlighting the centrality of digital 
+inclusion in contemporary society, the Common Agenda, which was borne out of a declar ation 
+by the General Assembly during its commemoration of 7 5th Anniversary in 2021, calls for a 
+Global Digital Compact  that  “should a lso include updated governance arrangements to deliver 
+better public goods and usher in a new era of universal social prot ection, health coverage, education, 
+skills, decent work and  housing, as well as universal access to the Internet by 2030 as a basic hu man 
+right so all citizens have a say in envisioning their countries’ futures.”  
+The realities of underdevelopment in the G lobal South, combined with the speed of digitalisation, 
+und erscore the need to innovate policy formulation, regulation and global gove rnance to propose 
+solutions to the wicked policy problem of the digital inequality paradox . The paradox  lies in the fact 
+that as more people are connected to the Internet – which has the potential to enable a new social 
+compact, support economic and political state formation, and create  public data for policy and 
+planning, job creation, resource mobilisation a nd redistribution –  this , in fact,  amplifies structural 
+inequalities in developing countries as well as lends itself to disinforma tion operations that 
+disadvantage already vulnerable people.  This has made it critical to find more inclusive and 
+equitable ways of bringing people online, ensuring the capabilities not only to use general purpose 
+technologies such as the Internet for per sonal use but also to deploy them to enhan ce their lives, 
+produce value and contribute to the prosperity of nations a nd an information environment 
+conducive to democracy and sustainable development.  
+With its mission of accelerating digital equality and dat a justice in Africa, RIA has developed a 
+comprehensive submission in response to the UN Secretary General’s call for inputs on the GDC 
+as part of the Common Agenda. The overarching question the submission seeks to address is what 
+policies and forms of gove rnance are required to realise global digi tal public goods at the national 
+level, to redress digital inequality, harn ess the potential of new technologies for social and economic 
+development, improve public sector efficiency and delivery and create public value.  
+What is needed to protect citizens  from harms associated with being data subjects of big data 
+collection and analytics and to mitigate the risks of ever -more pervasive extractive monopoly 
+platforms that are nudging, shifting and modifying our behav iours?  This submission contends that 
+non -siloed, transversal digital and data policy recognises the role of digital public goods as central to 
+contemporary forms of democratic participation and as key inputs and enablers of economic 
+transformation, togeth er with human development strategies and r ights preserving regulatory 
+arrangements to redress intersectional inequali ty and foster integrity in the information 
+environment.  Such a policy, under the right conditions and which acknowledges the political 
+eco nomy of developing countries, will be esse ntial to post -pandemic economic reconstruction and 
+the building of more dem ocratic, inclusive and equitable social compacts. The submission proceeds 
+by identifying the wicked policy problems arising from digital in equality and data injustice, through 
+an in tersectional inequality lens and  from an African perspective. It proposes for the GDC  a global 
+digital public goods framing for the global  governance of the intensifying process of digitalisation 
+3 and dataficatio n and in doing so it surfaces  seven  crit ical areas that could contribute significantly to 
+more equitable and just d igital policy outcomes:  
+▪ public data for evidence -based policy;  
+▪ connectivity, access, pricing, quality;  
+▪ e-trade, labour, taxation and social  protection;  
+▪ data governance and data justice;  
+▪ disinformation and the information disorder;  and  
+▪ harnessing AI f or Africa (opportunities and harms).       
+2. Policy problem  
+Intensifying globalisation has been both driven and produced by dramatic technologica l innovation s  
+and giant corporations that have resulted in  massive efficiencies and opportunities through 
+digitalisation and datafication. However,  this has been highly uneven with the majority of the world 
+population far removed from these benefits, but  still vulnerable to the harms.  
+These developments have been ushered in by global oligopoly platforms o perating new forms of 
+extractive capitalism, with platforms amassing large amounts of data on their users, which is used to 
+both shape their online beha viou r and sold to advertisers for targeted advertising. At the same time, 
+the platforms’ architectures h ave lent themselves to exploitation by actors whose business practices 
+infringe human rights, while platform spending patterns have neglected the import ance  of 
+monitoring, moderation and risk assessments in the Global South. These global trends have also 
+enabled the emergence of a raft of disruptive digital and ‘virtual’ low -cost substitutes for physical 
+services. On the one hand, they have offered new li velihood opportunities, such as Uber, AirBnB, 
+AmazonTurk and Fiverr, but on the other, they have operate d outside of traditional market 
+regulation and consumer and labour protections. Data from RIA’s After Access surveys  from 2018 and 
+2022 confirmed the r epli cation of existing patterns of exploitation in these new work models .The 
+governance of these comple x and adaptive systems is one of the most vexing policy problems facing 
+states in their efforts to improve social and economic inclusion. It is problema tic not just from a 
+resource allocation point of view, but also because it is, unchecked, exacerbating  existing socio -
+digital inequalities and even introducing new ones.   
+2.1. Digital inequality paradox  
+As affordable and meaningful access to digital serv ices becomes critical to inclus ive social and 
+economic engagement, and indeed to survival, as witnessed during the COVID -19 pandemic, 
+redressing the digital inequality paradox  has become one of the most wicked policy problems of our 
+time. Efforts to ensure digital equality, no t simply inclusion, have also b ecome more complex than 
+they were a decade or two ago when policy concerns around the ‘digital divide’ reflected narrow 
+connectivity challenge s resulting from lack of access to basic communication services. From a policy 
+and regulatory perspective, the par adox lies in the empirical observation that as more people are 
+4 connected, and as advanced technologies are layered over unevenly accessed and used foundational 
+technologies, digital inequality is increasing. This is not only the case between those online a nd 
+those offline (as is the case in a voice and basic text environment). It is also between those who have 
+the technical and financial resourc es to use the Internet optimally, and those who are ‘barely’ online. 
+The latter inc ludes those who only have parti al access to poor -quality or expensive data services that 
+do not permit them to be 'always on' or to use data -intensive services. The gap is w idening between 
+those who passively consume a limited number of basic services, tho se able to put technology to fu ll 
+and productive use, and the few able to innovate and contribute to the prosperity of nations.  In 
+addition, the competencies to understand and use ICTs in the contemporary global political 
+economy are an essential element to consider, ranging from fluen cy in dominant languages through 
+to media and information literacies.  
+2.2. Intersectional inequality  
+Confronting the digital inequality paradox requires an in -depth understanding of the complexity of 
+these dynamic communicat ions systems and a more nua nced and granular understanding of the 
+nature of inequality. Adopting an intersectional approach  to understanding inequality can help to 
+over come the homogenising language of marginality, exclusion and poverty and draw attention to 
+the relevance o f social context, power relations, social inequality, relationality, social justice and 
+complexity. For analytical purposes , these concepts facilitate understanding of how digital inequality 
+is shaped by the intersection of multiple social i dentities, and the multifaceted points of policy 
+intervention required to redress or reduce it.  
+For example, social context is especially  significant when importing policy reforms designed in the 
+Global North into the Global South, as their implementation  may translate into different outcomes 
+from those experienced in the Global North. Likewise, exami ning social inequality at national and 
+global levels shows how power relations and social justice are linked not only to human rights 
+considerations but also to complex dynamics of global economic inequality. Indeed, while the digital 
+divide is the gap bet ween those who do and do not have access  to digital technologies, it more 
+importantly concerns the significant economic opportunity made possible through tech nology, as 
+well as capacities to affect governance around the control of such technology and wider  digital 
+literacies.  
+Without economic or  material justice, the rules may appear to be equally applied to everyone, yet 
+still produce unequal and unfair outcom es. Acknowledging these complexities provides the multiple 
+lenses necessary to conceptualise the d ynamic and globalised processes of digit alisation and 
+datafication that we seek to measure and on which basis we seek to develop policy. An example is 
+that op en access data is in theory open to all interested actors, but in practice can be put to most use 
+by powerful, private interests, unless p roactive policy measures are applied.  
+2.3 Gender equity  
+One critical area of application is in gender equity . Based o n the premise that the Internet can 
+contribute to the achievement of the Sustainable Development G oals (SDGs), calls for digital equality 
+have been foremost in organisational agendas both at the international and national levels over the 
+5 years. One of the precepts of the 2030 Agenda for Sustainable Development – “leave no one behind” 
+– hinges on gender  equality. SDG Goal 5b specifically iden tifies the enhanced use of enabling 
+technology, in particular ICTs, to promote the empowerment of women.  
+As Internet access figures increase, gender indicators will move towards the parity  seen in mobile 
+voice serv ices. But this is a long way off in most  developing countries. It will also not happen 
+equitably, since those at the intersection of multiple inequalities are  least likely to come online, even 
+as coverage increases, and prices decrease.  Women in seemingly  similar country contexts face very 
+different outcomes in terms of equal access to and use of technology. Even within countries, stark 
+differences are observe d for women accessing the Internet, across factors such as geographic 
+distributions, education, ag e and business formalisation. The widesp read abuse of women online 
+must also be taken into account, due to its likely influence in dissuading women (especiall y 
+journalists, activists and politicians) from full engagement online even when they have the tech nical 
+and economic capacities for access . The influence of these factors on access and use are themselves 
+not independent from each other either. There is a s trong need for deeper analysis of nationally 
+representative individual -level data to better und erstand these intersectional inequalities, and the 
+linkages between technological developments and their potential to contribute to socio -economic 
+development. T his will require systemically redressing underlying structural inequalities that are 
+mirrored i n digital inequality.  Equitable digital in clusion will require not only digital policy 
+interventions but integrated strategies to improve education and employme nt opportunities and 
+thereby incomes. This will ensure the right policy interventions which do not exacerbate current 
+inequalities.  This is discussed further in the  next section.  
+The implications of failing to address digital inequality in the information  era are severe as the 
+Secretary General has pointed out.  While global reform and donor agenda s have shifted from 
+foundational digital in equality to issues of machine learning, AI for development and the ethics of 
+technical design, the ramifications and g overnance challenges of remedying inequality and exclusion 
+in the digital polity and economy ar e not unrelated. The exclusion of people fr om online financial 
+services, remote and platform work, and digital production makes them invisible in the data 
+extrac ted by global monopoly digital platforms for the purposes of creating lucrative digital 
+intelli gence.  
+As a result, those at the intersect ion of multiple inequalities, of class, race, gender, citizenship and 
+ethnicity, are underrepresented and discriminate d against in automated algorithmic decision -
+making. While proposed ethical and responsible desi gn in data -driven technologies may go some 
+way to alleviating some of the obvious problems associated with bias and lack of transparency, they 
+are unable to deal  with the structural inequalities reflected in the generation of data at scale and the 
+systemic  perpetuation of historical injustices in t heir application to millions of micro decisions made 
+daily on the basis of giant social networking data sets.  
+2.4 Economic and social justice   
+While these structural inequalities will only be addressed through more fundamental economic and 
+social transfor mation, there are some systemic issues that can be redressed through policy 
+intervention. At the very least it wil l require the regulation of gl obal digital public goods such as  
+6 spectrum, Internet, and data to ensure access to the means of communication a nd production and a 
+system of governance to mitigate against the associated risks. To promote more equitable and j ust 
+outcomes, economic regulat ion (as well as other regulatory arrangements)  is necessary to enable 
+more even distribution of the opportuniti es arising from the data economy, not only the prevention 
+of harms to democracy and development. Awareness about t he value of data for socio -economic 
+development and its ability to contribute to the realisation of the 2015 UN SDGs has become 
+increasingly p revalent.  
+With the global crisis precipitated by COVID -19, the growing dominance and linkages of data, big data 
+analytics, the Internet -of-Thin gs (IoTs) and algorithms have placed data as a key resource in public 
+health management and economic reconstruct ion. This has amplified the need for data governance 
+and institutional arrangements to reduce the current unevenne ss of digitalisation and dataf ication 
+within and between countries. The emerging literature and practice of data governance have mostly 
+been a pproached from a negative regulatory perspective. That is to say it has sought to prevent 
+harms in relation to rig hts violations and mitigate as sociated risks – particularly privacy and security 
+but also freedom of expression. Positive discrimination to re dress intersectional inequality in the 
+areas of access to affordable, adequate quality broadband, consumer protect ion, data protection, 
+public p rocurement and data access and sharing is required. Likewise, media and education literacy, 
+including digital po litical economy and digital rights, is also needed.  
+While various global and local epistemic communities are grapp ling with these issues, increa singly in 
+relation to AI becoming the next general -purpose technology, very little of this has focused on 
+econom ic governance. Yet  there are many areas of data governance such as data availability, 
+accessibility, usability, i ntegrity, as well as concerns about ownership, impacts on trade and 
+competition that require positive regulatory or governance intervention. B alancing current 
+commercial, supply -side valuation of data used in the allocation of resources and which has 
+produ ced these outcomes, with the d emand -side valuation in the allocation of resources that 
+recognises their social value including as common goods  is necessary  to ensure more inclusive and 
+equitable  policy outcomes.  
+Some of the reasons for this lack of attention to economic regulation (and to the neglected area of 
+demand -side value of poo led resources) relate the heterogeneity of data and the complexity of the 
+governance of different kinds of data.  But as  IT for Change  has noted , “it suits those in whom much 
+of the value of data collected from across the world is concentrated for there to be no regulation … 
+Calls for the opening up of data m arkets or data flows without e nabling the fair and equitable 
+participation of individuals, communities and countries disadvantage mostly countries in the Global 
+South and groups that are currently marginalised  in the value chains and hierar chies from the global 
+digital economy …”   
+The pandem ic and lockdowns have also amp lified the scope for the private sector to fulfil traditional 
+public sector roles, or at least become significan tly involved in their delivery  without necessarily t he 
+same accountability as the state. These partnerships create new power relations with which 
+substantive laws have been slow to engage. In ad dition, many developing countries are increasingly 
+reliant on digital giants in the Global North for the developme nt of digital responses to a v ariety of 
+problems (e.g., contact -tracing apps’ reliance on a Google -Apple API), while a handful of digital gian ts 
+7 are playing an increasingly central role in various aspects of the digitalisation of all parts of life  
+leading to concerns of  ‘digital colonialism’  and ‘surveillance capitalism’ , along wit h a plethora of 
+other risks th at are unfolding in digital contexts (e.g., those related to abuse of digital dominance). 
+These present global r egulatory challenges in which cross -border power evades national regulation. 
+This is especially probl ematic  when such regulation is democratic, has adequate checks and 
+balances, is participative  and aligned to human rights, which are foregone by the cross -border 
+operations of digital giants.  
+2.5 Public -interest research and public data  
+Despite  such concerns, and the focus on preventing harms and mitigating risks associated with the 
+intensifying processes of datafication and digitalisation, research and syst ems of global governance  
+are still limited. The tools that do exist fo r evalu ating the outcomes or implications of these 
+processes either tend to be applied to assess the collateral benefits of ICTs or to potentially negative 
+outcomes in primarily Global N orth contexts, rather than considering the likely very different impac ts 
+in the very different contexts  of developing countries. In the absence of public statistics and public -
+interest research, information is highly asymmetrical between citizens and commu nities and the 
+public and private sector,  particularly big tech wh ose business is to extract data on a global scale to 
+create and sell market intelligence from which super profits are made. High -quality public data is 
+necessary to identify the precise poi nts of policy intervention, the necessary regulation, and ar eas of 
+international cooperation required for governance. Public data is also required for planning and 
+implementation and to measure and assess policy and regulatory outcomes and the progress bei ng 
+made towards a more equitable and sustainable planet . Without access to the swathe of data in the 
+private sector, regulation cannot be evidence -based, and policies for mitigation and empowerment 
+will be weakened.  
+8 3. The need for a governance framework i n ensuring access to global 
+digital public goods  
+Box 1 :  What are public goods?  
+Although the term ‘public good’ is popularly used interchangeably with ‘public interest’, referring to 
+something  that is ‘good for the public’ (e.g., water, forests, knowledge etc.), in economic terms it is 
+distingui shed from private goods in that a public good is inherently non -rivalrous in consumption (it is 
+infinitely usable without detracting from another person's ability to use it). While private goods are 
+excludable, publi c goods are naturally non -excludab le, wh ich means that there are no natural barriers 
+to using them. Free -to-air public broadcasting (spectrum) is often cited as a classical example of a 
+public good in that the use of free -to-air radio or television (tradit ionally the public broadcaster)  b y one 
+person does not detract from another person’s use (assuming no interference with the signal or 
+congestion). It is also non -excludable in that unlike an encrypted subscription service, no one can be 
+prevented from usi ng a free -to-air service .   
+Publ ic goods  are typically expected to be funded by means of a general contribution.  However, the 
+challenges of mobilising public (state) resources for the provisioning of public goods have  begun to 
+focus attention on providing  public goods through some f orm of exclusion, thereby allowing the market 
+to play a much greater role in delivering such goods. This effectively renders most public goods impure  
+in that they have been made excludable, often through regulation or for purpos es of commercialisation, 
+mon etisation and profit at the expense of public -service obligations or access. Although theoretically 
+debates over state and private provisioning have been polarised, in practice, state and no n-state actors 
+regulate each other’s c apacities to provide, access , and distribute public goods, often in ways that 
+compromise the ideal of public goods.  Democratic regulation can, however, uphold public interest by 
+excluding actors or practices that serv e only private interest, and conversel y can promote actors and 
+practices that do align with  the societal value of having inclusive public goods.  
+ 
+Over the past three decades, the liberalisation and privatisation of traditionally publicly provisioned 
+communications services has driven innovati on, creating an increasing ly complex and adaptive 
+global digital ecosystem. However, regulation has always la gged innovation and market 
+developments, and is seldom flexible enough to enable market innovation while providing certainty 
+to long -term infrastru cture investors,  ensuring  positive consumer welfare outcomes, and 
+safeguarding citizens from online harms to  human rights. Further, the creation of regulated 
+competitive markets for the private provisioning of publicly provisioned goods such as the mobile  
+telecommunications, has n ot been extended to the Internet, or data -driven technologies and 
+platforms which h ave been largely unregulated.  Although often presented as successful policy 
+outcomes of the traditional economic and competition regulators, mecha nisms of universal service s 
+funds to deal with market failures (or more accurately the market efficiency gap)  have not been 
+successful.   Large parts of the world lack  the institutional endowments even to create and 
+effectively regulate private markets, m uch less the new forms of multistakeholder governance 
+9 required to manage these increasingly complex, adaptive  systems. In addition, both driven by and in 
+response to intensifying globalisation, issues of cross -jurisdictional and global governance arose. 
+Even where these digital go ods were developed in more mature economies, advanced technologies 
+have been treat ed as private goods, unregulated and highly excludable, despite having been 
+developed with public investments . 
+In response to the limitations of pola rised state (public) ve rsus market (private) ideological positions, 
+more pragmatic and appropriate forms o f global governance have emerged.  New forms of ‘public’, 
+best understood as practices or communities of practice and distinct from traditional state notions of 
+public, have  emerged both in relation to the delivery and governance of public goods. These inc lude 
+community stations, community networks, spectrum commons and free public Wi -FI and data 
+commons, and alternative forms of data stewardship such a s trusts.  
+This has re sulted in normative dilemmas that have both challenged and reinforced liberal 
+democ ratic norms and multilateral decision making, as global governance has been absent,  
+transformed or reconstituted.   
+The growing prevalence of collabor ative forms of public goods governance (see below) does not 
+mean the end of the sovereign state; but it d oes change its nature and obligations in an increasingly 
+integrated world. In the state -market interplay, the state plays an important enabling role of  
+coordinating the priv ate delivery of public goods and in ensuring the governance of global public 
+goods at the national level. Despite the extensive role of private and commercial delivery of 
+information infrastructure, with the increased positive externa lities derived from di gital and data 
+infrastructure (including data governance), the role of the state as  coordinator and regulator in 
+ensuring its provision and management is still required to ensure widespread access by citizens, fair 
+distribution of soc ial gains and the miti gation of risks.  
+3.1. Balancing demand side -valuation in resource allocation with 
+commercial, supply -side valuation of scarce resources  
+Regulatory and economic analyses of privately delivered public goods over the past three decades 
+have relied on the com mercial, supply -side value of information, and  financial and e -trade flows 
+with re gards to the governance of global public goods. To develop alternative global governance 
+rationales, this submission makes the case for recognising the  often ignored demand -side value of 
+public goods that are more likely to ensure digital inclusion in a de veloping country context. A 
+demand -side analysis  focused on value -creation h ighlights that the out puts of digital infrastructure 
+industries are generally public and ‘non -market’ goo ds that create positive multipliers in both 
+economy and  society . 
+This is why some classes of key resources (like broadband Internet, spectrum or data) need demand -
+side valuation as opposed to the usual supply -side valuations to properly recognise and account for 
+their public utility. Demand -side valuation, whether of br oadband Internet, spectrum or of data, 
+enables public -interest governance of a resourc e as a non -rivalrous, low -excludability public good 
+that can be accessed for the purposes of public planning, entrepreneurship and democratic 
+accountability. Balancing th e commercial valuation of resources necessary to ensure delivery of 
+10 certain public goo ds such as digital and data infrastructure with a demand -side approach, enables 
+the creation of a commons, allowing those who are unable to afford commercial services to access 
+spectrum through unlicensed spectrum  or data through data lakes or alternative  forms of data 
+stewardship. Doing so also enables policy perspectives to shift , for example, from narrow negative 
+regulation with rules and penalties  focused mainly on compliance such as in spectrum management 
+or data protection to more positive regulati on that redresses inequalities and enables participation, 
+to meet the objectives of  digital equality and data justice.  
+3.2. Global governance of digital public goods  
+The  rise of the Internet as a global digital public good underpinning global trade, finan cial and 
+information flows requires  new forms of global cooperation. The shift in traditional power relations 
+between states, markets and citizens in global gover nance has blurred notions of ‘international’ and 
+‘national’ and of what constitutes public and  private. After several decades of private interests 
+dominating evolving forms of data governance, the role of public regulation of the Internet and 
+specifically platforms has re -emerged as a priority. The current challenges to ensure the provision of 
+glob al digital public goods lie in the increasing complexity and adaptiveness of the global 
+communications system and the shifting global governance responses to thes e. These include 
+complementary and competing systems of governance ranging from nation -state -based  multilateral 
+systems that have traditionally governed and coordinated global development, to new 
+multistakeholder formations accommodating state, private sector and civil society interests, as well 
+as to new forms of private authority, both commercial  and non -commercial as found in ICANN. 
+However, Africa has been almost invisible in these developments.  
+The  question arising is how Africa can better locate itself in global governance processes, not only to 
+ensure better outcomes in its own diverse intere sts but to participate more actively in setting the 
+global agenda .  A key issue here  is its capacity to do so.   Understanding the Internet as an (impure) 
+global public good  depends on Africa (and other regions) acquiring the relevant national and global  
+governance capacity to operationalise this understanding. This is because global  consensus on the 
+good governance of the Internet  (cybersecurity or data protection for example) only emerges, in 
+considerable measure, to the extent that countries can reprodu ce this consensus at the national (or 
+regional and sub -regional) level (e.g., c reating the conditions for private delivery of public goods such 
+as the Internet, or complying with global agreements to enforce cybersecurity). Understanding the 
+Internet as a global digital public good can only be defended through the imple mentation at a  
+national level in all countries including developing countries of this understanding, often through an 
+imperfect global governance consensus.  
+Underpinning the policy and regula tion of global digital public goods  is that they are a  common good 
+that has to be made available to all. While the concept of paying for national public goods such as 
+providing education or protecting clean air is widely understood, it is less clear who sh ould be held 
+responsible for general -purpose globa l public goods , such as the Internet, that serve the common 
+interest. While investment in global public goods has traditionally taken the form of official 
+development assistance (ODA), new forms of internat ional cooperation and institutions that will 
+suppo rt the develop ment of global digital public goods and ensure greater digital inclusion are 
+11 necessary. This has produced highly uneven results. More effective and shared measures such as 
+better global resour ce mobilisation through digital taxes  or ot her solidarity  mechanisms that have 
+been discussed in this submission will be essential innovations to ensure the universal availability of 
+these common goods.  
+This submission applies this understanding of the nee d for effective governance of global digita l 
+public goods  to the role of developing countries in Internet, data and platform governance and the 
+development of public digital and data infrastructure. It draws on research that has used the concept 
+to track a nd explain the funding of overt technical a ssistance, and  the tacit lobbying by various 
+interests (represented by multilateral agencies, global digital platforms, and industry associations) to 
+ensure the implementation of preferred global frameworks for cy bersecurity, data protection and 
+data gover nance at the r egional and national level. This submission also calls for greater 
+engagement and participation in global governance by African states, and in relation to their 
+potential for enforcing the legitimate  taxation of revenues by global platforms t hat, without t heir 
+physical presence in countries, is unenforceable.  
+3.3. Recommendations  
+Digital and data public infrastructure – integrated  broadband network infrastructure, the data and 
+services level and appli cations such as digital identif ication and pa yment systems – can only be 
+realised at the national level as a result of the global governance of global digital public goods.  Even 
+if privately provisioned, the state needs , through public interest  policy and  regulation , to ensure 
+equitab le access to public digital  infrastructure  so that  what should be common infrastructures does 
+not serve a small elite segment of the population.  
+4. Critical themes  
+4.1. Public data for evidence -based policy to redre ss digita l ine quality  
+There is a severe lack of good quality and publicly available data that captures digital inequalities 
+faced by marginalised groups, particularly in relation to the needs of those who are offline and to the 
+situation in countries which have fa llen furthest behind in digital access. Complex and nuanced 
+concepts such as gender tend to be reduced to narrow binary or categorical framing. Such 
+approaches fail to recognise heterogeneity within categories and  the intersectional nature of 
+inequalities . Eff orts to m ove beyond descriptive statistics allow for some demonstration of the 
+various factors determining the exclusion of people living at the intersections of multiple 
+inequalities.  To appropriately inform and influence decision -making, it is nece ssary  to produ ce 
+rigorous data differentiated along multiple dimensions to help isolate the exact points of policy 
+intervention required. To this end, through its nationally representative After Access surveys , RIA has 
+been producing high -quality data on digitalisation and datafication in Africa since 2004.  
+The After Access surveys   show how ho useh olds interact with ICTs across multiple countries in Africa, 
+providing valuable insig hts into digital inequalities, including with respect to gender.  Data from the 
+2022 round shows contrasting gendered trends across different countries (Figure 1). In Sout h Africa, 
+for example, Internet access has increased significantly since 2018 and the  gender gap has been 
+12 reduced to a negligible level. On the other hand, in Nigeria, while the gender gap has declined since 
+2018, overall, Internet access has also decl ined . In Uganda, overall Internet access has increased but 
+mainly for men, with the gende r gap widening since 2018.  
+Figure 1: Internet access and gender gaps  in South Africa, Nigeria and Uganda; 2012, 2018 and 
+2022  
+ 
+Data Source: ( RIA, 2012, 2018, 2022 ) 
+ 
+The survey  highlights the risks of aggregating statistics on digitalisation both within African 
+countries, and for Africa as a whole. In all three countries there has been a sig nificant increase in 
+Internet access at the household level since 2018, covering the COVI D-19 period over which the share 
+of consumers reporting an increase in the frequency of Internet use ranged from 67% to 70%. 
+However, across all three countries, the i ncre ase happened almost entirely before the pandemic and 
+those who were not online before  it occurred were unable to digitally substitute and will have been 
+further marginalised by the increasing prominence of the digital economy.  
+Similar considerations a re p ertinent for gender data. Gender is inseparable from race, class, culture 
+and religio n, and cannot be understood in terms of discrete, quantifiable indicators to which it is 
+often reduced in descriptive statistics or digital indicators. The importance of considering 
+intersectionality is demonstrated in the Internet access rates for differe nt groups of females (Figure 2 
+below). Whilst levels vary, there is a universal variation in access based on geographic location, 
+income and education, highlighting th e he terogeneity of females. Moreover, those who face extreme 
+digital marginalisation  are  individuals at the intersections of these inequalities, for example, rural 
+females with low levels of education residing in low -income households.  
+
+13 Figure 2: Internet acce ss for females by geographic location, income level and education  
+ 
+Data Source: ( RIA, 2022 ) 
+ 
+Whereas it is advocated within the UN Statistical  system that ICT surveys be conducted on a regular 
+basis, across most countries in the Global South there are almost no  dedicated resources to do so 
+and at best a few digital indicators included in national censuses or household surveys. In addition, 
+much of the very limited quantita tive research fails to assess the intersectional nature of 
+marginalisation. The World Bank’ s World Development Report ( World Bank, 2021 ) notes that when 
+data quality is poor, it lacks gran ularity, accuracy, and comparability. It also notes that the gaps in 
+data on women and girl s are particularly severe. Only 10 of the 54 gender -specific indicators (19%) in 
+the SDGs are widely available and only 24% of the available gender -specific indicato rs are from 2010 
+or later.   
+The increased availability and usability of big data provides valuable opportunities for analysing 
+consumer behaviour, but from a policy perspective there needs to be more focus on analysing the 
+behaviour and needs of the margi nalised and those whose rights to expression and access to 
+information are at risk. A major  challenge in collecting data on marginalised groups and in 
+marginalised countries is that most individuals operate “invisibly” and, as they are not online or 
+minima lly so, need to be identified so that the multiple factors preventing people coming online are 
+as well understood as the factors enabling people coming online.  
+Access levels are not the ‘be all and end all’, and it is important that digitalisation efforts ensure that 
+once individuals gain Internet access, they are also able to equally use the In ternet meaningfully and 
+without fear. Rights must be respected online, as offline. In South Africa, the gender gap has been 
+eliminated at the national level.  Howeve r, when viewing specific uses of the Internet through a 
+gender lens, it is clear that femal es are at a disadvantage when compared to men. In nine (75%) out 
+of twelve use categories, male use is higher than that of females (Figure 3).  
+ 
+
+14  
+Figure 3: Gender gap s in Internet use amongst online individuals, 2022  
+ 
+Data Source: ( RIA, 2022 ) 
+Whilst the After Access surveys provide valuable insights, they are limited to a small selection of 
+African countries and the contrasting situations and trends observed across these countries s how 
+that these cannot be considered accurate representations for the rest of the continent. Outside of 
+these surveys, such data is in critically short supply.  
+ 
+Box 2  
+A successful initiative in addressing the  problem of the dearth of public data has been 
+implemented by the Regional Centre for Studies on the Development of the Information Society 
+(Cetic.br ), a department of the Braz ilian Network Information Centre ( NIC.br ). Through Cetic .br, a 
+percentage of Domain Name Subscription (DNS) fees are pooled to fund the conducting of surveys 
+to provide robust ICT statistics and to undertake research to e nsure inclusive access and use of 
+technologies. If such a model could be adopted on the Afr ican continent, it would ensure data is 
+generated to speak to the reality for all countries.  
+ 
+In summary, despite an increase in the number of individuals who are abl e to access and use digital 
+technologies, there remain large gaps across different region s, across different countries within 
+regions, across different population groups within countri es and even within population groups at 
+the intersections of other inequ alities. Moreover, once analysis moves beyond access alone to assess 
+the ability to use d igital technologies in a meaningful and safe way, even wider inequalities surface. 
+Whilst the C OVID -19 pandemic accelerated digitalisation around the world, evidence s uggests this 
+mainly came in the form of increases in intensity of use by those already on line, with those offline 
+before the pandemic facing further marginalisation. It is also necessa ry to underline that even when 
+all conditions are considered for ensurin g optimum access to the Internet, there need to be 
+conditions related to the supply side – such as local content online, independent journalism and a 
+
+15 free flow of information in line w ith the right to freedom of expression and access to information in 
+inte rnational human rights law.  
+Nationally representative individual -level data on ICT access  and use is critical for identifying the 
+precise points of policy intervention in evidence -base d policy making. Without this, national 
+indicators and assessments of us ers' needs will always be biased towards more developed countries 
+and towards those who h ave already been integrated into the digital economy.  
+4.1.1 . Recommendations  
+Given the above, the following policy recommendations are made:  
+▪ Produce better data:  The  UN statistical system is currently unable to obtain the granular 
+data required for digit al policy and planning from developing countries. An international 
+mechanism needs to be develo ped to ensure the collection of digital public statistics as a 
+public go od, accessible and usable by all, and with all necessary ethical and rights -preserving 
+aspects of gathering large data sets. This should include efforts to support African use of such 
+data, including by supporting regional entities such as the African Unio n, UN Economic 
+Commission for Africa (UNECA) and the African Development Bank to coordina te statistical 
+collection. This will require enhancing the capacity of national statistical off ices and political 
+commitment to do so. In addition, efforts are needed for enabling and tapping into academic 
+and civil society expertise on the continent to su pport the collection and analysis of 
+nationally representative demand -side statistics.  
+▪ Establi sh a digital solidarity fund:  As a single key recommendation for the cre ation of 
+global digital data as a public good, it is proposed that there is a 1% contribu tion from the  
+DNS  registration  fees  of all countries globally towards a digita l solidarity fund. This could be 
+allocated based on applications by stat es to the fund to enable the gathering of digital data 
+that can be disaggregated, analysed and evaluated . 
+▪ End siloed ICT policies : Develop evidence -based transversal digital strategies  focused on 
+human development, that foster more equitable social and  economic inclusion, and which 
+include  rights -preserving regulatory arrangements needed to redress intersect ional 
+inequalities reflected in the uneven impacts of digital devel opments.  
+4.2. Connectivity, access, pricing and quality  
+The UN has decla red access to the Internet  as essential to the exercising of the right to freedom of 
+expression and opinion  and othe r fundamental human rights , calling on states to ensure that 
+affordable broadband access is available to their citi zens and access to the Internet is not unlawfully 
+restricted. Yet m ost Africans do not have access to the Internet, and for many of the few  who do, their 
+use is highly constrained by the price of broadband data and the quality of services.  
+4.2.1 . Connecti vity 
+While telecommunications market liberalisation resulted in a communications revolution that 
+connected Africa to the world through mult iple undersea cables and cross -border fibre networks 
+traversing most parts of the continent and  brought basic telecom munications to the vast majority of 
+16 Africans, very f ew of this vast majority actually use the Internet. This is despite mobil e broadband 
+coverage being above 75% in most countries and well above 90% in many. This problem with low 
+Internet usage on the cont inent  is the result of both supply - and demand -side  constraints. 
+Broadband coverage  has been commercially driven with very few success stories of Universal Service 
+Funds (USFs) successfully dealing with the connectivity gap in areas where  low rates of p rofit mean 
+that private telecommunications companies  are not willing to invest in network extension in those 
+areas. Sometimes  referred to as market failure, the gap has more accurately been described as a 
+market efficiency gap.  
+USFs are usually financed t hrough mandatory contributions by telecom operators,  with the intention 
+of the fund being dispersed back to the operators or other entities to support connecting the 
+unconnected and underserved. However , these have not delivered on the promise of better 
+connectivity nor have they been updated to include the new range of connectivity providers that 
+emerged over the last 10 -15 year s.    
+The equitable assignment of spectrum in a manner that best serves national strategic interests 
+remains a challenge. Spectrum  auctions have proven difficult to execute well. High fees paid at 
+auction may be a windfall for the exchequer but have been s hown to result in lower consumer 
+welfare through reduced network roll -out and higher consumer prices.  
+4.2.2 . Pricing and affordabi lity  
+Despite significant investments in network extension, these have often not been effectively regulated 
+to produce competi tive markets and ensure positive consumer welfare outcomes.  Even with the 
+price reductions documented in the RIA Africa Mobile Pricing  (RAMP)  Index we know from the After 
+Access that the main barrier to Internet take -up and u se relates  to the affordability of a smart device 
+and, once people  are connected, the price of data.  We also know from modelling data that what  
+determines access and intensity of use is education and, its corollary, income (employment). Women, 
+especially t hose at the intersection of multiple other inequalities, are overr epresented amongst 
+those without access.  
+We also know that it is almost impo ssible to deliver broadband services at less than 2% of the 
+monthly GNI per capita  of least developed – and even  several developing countries – as proposed by 
+the Broadband Commi ssion. This is particularly not possible with the current high cost of GSM 
+technologies, inefficient business models, high transactional cost of spectrum assignment, and 
+regressive excise ta xes on low -end smart devices, social media and mobile money.   
+RIAs After Access surveys show, in South Africa and Uganda, 70% and 61% cited da ta prices are the 
+main impediments to access respectively ( RIA, 2022 ).  The evidence of these high data prices is 
+highlighted in the RAMP Index database  which  tracks the cheapest data and voice/SMS basket prices 
+for each mobile network operator in Africa, on a quarterly  basis.  Figure 4 shows the average price for 
+a 1GB monthly basket charged in different African countries in Quar ter 1, 2023. Research  has shown 
+that the high data price s in African countries  are due  to a lack of competition  in the mobile operator 
+markets.  
+17 Figure 4: Top five cheapest and bottom 1 3 cheapest 1GB mobile data pric es in Africa in Quarter 
+1, 2023  
+  
+Source: RIA’s Retail African Mobile Pricing (RAMP) Index, 2023  
+ 
+4.2.3 . Qualit y  
+On Internet quality, progress is evident. Coverage through 3G increased by 186% between 2010 and 
+2020, and 4G coverage has increased threefol d in the last five  years. However , the Speedtest by Ookla  
+shows that African countries still have on average low  mobile and fixed Internet speeds. Even before 
+the pandemic, Internet speed was below the acceptable threshold o f 10mbps, considered the lower 
+bound for a good quality broadband service.  
+Because of these serious access challenges to do with connectivity, p ricing and quality, we cannot 
+continue to do the same things in relation to affordable universal access policy a nd regulation and 
+hope  for different outcomes. We propose a fundamentally different approach to redressing access, 
+use and connectivity is sues. Through more effectively regulated competitive markets that enable 
+cost -based wholesale access to incumbent netw orks, and entry into the m arket of alternative and 
+cheaper business models and technologies to meet the needs of all citizens, the infrast ructure and 
+services gaps can be met in a way that dominant operators are unlikely to. Considerably cheaper 
+services c ould be provided through r egional dynamic spectrum licensing particularly in underutilised 
+rural areas  and micro and community stations w ith access to shared or common infrastructure.  
+Regulation which served well in predictable, slow -moving markets is no longer able to keep u p with 
+the pace of technological change and is often failing to enable smaller, nimbler organisations that 
+can a ddress access challenges with new technologies and business models.  Balancing the dominant 
+commercial valuation of spectru m with demand -side va luation that recognises it as public good, and 
+critical as a downstream input with both social and economic mult ipliers, is essential to achieve a 
+more equitable global digital compact. This includes setting aside spectrum for common u se and to 
+enable free  public access at schools and other public buildings.  
+
+18 4.2.4 .  Recommendations  
+▪ Build capacity among regulators : Regulatory frameworks are not keeping up with 
+technological progress, the consequences of which are most obvious in spectru m 
+management and admi nistering of USFs. Therefore,  it is essential for other stakeholders 
+(such as civil society and academia) to be i nvolved by:  
+- Providing training to national regulators, regional regulatory authorities, policy 
+makers and public fund hold ers on the constantly evolving technology landscape.  
+- Working together with regulators and policy makers to study the impact of 
+innovat ions on their own policy and regulatory frameworks, and update the 
+frameworks accordingly.  
+- Reviewing strategic plans via p ublic consultations, w hich can eventually lead to the 
+creation of dedicated projects addressing a specific issue.  
+▪ Develop innovative r egulatory approaches:   Regulatory approaches to increasing 
+connectivity are often designed to favour incumbents as the dri vers of an expansion in 
+access. Non -traditional connectivity providers and complementary access solutions, such as 
+small operators and  community networks, remain overlooked and often do not fit into 
+existing licensing regimes. However, they are relevant ac tors particularly in providing last -
+mile connectivity and need to be considered when the goals are connecting underserved 
+areas and lo wering the price of a ccess.  
+▪ Public financing: Through evidence -based analysis assess the value and regulatory 
+transactions  costs of USF access funds in contributing to the achievement of affordable, 
+meaningful access. If infrastructural deficits remain,  c reate more agile and accountable USFs 
+that reach the unconnected and underserved, while promoting competition and resilien cy 
+through a more diverse operator/provider base. The rules around governing and operating 
+these public funds should evolve as technol ogies evolve. Alterna tively,  use  the funds to 
+support the demand -side barrier to adoption such as digital skills shortag es. shift the levy for 
+the  provisioning of digital public goods to higher value contributions from operators and 
+platforms such as da ta. Mandate that publ ic access to big data that could be used as 
+administrative data and that currently sit behind a veil of unjustified confidentiality, be 
+opened ,  even six months after market use for public policy and planning.  Mandating 
+contributions  to data commons are all potentially of higher social value and easier to 
+implement.  
+▪ Infrastructure sharing: Regulatory pr ovisions for mandating infrastructure sharing can 
+counter market concentration and minimise unnecessary redundancy and duplication of 
+investments in suppor ting infrastructure (ducts, poles, towers, energy distribution grids). 
+This allows for reallocation o f infrastructure costs to investments in service quality 
+improvements, and reduces the market entry barrier for non -traditional connec tivity 
+providers and complementary access solutions.  
+19 ▪ Provide incentives for serving  rural, remote, or underserved areas:  Create  regulatory 
+enabled  business models where small operators help incumbents achieve universal service 
+obligations. Introduce si mplified licence exem ptions or licensing with low transaction costs 
+for small operators and community networks.  
+▪ Promote sp ectrum sharing:  Traditional operators have the rights to use portions of the 
+spectrum nationwide, but only deploy their services in ec onomically viable are as. New 
+approaches in spectrum assignment should take into account recent innovations that enable 
+dyn amic spectrum access and spectrum sharing.  
+▪ Relinquish spectrum that is not in use: Develop administrative incentives to encourage 
+licence holders to relinq uish spectrum that is not in use (“use it or share it”). Give operators 
+spectrum auction price or  ta x rebates on 5G spectrum licences for sharing their currently 
+assigned spectrum.  
+▪ Allow wholesale access in the data market : To reduce  anti -competitive pra ctices in the 
+data markets in Africa, allowing wholesale access, such as for the costs of roaming and  
+facilities leasing facilities, would allow the late entrants room to compete.  
+▪ Prohibit of social media and mobile money excise taxes : These taxes are regr essive as they 
+impact on the welfare of people and the affordability of Internet access.  
+▪ Open data an d transparency: For all the above mentioned recommendations to be 
+efficiently implemented, there is a need for open telecommunication data (detailed 
+inform ation on existing infrastructure, equipment, spectrum assignment plans, fibre 
+backbone etc.) as well as transparent information about the backhaul pricing.  
+ 
+4.3.  E-Trade, labour, taxation and social protection  
+The UN Secretary General  has called for a renewed social compact in the context of post pandemic 
+economic recovery. He has highlighted that human -centred recovery from the pandemic needs 
+employment and social protection policies to work in tandem, not only  to improve people’s liv ing 
+standards, but also to navigate the challenges of a rapidly changing modes of work (digitalisation) 
+and the transition  towards the goal of net zero carbon emissions by 2050. With digital companies 
+making up the vast majority of global value add, they a re also an obvious source for resource 
+mobilisation for post pandemic economic and social reconstruction. The Global Digit al Compact is a 
+complementary framework that can enable opportunities associated with these developments while  
+mitigating potential ha rms .  
+4.3.1 . Trade  
+To unlock the value of digital trade for the benefit of all, there is a need to design inclusive global  
+digital trade and data policies that acknowledges the critical role that African countries and labour 
+play ac ross the digital and dat a value chain, from the provision of scarce minerals to labour used for 
+online content moderation.  The African Continenta l Free Trade Area (AfCFTA) provides an enabling 
+trading space for African businesses and industries to leverag e each other’s expertise  through 
+20 regional value chains and to benefit from economies of scale and scope afforded by a single to 
+integrated market.  This enables  Africa to be a far more competitive global player. Digitalisation is at 
+the core of enabling th is trade, and to facilit ating its economic and welfare gains. African countries 
+have come together to integrate their markets and move towards a d igital single market under the 
+AfCFTA. The primary strategy of the continent’s Digital Transformation Strategy  for Africa  is the 
+Digi tal Single Market, which has a target of being achieved by 2030. The aim of the strategy is to 
+develop common standards an d a data protection framework that simultaneously aligns with 
+domestic country contexts, regional requirements , and global standards.  
+This will require significant harmonisation and domestication of the African Union Data Policy 
+Framework which sets out a common vision, principles, strategic priorities and key 
+recommendations to guide Member States in developing a nd integrating their nat ional data systems 
+and capabilities. This is so they can  derive value from data that is being generated by  citizens, 
+gov ernment entities and industries. Currently, this data is appropriated by large multinational 
+corporations, glo bal monopoly platforms, and companies experimenting on or with data -driven 
+technologies -sometimes as part of solutions for the public sector or h umanitarian agencies, which is 
+then commercialised for sale and profit extraction. Implementation and harmonis ation of data policy 
+(personal and non -personal), underpinned by a coherent governance approach which allows for the 
+development of integrated dat a systems, is critical to optimise information flows and productivity 
+gains from digitalisation and dataficati on on and for the contin ent.  It is also important to support 
+local companies, authorities and civil society initiatives so that they can provide solutions and 
+expertise.   
+To unlock the value of digital trade for the benefit of all, there is a need to des ign inclusive global 
+digital trade and data policies that work for all Africans and in particular the most vulnerable. This 
+involves having more i nclusive multistakeholder engagements that enable open and transparent 
+dialogue on how to regulate and govern digital trade so that ev eryone can realise the value of their 
+data. There is also a need for concerted efforts to ensure that digital trade under the AfCFTA is just 
+and equitable for all Africans, including informal traders and marginalised groups, who are  often left 
+vulnerable a nd unprotected.  
+4.3.2 . Labour  
+The digital economy, particularly location -based platforms, could potentially provide alter native 
+forms of work to alleviate mass unemployment in many countries across the continent. Digital 
+platforms can offer opportunities to people who face unequal access to income -generating 
+opportunities or endure systemic barriers to entry in traditional l abour markets (Ahmed et al, 2021). 
+There is evidence that the presence of global digital platforms can benefit  developing countries by  
+providing access to new technology, jobs, or skills. Conversely, these platforms also give rise to 
+factors that may ampli fy discrimination, resulting in job losses or declining  incomes and inequitable 
+outcomes in traditional labou r markets. It is importa nt to highlight that precarious working 
+conditions characterise workers on these platforms (those who deliver the services ) and that the 
+workers operate outside of official employee -employer relationships and are therefore unprotect ed 
+by labour law. ILO For instance argues that the type of labour relations mediated by digital platforms 
+spawn working arrangements that do not guarantee fundamental wo rker rights such as paid leave, 
+21 retirement, safety, and the right to be paid fairly for one’s contribution. Furthermore, w orkers whose 
+work is mediated through these platforms face overlapping challenges , such as an unfair bias against 
+women, labour supply exceeding demand, limited social protection , and income volatility. As we 
+have  highlighted, this leads to a rise in corporate power and market concentration, and erosion of 
+labour bargaining power —which make it dif ficult for parties involved in these ecosystems to reap 
+equitable gains from the growth of digital platforms i n the locations where th ey operate and earn 
+profits. Moreover, there is growing evidence  that employment in the on -demand or gig economy can 
+replicate offline patterns of lab our exploitation , particularly for lower -skilled individuals  who manage 
+to find (inferior quality  and low -paying) work online. Similarly, the engagement of low -paid workers 
+in the Global South for the purposes of conten t moderation and data -cleaning is an issue that calls 
+out for global policy attention.  
+4.3.3 . Taxes  
+Global digital platforms operatin g in developing countries may also evade taxes, as well as be non -
+compliant with national regulations. Historically, globa l processes of digitalisation and datafication 
+have been seen as a threat to the often -marginal t ax bases that exist in developing cou ntries. Tax -
+base erosion due to profit -shifting by digital platforms has been estimated  to cost developing 
+countries over USD 500 billion annuall y. This points to the need to fix outdated tax systems, whilst 
+ensuring fair competition between multinationals and nation al businesses and that local start -ups 
+and smaller -scale initiatives are not obstructed.  
+The inc rease in the use of excise taxes on s ocial media and mobile apps further highlights poor tax 
+administrative capability in developing countries (Matheson and Pe tit 2017). Some countries in Africa 
+for instance (e.g., Cameroon, Tanzania, Uganda and Zambia) ha ve put in place laws that impose 
+regr essive daily use taxes on Over The Top (OTT) services such as Facebook, Twitter, Instagram, and 
+LinkedIn, as well as on in stant messaging apps like WhatsApp, Snapchat, and Skype. They often 
+implement these taxes without  a comprehensive assessment of the lo ng-term economic impact or an 
+empirical evidence base. Once introduced, they are seldom repealed. The procedure of calculating 
+these taxes  is usually opaque, does not inv olve a public consultation process, and is justified by a 
+misguided understanding of the role of OTTs in the Internet valu e chain.  
+Not only do these  impacts negatively  on connectivity and affordability of mobile services, especially 
+for those with pre -existing inequalities who already face connectivity barriers, but also has a negative  
+impact  on all segments of the Internet value chain, which  hinders broader economic advantages and 
+digital development opportunities associat ed with ICTs . Our  research  shows that these excise duties 
+also have implications on the right to freedom of ex pression and access to information, which are 
+increasingly best exercised online. These taxes impact affordability and meaningful access to the 
+Internet, especially for the marginalised and poor. Ultimately poorly designed digital taxes have 
+actually lower ed domestic tax revenue and reduced Internet use, as evidenced  in particular  in 
+Uganda . 
+Regarding  taxation, regulations should be crafted that address the abuses and monopoly or 
+oligopoly that is currently evidenced in labour markets. To mitigate the negative impact of social 
+media taxes,  regulations that enable ICTs to be levera ged for sustainable e conomic growth and 
+22 social inclusion should be introduced. Should taxes be imposed, the proc ess of their formulation 
+should be transparent, broad -based, and subject to a rigorous economic impact assessment.    
+4.3.4 . Social protection  
+The digitalisation of the economy offers opportunities for the collection of much -needed tax by the 
+state as well  as the ability to deal with challenges associated with enforcement through the visibility 
+of firms and workers. This creates more feasible tax bases for the social protection of currently 
+unprotected informal workers online and offline, and for more gener al social investment and 
+welfare. Social welfare interventions were relied upon extensively in Africa during the COVID -19 
+pandemic, as governmen ts turned to digital cash transfers as a preferred tool to protect the poor and 
+vulnerable from the socioeconomi c impacts of the pandemic. In South Africa for instance, 18% of 
+households received the government’s COVID -19 relief. Of these grant recipients,  70% were able to 
+receive grants through digital channels. The percentage of the population that received grants  
+digitally was much lower in Nigeria at 3%, where only 32% of households were eligible to receive 
+grants through digital channels.  
+As a result o f lockdown policies t hat were instituted across the continent in relation to social 
+protection, there is the pot ential to make regulations to support digitally enabled innovations for the 
+intake and registration of beneficiaries, assessment of needs and co nditions, and provisi on of 
+benefits. Digital transformation on the continent therefore offers an unprecedented o pportunity to 
+address eligibility and barriers to formalisation faced by informal individuals and firms if the benefits 
+of doing so are evident eg. business disaster  relief,  online training,  online financing, micro  business 
+procurement by governments  
+4.3.5. Recommendations  
+Regulation should target the negative labour market distortions that digital platforms can generate. 
+However, addressing th e complex adaptive gl obal nature of platform work requires an ecosystem 
+approach. This means that all stakeholde rs who are part of the location -based platform ecosystem 
+(platforms, regulators, the government, platform workers and trade unions, and consumer s) should 
+be consulte d to craft policies that create the fair working conditions needed to promote both gender 
+equity and economic justice for platform workers.  They should gear this regulation toward 
+rebalancing bargaining power, extending certain labour  rights and protectio ns, and reshaping social 
+protection provisions.  
+In light of this, the following recommenda tions are made:  
+▪ Pay attention to the knowledge lag: The evolving nature of the ICT landscape needs to be 
+better understood. A number of traditio nal business and netw ork models, regulatory 
+frameworks and infrastructure investments in the African ICT landsca pe are critically out of 
+sync with the fast pace of new ICT developments. Policy makers should keep abreast with 
+these dynamics and develop loca lised solutions that ensure that fiscal measures do not 
+contradict digital development strategies with long -term  economic and social inclusion 
+implications.  
+23 ▪ Address structural constraints:  Address the key structural constraints that inhibit online 
+labour rights, gender equality and inclusive social protection. Concerted efforts are needed 
+to ensure the intervention s that are designed to strengthen economic justice in the digital 
+economy sim ultaneously facilitate a policy and regulatory environment which is  fit for 
+purpose and contextually relevant to address existing labour market inefficiencies that are 
+exacerbated  by location -based platformisation.  
+▪ Recognise jurisdictional challenges:  Ackn owledge the jurisdictional challenges of 
+enforcement when digital p latforms do not have any physical presence in the country, 
+governments should cooperate to ensure that (multinat ional) location -based platforms 
+provide a minimum set of protections to their  workers, such as facilitating working 
+conditions that align with e xisting relevant national labour regulations.  
+▪ Create trusted working conditions: Compel location -based digital platforms through global 
+governance to provide more transparent and innovativ e communication strategies and 
+algorithms to facilitate robust and trusted working conditions.  
+▪ Align fiscal and tax regimes:  Align national and regional fiscal and taxation regime s with 
+efforts to mitigate against Base Erosion and Profit shifting (BEPs) to  effectively tax digital 
+platforms.  
+▪ Enable better distribution of tax between countries: Foster cooperation for the 
+distribution of taxes between countries. Leaving it to states to facilitate these agreements 
+can contribute to further imbalances across th e continent, as disparities will emerge from 
+current patterns of co llaborations where weaker countries are left out.  
+▪ Support multistakeholder engagement: Create ongoing, inclusive  multistakeholder 
+engagements that allow an open and transparent dialogue on how to improve digital trade 
+so that everyone can realise the value  of their data towards a public good, with due 
+protections and benefits.  
+ 
+4.4. Data governance and realising dat a justice  
+Data has, over a relatively short period, emerged as a de fining force of social organisation and of 
+global capitalism which can be ha rnessed to influence and govern almost every aspect of our day -to-
+day lives.  While progressive concept ions of data governance are emerging in Europe, legal and 
+institutional respo nses have for the most part drawn on a narrow conception of data rights at t he 
+individual level, focusing chiefly on personal data protection and privacy. Even so,  personal data 
+remains almost completely unregulated in many parts of the world, as does non -personal data. Yet, 
+when accumulated at scale, data confers almost unimagin able power to extract value and govern 
+peoples’ lives.  
+Without regulation and other interventions, dat a has become a site of injustice — exacerbating 
+inequality and marginalisation . Regulation at national and supra -national levels attempts to tackle 
+some o f these harms. However, in addition to the narrow focus on personal data and individual 
+24 rights, regulat ion has been formulated in a broad and general way, overlooking contextual 
+specificities and not providing sufficiently  focused implementation, accounta bility and enforcement 
+frameworks.  
+These measures largely fail to respond to the potential harms of dat afication which take place at the 
+collective level, as well as the role of da ta as a resource and a means of production which confers 
+enormous economic p ower when accumulated in large volumes. To address this gap, policy 
+approaches are needed to govern dat a in the collective interest or for common good. These must be 
+guided by over arching principles of equity and justice; however, as Parminder Singh and An ita 
+Gurumurthy from IT for Change contend, these principles  must also be responsive to local and 
+conte xtual differences in how datafication is   experienced.  
+To advance this goal,  RIA participated in developing the African Union Data Policy Framework to 
+provide an Africa -centric data justice -focused governance structure for the burgeoning data 
+environment across the continent. Building on the theoretical framework of both economic and data 
+justice, we argue for a strong incorporation of these concepts into  the GDC. Considering the 
+limitations of comparable data governance frameworks, the example of the Afri can Union developing 
+a data policy framework that  incorporates data justice,  despite inadequate public participation in 
+the African Commission and Membe r State adoption processes,  is an example of how these 
+important  principles can be incorporated  into  a high -level compact.  
+Box 3. The African Union Data Policy Framework  
+Africa’ s data traffic is growing at an annual rate of 41%, an indication of the ris ing adoption and use of 
+digital platforms in the region. To harness the data -driven economic gains gene rated by these 
+platforms, a number of countries are implementing unilateral m echanisms to include services tax and 
+equalisation levies that are applied t o specific sectors such as the telecommunication industry, mobile 
+money transactions, and OTT technolog ies. 
+Finalised in 2022, the African Union Data Policy Framework provides a mo re cohesive framework for 
+African countries to partake in the myriad benefit s afforded by data produced within the continent. It is 
+centred on “creating a consolidated data enviro nment and harmonised digital governance systems that 
+enable the free and secu re flow of data across the continent while safeguarding human rights, 
+uphold ing security, and ensuring equitable access and sharing of benefits”. Additionally, the framework 
+focus es on positioning African countries to harness data to “empower businesses an d institutions, 
+boost intra -Africa regional trade, and contribute to economi c integration efforts”. Among the key pillars 
+denoted in the framework for the data ecosystem in Africa  is data justice. The framework recommends 
+the following actions by states in  the African Union:  
+▪ Safeguarding of human rights in the digital environment  through the rule of law ;  
+▪ Ensuring institutional arrangements and regulations are established only through inclusive, 
+consultative and transparent processes , and  
+25 ▪ Ensuring institutions responsible for overseeing the use of data, as well as public and priva te 
+data producers, are accountable for the use of public and personal data to those whose data i s 
+used .  
+ 
+4.4.1 . Data governance  
+At the heart of data governance is instilling trust  in the use of data as a pre -condition for fully 
+realising the gains of digital tr ansformation . In response, many have called for “data governance” 
+approaches to enable institutional and regulatory structures to govern data in line with nor mat ive 
+frames that assume : 
+• democratic and rights frameworks,  
+• institutional endowments to govern effectively, and  
+• levels of human development that allow citizens to exercise their rights and freedoms.                                                                    
+However , these conditions do not pertain in many countries toward which the SDGs are specifically 
+dire cted and there is now considerable evidence that regulatory governance approaches premised 
+on these assumptions that work in the Gl obal North do  not always apply in the Global South. As 
+Linnet Taylor  has argued, not only are such approaches sometimes in sufficient to create the 
+conditions for truly beneficial data and AI in the Global South , but they also fail to account or pr epare 
+for the reality of contextual developmental demands – along with the risks that are introduced by the 
+increasing production o f digital traces, shadows and selves.  
+Any examination of the data realities into which AI is being introduced requires a wid er political 
+economy assessment with consideration of the global and domestic power relations, interests and 
+imbalances that determ ine technological developments. Technological advancements, especially 
+when coupled with  large -scale crises like COVID -19, ha ve highlighted some of the practical 
+considerations for data governance in the public interest and some of the normative tensions i n the 
+treatment of private, community, and collective information that have clear implic ations for AI.  
+Currently, control of data is  concentrated amongst a small number of platforms primarily in the US 
+and China. In Africa, private actors such as telecoms  companies along with banks, direct messaging 
+services, satellite operators, the retail sector, and mines, etc. have become m ajor holders of data. 
+States have been lagging in their role to gather, process, utilise and avail data to external 
+stakeholders, a lthough the number of African countries with Right to Information laws has increased 
+from just five in 2009 to 30 in 2023 acc ording to UNESCO. This underscores the need for economic 
+regulation to enable greater access to and control over the resources of d ata and AI, and the 
+capabilities and infrastructure required to utilise them, for more e ven redistribution of opportunities 
+and benefits within and between countries.  
+Furthermore, data collection and data -driven systems are already exacerbating social, an d economic 
+inequalities, as they amplify bias, marginalisation and discrimination agains t vulnerable or 
+disadvantaged groups (such as women). This demonstrates the need for rights such as equal 
+representation in data, non -discrimination, and the protection  of group identities and indigenous 
+26 knowledge systems. Some practices, such as the use o f biometric data for predicting procl ivity for 
+crime, are inherently unjust, cannot be resolved through improving technology and must never be 
+permitted.   
+4.4.2. Data justice             
+The concept of data justice has emerged in response to these critical  concerns. It has been advanced 
+by a global community of researchers  and activists  such as Taylor   as a way to talk about and 
+challenge the complex, overlapping harms of datafication at multiple s cales – personal, local, and 
+global . There is also  research  beginning to link data justice to economic fairness and rights  and to 
+create comprehensive frameworks for what ec onomic justice and a fair distribution of benefits might 
+look like in a datafied society. Data justice requires that data are not used to sus tain or compound 
+existing inequalities or undermine autonomy, that those from whom data originates share in the 
+eco nomic and social value rea lised from data, and that there is an equitable distribution of 
+opportunities arising from data. The very conceptio n of what constitutes data, as a meaningful set of 
+signals that can be processed, needs attention. Definitions of d ata can impact adversely o n issues 
+like the need for limits on bulk surveillance, facial recognition, gait recognition, and gender.  
+Expansive  approaches are needed to govern data in the collective interest, or for the common good, 
+while still protecting in dividual privacy. Recognis ing the validity of communal ownership of data and 
+the impact of data use on communities, data justice requires pro tection of collective rights in data, 
+equitable access to economic gain from collective data, and community protect ion from harms, such 
+as bi as and discrimination, caused by data. It also demands attention to how digital infrastructure is 
+owned and control led by the northern hemisphere which, in turn, determines where data, power and 
+capital will be concentrated. The a dvancement of AI and data have shown the economic power 
+derived by online platforms which extract data from users , converting such data into “digital 
+intelligence” that enables them to develop new products and services and increase efficiency in their 
+profit -output operation, to the detriment of users who gain little or no economic valu e despite being 
+the producers of this data. Also significant is the training of AI on data that is copyright protec ted, 
+such as data behind media paywalls, and where data is scraped from public sources without 
+permission. The risk  for Africa is that the co stly production of data may benefit AI applications which 
+contribute nothing to the generation of the data  resourc es on which they rely.  The ambiguous issue 
+of AI operators taking advantage of data stored in cloud services, or g athered under auspices suc h as 
+analytic or cybersecurity services, needs attention.  
+The  Global Partnership on Artificial Intelligence (GPAI)   data and econo mic justice primers  raise  
+concerns about the increasing power of a few digital monopolies over  digital infrastructure. The 
+African Union Da ta Policy Framework also notes the Global North/South imbalance in the 
+distribution of platform owners and their ta x jurisdictions. This imba lance is enabled by the lack of a 
+framework on moral and legal principles  of economic justice.  Consequently, in an ticipation of the 
+future development of the digital commons as a global public good, and as elaborated in GPAI  data 
+and economic justice  primers on which we  collaborated,  as well as  in line with the collaboration 
+with IT For Change on a  feminist digital economy ,  we  support four rights -based principles for data -
+related economic justice. These are:  
+27 ▪ the right to benefit from one’s data, and avoi d economic harm;  
+▪ the righ t to access one’s data, including for third parties of choice;  
+▪ the right to appropriate represe ntation in data, including the right to invisibility and 
+remaining absent, and;  
+▪ the right to participate in the governance of data, and  in the relevant economic  systems 
+based on data.  
+In addition, economic data rights should be recognised for data ge nerators and data workers, who 
+can use their collective rights to port aggregated data to a data commons or alternative data 
+infrastru cture. This could foster competi tive data -based services that could serve  collectives much 
+better than data monopol ies do. Rights alone do not ensure economic justice, however, they should 
+be instilled in relevant laws, regulations, policies, and im plementation mechanisms, to enable 
+equi table and just economic outcomes.  
+4.4.3. Recommendations  
+Key policy recommendations  coalesce around localising and contextualising data rights and 
+protections; ensuring affected communities can participate meaningfull y in data governance; and 
+guarding agai nst the extraction and concentration of data as a resource and means of production.  
+The following high -level policy recommendations are applicable at different levels of government, as 
+well as in non -government and pr ivate sector settings. Within specific country and regional contexts 
+and through the participatory processes intrinsic to democratic policy formulation, more detailed 
+guidelines for achieving data justice can be developed.  
+▪ Ensure data governance and regula tion uphold rights, including economic rights and workers 
+rights such as the right to port their work -related data to othe r platforms, and appropriate 
+frameworks for redress that bind transnational corporations.  
+▪ Contextualise and localise data rules throug h the democratic participation of affec ted 
+communities and enabling alternative forms of data stewardship.  
+▪ Enable benefici al data flow by preventing anti -competitive data practices , ensuring equitable 
+access to resources, and enabling inte roperability.  
+▪ Reconcile the claims of data sovereignty a nd global governance through international 
+solidarity committed to  data justice including redress of inequality and marginalisation.  
+4.5. Disinformation and information disorders  
+4.5.1. Information d isorders in Africa  
+Reflecting some of the challenges at the global level, laws tackling information disorders in the 
+conti nent tend to be ambiguous, with the potential of politicising the concept and criminalising 
+speech in efforts to control narratives. A s with other regions in the globe, elements of informati on 
+disorders, such as disinformation and hate speech, manifest hea vily during elections and conflicts. 
+This has had serious implications in the exercise of democratic rights, freedom of expression and  
+28 rights to political representation by structurally marg inalised groups. Ideally, platform companies 
+should collaborate wi th local authorities and stakeholders to deal with these challenges. The 
+safeguarding of citizens’ fundamental human rights, as well t heir civic rights is not something that 
+can be left to t he discretion of providers of public services with the potential t o cause significant 
+harm. In the same way that international air transportation networks, whether private or public,  are 
+regulated to  guarantee passenger safety, global communications netwo rks need to conform to 
+universal democratic rights of privacy, access to information and freedom of expression.  
+While states in Africa have deficient regulations to properly address and account f or the information 
+disorders produced largely online, these systems of criminalisation  are likely to prove even less 
+effective through the likelihood of an increase in AI -generated false content,  with its potential 
+disruption to economies and political processes.  Simultaneously, efforts by platforms to deal with 
+the magnitude of the problem through automation of the identification and rem oval of fake or 
+harmful information through the use of opaqu e algorithms, the train ing of which happens through 
+the manual identification of harmful content by people employed under questionable labour 
+standards by platforms, are not only inadequate but po tentially harmful themselves.  Because the 
+staff of these gl obal social media platf orm companies are spread too thin across the continent to 
+offer contextualised solutions to information disorders, policies tackling information disorders, and 
+consequently content moderation through algorithms are done from the pers pectives of the Global 
+North. Contributing to this challenge is the dearth of knowledge from the Global South. Studies on 
+information disorders remain dominated by theoretical paradigms, examples,  and case studies 
+drawn from relatively recent experiences i n Global North contexts . 
+4.5.2. Disinformation and content regulation  
+The proliferation of online hate speech and disinformation has serious implications for human rights, 
+trust and safety, not least in African countries. “Information operations” around th e continent aimed 
+at covertly swaying elections have been widely exposed, while violence has been incited against 
+ethnic groups and migrants in a number of conflict cases. A RIA study  has detailed range  of other 
+problems with the  integrity of Africa’s information environment s.   
+In another  RIA report , commissioned by UNESCO, we have addressed platform regulation challen ges 
+that have significant negative bearing on Africa.  These highlight the discriminatory application of 
+platform regulation policies by major platform operators:  
+▪ platforms  are slow to respond to emergencies that result in serious human rights violations, 
+and  
+▪ they have failed to invest in African languages for moderation and, consequently, to provide 
+linguistic contexts for content removal.  
+Findings by RIA are that the key f actors accounting for the proliferation of disinformation and hate 
+speec h online are:  
+▪  ‘attention economics’;  
+▪  automated advertising systems;  
+29 ▪  external manipulators;   
+▪  company spending priorities;  
+▪  stakeholder knowledge deficits, and  
+●  flaw s in platforms’ policies and in their implementation.  
+The research also finds that how platforms under stand and identify harms is insufficiently mapped to 
+human rights standards, and there is a gap in how generic policy elements should deal with loca l 
+cases, different rights, and business models when there are tensions.  
+In the absence of companies having c lear elaboration of how their policies operate at global and 
+local levels, it is to be expected that there will be many international inconsistencie s in application. 
+The GDC needs to account for the range of interactions and applicability of regulations bo th on 
+global and local levels. Platform regulation should emphasise the value of clarity and transparency 
+regarding application on both global and l ocal levels – of platforms and of their different internal 
+policies.  
+Also important to consider is how platf orms’ own policies on content regulation are generally 
+overshadowed by content curation algorithms that support the core business aims to collect da ta 
+and sell advertising.   
+Further, platforms’ policies are not always transparent and that they do not prov ide adequate risk 
+assessment.  Policies that are shaped in this way, and in secrecy, work against the human right to 
+equality.  
+Challenges around tra nspar ency are presented in two ways: opacity in terms of lack of consistency in 
+how policies are applied – for example, Google  transparency reports  on political advertising during 
+the elections still misses data from the African continent – and opacity in how AI -based content 
+moderation works.  
+Enforcement by platforms of their own  term s of service has grave shortfalls, while attempts to 
+improve outcomes by automating moderation have the ir limits. These inequalities in policy and 
+practice abound in relation to different categories of people, countries and languages, while 
+technology  adva nces are raising even more challenges.    
+In this light, this submission suggests that the GDC advises that regulatory arrangements should 
+include the interplay between platforms’ policy rules, practices, business models and technology. At 
+the same ti me, t he failures of ‘solo -governing’ by platforms in content curation and moderation, 
+should not lead to ‘so lo-state regulation’ as the governmental response. There are  many examples in  
+Africa  of inappropriate regulatory responses to developments on platforms, in particular Internet 
+shut -downs and criminalisation of content under vague  terms such as “false news” or “fake news”. 
+What speech and narratives get to be or not be accepted onl ine should not be left to social media 
+platforms, or one stakeholder to decide and regulate.  
+Accordingly, the GDC should encourage hybrid regulatory  arra ngements that include multi -
+stakeholder participation in the making of rules for and by platforms. The specifics may vary 
+according to the issues at hand (e.g., elections, child protection, public health), but there should be 
+30 cross -cutting requirement s for  transparency reporting, access to platform data, and conducting 
+human rights impact assessments.  
+In the light of our research, this submission suggests that the GDC advises that any evolving 
+regulatory arrangements include the interplay between and withi n platforms’ internal rules, 
+practices, business models and technology.  
+4.5.3. Recommendations  
+Tackling  disinformation and hate speech online can best be done on a modular basis as befits 
+differing issues, regulatory arrangements and capacities, and b y ens uring that the array of statutory 
+regulators is structurally independent of political interventions. To  address disinformation and hate 
+speech online:  
+▪ The GDC should highlight human rights and sustainable development as agreed international 
+standards that are foundational for all regulatory arrangements everywhere.  
+▪ Statutory authorities should not seek to t ake over the formulation of platforms’ content 
+policies nor the moderation work by the companies. Instead, they should requi re companies 
+to meet their ow n consumer terms of service to the full, as well as to follow broader 
+objectives, policy standards and process benchmarks.  
+▪ These principles can apply to solo -, self - and co -regulatory mechanisms, as well as be 
+institutionalised  in multistakeholder roles at  all levels of rule -making, enforcement, 
+monitoring, oversight and review.  
+▪ It can be strongly encourage d that platforms elaborate how they  balance global and local 
+dimensions of their terms of use, and provide more equitable ( and auditable) resourcing for  
+monitoring and moderation of content in the Global South..  
+▪ Tackling disinformation and hate speech onl ine can best be done by  combining various 
+regulatory arrangements into a hybrid overall system including the legal delegati on of roles 
+to platforms, eff ective codes of conduct, ensuring statutory regulators are structurally 
+independent from political inte rventions, and institutionalising multistakeholder 
+involvement throughout.  
+▪ Media, NGOs, tech employee bodies, whistle -blower s and researchers should be s upported 
+as positive elements in the wider governance ecosystem in which regulatory arrangements 
+take p lace.  
+▪ Responses to hate speech and disinformation should build stakeholder knowledge through 
+media and information literacy,  and support for de -centralis ed platforms.  
+4.6. Harnessing AI for Africa  
+The development and use of AI in Africa should support, ra ther than hinder, socio -economic justice 
+and poverty alleviation, and not impact negatively on the enjoyment and realisation of all human 
+rights. Yet, th e foreign global monopolies that dominate the  AI market in the region are based on 
+systems developed ou tside Africa and primarily trained with foreign data, thus limiting their capacity 
+31 to address the region’s priorities. Even worse, these foreign -trained models may have serious 
+implications for huma n rights through models that are discriminatory  or simply   inappropriate for 
+local contexts.  
+As AI rapidly proliferates on the African continent, it is essential to assess  which regulation exists and 
+identify  what new regulatory regimes are required to address the risks and guide the application of AI 
+for publ ic good.  RIA’s analysis of the dynam ics of AI use and regulatory environment across the 
+education, health and well -being, labour, climate change and env ironmental sustainability sectors in 
+Southern Africa indicates that significant efforts are required to  ensure AI project leaders understand  
+and take into account the potential and ethical and human rights -related implications of their 
+products and project s. Further, the majority of AI use in the region  is by privately -owned companies, 
+suggesting the need for efforts to support public sector capabilities. Uses also fall mostly into the 
+labour policy arena, indicating a need for the prioritisation of polici es and programmes that address 
+future -of-work scenarios such as reskilling and labour transitions.  
+Tho ugh some African countries, such as M auritius, Egypt, Rwanda, Ghana, South Africa and Tunisia, 
+have developed or are considering developing AI strategies , a majority of them do not have national 
+AI policies or strategies in place. Cooperation between count ries and regional bodies, and between  
+countries and tech companies should be encouraged to increase the capacities of local authorities to 
+effect these p olicies for the protection of fundamental  rights and freedoms, as well as for the 
+promotion of AI depl oyment in the region. Rapid developme nt in AI capabilities without an adequate 
+legal and regulatory framework threatens to upend the livelihoods and righ ts. 
+4.6.1. Data governance towards innovation of AI in Africa  
+One of the challenges limiting the democr atisation of AI and its deployment in  the region by local 
+providers for local solutions, is the domination of both global and national tech monopolies wh o 
+have amassed huge control and power through massive data collection and infrastructure 
+ownership. A l ot of local solutions are bought by t hese companies because of their financial might.  
+Another challenge is that African governments lack open data initia tives that can be leveraged for AI 
+development. In countries where these initiatives have been set up, they have been unsustainable as 
+the s ystems are not fed with data. Globally, the continent has the least statistical capacity . The lack 
+of data deeply en trenches inequality and harms caused by AI due to lack of (local) data on 
+marginalised and underreprese nted groups that can be used to avert  these harms.  Contributing to 
+this challenge is the low affordability of ownership and use of digital devices and n etworks. As 
+Africans miss out on the opportunity to use these technologies, they also miss out on the 
+opportunities to create a digital foot print, which is needed as raw material for AI.  
+4.6.2. AI and biometric identification  
+The application of AI in the area of biometric  identification can make citizens more vulnerable in the 
+online space. AI -driven digit al ID systems are rapidly being adopt ed by countries in Africa. These 
+systems entail the use of biometric data such as fingerprints, iris scans, and faci al images for 
+authentication in access to services. The rationale behind the adoption of these systems is to 
+increase efficiency in provisio n of government services and to protect citizens against identity theft. 
+32 However, these systems are susceptible to c ybersecurity attacks and third -party sharing of data that 
+leaves citizens vulnerable  to data breaches. We are currently  working on this project on Digital IDs in 
+Africa.  
+4.6.3. AI and labour in A frica  
+It is important that the whole AI lifecycle respects human rights, human decency and autonomy. 
+Africa contributes significantly to the global AI su pply chain: including as suppliers of raw materials  
+for technology, producers of data, human content mo deration supplementing alg orithm -based 
+moderation, cleaners of data sets, and agents feeding machines with content for machine learning. 
+However, the current practices of combating information disorders through algorithmic as well as 
+human content moderati on are characterised by  global hierarchi es of exploitatio n. The inequalities 
+in the distribution of labour exist  both in the employment of human intervention to moderate 
+content on social media platforms and the back -door labour of training AI to identify elements of 
+information disorders. Both need to be seen  as work that is distri buted to lower income countries 
+seemingly requiring little or no skills. Unfortunately, this makes the workers easil y replaceable and 
+leaves them with limited bargaining power and social protection. Therefore, platform regulations 
+need to account for globa l hierarchies where workers situated in the Global South are doing work for 
+users based in the Global North.  
+4.6.4. Recommendations  
+Given the above, the following policy recommendations can be made to create an enabling 
+environment for AI in Africa:  
+▪ Infrastructure development: Governments should prioritise developing policies that ensure 
+safe, secure, and inclusive in frastructure for the development of AI systems. The policies 
+should also include means of fostering open data (which is very crucial for the development 
+of AI systems), connectivity and Internet access, and good governance for the development 
+and sustenanc e of AI systems .  
+▪ Building local capaci ty and skills: Skills development is at the heart of advancement and 
+responsible use of AI in Africa. Policies should be formulated to prom ote understanding  
+around AI at all levels,  and  promote uptake of STEM by women and underserved groups. 
+Policy makers must also be supported to understand the risks of AI, and women should be 
+central in AI -related decision -making positions.  
+▪ Taking a gender  and intersection al sensitive approach to address current inequalities: 
+Expand gender -sensitive information and data collection for the broader ICT sector to inform 
+policies that can advance and ensure the active leadership and involvement of women in 
+digi tal and AI servic es. Standards around data quality and representation are essential to 
+eradicating discrimination aga inst women, and other underserved groups, that occur in AI 
+systems trained on bias and unrepresentative, or under -representative, datasets.    
+▪ Advancing Afri can -centred value systems in AI ethics: It is essential to address ethical 
+concerns surrounding AI d eployment. Governments, industry players, and other stakeholders 
+33 should play a key role in creating regulatory and policy frameworks centre d in African valu es 
+and principles.  
+▪ International development assistance: In advancing development of responsible AI 
+solutions in Africa, actors including donors, intergovernmental organisations and other 
+funders should focus on supporting infrastructure d evelopment to ens ure inclusive AI for its 
+long -term development. In doing this, focus should also be placed on “ensur ing African 
+states retain their sovereignty in developing AI governance solutions”  that are rooted in 
+national values . 
+▪ Collaboration and knowledge sharing : There is a need for co llaboration and knowledge -
+sharing among countries and regions to promote the global deployment of AI for public value 
+creation. African cou ntries can benefi t from partnerships with more advanced economies to 
+enable them to leapfrog development stages and a ccelerate AI adoption.  
+▪ Accountability for risk : A governance framework for AI in which the handful of corporations 
+driving rapid AI develop ment are required to account to public authorities for the current and 
+future risks presented by the technologies tha t they are developing and are required both to  
+manage risk and to maintain international trust.  
+  
+34 Annex 1. Summary of recommendations  
+Crit ical Themes  Summary recommendations  
+Public data to 
+address alternative 
+access strategies  ● Produce better data:  Nation ally representative individual -level data on ICT 
+access and use is critical for evidence -based policy making. Without this, 
+national indica tors and assessments of consumer needs will always be biassed 
+towards more developed countries and towards tho se who have already been 
+integrated into the digital economy.  
+● Establish a digital solidarity fund:  As a single key recommendation for the 
+creation  of global digital data as a public good, it is proposed that there is a 1% 
+contribution from the  Domain Name  System  (DNS)  registration  fees  of all 
+countries globally towards a digital solidarity fund.  
+● End siloed ICT policies : Develop evidence -based tr ansversal digital strategies 
+focused on  human development, that foster more equitable social and 
+economic inclusion,  and which include  rights -preserving regulatory 
+arrangements needed to redress intersectional inequalities reflected in the 
+uneven impacts  of digital developments.  
+Connectivity, 
+access pricing and 
+quality  ● Innovative regulatory approach es:  There is a nee d to develop regulatory 
+approaches to increasing connectivity through non -traditional connectivity 
+providers such as small operators and co mmunity networks.  
+● Spectrum : New approaches in spectrum assignment should take into account 
+recent  innovations that e nable dynamic spectrum access and spectrum 
+sharing and:  
+- Develop administrative incentives to encourage licence holders to 
+relinquish spectr um that is not in use (“use it or share it”). Give 
+operators spectrum auction price or  tax rebate s on 5G spectrum 
+licences for sharing their currently assigned spectrum.  
+- Use or lose:  withdraw spectrum from operators who do not use the 
+spectrum in their w hole concession or licence area.  
+- Create  regulatory enabled  business models where small operators 
+help incumbents ac hieve universal service obligations.  
+- Allocate spectrum that may not  have value for operators, but will have 
+a significant impact for small operators and community networks such 
+as unutilised spectrum in rural and remote areas.  
+35 - Introduce simplified licence exemptions or licensing with low 
+transaction costs for small operat ors and community networks.  
+- Provide incentives for serving  rural, remot e, or underserved areas.  
+- Revise spectrum fees to incentivise a more efficient use of the 
+spectrum, as is being done i n the United States with the CBRS.  
+● Harmonise regional regulation  to create economies of scale and scope for 
+investment, and to create effe ctively regulated competitive markets.   
+● Remedy wholesale access in the data market  by reducing anti -competitive 
+prac tices in the data markets in Africa that exclude competitive entry by new 
+players, particularly in relation to costs of roaming and facilit ies leasing.  
+● Remove  social media and mobile money excise taxes  which counter 
+affordable access strategies and impac t negatively on the welfare of people. 
+Also remove excise duties on  low -end smartphones.  
+E- Trade, labour, 
+taxation and social 
+protection  ● Pay attention to the knowledge lag: Policy makers should keep abreast with 
+the fast -changing technologies and regulat ory environments and develop 
+localised solutions that ensure that fiscal measures do not contradict digital 
+development strategies with lon g-term economic and social inclusion  
+implications.  
+● Address structural constraints:  Concerted efforts are needed to e nsure the 
+interventions that are designed to strengthen economic justice in the digital 
+economy simultaneously facilitate a policy and regu latory environment which 
+is fit for purpose and contextually relevant to address existing labour market 
+inefficiencie s that are exacerbated by location -based platformisation.  
+● Create trusted working conditions: Compel location -based digital platforms 
+throug h global governance to provide more transparent and innovative 
+communication strategies and algorithms to facilitate robust and trusted 
+working conditions.  
+● Align fiscal and tax regimes:  Align national and regional fiscal and taxation 
+regimes with efforts t o mitigate against Base Erosion and Profit shifting (BEPs) 
+to effectively tax digital platforms.  
+● Enable better distr ibution of tax between countries: Foster cooperation for 
+the distribution of taxes between countries. Leaving it to states to facilitate 
+these agreements can contribute to fur ther imbalances across the continent, 
+as disparities will emerge from current pat terns of collaborations where 
+weaker countries are left out.  
+36  
+Data governance 
+and realising data 
+justice in Africa  ● Ensure data governance and regulation uphold rights , including economic 
+rights and workers rights such as the right to port their work relat ed data to 
+other platforms, and appropriate frameworks for redress that bind 
+transnational corporations.  
+● Contextualise and localise data ru les through democratic parti cipation of 
+affected communities and enabling alternative forms of data stewardship.  
+● Enab le beneficial data flow  through preventing anti -competitive data 
+practises, ensuring equitable access to resources, and enabling 
+interopera bility.  
+● Reconcile the claims  of data sovereignty and global governance through 
+international solidarity committed to data justice  including redress of 
+inequality and marginalisation.  
+Disinformation and 
+information 
+disorders  ● The GDC should highlight human  rights and sustainable development as 
+agreed international standards  that are foundational for all regulatory 
+arrang ements everywhere.  
+● Statutory authorities should not seek to take over the formulation of 
+platforms’ content policies nor the moderation wor k by the com panies . 
+Instead, they should require companies to meet their own consumer terms of 
+service to the full, a s well as to follow broader objectives, policy standards and 
+process benchmarks.  
+● Tackling disinformation and hate speech online can best be  done by  
+combining various regulatory arrangements into a hybrid overall system 
+including legal delegation of roles to platforms, effective codes of conduct, 
+ensuring statutory regulators are structurally independent from political 
+interventions, and inst itutionalisi ng multi -stakeholder involvement 
+throughout.  
+● The roles of media, NGOs, tech employee bodies, whistle -blow ers and 
+researchers should be supported as positive elements in the wider 
+governance ecosystem in which regulatory arrangements take place.  
+ 
+Harnessing AI for 
+Africa  ● Infrastructure development: Governments should prioritise developing 
+policies that ensure  “safe, secure, and inclusive” infrastructure for the 
+development of AI systems. The policies should also include means of fostering 
+37 open d ata (which is very crucial for the development of AI systems), 
+connectivity and internet access, and “ good governance ” for the development 
+and sustenance of AI systems .  
+● Building  local capacity and skills: Skill development is at the heart of 
+advancement and responsible use of AI in Africa. Pol icies should be formulated 
+to “ promote understanding around AI at all levels”, and  promote uptake of 
+STEM by women and underserved groups. Policy -makers must also be 
+supported to understand the risks of AI, and women should be central in “ AI-
+related decisi on-making positions”.  
+● Taking a gender and intersectional sensitive approach to address current 
+inequalities: Expand gender -sensiti ve infor mation/data collection for the 
+broader ICT sector to inform policies that can advance and ensure the active 
+leadershi p and involvement of women in digital and AI services. Standards 
+around data quality and representation are essential to eradicatin g 
+discri mination against women, and other underserved groups, that occur in AI 
+systems trained on bias and unrepresentative, or under -representative, 
+datasets.   
+● Advancing African -centred value systems in AI ethics: It is essential to 
+address ethical conce rns surr ounding AI deployment. Governments, industry 
+players, and other stakeholders should play a key role in creating regul atory 
+and policy frameworks centred in African values and principles.  
+● International development assistance: In advancing developmen t of 
+“responsible AI solutions” in Africa, “ donors, intergovernmental organisations 
+and other funders should concentrate on s upporting efforts to build inclusive 
+digital infrastructure and develop long term local capacity in AI governance”. In 
+doing this, focus sh ould also be placed on “ ensuring African states retain their 
+sovereignty in developing AI governance solutions” that are rooted in national 
+values . 
+● Collaboration and know ledge sh aring:  There is a need for collaboration and 
+knowledge -sharing among countries and regions to promote the global 
+depl oyment of AI for public value creation. African countries can benefit from 
+partnerships with more advanced economies to enable them  to leap frog 
+development stages and accelerate AI adoption.  
+● Accountability for risk : A governance framework for AI in which t he handful of 
+corporations driving rapid AI development are required to account to public 
+authorities for the current and future ri sks pres ented by the technologies that 
+they are developing and are required both to manage risk and to maintain 
+international  trust.  
+38  

@@ -1,0 +1,381 @@
+ 1  
+ 
+Joint submission  
+ 
+ 
+ 
+UNU Institute in Macau  
+together with its partners, has prepared a joint submission under the topic of  
+ 
+Human Digital Security and Development  
+ 
+ 
+ 
+Table of Contents  
+Active participants in the consultation meetings  ................................ ................................ ....... 4 
+1. Connect all pe ople to the internet, including all schools ................................ .......................  4 
+2. Protect data  ................................ ................................ ................................ ............................  4 
+3. Apply human rights online  ................................ ................................ ................................ ..... 5 
+4. Accountability for discrimination and misleading content  ................................ ....................  6 
+5. Promote regulation of artificial intelligence  ................................ ................................ .........  6 
+6. Digital commons as a global public good  ................................ ................................ .............  7 
+7. Other issues: Culture, Education, Peace and Diplomacy. Digital Humanism  ......................  9 
+Annexes  ................................ ................................ ................................ ................................ ...... 9 
+References  ................................ ................................ ................................ ................................ .. 9 
+ 
+ 
+ 
+ 
+This d ocument  has been  sent  to: digitalcompact@un.org  
+ 
+Facilitator:  
+Dr. Franz Gatzweiler, Senior Research Advisor, UNU Macau  
+franz@unu.edu  
+  
+
+ 2 Human Digital Security and Development  
+ 
+This report is the outcome of the consultations which took place in the context of the Global 
+Digital Compact (GDC) , organized by the United Nations Office of the Secretary -General's 
+Envoy on Technology . 
+ 
+The topic  “Human Digital Security and Development” is inspired by the UNU Macau 
+institute's main research foci, which are  participation an d systems thinking, connected via 
+collective intelligence and foresight . It is about reducing the threats and negative impacts 
+while  enhancing the opportunities and benefits  to and for humans from the use and 
+development of data and digital technologies.  Digital Human Security and Development  is 
+about including, empowering, enhancing capabilities and securing/protecting a human -
+centered approach  in the development and application of digital technologies.  
+ 
+UNU Institute Macau has focused on  one health, clima te change, technology and ethics and 
+the digital divide. Other areas included under the overall topic can include : cybersecurity, 
+cyberbullying, women's access to technology, AI regulation, data management and 
+knowledge creation, governance of the digital commons, digital identity and digital 
+communities, and others.  
+ 
+The following workflow was followed during the consultation process:  
+ 
+ 
+ 
+1st online consultation:  13 Dec 2022  
+2nd online consultation : 14 Dec 2022  
+3rd online consultation : 14 March 2023  
+Submission online:   27 March 2023  
+ 
+
+ 3  
+  
+ 4 Active  participants in the consultation meetings  
+ 
+The following bullet points do not reflect the full richness of the discussions held in each of 
+the working groups. They merely aim at drawing attention to issues under each of the topics.  
+1. Connect all people to the internet, including all schools  
+Membe rs: Abisoye Bello , Helani Galpaya , Karen Bet t  
+ 
+Principles:   
+• Affordability , inclusion, safety, speed, need to contribut e to people's wellbeing . 
+Connectivity is a right.  Connectivity is not automatically leading to better educational 
+outcomes.  Meaningful co nnectivity is a moving target, the KPI today will be different 
+from KPIs in the future.    
+• Digital literacy. Having schools connected doesn't guarantee better education. Only 
+when teachers actively use the connectivity and resources online to put in the 
+curriculum, the students can benefit from it, and the educational outcomes would be 
+improved.   Funding policies must ensure this is achievable.  
+• Human rights approach to data moving to connectivity - we cannot connect people if 
+communities don't want to be con nected.     
+• Focus on groups who are equity deserving, underrepresented in AI and digital 
+development and governance : Gender, low -income, age, PWD, minorities. Their 
+access needs to be considered.   
+ 
+Commitments:    
+• Remove policy barriers to for better connectivity. Governments need s to engage.  
+• Financial investments in improved investments for better connectivity  and capacity to 
+access and engage with new technologies .  
+• Put digital infrastructure  in place to enable i nnovation . Start -ups and innovation 
+should be enabled by  connectivity.   
+• Engage civil society organizations, non -profit organizations involved in human rights, 
+SDGs, climate action, food security, communities in connectivity improvement , 
+digital infrastruct ure and access to AI and data.  
+• Create accessible learning opportunities, creative outreach engagement and conduct 
+continuous assessment of their impact;  
+ 
+2. Protect data  
+Members: Fabien Pfaender, Thy Try, Khairil  Zhafri  
+ 
+Core principles  
+• Data should be free, open and non -personal to the extent possible , or access made 
+conditional to SDG, mission -oriented purposes .  
+• Transparency and accountability in compliance with standards , rules  and digital 
+economy partnerships focused on green and blue  economies .  
+• Mechanisms for redress and remedy for violations should be in place.  
+• Confidentiality, data sovereignty and the legality of collection, storage and 
+distribution of data needs to depend on the type and purpose of the data related 
+activity.  
+ 5  
+Key commitments  
+• Protection of data and protection of rights of citizens as data subjects.  
+• Address the dilemma of how to balance competing interests: rights to data need to be 
+protected but can also be used for the public good , by implementing mission -oriente d 
+(SDGs, human rights) data collaborative models such as data trusts . 
+• Put in place international standards on data protection and converge PDP laws.  
+• Institutionalize discourse processes and dialogues on the use of open data, especially 
+when there are conflicting interests, e.g., individual rights vs public/national interests.  
+• Put in place interministerial, multidisciplinary workgroups that are enabled  to gather 
+data, assess the impact of AI on women, and of women on AI, and setting concrete 
+targets to drive gender balance  
+ 
+3. Apply human rights online   
+Members : Bryan, Soraj  Hongladarom , Malavika Jayaram , Patrick Pan g, Cara  Antonaccio , 
+Tomasz Janowski, Sophie Hoogenboom , Stephanie Santos  
+ 
+Core Principles  
+• Data should be free, private and secure.  
+• Access to common data resources through a data community.  
+• Right to be forgotten.  
+• Dignity in online identities.  
+• UDHR – Universal Declaration on Online Human Rights, fundamental (human) rights 
+in the digital space  
+• Anonymization of personal data  
+• Security - free from harassment  
+• Fair and equal digital education;  those unable to access online education should not be 
+harmfully affected by their lack of knowledge stemming from the online world.  
+• #1City authorities, not technology corporations, are driving smart city initiatives, on 
+behalf of city residents.   
+• #2 Government automation initiatives should be human -centered, they should not 
+compromize on human or social rights to achieve economic or efficiency gains.   
+• #3 Ensure that  people from all parts of the world have an equal ability to access the 
+internet and make use of its benefits in order to exercise their human rights.   
+• #4 The use of public resources to further short -term political goals by sawing division 
+in the digital space and beyond is illegitimate.            
+ 
+Key Commitments  
+• Internet governance : provide access and enable engagement for different stakeholders  
+and aim at detecting and preventing dis/misinformation without restricting human 
+rights  
+• Improve  digital literacy; and expand concepts of ethics to include social, economic, 
+political, cultural and legal impacts of AI  
+• Implement g lobal agreements on digital inheritance and the righ t to be forgotten.  
+• Materiality of the digital world .  Assess the environmental and health effects  and 
+digital labor issues ( e.g., outsourcing of traumatic labors like content moderation to 
+ 6 global south); use of resources in one locale (electricity/minerals ) that are beneficial 
+to another locale.  
+• #1 Smart city governance bodies to include authorities, businesses and citizens; 
+ongoing monitoring of smart city outcomes against expected benefits and targets; 
+digital channels for citizens to voice their opinions  and concerns   
+• #2 Automation outcomes, particularly on substantive issues, should be subject to 
+human review; automation decisions must rely on well -governed, trusted data; 
+automation initiatives should be supported publicly; they should be part of an 
+overarching digital strategy  
+• #3 Define what the right to access and benefit from the internet would entail; how this 
+can be implemented (education/regulation) and monitored and by who.  
+• #4 Countering top -down digital polarization by bottom -up digital solidarity; creating a 
+sense of shared fate; socializing divided groups to work on common projects; 
+delegitimizing the use of public funds to implement divide -and-conquer    
+ 
+4. Accountability for discrimination and misleading content  
+Members:  
+Jia Wang, Ke run Sun, Irene Kitsara,  Joyee S. Chatterjee  
+ 
+Principles  
+• Accountability criteria from existing measures, consistent with existing regulations  
+• Criteria for human rights; freedom of speech  
+• Accountability regarding mis/disinformation by different stakeholder groups  
+• Algorithmic biases lead to discrimination  
+• Balance of values (human rights)  
+ 
+Commitments  
+• Apply ethic al framework s such as those promoted by the UN, UNESCO, OECD, 
+independent Civil society organizations and NGOs, and Indigenous -led Digital , Data 
+and AI governance frameworks.  
+• Improve and fund digital literacy  
+• Actively include marginalized and discriminated groups  
+• Be aware and avoid language biases  
+• Identify, monitor and report on gender disparities in the AI value chain and including 
+limitations on decisional power and resource ownership  
+ 
+5. Promote regulation of artificial intelligence  
+Eleonore , Aim Sinpeng, Moira Patterson, Jake Okechukwu Effoduh, Walter Gehr, Amal El 
+Fallah  Seghrouchni  
+ 
+Principles  
+• Private, civil society and governm ent influence s on AI  needs to be balanced  with 
+particular c aution about monopolization by the private sector  
+• Ensure the a ccountability of private company behaviour; similar accountability 
+approach like in natural resource extraction.  
+ 7 • Governments are not sufficient in  regulating AI, Malaysia: insufficient resources in 
+AI security risks; insuff. gov't capacity for rule making (e.g., digital trade agreements, 
+digital infrastructure, digital silk road...) and adopting digital infrastructure from third 
+countri es. 
+• Liability regime gap  
+• Focus on education , and an informed engagement of a large number of citizens with 
+diverse perspectives on the social, legal, economic, political, cultural implications of 
+AI. 
+ 
+Committments  
+• Provide support to g overnments for rule and norm making  
+• Put accountability rules and regulation s in place  
+• Provide  funding  for AI capacity improvement  
+• Invite i ndigenous communities to participate/comment and give decisional power  
+• Weave Indigenous AI and Data Protocols into the value chain fo r AI systems while 
+promoting traditional matriarchal models of knowledge and environmental protection  
+• Consider the UNESCO recommendations on the ethics of AI  
+• Solve tensions between EU and UNESCO AI ethics framework  
+• Consider the IEEE Global Initiative on Ethics of AI ---- Apply ethical frameworks 
+such as those promoted by the UN, UNESCO, OECD, independent Civil society 
+organizations and NGOs, and Indigenous -led Digital, Data and AI governance 
+frameworks.  
+• Undertake AI human -centered readiness assessments in cou ntries  
+• Learn from examples: Japan “fine.o” for making technology human -centered  
+• AI Governance in Japan  
+• Ensure a broad def inition of AI systems to better protect human rights and prevent the 
+proliferation of Lethal Autonomous Weapon Systems  
+• Prioritize mission -oriented (SDGs, human rights) trade and governance partnerships  
+• Adopt a holistic flow to the assessment, analysis and evaluation processes of the ESG 
+of AI;  
+ 
+ 
+6. Digital commons as a global public good  
+Members: Francis Crawley  (International  science and culture program), Jamal Shahin (UNU -
+CRIS  ), Vineetha  ( DEF India) Dr Omar ( Alan Turing Institute), Peiling Yap (International 
+Digital Health and AI Research Collaborative)   
+ 
+Principles  
+• Unpack and clarify common and public goods for digital technologies; conventual 
+categories do not apply; dual discourse  
+• Clarify relationship between data policy and open science  
+• Digital commons as a shared good  
+• Whole of society approach  
+ 8 • STEAM -based (Science, Technology, Engineering, Arts, Mathematics)1 approaches 
+to AI engagement and learning  
+• Equitable relationship between science and society  
+• Clarify the relationship between market, state and citizen.  
+• Digital commons as a public good need  to be further articulated in terms of citizens, 
+science, and the various sectors in society  
+• The role of open science in the sharing of the goods of science and ensuring science 
+for the benefit of society needs to be promoted  
+• There is a need for data policy as part of the governance structure of digital commons  
+• The protection and promotion of human rights, not only within  but also through, a 
+digital commons should be considered  
+• The advancement of an ethics of AI for the digital commons space is now critical  
+• Equality (public health services)  
+• Openness  
+• Participation in defining rights and regulations  
+ 
+Commitments  
+• Provide publ ic health infrastructure and services  
+• Provide room for citizens  to voice opinions and concerns  
+• Build digital capacity in governments  
+• Define t he roles of government, citizens, civil society, and industry in the digital 
+commons  
+• Support the e -systematic engagement of parliaments, subnational authorities, and the 
+private sector (particularly in LMICs) to contribute to democratic and open digital 
+commons  
+• Develop  use of cases around the Sustainable Development Goals (SDGs), particula rly 
+regarding health  
+• Articulate the tools and methods needed for the digital commons  
+• Develop digital commons policy to prepare for and respond to health emergencies, 
+natural disasters, and conflict situations  
+• Articulate a governance structure within the di gital commons space that safeguards 
+and promotes global values, cultural norms, and ethics in the approach to knowledge, 
+science communication, and social cohesion  
+• Ensure Indigenous AI and Data Protocols, Intersectional and Gender -Aware AI and 
+Data Strategies are integrated into the value chain of all  AI systems , and data sharing 
+(digital economy) partnerships.  
+• Increase support and access to AI and data resources for CSOs  (NGOs, non -profits, 
+social entrepreneurs).  
+• Facilitate access to and ownership of data collection technologies for women  
+ 
+ 
+1 References to STEAM and role of artists by the UN in digital governance can be found on pages 3 and 
+4: https://www.un.org/development/desa/dspd/wp -content/uploads/sites/22/2020/09/EGM -CSocD59 -Final-
+Report -1.pdf   
+ 
+ 
+ 9 7. Other issues: Culture, Education, Peace  and Diplomacy . Digital 
+Humanism  
+Members:  Walter Gehr, Franz Gatzweiler  
+ 
+Principles  
+• Human -centered approach needed to protect people from digitalization and enable 
+people by digital technologies  
+• Consider SDG 4 (education): educate about data and digital technologies; so that 
+people are in the position to make informed choices  
+• Mutual cultu ral understanding can be promoted by digital technologies  
+• Education and dissemination of scientific and cultural knowledge  
+• A third common digital culture  
+• Digitalization as a first encounter for further mutual understanding  
+• Discourse about culture and scie nce, facilitated by digital technologies  
+• Gender equality awareness, monitoring and impact assessment of AI systems’ 
+deployment.   
+• Gender and intersectional cyberdiplomacy models  
+ 
+Commitments  
+• Consider common declaration of Digital Humanism  
+• Practice digital cultural diplomacy as preparation for actual human interaction  
+• Promote UN values through digital tools in preparation for actual human interaction  
+• Develop science diplomacy with the help of digital tools  
+• Ensure integration of a gender and intersectional lens on all AI, data and digital 
+economy strategies  and emerging cyberdiplom acy models  
+ 
+ 
+ 
+Annex es 
+• Declaration of Digital Humanism  
+• AI Governance in Japan  
+• IEEE Global Initiative on Ethics of AI  
+• UNESCO recom mendations on the ethics of AI  
+ 
+ 
+References  
+ 
+Reference  Sent by  
+https://www.un.org/development/desa/dspd/wp -
+content/uploads/sites/22/2020/09/EGM -CSocD59 -Final -Report -1.pdf   
+ Valentine Goddard  
+Member of the Advisory Council 
+on Artificial Intelligence of 
+Canada  
+ « STEAM  » or otherwise  in this case  Narrative  Ethics  (using  Theatre)  in 
+bioethics  and other  STEM  
+sciences   https://pubmed.ncbi.nlm.nih.gov/16337306/  
+ 10 Multidisciplinary  AI Design  and Best  practices  for art projects  exploring  
+AI ethics  https://valentinegoddard.medium.com/art -shaped -ai-value -
+creation -in-the-digital-era-94694f1cea8b  United Nations AI and Data 
+Policy and Governance Expert  
+ 
+Founder and Executive Director, 
+AI Impact Alliance  
+ Canada’s  Public  Awarenss  on AI, Report  and Recommendations  (See  
+recommendation  5 for reference  to the Arts:   https://ised -
+isde.canada.ca/site/advisory -council -artificial -intelligence/en/public -
+awareness -working -group/learning -together -responsible -artificial -
+intelligence  
+Lewis,  Jason  Edward  et al. (2020).  Indigenous  Protocol  and Artificial  
+Intelligence  Position  Paper,  Honolulu,  Hawaiʻi:  The Initiative  for 
+Indigenous  Futures  and the Canadian  Institute  for Advanced  Research  
+(CIFAR):  https://spectrum.library.concordia.ca/id/eprint/986506/7/Indi
+genous_Protocol_and_AI_2020.pdf  
+CARE  Principles  for Indigenous  Data  governance,  https://www.gida -
+global.org/care  
+Research  Data  Alliance  International  Indigenous  Data  Sovereignty  
+Interest  Group.  September  2019.  The Global  Indigenous  Data  
+Alliance.  www.gida -global.org ;  
+Research  Data  Alliance  International  Indigenous  Data  Sovereignty  
+Interest  Group.  September  2019.  The Global  Indigenous  Data  
+Alliance.  www.gida -global.org  
+The disaggregated  Demographic  Data  Collection  in British  Columbia  
+(BC):  A Grandmother  Perspective  (2020).  BC’s  Office  of the Human  
+Rights  Commissioner:  https://bchumanrights.ca/wp -
+content/uploads/BCOHRC_Sept2020_Disaggregated -Data -
+Report_FINAL.pdf  
+A First  Nations  Data  Governance  Strategy  (2020 -
+21): https://fnps.ca/bcfndgs -engagement -sessions/  
+https://fnigc.ca/wp -
+content/uploads/2020/09/FNIGC_FNDGS_report_EN_FINAL.pdf , https:/
+/www.afn.ca/wp -content/uploads/2021/10/Jonathan -Dewar -
+Presentation.pdf  
+Walter,  Maggie,  et al. (2020).  Indigenous  Data  Sovereignty  in the era of 
+Big Data  and Open  Data , Australian  Journal  of Social  Issues  4:141,  
+2020.  https://doi.org/10.1002/ajs4.141  
+ 
+ 

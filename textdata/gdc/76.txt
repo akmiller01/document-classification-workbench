@@ -1,0 +1,394 @@
+ 
+ 
+ 
+ 
+WORLD SUMMIT ON THE INFORMATION SOCIETY (WSIS) FORUM  
+Contribution for the Global Digital Compact (GDC)  
+ 
+Introduction  
+The UN General Assembly Resolution 56/183  (21 December 2001) endorsed the holding of 
+the World Summit on the Information Society (WSIS)  in two phases. The first phase took 
+place in Geneva from 10 to 12 December 2003 and the second phase took place in Tunis, from 
+16 to 18 November 2005. The goal of WSIS is to achieve a common vision, desire and 
+commitment to build a people -centred, inclusi ve and development -oriented information 
+society where everyone can create, access, utilize and share information.  
+Through the Summit’s first phase in 2003, a framework for an inclusive information society 
+was created as set out in the Geneva Plan of Actio n1. Since 2015, the WSIS Process and the 
+2030 Agenda for Sustainable Development are being aligned by stakeholders to integrate 
+information and communication technologies ( ICTs) into their approaches in implementing 
+the activities/initiatives to support t he goals of the 2030 Agenda.  
+In line with UN Resolution А/70/1  and Resolution А/70/125 , ITU, UNESCO, UNDP and 
+UNCTAD, in collaboration with more than 30 UN agencies, are continuously working towards 
+strengthening the alignment of the WSIS Process implementation activities with the 2030 
+Agenda for Sustainable Development, thereby highlighting the direct linkages between WSIS 
+Action Lines and SDGs.  
+ 
+WSIS Forum: World's Largest Annual Gathering of the 'ICT for Development ' Community  
+The WSIS Forum is an example of successful digital cooperation within UN Agencies  including 
+the Governments, Private Sector, Civil Society, Academia and the Technical Community.  The 
+Forum  is co -organized by ITU, UNESCO, UNDP and UNCTAD, in clos e collaboration with other 
+UN Agencies ( FAO, ILO, ITC, UNDESA,  UNEP, UNHCR, UNICEF, UNIDO, UNITAR, UNODC, UPU, 
+UN Women, UN Tech Bank for LDCs, UNU, WFP, WHO, WIPO,  WMO and UN Regional 
+Commissions ) and all WSIS Action Line Facilitators/co -facilitators . 
+ 
+1 The Plan of Action sets forth a clear commitment to translate these principles into practice and to meet 
+concrete and tangible targets with the aim of promoting sustainable development. 
+https://www.itu.int/net/wsis/docs/promotional/brochure -dop-poa.pdf  
+
+The WSIS Forum has proven to be an efficient medium for coordination of multistakeholder 
+implementation activities , information exchange, creation of knowledge, sharing of best 
+practices and foster partnerships to advance development goals.  
+The WSIS Forum 2023  took place from 13 to 17 March 2023 in Geneva, Switzerland, and 
+continued with virtual sessions in April -May. The overall theme of the WSIS Forum 2023 is 
+WSIS Action Lines for building back better and accelerating the achievement of the SDGs 
+(www.wsis.org/forum) .  
+The WSIS Forum continues to serve as an open and inclusive platform to ensure the common 
+WSIS goals are met.  
+ 
+WSIS Action Lines: An Information Society for All  – Key Principles   
+The WSIS Action Lines  serve as key principles for building an inclusive information and 
+knowledge societies. All stakeholders should work together to: improve access to information 
+and communication infrastructure and technologies as well as to information and knowledge; 
+build  capacity; increase confidence and security in the use of ICTs; create an enabling 
+environment at all levels; develop and widen ICT applications; foster and respect cultural 
+diversity; recognize the role of the media; address the ethical dimensions of the Information 
+Society; and encourage international and regional cooperation.  
+The vital role of ICTs as a catalyst for development is specifically recognized in the new 
+development framework Transforming Our World: The 2030 Agenda for Sustainable 
+Development,  which acknowledges that “the spread of information and communication 
+technology and global interconnectedness has great potential to accelerate human progress 
+and to develop knowledge societies, to bridge the digital divide and to develop knowledge 
+societ ies, as does scientific and technological innovation across areas as diverse as medicine 
+and energy.  
+Four targets of the SDGs explicitly recognize the role of ICTs. This applies to the targets on 
+Education and scholarships (4.b) on Gender empowerment (5.b ) on Infrastructure for 
+Universal and Affordable access to ICTs and the Internet in the Least Developed Countries 
+(9.c) and more broadly, Goal 17 on Strengthen the means of implementation and revitalizing 
+the global partnership for sustainable development,  which calls to enhance the use of 
+enabling technology, in particular ICTs. There are also several references to technology in 
+general throughout the SDGs in which ICTs play an important direct or indirect role.  At the 
+same time, it should  be noted that th e WSIS outcome documents were drafted at a time when 
+man y aspects of today’s high level of digitalization were not known or foreseen.  
+The WSIS -SDG Matrix developed by WSIS Action Line Facilitators serves as the mechanism to 
+map, analyze and coordinate the implementation of WSIS Action Lines, and more specifically, 
+ICTs as enablers and accelerators of the SDGs. The Matrix draws direct linkages of the WSIS 
+Action Lines with the SDGs to continue strengthening the impact of ICTs for sustainable 
+development ( https://www.itu.int/net4/wsis/sdg/ ). 
+The WSIS Stocktaking : A Global Repository of ICT -Driven Sustainable Development Projects 
+and Best Practices  
+The WSIS Stocktaking process  was initiated in October 2004 during the Tunis phase of WSIS, 
+and in the years since has come to comprise the database of:  
+• exchanges of information on p rojects  
+• sharing of best practices of certain regions  
+• initiatives related to the implementation of the 11 WSIS Action Lines 
+• linkage between the 11 action lines and the SDGs – a linkage that becomes 
+more and more important over the years.  
+The WSIS Stocktakin g Process serves as a tool to monitor the implementation of the WSIS 
+Action Lines and demonstrate the capacity of ICTs to foster development. As a unique global 
+platform, the WSIS Stocktaking portal hosts an international register of ICT projects and 
+activ ities conducted by a diverse range of stakeholders, including governments, international 
+organizations, the business sector, civil society, and other entities. This portal represents a 
+repository of pr ojects that stakeholders can access to stay informed ab out the latest progress 
+in the implementation of WSIS outcomes.  
+The principal role of the WSIS Stocktaking exercise is to collect information, share knowledge 
+and experiences and leverage the activities of stakeholders working on the implementation 
+of WSIS  outcomes. The WSIS stocktaking database contains over 14,000 entries of ICTs 
+projects to date. B y facilitating the exchange of information, the WSIS Stocktaking can 
+empower  stakeholders to collaborate, learn from each other, and identify opportunities to 
+enhance the impact of ICTs in promoting sustainable development . 
+ 
+The WSIS Prizes : A Global Contest Recognizing the Power of ICTs in Enabling Sustainable 
+Development  
+The WSIS Prizes  contest is an integral part of the WSIS Stocktaking process set up in 2004 to 
+assist WSIS implementation and follow -up. The contest was held for the first time in 2012  and 
+has rapidly gained popularity and attention with in the global community.  
+This annual contest recognizes outstanding initiatives and projects that leverage the power 
+of ICTs to accelerate progress towards the achievement of the United Nations Sustainable 
+Development Goals. By showcasing innovative and e ffective approaches, the WSIS Prizes 
+contest provides a unique opportunity to raise awareness, share good  practices, and inspire 
+stakeholders to collaborate on the deployment of ICTs as a driver of sustainable development.  
+The prizes are awarded across 18 categories, each directly linked to the 11 WSIS Action Lines 
+defined in the Geneva Plan of Action.  The 18 winner projects are selected as the most 
+successful stories worldwide, under each category, to serve as best  practice models to be 
+replicated by other  stakeholders interested in ICTs for development.  
+ 
+Towards a Sustainable and Inclusive Digital Future: The WSIS and Global Digital Compact  
+The WSIS Forum 2023  hybrid week,  held from 13 to 17 March 2023 in Geneva, Switzerland, 
+brought together a diverse range of stakeholders to discuss the latest developments in the 
+world of ICTs , and associated opportunities and challenges . One of the key topics of discussion 
+was the Global Digital Compact, which aims to build a digital future that is open, free, secure, 
+and inclusive .  
+ 
+The Ministerial Roundtable at the WSIS Forum 2023 recognized the complementary nature 
+of the Global Digital Compact and the WSIS Framework, emphasizing the need for continuous 
+dialogue among stakeholders to leverage the learnings of WSIS implementation in discussions 
+of the UN SG's report 'Our Common Agenda'. The Ministers emphasized that harnessing the 
+power of  digital will be vital to rescuing the SDGs.  
+ 
+In accordance with its mandate, the WSIS+20 review will assess progress and achievements 
+made in the first 20 years  of the WSIS . The WSIS Forum 2024 will be branded as WSIS+20 
+Forum High -level Event  in Geneva a nd serve as a platform for the WSIS+20 review to provide 
+multistakeholder discussions and to take stock of the achievements and key trends, 
+challenges , and opportunities since the Geneva Plan of Action . This will complement the work 
+of UN Commission on Science and Technology for Development in its system -wide 
+assessment of WSIS+20.  
+ 
+To avoid duplication of existing multistakeholder processes, it is important to foster synergies  
+between the WSIS+20  proces s, the Global Digital Compact and the Summit of the Future.  
+ 
+The WSIS Action Lines have served a valuable role in identifying and addressing emerging 
+trends, opportunities and challenges in the digital world.  All stakeholders, including 
+governments, the private sector, civil society, and international organizations, have a role to 
+play in implementing the WSIS Action Lines and ensuring that the benefits of ICTs are 
+accessible to all.  
+ 
+The WSIS community has se en significant growth in recent years and continues to contribute 
+to the WSIS Forum, bringing in valuable insights, ideas, and initiatives that advance the WSIS 
+Action Lines and the Sustainable Development Goals.  The annual WSIS Forum has resulted in 
+sever al valuable outcomes, which include policy recommendations, achievements, 
+publications, and other measures that reflect the strong commitment towards the WSIS 
+process and its goals.  
+ 
+ 
+WSIS Forum 2023 : Key Outcomes  (an input to the GDC) , 13-17 March 2023 , Geneva,  
+Switzerland  
+The annual WSIS Forum is a global multistakeholder platform facilitating the implementation 
+of the WSIS Action Lines for advancing sustainable development, organized by the ITU, 
+UNESCO, UNDP, an d UNCTAD, in close collaboration with all WSIS Action Line co -facilitators 
+and more than 30 UN agencies. The Forum provides an opportunity for information exchange, 
+knowledge creation and sharing of best practices, while identifying emerging trends and 
+fostering partnerships, taking into account the evolving information and knowledge societies.  
+ 
+The WSIS Forum 2023 hybrid week was held from 13 to 17 March  in Geneva, Switzerland, and 
+brought together experts, policymakers, and diverse stakeholders from arou nd the world to 
+discuss ICTs for sustainable development. This year’s Forum theme is WSIS Action Lines for 
+building back better and accelerating the achievement of the SDGs . The Forum hybrid week 
+welcomed over 2,700 participants  attending both on -site and remotely, from 150 countries 
+worldwide. The Forum gathered more than 150 high -level representatives  of the wider WSIS 
+stakeholder community, including Ministers and Deputies, Ambassadors; and leaders from 
+the private sector, academia and civil society.  
+ 
+This year’s Forum hybrid week had several innovative session formats and featured around 
+250 sessions , including open space talks, thematic workshops, country workshops, WSIS 
+Action Lines Facilitation Meetings, knowledge cafes, WSIS Prizes, high -level track  sessions, 
+and many more. The stakeholders appreciated the new innovative formats, which fostered 
+more participatory and collaborative exchanges with engaging dialogues. The WSIS Forum 
+2023 continues with virtual workshops from April to May 2023 . Please re fer to the WSIS 
+Forum 2023 agenda available here: https://www.itu.int/net4/wsis/forum/2023/Agenda .  
+ 
+The WSIS Forum 2023 saw a significant milestone, as the first female Chairperson, H.E. Dr. 
+Emilija Stojmenova Duh, Minister of Digital Transformation, Republic of Slovenia,  chairing 
+the WSIS Forum 2023. Summarizing th e high -level track, the Chairperson highlighted that 
+‘’international cooperation and multistakeholder engagement are the key, therefore, 
+processes as WSIS are an immense contribution. They bring us together to meet and build 
+meaningful partnership . And the y are of immense help on our way towards achieving 
+sustainable development goals’’.  
+ 
+The concrete outcomes of WSIS Forum 2023 will enable stakeholders to strengthen 
+implementation of WSIS Action Lines and the alignment of the WSIS and SDG processes. Some 
+of the highlights and key outcomes of the WSIS Forum 2023 are the following:  
+ 
+Highlights:  
+• The WSIS Forum 2023 featured high -level keynote speeches from global leaders , 
+including the UN Secretary -General, Mr. Antonio Guterres, who emphasized the  
+importance of the Forum to build a free and fair information society for all people, 
+everywhere; his video message is available here .  
+ 
+• 30+ exhibit ions spaces  showcased ICTs for sustainable development. The exhibitors 
+displayed a wide range of technologies and innovative solutions addressing global 
+development issues. The WSIS Forum 2023 partners also exhibited their projects and 
+initiatives.  The exh ibition spaces also featured virtual reality tools that provided 
+participants with different immersive experiences, such as to explore the reality of the 
+indigenous people of the Amazon, to explore the enigmatic world of M.K.Čiurlionis 
+paintings from Lithu ania, and to explore the XR Olympics. The exhibitors came from 
+governments, civil society, private sectors, technical community, academia, youth, 
+and the international organisations. The WSIS Forum 2023 photo contests winners 
+and finalists photos enriched the exhibition space and the venue.  
+ 
+• The United Nations Group on the Information Society (UNGIS)  reiterated its 
+commitment to the WSIS process and WSIS Action Lines implementation as well as to 
+strengthen the alignment of the WSIS and SDG processes. UNGIS members discussed 
+the preparation of an action plan to levera ge the profile of UNGIS and to contribute 
+to other global processes on digital for development issues. Contributions in a video 
+format by the UN Heads of UN Agencies are available on WSIS Process Yo uTube 
+channel . 
+ 
+• The announcement of the WSIS Prizes 2023 , as an integral part of the WSIS 
+Stocktaking , took place during the Forum with 18 winners and 72 champions  
+celebrated globally for their efforts in implementing WSIS Action Lines and advancing 
+the SDGs. In addition, the winning entries of the WSIS Forum Photo Contest 2023  were 
+unveiled, depicting how ICTs are playing a vital, enabling role on the road to achieve 
+the SDGs.  
+ 
+• Announcement and awards of the WSIS Special Prizes and Activities have also 
+contributed to the overall celebration of ICTs and its economic, social, cultural, and 
+environmental impact around the world : 
+o 4 WSIS Forum 2023 Hackathon winners : Digital GovHack: Advancing the Digital 
+Economy by Leveraging Emerging Technologies. The WSIS Forum 2023 was 
+jointly organised by ITU, WSIS, and Digital Government Authority of Kingdom 
+of Saudi Arabia.  
+o 1 winner of the WSIS Healthy Ageing Innovation Prize  
+o 1 winner, 5 finalists of the WSIS Digital Servi ce Design Prize 2023  
+o Launch of the WSIS x Generation Connect Youth Prize  
+ 
+• Networking tool: 600 participants  used networking tool imeetyou@wsis  for 
+networking with onsite participants - LinkedIn . 
+ 
+• The Ministerial Roundtable  at the WSIS Forum 2023 (13 -17 March), benefited from 
+the presence and contributions of 40 Ministers/Deputies. In an innovative format with 
+3 breakout rooms chaired by Ministers (Gambia, Philippines, UAE), 3 topics were 
+discussed:  
+o ICTs rescuing the 2030 Agenda for Sustainable Developme nt WSIS Action 
+Lines for building back better and accelerating the achievement of the SDGs  
+o World Summit Information Society Ministerial Contribution to the Global 
+Digital Compact Consultations  
+o Exploring the Potential of Space for all as a Driver of Sustain able 
+Development  
+ 
+The Ministerial roundtable of WSIS Forum 2023 concluded with the following:  
+o They emphasized that harnessing the power of digital will be vital to rescuing 
+the SDGs. ICTs are a powerful tool that should be fully leveraged towards this 
+goal. The WSIS process provides an existing and well -functioning framework 
+for accelerating the achievement of the SDGs.  
+o They invited all stakeholders to harness the power of digital and leverage the 
+alignment between the WSIS process and the 2030 agenda f or sustainable 
+development, as well as the SDG Digital Day to accelerate the achievement the 
+SDGs.  
+o They recognized that discussions on Our Common Agenda and especially its 
+Global Digital Compact are complementary to the WSIS Framework. Therefore, 
+they invi ted all stakeholders to leverage the learnings of the implementation 
+of the WSIS Framework and related process in their deliberations of Our 
+Common Agenda.  
+o They recognized the enormous potential that Space holds in global efforts to 
+connect the unconnected  and beyond. Thus, they invited all stakeholders to 
+work together to ensure that Space is leveraged in a safe and sustainable 
+manner.  
+ 
+• The WSIS Forum 2023 Ambassadors roundtable  discussion took place on 13 March 
+2023, featuring approximately 50 Ambassadors  to UN in Geneva, where they 
+deliberated on the following topics:  
+o Leveraging the power of ICTs and the need to bring about an inclusive, 
+prosperous, sustainable, safe and trusted digital future for all;  
+o Meaningful communication and Geneva community’s role in effective 
+implementation of UN Processes;  
+o WSIS+20 review process and the future of WSIS beyond 2025 – identifying 
+emerging trends, challenges and opportunities for implementing the WSIS 
+Action Lines;  
+o WSIS +20 review and the GDC  
+o GDC discussions could cons ider ongoing multistakeholder 
+discussions on WSIS+20. The WSIS Action Lines are particularly 
+important as they capture emerging trends, opportunities, and 
+challenges in the digital world beyond 2025.  WSIS Forum will 
+continue to play an important role in di gitalization;  
+o Global Digital Compact process must reflect the needs of 
+developing countries to create more equitable prosperity and 
+reduce structural inequalities. Questions on the GDC process, 
+including its linkages with the Summit of the Future, were rai sed. 
+Mexico informed that during the GDC discussions in Mexico, the 
+imperative of closing the digital divides was discussed to produce 
+tangible elements to be included in the future Global Digital 
+Compact to be adopted at the Summit of the Future in 2024;  
+o To avoid duplication, the WSIS+20, Global Digital Compact, and 
+Summit of the Future should be synergized. Some highlighted 
+strengthening the role and contribution of the Geneva community 
+towards can contribute to Global Digital Compact discussions with 
+Sweden, Rwanda, and the UN Tech Envoy. WSIS+20 is important 
+to achieve the common goal of connecting humanity.  
+ 
+• The WSIS Forum 2023 provided a platform for multistakeholder consultations  on the 
+WSIS+20 review . The discussions reflected on the achievements of  the WSIS process 
+in the past 20 years, its future direction, and its interconnection with other global 
+processes, including the Global Digital Compact. Despite the progress made in the past 
+20 years of the WSIS process, there are still many complex challe nges to overcome. It 
+is paramount to maintain the momentum towards a digital future that is inclusive and 
+sustainable, with technology serving the needs of everyone, leaving no one behind. 
+All stakeholders are invited to contribute to the WSIS+20 Forum Hig h-level Event in 
+Geneva, from 27 to 31 May 2024, and its upcoming open consultation process, which 
+aims to ensure wide participation in and broad ownership of the Forum.  The Forum 
+continues to  collect  input s from stakeholders on emerging trends, challenges  and 
+opportunities on WSIS Action Lines for 20 years of their implementation and beyond.  
+ 
+• The WSIS Forum 2023 also provided a platform for multistakeholder discussions  on 
+the Global Digital Compact. The co -facilitators of the GDC, H.E. Mr. Claver Gatete, 
+Ambassador of Rwanda, and H.E. Ms. Anna Karin Eneström, Ambassador of Sweden, 
+were present at the WSIS Forum and had the opportunity to interact and listen to the 
+views of multistakeholders on the fut ure on GDC and the importance of the WSIS 
+process beyond 2025. Mr. Amandeep Singh Gill, UN Secretary -General's Envoy on 
+Technology, was also present at the Forum.  
+ 
+• For its second edition, the Mayors track  at the WSIS Forum 2023, co -organized by ITU 
+and Geneva Cities Hub, provided an opportunity to discuss how smart cities are the 
+drivers of innovative sustainable development and enablers to respond  to challenges 
+related to climate change and achievement of the SDGs. Mayors presented concrete 
+projects and local achievements on scalable and replicable good practices of digital 
+solutions for climate change adaptation and energy transition. They also in teracted 
+during a multistakeholder High -Level Dialogue  engaging with High -Level 
+representatives from the private sector, UN organizations and the c ivil society on ways 
+to accelerate digital transformation and building more resilient cities.  
+ 
+• Along with the Forum and High -Level Track sessions, the WSIS Forum 2023 also 
+featured a variety of social events  that provide on -site participants with opportunities 
+to network and engage in an informal setting.  
+ 
+• Permanent Mission of India organised Yoga: wellbeing and mindfulness sessions  with 
+profession al instructors during the WSIS Forum 2023, which provided on -site 
+participants with breathing exercises to relax and unwind from the busy Forum 
+schedule as well as to improve the mindfulness.  
+ 
+• The daily video highlights and interviews are available here . For the WSIS Forum 2023 
+pictures and photos, please see here . 
+ 
+Outcomes:  
+• The full list of official WSIS Forum 2023 outcomes and the below publications will be 
+made available on the WSIS Forum 2023 website:  
+o WSIS Forum 2023: Outcome Document  
+o WSIS Forum 2023: High -Leve l Track Outcomes and Executive Brief  
+o WSIS Stocktaking Report 2023  
+o WSIS Stocktaking Success Stories 2023  
+o WSIS Forum 2023 and SDG Matrix  
+o WSIS Forum 2023 Report WSIS Action Lines: Accelerating the recovery from 
+the coronavirus disease (COVID -19) and the full implementation of the 2030 
+Agenda for Sustainable Development at all levels.  
+ 
+• The Forum also provided opportunities for stakeholders to fostering new partnerships 
+and collaborations among different stakeholders, promoting knowledge -sharing and 
+collective action towards digital cooperation.  
+ 
+• #WSIS  was the 6th trending hashtag on Twitter in Switzerland during the High -Level 
+segment.  
+ 
+• The WSIS Forum 2023 highlighted innovative ICT solutions and best practices from 
+around the world, showcasing the potential  of digital technologies to drive sustainable 
+development and social progress.  
+ 
+Impact:  
+• The WSIS Forum 2023 contributed to advancing the global digital agenda and 
+promoting the use of ICTs for sustainable development, through the multistakeholder 
+approach , fostering dialogue and meaningful discussions around key ICT -related 
+issues and trends.  
+ 
+• The WSIS Forum 2023 provided an open, crowdsourced, and inclusive platform for 
+building networks and partnerships, facilitating the exchange of ideas, best practice s 
+and experiences, and promoting collective action towards achieving global goals.  
+ 
+• The Forum demonstrated a strong commitment and active participation from 
+stakeholders across all sectors, including governments, private sector, technical 
+communities, civi l society, and academia to the shared vision of the WSIS. The 
+engagement and contributions of these stakeholders were critical in shaping the 
+discussions and outcomes of the Forum and in driving progress towards achieving the 
+WSIS and SDG goals.  
+ 
+• The Forum  proved the WSIS process and the WSIS Action Lines to be a good example 
+of a well -functioning framework for accelerating the achievement of the SDGs and this 
+global platform continues to evolve reflecting the scope, pace, complexity, and impact 
+of today’s digital transformation.  
+ 
+• UN WSIS Action Line Facilitators, ILO, ITC, ITU, UNCTAD, UNDP, UNDESA, UNESCO, 
+UNEP, UPU, WHO, WMO, and UPU assessed the contribution of the Action Lines since 
+2003 and discussed the challenges and opportunities.  
+ 
+All stakeholders are invited to participate and contribute actively to the WSIS Forum 2024 , 
+which will be branded as WSIS+20 Forum High -Level Event, scheduled to take place from 27 
+to 31 May 2024  in Geneva, Switzerland.  
+ 
+ 

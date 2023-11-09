@@ -1,0 +1,595 @@
+Global Digital Compact
+Online submission by the fellows of the
+2022 European Summer School on
+Internet Governance (EuroSSIG)
+Meissen, October, 14, 2022
+Leipzig, November 15, 2022
+Dear UN Under Secretary General, dear Amandeep,
+it is my honour and pleasure to submit to you a multistakeholde r contribution to 
+the “Global Digital Compact” (GDC). The paper is the outcome of  an extensive 
+discussion among fellows and faculty members of the 16th European Summer 
+School on Internet Governance (EuroSSIG), held in Meissen/Germa ny, July 17 
+– 23, 2022. 
+Since years, the EuroSSIG includes in its annual curriculum a s o-called 
+“practicum”, where fellows from all over the world simulate “ne gotiations” and 
+produce multistakeholder statements on relevant global Internet  related public 
+policy issues. In previous years such statements were produced with regard to 
+the extension of the IGF Mandate by the UN General Assembly in 2015, 
+ICANN’s IANA Transition in 2016 and the deliberations of the Op en Ended 
+Working Group (OEWG) on cybersecurity in 2020. 
+Based on your call, to send comments on the “Global Digital Com pact” to your 
+“Office of the Secretary-General’s Envoy on Technology”, the 20 22 EuroSSIG 
+edition discussed the various elements of the proposed “Global Digital 
+Compact”. Facilitated by two facu lty members – Avri Doria, Memb er of the 
+ICANN Board and Tatiana Tropina, assistant professor at Leiden University – 
+24 fellows from 15 countries produced a first draft for a multi stakeholder 
+statement, which was further enhanced in an online discussion a nd finally 
+adopted by the group on October 14, 2022. 
+
+I hope, that the statement will contribute to a deep and fruitf ul multistakeholder 
+discussion around the issues, raised by the idea, to draft a “Global Digital 
+Compact” as part of UN Secretary General’s “Common Agenda” and to adopt such a document within the forthcoming “UN Summit on the Future ” in 2024.
+Yours sincerely
+Prof. Wolfgang Kleinwächter
+Chair of the EuroSSIG Faculty
+
+GDC online submission – final draft
+as of Oct 14, 2022
+Overview
+The European Summer School on Internet Governance (EuroSSIG), held annually, often 
+includes an exercise for the fellows that tackles one of the important Internet Governance 
+issues of the day. In 2022, the challenge posed to the fellows was to come up with a 
+submission to the United Nations Office of the Secretary General’s Envoy on Technology 
+invitation for comments on the United Nations Secretary General’s Global Digital Compact.
+Over the course of a week, the fellows, in their own capacities, participated in a 
+multistakeholder exercise to develop a response to the call. The fellows came from a set of
+diverse stakeholder groups and had a wide range of geographical origins and residences.
+The fellows were given the choice of which issues to address. They reached consensus on
+addressing 6 of the 7 areas, excluding the Area 5 “Accountability for discrimination and 
+misleading content.”
+Description of entity/organization
+The European Summer School for Internet Governance (EuroSSIG) aims at providing a 
+multi stakeholder learning environment for graduate students and young academics as 
+well as junior professionals from private sector, government and civil society. All fellows 
+come with some learning and often experience in some are related to the digital economy 
+or Internet Governance. Since its inception in 2007 363 fellows from 97 countries aged 
+between 20 to 70 years attended the European Summer School on Internet Governance. 
+Each year, the fellows tackle one of the pressing issues of Internet Governance in an 
+extended process. The group participating in 2022 that produced this submission came 
+from 15 countries and came from all stakeholder groups.
+Process followed to collect, consult, and prepare 
+your input
+Before the start of the program, the fellows, with diverse stakeholder backgrounds, were 
+asked to read the “ Global Digital Compact ” and review “ Our Common Agenda ”, as well as 
+other selected relevant material. The fellows were asked to each come prepared with one 
+core principle and a corresponding key commitment for at least one of the areas defined in
+the proposed compact to contribute to the initial session. Sessions were held each day for 
+five days to discuss the issues and come to consensus. Some sessions were held in 
+plenary with all fellows attending, while some were held within thematic issue groupings. 
+Some bilateral sessions were held among the diverse stakeholder groups. Faculty at the 
+school served as subject matter experts to advise, but were cautioned against directing the
+process. The entire process was run under predefined multistakeholder modalities.
+- 4 -
+Contributing text came from rapporteurs chosen within each of the thematic areas and was
+organized by two faculty members serving as the secretariat. Successive drafts were 
+discussed in plenary sessions. Only consensus text moved forward. Consensus was 
+defined as text to which no fellow objected after discussion and revision. The final 
+submission was prepared by the secretariat and was reviewed and edited by the 
+rapporteurs from each of the thematic areas. No new contributions were added after the 
+final session when consensus was reached.
+It should be noted that all opinions discussed during the process of developing the 
+contribution were made in the personal capacity of the participants and did not necessarily 
+reflect the position of their educational institutions or their employers. Any work done by 
+EuroSSIG faculty, including the secretariat, was in support of the project and does not 
+indicate support by them or by organisations with which they are affiliated.
+The following sections contain the consensus response of the fellows at the EuroSSIG on 
+July 22.
+1. Connect all people to the Internet, including all 
+schools
+a)Core Principles
+4.All people must be able to have meaningful Internet access, with special 
+attention to affordability, digital skills, digital security, and social indicators, 
+including but not restricted to gender, race, ethnicity. 
+2.In line with the recommendation of the Alliance for Affordable Internet 
+(A4AI), adopted by the UN Broadband Commission,‘meaningful Internet 
+access’ is defined as being able to use the Internet, open and unfiltered, on 
+a daily basis, with an appropriate device, including enough data (when it is 
+a mobile connection). Connections should be provided with technical 
+minimum requirements such as speed and latency. It should offer a realistic 
+but clear threshold for many low- and middle-income countries, and look at 
+the users on this network, not just the network’s coverage. 
+3.In order to make people’s access less dependent on individual 
+subscriptions at all times, it is important that all schools in underdeveloped 
+areas are provided with meaningful Internet access, either via fixed line or 
+satellite if local infrastructure is not available. Wifi access can then be 
+offered as a public service to local citizens. Internet capacity per school 
+should meet the demand of students and other local citizens using its Wi-Fi 
+access. 
+b)Key Commitment/ Pledges/ Actions
+4.Because of disparities in Internet coverage, access and usage will differ 
+between regions. States should pursue partnerships with intergovernmental
+organizations and other stakeholders in order to foster the creation of digital
+inclusion strategies at the local level. 
+- 5 -
+5.Governments should ensure a competitive market environment. This action 
+includes the adoption of legislation that fosters the development of network 
+providers, such as ISPs and IXPs for underserved communities. For the 
+economic viability that keeps small providers, governmental stimuli are 
+essential in order to complement the counterparts of large providers in the 
+expansion of Internet access. Governments need to ensure that an 
+independent national regulatory authority is installed with sufficient funding, 
+overseeing the telecommunications market and securing fair competition 
+and, as a result, fair pricing for Internet access. 
+6.In line with the recommendation adopted by the UN Broadband 
+Commission, we propose to use the “1 for 2” formula as a way to measure 
+affordability of Internet access: affordable Internet is where 1GB of mobile 
+broadband data is priced at 2% or less of average monthly income. 
+7.Technical and scientific communities should assess the government’s core 
+Internet usage indicators periodically, in order to identify improvements. 
+8.To increase the digital skills of Internet users, governments should make 
+digital skills and security activities compulsory in the primary school 
+curriculum. 
+9.Private sector should be encouraged to hold training sessions in digital 
+skills and security, especially for the marginalized populations and those in 
+the most remote areas of their countries. 
+10.Civil society organizations should be encouraged and supported on the 
+creation of permanent awareness raising campaigns addressing the 
+relevance of meaningful access targeting groups that remain unconnected, 
+such as, but not limited to, women and girls. 
+2. Avoid Internet fragmentation
+a)Core Principles
+1.The Internet, being a network of networks, must remain interoperable. 
+2.It is crucial that we, as a global community, preserve the integrity of the 
+Internet. 
+3.The Internet must remain globally reachable through a unique identifier 
+system. 
+4.Internet openness is vital as it allows to achieve potential benefits for all. 
+5.The efforts to prevent Internet fragmentation should take place 
+simultaneously on three levels: on the technical layer, the regulatory layer, 
+and socio-economical layer. 
+The interoperable and globally reachable Internet, as we have known it since its 
+origin, has enabled enormous network effects. The positive impact on socio-
+economic development, citizen participation, access to information and all kinds of 
+digital services has completely changed our societies. Preserving a single, 
+interoperable, open and globally reachable Internet is therefore in the global public 
+interest.
+- 6 -
+b)Key Commitment/ Pledges/ Actions
+Governments should:
+1.respect the public core of the Internet and pledge not to abuse the Internet’s
+infrastructure. 
+2.ensure that their actions and policies do not negatively affect the core 
+principles of the Internet. 
+3.establish clear and transparent frameworks and due process when 
+implementing laws and regulations on Internet utilization. 
+4.exempt the technical community from Internet sanctions that infringe on the 
+Internet infrastructure layer. 
+5.ensure that their actions and regulations preserve the right to create, 
+distribute, and access information resources in an interoperable network. 
+Private Sector should:
+6.respect the public core of the Internet and pledge not to abuse the Internet’s
+infrastructure. 
+7.implement due process, proportionality, and transparent practices for traffic 
+management and content blocking in accordance with applicable 
+legislations. 
+8.ensure that in the provision of its services it does not create artificial barriers
+in Internet access and usage. 
+Technical Community should:
+9.in its key role in preserving the unique identifier system, keep working 
+collaboratively in maintaining and advancing the technology of the global 
+Internet infrastructure. 
+10.implement actions to enhance the resiliency and robustness of the network 
+in order to prevent fragmentation attempts. 
+Civil Society should:
+11.focus its actions on educating users and civil servants, as well as raising 
+awareness about the threats that may be caused by Internet fragmentation 
+in a constructive manner. 
+12.take more efforts in monitoring and reporting on the fragmentation of the 
+Internet. 
+13.hold governments, the private sector, and the technical community 
+accountable for their commitments to prevent the fragmentation of the 
+Internet and for abuse of the Internet infrastructure. 
+Academia:
+14.We encourage academia to contribute to the research and assessment 
+efforts around the state of Internet fragmentation, as well as develop the 
+system of indexes and measurements. 
+- 7 -
+15.We urge academic institutions to develop more educational programmes on
+Internet Governance and create specific courses of Internet openness. 
+All stakeholder groups should
+engage in meaningful multistakeholder dialogue to prevent the fragmentation of 
+the Internet.
+3. Protect data
+a)Core Principles
+1.Privacy protection is a right of any citizen to control their own personal 
+information and to decide about it in the digital space. 
+2.Data subjects should have the right to understand how personal data is 
+processed in an understandable way for all. Data subjects for which 
+processing is explicitly agreed upon without any type of discrimination shall 
+have be treated transparently. 
+3.Prior to obtaining personal information, the potential processor of the 
+information must provide the data subject with a complete understanding of 
+its use in a manner understandable to all parties. 
+4.Data processors and controllers should explain to data subjects, in 
+accessible and simple language, why and how their personal data is 
+processed, in observance of the principle of explainability. 
+5.Personal data is personal and not a commodity by nature. Personal data 
+can never be used by any actor by default. Where required, explicit consent
+must be given by the personal data subject prior to usage by third parties. 
+6.To obtain personal information, the potential processor of personal data 
+must be transparent towards the personal data subject about the entire data
+value chain (collection-storage-reuse-transfer) with no discrimination. 
+7.Violation of core principles of data protection should be subject to penalties 
+and sanctions. 
+b)Key Commitment/ Pledges/ Actions
+Governments should:
+1.approve and enforce human-centric privacy and data protection frameworks
+to empower data subjects and protect individuals from abuses and misuses 
+in the processing of their data. 
+2.ensure that legal systems provide for accountability for abuses and misuses
+of personal data for any data subject under any circumstances. 
+3.create and provide suitable and independent competences to Data 
+Protection Agencies as those responsible for auditing and evaluating the 
+enforcement of laws. 
+4.ensure that curricula in primary and secondary education contain sufficient 
+material on data usage and data privacy, cybersecurity and protection 
+- 8 -
+against cybercriminality, and awareness and understanding of 
+misinformation and fake news. 
+Private Sector should:
+5.ensure the protection of personal information. 
+6.disclose their data management practice pertaining to personal data usage. 
+7.ensure full transparency of their data value chain. 
+8.ensure that no discriminatory practices occur towards any personal data 
+subject, particularly vulnerable groups. 
+9.along with the technical community, take responsibility for designing 
+systems processing personal data, responsibly architect, and customize 
+personal data protection policy to meet the needs of individual jurisdictions. 
+Cost should be proportionate to the circumstances of the personal data 
+processed. 
+10.ensure that limitations to personal data processing does not limit access to 
+necessary digital services. 
+11.provide training in digital skills, cybersecurity, and data management to 
+employees to ensure they are in compliance with laws and regulations. 
+Technical Community should:
+12.take data protection principles into account when designing technical 
+systems such as new technologies and online payment systems involving 
+personal data, particularly in APPs. 
+13.along with the private sector, design systems that process personal data in 
+a responsible and secure way. 
+14.along with the private sector, ensure that development of new technologies 
+respects the core data protection principles. 
+Civil Society:
+15.has the indiscriminate and unconditional right to know how personal data is 
+treated through the entire data value chain (collection-storage-reuse-
+transfer). 
+16.By default, data subjects should not be considered as having given the 
+consent to provide their personal data by consenting to access to digital 
+services. Civil society should have the right to access basic service 
+functionality regardless of such consent. 
+17.should create and disseminate information about data usage and data 
+privacy, cybersecurity and measures against cyber criminality and 
+awareness and understanding of misinformation and fake news, to 
+encourage continuous and lifelong awareness of rights and empowerment 
+of data subjects. 
+- 9 -
+Academia is encouraged:
+18.to organise/establish fora where all stakeholders could discuss issues, 
+practices, and lessons without being driven by interests. 
+19.to further research stakeholders’ relations, interests, and balance to enrich 
+the community with results, which support the achievements and enhance 
+core principles. 
+20.to create curricula on digital literacy and skills at all levels and different 
+formats (formal and informational). These would cover: a) awareness of 
+managing and protecting personal data with the aim to prevent abuses, 
+leaks, and breaches; b) user security and self awareness to avoid being a 
+victim of cybercrime; c) awareness and understanding of misinformation 
+and fake news. 
+4. Apply human rights online
+a)Core Principles
+1.It is imperative that the application of Human Rights to the digital space 
+ensures that the rights we enjoy offline should also be enjoyed online. That 
+means all stakeholders must commit to discussing and implementing 
+measures and policies with regards to the following: allow everyone to have
+access to the Internet and information, address the gender digital divide, 
+building confidence and trust in the Internet, eliminating all forms of 
+discrimination, and also acknowledging privacy and freedom of expression 
+need to be ensured in the online realm. 
+Promoting equal participation through access to the Internet
+2.Promote universal and equal access to a multilingual Internet and ICT 
+applications in order to encourage economic development, education and 
+culture for all sectors, especially the most disadvantaged. Meaningful 
+access must be perceived as means for full political participation and 
+exercise of rights, especially for women and girls, LGBTQIA+, people with 
+disabilities, communities with different ethnical backgrounds and other 
+minorities. 
+Addressing and combating gender-based violence
+3.All human rights violations and abuse facilitated through the use of the 
+Internet and new technologies should be condemned and addressed, 
+including all acts of sexual and gender-based violence committed by all 
+parties. Online gender-based violence has a real and long lasting effect on 
+the victims lives and, if not addressed, could result in a chilling effect on 
+freedom of expression and the online existence of women, girls and gender-
+diverse groups. 
+- 10 -
+Right to privacy
+4.Ensure every citizen has the right to privacy and data protection in the 
+digital space as means of empowering data subjects against the abuses 
+and data misuses prompted by new technologies. Responsibly apply the 
+use of technologies and provide checks and balances with regards to state 
+authority activities in the national security realm. 
+Freedom of expression
+5.Address the threats to the right to freedom of expression posed by the 
+growing power of digital platforms, as well as censorship and filtering 
+activities performed by States. Ensure the existence of local frameworks 
+dedicated to protecting the fundamental right to freedom of expression in 
+the digital age. 
+b)Key Commitment/ Pledges/ Actions
+Promoting equal participation through access to the Internet
+States should:
+1.Develop medium-term action plans aimed at reducing the digital divide, with
+the special focus on women and girls, LGBTQIA+, people with disabilities, 
+communities with different ethnical backgrounds and other minorities. 
+2.Adopt mechanisms for following up and evaluating the implemented 
+initiatives. 
+3.Invest in capacity building and digital literacy related initiatives. 
+4.Publish reports on the advancement of access to the Internet and ICT 
+applications at the national level, ideally on an annual basis. 
+Right to privacy
+States should:
+5.Establish and enforce data protection frameworks with the data subjects at 
+the very core and that are responsible for (a) defining the legal basis and 
+remedies and (b) creating Data Protection Agencies responsible for the 
+implementation and oversight of the legislation; 
+6.Ensure the appropriate means for oversight of governmental intelligence 
+and law enforcement activities through judicial and administrative 
+mechanisms as well as increased transparency about the deployment of 
+such technologies and the legal basis. Additionally, establish entities to 
+evaluate the implementation of the above mentioned and other technologies
+responsible for the collection of citizens personal data; 
+7.Perform periodic Human Rights and Surveillance impact assessments on 
+the deployment of surveillance and less pervasive technologies (OSINT) by 
+law enforcement and intelligence agencies; 
+- 11 -
+8.Limit the purchase and export of surveillance technology, as well as the 
+implementation of less pervasive technologies that can be applied for the 
+same purposes; 
+9.Ensure that surveillance and intelligence activities are not retroactively 
+authorized nor deployed, and abide by the principles of legality, necessity 
+and proportionality. 
+Private Sector should:
+10.Commit to protecting users from being personally targeted by digital threats,
+such as spyware and other forms of least pervasive technologies. 
+11.Avoid the development of facial recognition or other security related 
+databases with biased datasets or without the performance of human rights 
+and surveillance impact assessments in order to avoid reinforcing 
+discrimination or racism. 
+Freedom of expression
+States should:
+12.Responsibly consider the development of regulatory frameworks for online 
+platforms in order to halt the abuses facilitated by the internal policies of 
+such actors; 
+13.Ensure the protection of citizens rights to access and interact with 
+information and avoid deploying authoritarian measures such as Internet 
+shutdowns; 
+14.Impose transparency obligations to private actors such as social media 
+platforms with regards to the implementation of content governance related 
+measures. Additionally address the lack of access to platform data and 
+promote a broader understanding of how these actors work, through the 
+publication of periodic transparency reports 
+15.Regulate the use of Artificial Intelligence applications in order to mitigate 
+chilling effects on the right to freedom of expression caused by their 
+deployment over content shared by Internet users online. 
+Private Sector should:
+16.Commit to the publication of periodic transparency reports applied to their 
+content governance related policies. 
+17.Collaborate with other stakeholders prior to the creation of new policies that 
+could represent a risk or a possible restriction to Freedom of expression 
+online. 
+5. Accountability for discrimination and 
+misleading content
+The fellows did not develop a response on this issue.
+- 12 -
+6. Regulation of artificial intelligence
+a)Core Principles
+The fellows decided to submit a comment on AI and culture, while recognising that 
+AI and its application represent a broader topic.
+AI AND CULTURE
+1.Artificial intelligence (AI) is becoming an increasingly more relevant 
+development in the art world, as illustrated by DALL-E-2’s capabilities. 
+Artificial Neural Networks (ANNs) in particular hold a potential to negatively 
+disrupt the creative industries. ANNs use large collections of human-created
+artistic works, known as “training data”, often without permission or 
+knowledge of the authors, to create an AI model capable of synthesizing 
+novel works. 
+2.Based on these developments and following Paragraph 99 of UNESCO’s 
+Recommendation on the Ethics of Artificial Intelligence, which calls for new 
+research at the intersection between AI and intellectual property, we 
+suggest the following principles for the development and use of AI tools in 
+art: 
+a)Continued cultural flourishment. To preserve continued and diverse 
+cultural creation for all future generations, the most important principle 
+of AI in art is that it should be designed, developed, commercialized 
+and used to assist human creators, and never to substitute or harm 
+their livelihood. 
+b)Maintenance of copyright in the hands of creators. Copyright must 
+remain in the hands of human creators and access to AI tools must not
+involve abusive practices such as giving up intellectual property rights 
+over creations. 
+c)AI-created vs. AI-assisted. Copyright law must distinguish between 
+works created by AI vs. by humans with AI assistance, and the second
+group must not be hindered. 
+d)Copyright by AI training and exceptions. The copyright regimen for AI 
+creations must respect the artists’ whose works were used to train the 
+tools while having a robust and clear set of copyright exceptions, 
+including but not limited to academic and educational purposes. 
+3.Keeping in mind cultural and artistic diversity across the centuries, we call 
+developers of AI art tools to, following the example of copyright law, adopt a 
+principle of aesthetic neutrality — not imposing blanket bans or hindrances 
+on specific kinds of artistic content that unfairly affect cultural practices, 
+particularly those outside Western traditions. Content policies, while 
+important for safety, must not impose any specific cultural standard. 
+- 13 -
+AI AND REGULATION
+4.Additionally, the AI development process calls for an inclusive and 
+facilitative environment. It must involve a variety of key actors, most 
+importantly the end users, who bear the brunt of the final outcome of such 
+development and by the experience of whom the overall benefits or 
+drawbacks of the AI is judged as a yardstick. 
+b)Key Commitment/ Pledges/ Actions
+AI AND CULTURE
+1.Governments and international organizations should work towards the 
+drafting and signing of a complement to the Berne Convention. This treaty 
+should establish artists‘ rights and the regulations around the creation of 
+artistic works by Artificial Intelligence algorithms, in particular ANNs.
+This treaty should cover (1) the rights of artists whose work is used to train 
+AI algorithms, (2) the rights of those who might be materially harmed by AI-
+generated creations, and (3) the licensing and copyright status of AI-
+generated works.
+It should establish that:
+a)Artists have a right to know if their works were used to train an AI and, 
+anticipating the creation of hateful content with AI and falsely attributed
+to authors, to “non-misattribution”; 
+b)Works must disclose to what extent AI was used to create it, though 
+exceptions may be acceptable to not needlessly restrict artistic 
+freedom; 
+c)AI-generated works derive copyright from the material used to train it 
+and must enjoy a short period of protection. A license from right 
+holders is necessary to train an AI with copyrighted material. The 
+rights over the output belong, at least partly, to the authors whose 
+works were used; 
+d)Licensing of works for training cannot be done in Terms of Use 
+contracts, or as a condition to access a platform, tool or service, and 
+e)An AI-created work will belong to the public domain when the AI was 
+trained with public domain works, unless meaningfully modified by a 
+human. 
+2.We highlight that, over the centuries, artists all over the world and of all 
+cultures have portrayed nudity. Many of the most ancient, classical and 
+culturally diverse works of art involve nude subjects. As such AI developers 
+must not impose bans on it. 
+3.We commend the efforts of AI developers to adopt content policies to 
+mitigate risk of deep fakes and the creation of hateful content, and support 
+the adoption of content policies for AI art tools. However, developers must 
+not impose creative restrictions, and limitations must not go beyond the 
+necessary and proportional to prevent harm. 
+- 14 -
+AI AND REGULATION
+4.Following the example of the IEEE Code of Ethics, the technical community 
+should develop a code of ethics for all participants (developers, engineers, 
+scientists, etc) in the AI ecosystem. Recognizing the inherent 
+unpredictability of AI, this code of ethics should follow best practices for an 
+ethical and rights-based approach to AI principles and require best efforts to
+predict, identify, and mitigate discrimination and potential harm. It should be 
+written in a language that can be referenced and understood by the entire 
+technical community and easily implemented in practice, by using an 
+interpretive framework like the one created by the IETF. 
+7. Digital commons as a global public good
+a)Core Principles
+Defining the digital commons and their status as global public 
+goods:
+1.It is necessary to reach a common understanding of the status of certain 
+digital commons, such as collaborative knowledge platforms and the digital 
+public sphere, as global public goods. 
+2.The digital commons fit the definition of a public good, a good with high 
+intrinsic social value and societal demand. However, there is a disparity 
+between this and other public goods. 
+3.Crucially, digital commons are a public good that enables access to other 
+public goods, such as education and healthcare. 
+How inequities in the digital commons should be resolved:
+4.It is necessary to recognise that inequities in access and meaningful 
+participation within the digital commons are shaped by social inequalities 
+— relating to (but not limited to) gender, ethnicity, language, wealth, sexual 
+orientation, immigration status, and disability status —  and their relationship
+to the unequal distribution of technological affordances present within the 
+digital commons (i.e. interfaces which only afford the use of specific 
+languages, in practice excluding primary speakers of other languages from 
+a platform). 
+5.Our comment emphasizes the need to adopt a design justice lens for 
+widening access to and participation in the digital commons, involving an 
+approach which centers the perspectives of affected communities and 
+intersectional analysis of technological affordances and disaffordances 
+within the digital commons. 
+- 15 -
+How the digital commons should be governed:
+6.Bearing in mind market pressures to constrain the scope of collaborative 
+knowledge platforms, it is fundamental to reach common understanding on 
+the status of digital commons as a global public good. 
+7.Understanding digital commons as global public goods, the governance of 
+such must abide by the principles and the structure of multistakeholderism. 
+8.The digital commons must also be protected against market pressures and 
+governmental inference, guaranteeing that they can continue to exist and to
+be accessible in the future while also retaining their properties and status as
+global public goods. 
+b)Key Commitment/ Pledges/ Actions
+Defining the digital commons and their status as global public 
+goods:
+1.Academic and civil society stakeholder groups should be encouraged to 
+develop a precise theoretical foundation of the digital commons as a global 
+public good, through concrete investment from states and the private sector
+on research and dialogue. 
+2.States and private sector groups should be encouraged to contribute 
+resources towards the alignment of the governance of the digital commons 
+with that of other public goods, with a specific focus on the preservation of 
+the digital commons for future generations. 
+How inequities in the digital commons should be resolved:
+3.Institutions in the digital commons (like collaborative knowledge platforms) 
+should identify inequities within the digital commons by adopting both 
+community consultations as well as intersectional and human rights focused
+analyses of such inequities. This should follow the model of prior studies of 
+the gender gap on Wikipedia or unequal representations within the Creative
+Commons. 
+4.Institutions in the digital commons should acknowledge and address the 
+global dimension of their work by expanding translation and linguistic 
+access, by creating clear timelines for localisation for different language 
+groups. 
+5.Institutions in the digital commons should provide simple and plain-
+language explanations of their terms and conditions, to ensure the terms of 
+participating and co-ownership of the digital commons to users are legible. 
+How the digital commons should be governed:
+6.The „Digital Commons Architecture“ (DCA) proposed by the United Nations 
+must be taken into account when creating mechanisms for multistakeholder,
+global and inclusive stewardship of these commons. These DCA-based 
+governance structures would foster collaboration and legal harmonization. 
+- 16 -
+7.Digital commons protection against market pressures and governmental 
+interference can be enhanced by discussing the possibility of understanding
+the digital commons as global public goods in the development of treaties. 
+8.The overarching duties and responsibilities present on those treaties could 
+be modeled after previous documents such as the Outer Space Treaty. 
+Developing a similar framework of principles and duties and expanding their
+adherence to various stakeholders would maximize the recognition of and 
+therefore the necessary safeguards for digital commons. 
+- 17 -
+Annex: 
+List of EuroSSIG 2022 Fellows signing onto the opinion
+•Arham Shabbir 
+•Bastiaan Goslings 
+•Berenice Fernandez Nieto 
+•Bernardo Barbosa 
+•Bruna Santos 
+•Everton T. Rodrigues 
+•Frank van Berkel 
+•Giorgi Aladashvili 
+•Gulalai Khan 
+•Gustavo Paiva 
+•Julia Lacerda 
+•Louise Blandin 
+•Mireia Paulo 
+•Nadezhda Arteeva 
+•Niharika Gujela 
+•Paloma Rocillo 
+•Philipp Schulte 
+•Rocío de la Fuente 
+•Ruchika Hirna 
+•Shadi Alhakimi 
+•Stephanie Teeuwen 
+•Teo Kai Xiang 
+•Uchenna Jerome Orji 
+•Vladislav Ivanets 
+- 18 -
+Platin sponsors:
+Gold sponsors:
+Silver sponsors:
+Bronce sponsors:
+Partners of the global fellowship programme:
+With support of: Organised by:

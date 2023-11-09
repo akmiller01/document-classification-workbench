@@ -1,0 +1,533 @@
+GLOBAL 
+DIGITAL 
+COMPACT 
+EVIDENCE 
+
+ 2                                         April 2023  Minderoo Centre for Technology and Democracy   The Minderoo Centre for Technology and Democracy is an independent team of academic researchers at the University of Cambridge, who are radically rethinking the power relationships between digital technologies, society and our planet.   www.mctd.ac.uk      
+3 
+EVIDENCE  
+We see enormous strength in 
+providing an interdisciplinary 
+response to the call for evidence to 
+the Global Digital Compact.  
+This call comes at a critical time, as 
+governments around the world bring 
+forward fragmented legislative 
+agendas toward digital policy.   
+The evidence covers the digital issues 
+mentioned in the United 
+Nations Common Agenda identifying 
+issues that should be addressed in 
+the Global Digital Compact.  
+The digital issues covered are: 
+1.Connect all people to the internet,
+including all schools
+2.Avoid internet fragmentation
+3.Protect data
+4.Apply human rights online
+5.Introduce accountability criteria for
+discrimination and misleading content
+6.Promote regulation of artificial
+intelligence
+7.Digital commons as a global public
+goodWe opened dialogue on this topic 
+through group and individual 
+consultations with colleagues across 
+the University of Cambridge, 
+exploring the seven issues by 
+development ‘core principles’ and 
+‘key commitments’ to address each, 
+for example: 
+1) Core principles that all
+governments, companies, civil
+society organisations, and other
+stakeholders should adhere to;
+2) Key commitments to bring about
+these specific principles. These can
+take the form of what you think
+“should” be done
+Our dialogues identified an eighth 
+digital issue: Environmental 
+Consequences, that needed 
+addressing through the Global Digital 
+Compact.  
+For reference, the full guidance note 
+to submitting evidence for the Global 
+Digital Compact is available here. 
+4 
+For this consultation, we held 
+dialogue and interview sessions 
+with researchers working across 
+the University of Cambridge,  
+bringing together diverse 
+perspectives for an 
+interdisciplinary submission, 
+including: 
+•Gina Neff, Minderoo Centre for
+Technology and Democracy
+•Jess Gardener, Library
+Services
+•Ella McPherson, Centre for
+Governance and Human Rights
+•May Hen Smith, Jesus College
+•David Erdos, Centre for
+Intellectual Property and
+Information Law
+•Sebastian Kurten, MRC
+Cognition and Brain Sciences
+Unit
+•Tugba Basaran, Centre for the
+Study of Global Human
+Movement
+•Genevieve Macfarlane-Smith,
+Minderoo Centre for
+Technology and Democracy
+•Corinne Cath, Minderoo Centre
+for Technology and Democracy
+•Mallika 
+Balakrishnan, Minderoo
+Centre for Technology and
+Democracy
+•Margie Cheesman, Minderoo
+Centre for Technology and
+Democracy
+•Alexa Hagerty, Minderoo
+Centre for Technology and
+Democracy•Ann Kristin Glenster, Minderoo
+Centre for Technology and
+Democracy
+•Jeremy Hughes, Minderoo
+Centre for Technology and
+Democracy
+•Hunter Vaughan, Minderoo
+Centre for Technology and
+Democracy
+•Sebastian Lehuede, Centre for
+Governance and Human Rights,
+University of Cambridge
+•Hugo Leal, Minderoo Centre for
+Technology and Democracy
+
+5 
+CORE PRINCIPLE 1: 
+All people should be able to connect 
+to the Internet as a global social 
+right 
+COMMITMENTS: 
+Governments should ensure that all 
+people have access to the Internet by 
+being able to choose between 
+multiple Internet Service Providers by 
+adopting a governance framework of 
+Internet-as-a-Public Service (‘from 
+ISP to IPS’) 
+Access to the Internet should not 
+depend on having to consent to 
+providing personal data or 
+consenting to commercial 
+surveillance 
+Access should be inclusive and 
+accessible regardless of gender, 
+socioeconomic status, or physicality, 
+and provided in safe spaces  
+All stakeholders should make a 
+commitment ensuring all 
+marginalised populations are able to 
+connect digitally and are protected 
+from abuse, harm, and violence on 
+the Internet DIGITAL ISSUE 1: 
+CONNECT ALL PEOPL E TO THE INTERNET 
+OUR INPUT: 
+All governments should ensure that 
+all communities are given critical 
+digital skills, especially older 
+populations 
+Access to the Internet should only be 
+taken away by governments in 
+accordance with law necessary for 
+democratic society  
+CORE PRINCIPLE 2: 
+No one should suffer detriment 
+from not connecting to the Internet  
+COMMITMENTS: 
+Governments should ensure that 
+being able to access public benefits 
+should not depend on Internet access 
+and connectivity 
+Governments should ensure that 
+adequate protection is adopted and 
+enforced to ensure individuals and 
+protected groups, such as indigenous 
+communities, are not unduly 
+pressured to connect to the Internet 
+Local communities should have a 
+voice in the terms and conditions of 
+Internet access and connectivity 
+6 
+CORE PRINCIPLE 3: 
+Collection of personal data on 
+children in education for 
+commercial purposes should be 
+prohibited 
+COMMITMENTS: 
+Pupils and students should not be 
+asked to provide personal data to 
+technology providers beyond what is 
+strictly necessary for educational 
+attainment 
+ Educational providers and 
+stakeholders should only be 
+compelled to surrender children’s 
+personal data to governments in 
+accordance with law that respects 
+human rights 
+Education should not be dependent 
+on one service, product, or platform. 
+Government shall ensure that 
+educational providers have 
+affordable, robust, and dependable 
+technology alternatives to companies 
+conducting commercial surveillance 
+        DIGITAL ISSUE 1: 
+CONNECT ALL PEOPLE TO THE INTERNET  
+7 
+CORE PRINCIPLE 1: 
+There should be global standards 
+ensuring openness, transparency, 
+net neutrality, and cooperative 
+interoperability (‘Open Internet’) 
+COMMITMENTS: 
+ Internet infrastructure and technical 
+architecture should be governed by 
+international public bodies 
+ All stakeholders should foster 
+cooperative interoperability that 
+assures integrity of global reach of 
+Internet infrastructure, 
+communication protocols and web 
+services, including in the Global South 
+All stakeholders should ensure that 
+access to the Internet is guaranteed 
+by the ISP infrastructure 
+All stakeholders should commit to 
+ensuring the availability of repairable, 
+free-and-open-software (FOSS) and 
+sustainable devices DIGITAL ISSUE 2: 
+AVOI D INTERNE T FRAGMENTATION 
+OUR INPUT: 
+CORE PRINCIPLE 2: 
+Internet governance should be 
+democratised and inclusive, 
+respecting the sovereignty of 
+countries and communities to 
+decide the terms and conditions for 
+their Internet connectivity 
+COMMITMENTS: 
+All stakeholders should strive to make 
+Internet governance open and 
+participatory, especially including the 
+Global South 
+All stakeholders should respect and 
+adhere to national laws and 
+democratic institutions 
+All stakeholders should be held 
+accountable for their Internet 
+practices to democratic institutions, 
+citizens, and civil society 
+All stakeholders should commit to 
+ensuring that their practices respect 
+democracy and human rights in all 
+countries 
+8 
+COMMITMENTS: (cont) 
+All stakeholders should strive to close 
+the digital equality gap by ensuring 
+that the social, cultural, and economic 
+benefits from the Internet are 
+equitably distributed globally  
+Multilateral Internet Governance 
+Systems should be adopted to 
+govern the global Internet 
+infrastructure 
+        DIGITAL ISSUE 2: 
+AVOID INTERNET FRAGMENTATION  
+
+9 
+International norms on encryption 
+standards and regulation should be 
+adopted 
+ Governments should put 
+mechanisms in place which would 
+secure the public takeover and 
+protection of data from companies 
+that fail or dissolve 
+CORE PRINCIPLE 2: 
+Data protection should apply to all 
+communities, and offer extra 
+protection to individuals and 
+communities according to need 
+COMMITMENTS: 
+Additional measures should be 
+adopted to ensure that data 
+protection is contextually appropriate  
+Safeguards should be put in place to 
+ensure governments are not able to 
+extract personal data on immigrants, 
+refugee, asylum-seekers, and 
+stateless persons without explicit 
+authorisation in law 
+There should be additional 
+safeguards to ensure the anonymity 
+of children and young people on the 
+Internet DIGITAL ISSUE 3: 
+PRO TECT DATA 
+OUR INPUT: 
+CORE PRINCIPLE 1: 
+The governance framework for the 
+protection of data should promote 
+human rights, especially dignity, 
+integrity and autonomy, and the 
+digital public good 
+COMMITMENTS: 
+All data processing systems should 
+be designed according to privacy-by-
+design standards  
+Individuals should have the right to 
+data protection, and especially to 
+know how their personal data is being 
+collected, processed, and used 
+Personal data should only be 
+processed in accordance with the 
+data processing principles of data 
+minimisation, purpose limitation, and 
+storage limitation 
+Commercial profiling and micro-
+targeted advertising should only be 
+allowed with explicit informed 
+consent of the person concerned 
+Data scraping and data extraction 
+shall only be permitted in accordance 
+with law 
+10 
+COMMITMENTS: (cont) 
+Data should be made retained and 
+made available for research, archival, 
+and other purposes in the pursuit of 
+the public good 
+Digital devices provided by schools 
+should not be encrypted 
+        DIGITAL ISSUE 3: 
+PROTECT DATA  
+
+11 
+CORE PRINCIPLE 1: 
+All digital technology should 
+respect and protect all human 
+rights 
+COMMITMENTS: 
+Governments should commit to 
+educate all, and especially children 
+and young people, about their digital 
+human rights  DIGITAL ISSUE 4: 
+APPLYI NG HUM AN RI GHTS ONLINE 
+OUR INPUT: 
+CORE PRINCIPLE 2: 
+All digital technology should enable 
+the freedom of expression, 
+including the right to participation 
+COMMITMENTS: 
+All stakeholders should commit to 
+ensuring the protection and 
+facilitation for free online spaces for 
+peaceful assembly, including the right 
+not to be subjected to digital 
+surveillance  
+All stakeholders should promote 
+communications equality in front and 
+behind screen  
+All stakeholders should advocate for 
+the betterment of working conditions 
+for people in digital work 
+12 
+CORE PRINCIPLE 1: 
+All data-processing systems should 
+be transparent 
+COMMITMENTS: 
+All private technology providers 
+should commit to the principles of 
+transparency and accountability for 
+all their products, services, practices, 
+and technology 
+All data-processing entities should be 
+obliged to disclose how their systems 
+work and how they use data 
+Governments should be precluded in 
+law from demanding data from civil 
+society organisation without legal 
+safeguards, including procedural 
+protection of justice 
+All technology providers should be 
+required to provide researchers’ 
+access to data and to partake in 
+international initiatives for the 
+development and promotion of 
+contextual responsibility governance 
+standards (‘Platform Observability’) All technology providers should allow 
+external auditing of their platforms, 
+systems, algorithms, and data as part 
+of their transparency and 
+accountability obligations 
+CORE PRINCIPLE 2: 
+Freedom of expression and 
+freedom of participation should be 
+protected online 
+COMMITMENTS: 
+All private technology providers 
+should pledge to promote individuals’ 
+agency regarding their preferences, 
+behaviour, and data on the Internet 
+All state actors should pledge to give 
+all people digital skills to navigate 
+misinformation and disinformation DIGITAL ISSUE 5: 
+ACCOU NTABILI TY CRITERI A FOR 
+DISCRIMINATI ON AND MISLEADING 
+CONTENT 
+OUR INPUT: 
+13 
+CORE PRINCIPLE 3: 
+All Internet technology should be 
+developed according to the 
+principles of safety-by-design 
+COMMITMENTS: 
+The use of deceptive design and 
+manipulative design (‘dark patterns’) 
+should be prohibited. 
+Online platforms should make a 
+proactive commitment of contextual 
+responsibility for ensuring harmful 
+false narrative and conspiracy 
+theories are not spread on the 
+Internet 
+        DIGITAL ISSUE 5: 
+ACCOUNTABILITY CRITERIA FOR DISCRIMINATION AND 
+MISLEADING CONTENT  
+14 
+CORE PRINCIPLE 1: 
+No AI systems should be deployed 
+unless it meets national and 
+international legal standards 
+COMMITMENTS: 
+Governments should adopt a binding 
+statutory framework for the 
+governance of AI based on the 
+precautionary principle 
+AI governance standards and 
+frameworks should promote the UN’s 
+Sustainable Development Goals, 
+especially in promoting the safe and 
+effective adoption and promotion of 
+AI, based in ethical principles, the 
+empowerment of citizens and 
+communities, and human-centric 
+design focusing on the need to 
+redress social inequalities and 
+protect society and individuals from 
+bias and discrimination in AI systems 
+A global compact should be instituted 
+to oversee the risks and exceptional 
+threats of AI technologies, with the 
+authority to ban technologies that are 
+deemed too great a risk to the public 
+interest, public good, human rights, 
+civil and democratic values, and the 
+environment Intellectual property rights should not 
+be used to block the auditing and 
+oversight of algorithms and their use 
+of data 
+All AI systems should feature a 
+‘human in the loop’ oversight, 
+especially in cases of automated 
+decisions 
+CORE PRINCIPLE 2: 
+The development of AI and AI 
+systems should favour the 
+development and use of different 
+forms of ‘intelligence’, and be 
+adapted to needs and features of 
+different populations and 
+communities 
+COMMITMENTS: 
+The use of AI in education should be 
+transparent, neutral, and free of bias 
+and support the aims and goals of 
+access to education 
+All stakeholders should foster the 
+participation of indigenous 
+communities in the design and 
+development of AI systems 
+AI systems should be developed with 
+the principals of ‘human-centric 
+design’ and support human 
+flourishing DIGITAL ISSUE 6: 
+PROMO TE THE REGULATIO N O F AI 
+OUR INPUT: 
+15 
+The importance of the digital 
+commons should be recognised as 
+a public good, and therefore should 
+be guaranteed 
+COMMITMENTS: 
+The right to assembly online free from 
+interference, surveillance, and 
+monitoring as a public good should 
+be recognised and protected in 
+international and national law 
+All communities should have right to 
+access and to transparency of how 
+Internet Service Providers, private 
+companies, State actors, and civil 
+society use their data 
+The right to freedom of speech on the 
+Internet should be recognised as 
+foundational to the digital commons 
+and therefore be protected as a 
+public good 
+Governments should provide 
+adequate funding to ensure an 
+equitable infrastructure, guaranteeing 
+access to the Internet to all 
+communities 
+Frameworks for share governance of 
+the digital commons should be 
+adopted DIGITAL ISSUE 7: 
+THE DIGI TAL COMMO NS AS A PUBLI C GOOD 
+OUR INPUT: 
+CORE PRINCIPLE 1: 
+
+ 16 
+   ADDITIONAL POINTS:  ENVIRONMENTAL CONSEQUENCES  CORE PRINCIPLE 1:   Digital technologies that harm the environment should not permitted  COMMITMENTS:  All digital technologies should be sustainable, and governments should ensure that the distribution of environmental harms from the entire lifecycle of digital harms are distributed equitably around the globe  All stakeholders should promote a sustainable digital economy  An international framework should be adopted that addresses material and environmental justice connected to digital growth, access, and use  The use of minerals and other extracted resources should be reduced, and in some cases banned, when their use and extraction damage the environment or involves human rights violations.  The international community should take into consideration the voices of communities affected by the environmental harms of technology when developing and adopting Internet governance and regulation OUR INPUT:   
+ 
+
+17 
+You can consult with others and share 
+the collective views, or you can submit 
+your individual views on the Global 
+Digital Compact website.  
+The Global Digital Compact is 
+expected to “outline shared principles 
+for an open, free and secure digital 
+future for all”. It is expected to be 
+agreed at the Summit of the Future in 
+2024. 
+At the Minderoo Centre for 
+Technology and Democracy, we will 
+endeavour to put into practice the 
+principles discussed here, as we 
+develop evidenced-based research 
+on the relationship between digital 
+technology, society and the planet.  STEPS 
+
+ 18  
+www.mctd.ac.uk  minderoo@crassh.cam.ac.uk 
+Alison Richard Building 7 West Road Cambridge CB3 9DT 
+All images taken from Unsplash and Pexels courtesy of Cottonbro, Jimmy Chan, Pixabay, Sergio Souza, This Is Engineering 

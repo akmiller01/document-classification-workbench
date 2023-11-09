@@ -1,0 +1,647 @@
+UN Digital Compact Consultation (09.03.2023 and 28.03.2023)  
+                                                                                                                                                                                                                                                                                                                                                                             
+ 
+ 
+Digital Literacy: The Great Divide  
+ 
+Table of Contents  
+Into  1 
+Summary of the discussion  2 
+Issue 1: Improvement of Digital  literacy  to  prevent  further class divisions of societies within Europe and globally. 
+Ensuring regional cohesion and stronger economic growth via digitalisation.  /target:  Ensuring  digital inclusion for all, 
+including the most vulnerable/  2 
+Summary of Issue1 recommendations:  3 
+Issue 2: Digital Literacy and AI - the Dawning of a New Age of Digital Societies /target:  Supporting global cooperati on on 
+Artificial Intelligence/  3 
+Summary of Issue2 recommendations  4 
+Issue 3: Tackling democratization  of digital innovations as a public good. /target:  Building a more effective architecture for 
+digital cooperation/  4 
+Summary of Issue3 recommendations  5 
+Draft Brief Summary of Consultation Recommendation  6 
+Co-authors of the recommendations  7 
+ 
+ 
+Intro  
+ 
+Digital literacy is a regionally defined  and culturally amplified topic, which concerns all nations and regions 
+across the globe  to a varying degree.  While the speed of digitalization in the last couple of decades has 
+improved the living standards and conditions in a variety of geographies acro ss the globe, groups of people 
+are left outside of the current wave of innovations. To mitigate this disparity, global entities, such as the UN 
+could take a proactive stance to ensure that individuals with little or no digital literacy are up to par with t he 
+New Age of AI preventing further gaps in economic and lifestyle advancement.  
+ 
+On 09.03.2023, Dr. Monika Manolova ( Digital National Alliance Bulgaria ) hosted a meeting in collaboration 
+with Dr. Haydee Sh eombar ( Kankan*Tree ) and Jaisal Surana( MKAI.org ) to implem ent a consultation on the 
+topic of “Digital Literacy: the Great Divide” with organizations and experts from North America, South 
+America, Asia, Africa and Europe   
+Each of these organizations was invited to determine the key pain points and potential solutions which could 
+be implemented at a more global scale. The focus is on addressing three core issues concerning the UN Digital 
+Cooperation Roadmap.  
+ 
+On 28.03.2023 A second meeting was hosted to cover the aspects, which were not included in the previous 
+meeting, to allow for confirmation of inputs and for fu rther suggestions - including calls for action to the 
+UN. 
+ 
+The outcome of these two meetings supports the UN's aim for an inclusive and participatory process, managing 
+to attract experts from a variety of countries, to voice a variety of issues in the digi tal realm . 
+
+UN Digital Compact Consultation (09.03.2023 and 28.03.2023)  
+  
+ 
+ 
+The consultation  was attended by experts from 27 countries:  
+Australia, Belgium, Bulgaria, Ecuador, Eritrea, Germany, Hungary,  India, Ireland, Italy, Kenya, Mexico, 
+Morocco, Netherlands, Nigeria, Peru, Portugal,  Pakistan,  Romania, Serbia, Slovakia, South Africa, Spain, 
+Türkiye, UAE, UK, USA  
+ 
+Consultation Brief for the Public Side of the UN Digital Compact  
+ 
+DNA Bulgaria, Kankan*Tree and MKAI hosted a public consultation for the UN Digital Compact on the topic 
+“Digital Literacy: The Great Divide”, which was attended by  over 40 experts from 24 countries . 
+  
+Conclusions of the consultation  
+  
+While the world is connecting through digitalization, the disconnected remain a majority. This inequity 
+disempowers people, especially educators and students, and  creates social divisions.  
+Regional differences are a significant factor in the analysis of digital literacy but geography is secondary as 
+literacy is an issue even within large metropolitan areas.  Access to basic services based on digitalization (such 
+as transport, telecommunications, energy, and healthcare) is faced with barriers in the evolving digital context, 
+affecting vulnerable groups and the elderly.   
+  
+Recommendations  
+  
+Education and lite racy  
+  
+● Effective awareness campaigns for digital literacy (via mediators) should be done in remote areas in 
+Africa, but also for rural areas in Eastern Europe (e.g. Bulgaria, Romania, Serbia, N. Macedonia), 
+where people are unaware of opportunities created  through the use of technology. Awareness about 
+digital literacy is also needed in main cities of several African countries, mainly sub -saharan countries.  
+● Methodologies encouraging augmented education, higher order thinking skills and multimodal 
+learning  should be developed for all social groups and regional extremes (e.g. Italy, most African 
+countries), to deal with the high speed of digital evolutions (e.g. ChatGTP).  
+● A “cultural invite” approach is needed, because while certain parts of the world integra te AI literacy 
+to preserve jobs and upskill (e.g. Mexico), others perceive access to digital goods and services as an 
+ethics issue.  
+● Investments in user -friendly hardware are needed to prevent significant accessibility barriers (for 
+children with disadvanta ges in e.g. UK, the elderly in e.g. Portugal and Belgium, children with 
+disabilities e.g. Morocco).   
+Economy  
+● Digital education needs to include "informed consent" and "dynamic consent" for data use (e.g. 
+healthcare). Even for executives these may be conce pts that require training(e.g. USA).  
+● In the various stages of innovation additional investment is needed to support upskilling SMEs which 
+provide jobs. (e.g. Philippines, Myanmar)  
+● Trusted innovation networks should be established to demonstrate the advanta ges of digitalization to 
+various segments of end -users (e.g. digital hubs approach in the EU)  
+  
+Digitalization  
+● Digital literacy, skills, and divide must be clearly defined to support learning within growing evolving 
+digital tools, (e.g. AI).  
+● Transparency, trust, representation, safety , and security should be integrated in convergence tech and 
+digital strategies.  
+UN Digital Compact Consultation (09.03.2023 and 28.03.2023)  
+ ● Regulatory and strategic frameworks in AI/XR should be developed and/or improved through global 
+expert oversight and collaboration to establish a b aseline standard for all stakeholders to comply with.  
+● Collaboration must  be established between education and economic segments to implement innovative 
+digital standards (through global communities and initiatives).  
+● Expansive digitalization must include environmental mitigation in alignment with CODES UN and 
+should support educating the end users about the impacts of digitalization.  
+Link to the consultation report  
+ 
+Summary of the meetings/discussions  
+ 
+The “Digital Literacy: the Great Divide” discussion was focused on a variety of issues from unequal access to 
+internet services across the globe, unequal levels of education access and divergent understanding of the 
+terminology of digital literacy with some regions in the world, age and demographic  groups facing computer 
+knowledge gaps, others facing digital literacy gaps and others needing to come to terms with the inclusion of 
+the term “AI Literacy '' in the compendium of terms within their digital literacy frameworks. (Dr. Mulugetha 
+T. Solomon, Omdena Milan  - suggested a clear delineation between the terminologies to focus areas of 
+expertise on solving the variety of problems – digital literacy, computer literacy and artificial intelligence ( AI)  
+literacy)  
+ 
+Issue 1: Improvement of Digital  literacy  to prevent  further class divisions of societies within Europe and 
+globally. Ensuring regional cohesion and stronger economic growth via  digitalization . /Target : Ensuring 
+digital inclusion for all, including the most vulnerable/  
+Background:  Africa leads the world in the percentage of the population without internet connection at 88 
+percent. Furthermore, in the countries that are connected, male internet users outnumber their female 
+counterparts in every region of the world.  
+The ‘digital divid e’ we face globally does not just signify those who have access to the internet and those who 
+do not, the gap also encompasses several other discrepancies, including the quality of digital infrastructure in 
+rural communities, the speed of connectivity in r emote areas, and the training and skills required to navigate 
+such technology.  
+(Source: UNICEF ) 
+The average % of Digital Skills in Euro pe is 31% and this % does not account for AI skills  
+Intro by Dr. Haydee Shoembar, Kankan*Tree “Digital literacy is about navigating the technology and using 
+it well. Digital literacy is a lot more than access to the internet. If we don’t get this right, w e’ll leave a lot of 
+people behind across the globe and the goal is “leave no one behind””  
+ 
+RECOMMENDATIONS/DISCUSSION  
+ 
+USA Marisa Zalabak, Open Channel Culture/IEEE AI Ethics in Education/Planet Positive 2030  (Education 
+and literacy ) provided insights into  >350 schools in New York and the lack of capacity for some of the 
+children in high school age to access the internet – in one of the most highly developed cities in the world. 
+Thus, outlining the existing divides even within developed countries which need  to be brought to the attention 
+of policy  makers as a  “social justice issue”  to ensure equal career opportunities for children. Inequality exists 
+both locally and in macro degrees.   
+Belgium Laura Babío, POLIS Network, Brussels, Belgium (Education and litera cy) The massive wave of 
+digitization  of transport has a huge impact – apps to access the transport services, to evaluate the service,  have 
+quite a significant impact on social exclusion especially on the elderly. It is an issue of transport justice.  
+Tryin g to keep the human factor as part of the system  was noted as highly valuable and important to keep 
+things inclusive and intuitive. A variety of industries have already tackled digitalization successfully (banking), 
+but transport is still in between . 
+Portugal  Mónica Rogério, ACDIPE, Portugal (Education and literacy)  In rural areas in Portugal landline  
+phones are still used due to lack of internet . Their recent project experiences show that elderly people are 
+excited and want to be included in the digit al world, but they face a variety of issues, from lack of internet in 
+UN Digital Compact Consultation (09.03.2023 and 28.03.2023)  
+ rural areas to purely physical issues in interaction with touchscreen phones. An issue of age barriers 
+throughout Europe was raised.  
+UK Richard Foster -Fletcher, MKAI, UK (Economy)  Noted that recent experiences in digital literacy seminars 
+conducted across the globe with a variety of governmental bodies(Philippines, Bermuda, Myanmar) and 
+targeting SMEs, and organizations in the startup sphere, which ought to produce innovative outputs(pate nts, 
+jobs, economic viability in sustainability) also struggle with digital literacy in the frame of AI, which moves 
+through these 3 stages – 1st stage “Awareness of these technologies and inspiration”(high level of interest), 
+2nd stage “Use cases and desi gn thinking”(medium level of interest), 3rd stage “Prototyping”(low level of 
+interest).  Digital literacy in SMEs should be a focus of more interest in the 3rd stage of innovation.  
+Nigeria, Daniel Opanubi, Omdena  (Educatio n and literacy ) - There are people  so far removed from digital 
+culture that they are unaware and uninterested in getting digital culture. Contribution needs to be made for 
+people like that.  To get them aware of what  people are doing. Then there are people who lack access to the 
+basic minim um. Some people do not even have access to a mobile phone. A sort of awareness needs to be 
+made, because there are people unaware of the opportunities which digital skills bring.  
+Nigeria, Oluwaseun Wey, Nigeria Inter -Bank Settlement System, Nigeria (Educat ion and literacy) agrees as 
+in Nigeria - it also goes beyond driving awareness only. Deploying systems and infrastructures that promote 
+digital literacy and inclusion is crucial. Also, affordability is another critical area to promote digital literacy 
+and inclusion; if these people cannot afford to buy internet -enabled mobile phones and subscribe to internet 
+services, there will be no inclusion no matter how much awareness is done. This links to the number 1 
+Millennium  Development Goal Another key area of r ecommendation to bridge this digital literacy gap in 
+Nigeria and across Africa is Early Literacy i.e. equipping schools with digital systems and internet services 
+so that children in the most rural areas can be exposed early on to the concept of digitizati on. 
+Bulgaria, Jasen Tanev, Digital National Alliance/CyberClub  (Education and literacy)  – Noted that his 
+experience with recent projects with minorities in Samokov, Bulgaria have led him to believe that people need 
+to travel around the country and there need to be moderators of “digital gateways” which need to transfer the 
+knowledge to the com munities, which have the lowest interest in advancing their own digital lite racy. 
+Hungary , Dr. Tuan Trinh, EIT Digital Hungary ( Education and literacy ) What can be measured, can be 
+managed. We need tools and methods to measure and monitor the performance a nd the level of maturity in 
+digital literacy and readiness, e.g. DESI - Digital Economy and Society Index. There are a number of efforts 
+in Hungary to do that, and also to compare the local measurement to the DESI figures.  Hungary performs 
+relatively well  in digital infrastructure but there is a huge gap in the digital skills of citizens and digital 
+readiness of businesses. According to a research by the ICT Association of Hungary, the majority of Hungarian 
+businesses are not exploiting the opportunities o ffered by digital technologies with only 34 percent of SMEs 
+having at least a basic level of digital intensity, significantly below the EU average of 55 percent, which is 
+confirmed by the DESI 2022 figures. In addition, 49 percent of the Hungarian populati on aged 16 to 74 have 
+basic digital skills, compared to 54 percent on average in the EU. It should also be noted that, during the 
+pandemic, 81 percent of Hungarian Internet users used online public services, 16 percentage points better than 
+EU average. It is thus recommended that the business sector in Hungary to increase their effort in adopting 
+digital technologies to increase business efficiency as well as to continue the good work done in the public 
+sector. Further notable efforts implemented in Hungary  with the support from the European Commission is 
+the creation of the European Digital Innovation Hubs network to support digital literacy, digital innovation 
+awareness and to improve digital maturity for the business and public sectors alike, focusing on SMEs. In 
+Hungary, currently 5 EDIHs are running covering key topics in digital innovation and digital technologies, as 
+well as digital applications. Finally , we recommend the strengthening of regional efforts. For Hungary case, 
+exchanging and sharing the b est practices between Visegrad 4 countries (Poland, Czechia, Slovakia, Hungary) 
+as well as countries situated along the Danube river (Germany, Austria, Slovakia, Hungary, Romania, Croatia, 
+Serbia, Bulgaria, Moldova, Ukraine) are highly recommended.  
+UK, Jaisal Surana, MKAI (Education and literacy ) Noted that higher public investment in hardware 
+technologies for vulnerable children and children with disabilities will need to be increased to prevent further 
+expansion of the gaps within the education system.  
+Serbia,  Miloš Dimitrijević, University of Kragujevac, Serbia (Education and literacy)  - Many remote areas 
+do not have access to the Internet, while only urban areas are covered by high -speed Internet. The level of 
+digital skills in Serbia is lagging  the EU average. Digital literacy index in 2022 observed a decline. There is a  
+UN Digital Compact Consultation (09.03.2023 and 28.03.2023)  
+ gender  gap  in  digital  skills. These results point to the conclusion that policymakers should support  elderly, 
+rural population, women, disabled persons, as the most vulnerable gro ups. Empowering  these groups  and 
+increasing their digital literacy, which is  a  prerequisite  for  AI, would have an impact on the decrease of the 
+gender gap, increase of female entrepreneurs and reduction of poverty.  
+South Africa,  Lavina Ramkissoon, Ad visor African Union (Digitalization)  - Tech colonization is amplified 
+through both offline and online, that prevents digital citizens participating in information and communications 
+technology sectors due to infrastructure, politics,  or economic circumstan ces. We have a unique opportunity 
+to contribute to the normative framework on equality, technology, innovation,  and education in the digital age. 
+Examples include Digital Violence amongst youth, women,  and children.  
+Australia,  Dr. Stephanie Camarena, Found er of Source Transitions (Education and literacy) Australia has a 
+well-developed digital literacy program in a country where between 80 -100% of people have access to the 
+internet and to both mobile and computers. Significant divide between regional and metr opolitan literacy, 
+between younger and older people, education levels still exists. One of the difficulties to be analyzed  is the 
+fact that the starting point for digital literacy is so widely spread from little access and resources to highly 
+developed le vels of access therefore the priorities would be very different.  
+Improved collaboration should come from forgetting about where we start from and to instead focus on the 
+type of future we want to build. That would mean that different countries could work t owards a preferred state 
+and that developing countries could leapfrog to ways of integrating Tech unimpeded by existing power 
+structures and existing infrastructures.  
+ 
+Summary of Issue1 recommendations:  
+While digital literacy seems to be regionally oriented, geography alone is not the cause of digital disparity and 
+illiteracy. It is important to recognize digital literacy as a social and resource inequality to support populations 
+who are underserved. Regardless of their regions. F urther in vestment  in us able hardware needs to be 
+implemented to prevent a significant barrier for children with disabilities in the UK , access  to basic services 
+such as transport are also  faced with barriers in the digital context within Europe(Brussels, Portugal)  that affect 
+vulnerable groups and the elderly. The upskilling in SMEs in a variety of global territories(Philippines, 
+Bermuda, Myanmar) should target additional value creation in the innovation stages to support local 
+economies and bridge the gaps.  
+Additi onal support and awareness are needed within the farthest removed areas in Africa where people are 
+unaware of the opportunities, which digital skills provide, but such unawareness exists in small communities 
+within countries like Bulgaria, requiring a “hum an interface” to the digital divide.  Access to the internet needs 
+to be made a basic need covered by human rights.  
+ 
+Issue 2: Digital Literacy and AI - the Dawning of a New Age of Digital Societies /target:  Supporting global 
+cooperation on Artificial Intel ligence/  
+Background: The ability to understand, use, monitor, and critically reflect on AI applications without 
+necessarily being able to develop AI models themselves  is commonly referred to as being “AI literate” (Long 
+et al., 2021; Ng et al., 2021a).  
+Some nations which are speeding up their AI strategies and developments will permanently increase the gap 
+between nations – making some regions AI developing; others AI developed. The world map is being reshaped 
+by these processes which is why a global collab oration on AI should be implemented and supported.  
+https://www.weforum.org/agenda/2022/03/without -universal -ai-literacy -ai-will-fail-us/ 
+Jaisal  Surana, MKAI UK: “Corporations and nations are increasing and accelerating their investments in AI 
+and how are various sectors going to be affected by the investment, should we consider that the UN needs to 
+consider changes in the SDGs. The unifications i n definitions and standards happening in the background 
+might be valuable but there ought to be a consideration for long -term strategies across the space.”  
+ 
+Dr. Tuan Trinh, EIT Digital Hungary, “ Notable efforts and initiatives in Europe include, among others, the 
+initiatives led by the European Institute of Innovation and Technology (EIT), e.g. Cross -KIC Activity on 
+Artificial Intelligence, AI on Demand platform, just to mention a few examples. ” 
+ 
+ 
+UN Digital Compact Consultation (09.03.2023 and 28.03.2023)  
+ RECOMMENDATIONS/DISCUSSION  
+ 
+Peru,  Andres Leon -Geyer, Pon tificia Universidad Católica del Peru – PUCP  (Digitaliza tion) Outlined that 
+there are groups which have access to the internet but have no literacy and there are areas with lack of access 
+to the internet. For Peru “the unconnected” are not an exception but  a majority.  Exclusion has a strong effect 
+on the economies – such as the purchase power compared to Geneva. Digital literacy needs to be clearly 
+defined for everyone and as  we introduce new definitions such as “AI literacy” we need to be cognizant that 
+access to the goods and services  of the internet is an ethical issue.  
+Italy, Oleg Missikoff, Earth 3.0 Foundation (Education and lite racy)  as an expert in digitalization for Africa 
+and Europe, Oleg noted that there are extremes of access and purchasing  power.  Mobile internet usage in 
+Africa compared to the internet usage in Europe is quite expensive and unsustainable. But, on the other hand, 
+there  are people in the world wondering how to deal with ChatGPT -4(noted as the other extreme). The solution 
+to the prob lem is in “knowledge” so that people can take advantage of the digital economy and adaptive 
+learning, upskilling across the entire spectrum from low educated to highly educated, who have learned under 
+outdated school curriculums that no longer serve the cu rrent economic needs.  
+South Africa,  Jessica Gardner, Worth Marketing Solutions  (Digitalization)   noted that access to the internet 
+may indeed be a challenge due to things such as cost of internet (mobile and uncapped) and loadshedding of 
+electricity in lon g intervals. Oftentimes there are barriers in developing solutions for the startup economy due 
+to cultural disparity and lack of inclusion within funding the digital innovation sphere.  
+Ecuador,  Maria Mac Andrew, Executive Director My Zalu/AIEthics.World  (Education and literacy)  shared 
+recent experiences in working with educators who are reluctant to introduce digital technologies in Africa due 
+to pessimism that  the social divides, which exist, may  be bridged . Such pessimism would prec lude students 
+in rural schools in Africa (Zimbabwe) from being able to understand what a computer is, due to lack of basic 
+access to technologies(a single computer). So, while there are currently ICT topics in education programmes 
+for far -removed areas, th ere need to be “creative and inspirational” programmes for the teachers themselves, 
+so that they may introduce digital skills to the far removed. Storytelling and prioritizing teacher education 
+will be fundamental for the solution of these challenges.  
+USA,  Marisa Zalabak, Open Channel Culture/IEEE AI Ethics in Education/Planet Positive  (Education and 
+literacy)  noted that there are areas in the world(the Amazon) where digital education is perceived by local 
+communities of native culture as imposition(due to anxiety of learning and unlearning). There needs to be a 
+holistic  approach and understanding for the issues not only from  the “hierarchy of need” perspective, but 
+from  a “hierarchy of emotions”  perspective.  
+Bulgaria, Monika Manolova, Digital National Alli ance (Education and literacy)  Noted that some people in 
+rural areas(farmers in  particular) do not believe that “digital is a solution to their problems” and 
+rational /psychological reasons exist for that which need to be considered at least regarding educat ion 
+systems.  
+Mexico, Victor M. Larios, Universidad de Guadalajara, CUCEA Smart Cities Innovation Center,  
+(Digitalization)   in Latin America,  in Mexico, in there have been extensive investments in AI Ethics, but it 
+is still difficult to match the regulati on with the applications of the technology, and the velocity with which 
+some people may lose their occupation when certain applications of artificial intelligence are introduced. 
+Within Mexico there are 70% people with access to the internet, but it is mos tly utilized for social networks 
+and there needs to be a guided approach to the application and deployment of artificial intelligence, which 
+secures jobs and provides people with access to higher levels  of digital skills.  
+Bulgaria,  Monika Manolova, Digita l National Alliance  (Digitalization)  noted that there are significant 
+regional divisions in the world – with some areas facing difficulties in the bare minimum of access to the 
+internet and then there are those already dealing with concepts such as AI and XR. 
+Netherlands,  Haydee Shoembar, Kankan*Tree, Netherlands (Digitalization)   suggested a further discussion 
+of the ethical elements,  where technological advancement should not be imposed on people, but at the same 
+time we run the risk of continuously leavi ng people behind with the current speed of digital growth.  
+USA, Marisa Zalabak, Open Channel Culture/IEEE AI Ethics in Education/Planet Positive 2030 (Education 
+and literacy)  noted that the soft skills approach of “inviting” people to join in the digital evolutions might 
+alleviate some of the “wicked problem” facets of the digitalization issue, where some populations may not 
+want to be digitized.  
+UN Digital Compact Consultation (09.03.2023 and 28.03.2023)  
+ Serbia, Miloš Dimitrijević, University of Kragujevac (Digitalization)  - According to FAO, the world 
+population will reach over 9 billion by 2050, so we need more productive systems, which will at the same 
+time protect the environment and optimize the use of resources. AI holds promise in addressing the challenges 
+of this new paradigm. AI in the agricultural  sector offers the potential to feed an ever -growing global 
+population and contribute to the achievement of the UN Sustainable Development Goals (SDGs). Because of 
+that we need global support to build a long -term framework and strategy. International organ izations must 
+adopt a unique framework in this segment, building some global platform for collaboration, as well as 
+encourage innovative food hubs and guide FinTech companies in this area.  
+The introduction of AI in agriculture, and other economic sectors , will be enabled by technological advances, 
+including big data analytics, robotics, the Internet of Things, the availability of low -cost sensors and cameras, 
+drone technology, and even widespread Internet coverage in geographically dispersed fields. FinTe ch 
+companies should be encouraged to introduce technological innovations (precision agriculture). Special 
+attention should be directed towards technological innovations for small farms, bearing in mind the costs of 
+their introduction as a major obstacle.  
+South Africa,  Lavina Ramkissoon, Advisor African Union (Education and literacy)  Digital literacy will be 
+key in a world transformed by AI, therefore digital literacy must be taken seriously.  A beginning point is how 
+to implement these skills in our social practices and bring these ideas into legislation. Today's adolescents are 
+transitioning from childhood to adulthood in an era of rapid digitalization  in nanoseconds. Digital media are 
+accessed through mobile phones, tablets, and computers and remain an imp ortant window into the world for 
+adolescents. While levels of digital access and experiences of the digital world vary widely, adolescents are 
+typically among the highest users of digital media. Young people often rely on smartphones to go online, but 
+one third of school age children also have a fixed internet connection at home. Younger people also tend to 
+spend more time online than older generations, by simple default education and awareness is critical inclusion 
+into countries education policies.  
+India,  Vibhav Mithal, IPR lawyer, Anand and Anand   To achieve global collaboration on AI, it is critical to 
+first appreciate that AI, as on date, is a pattern recognition tool, which when combined with existing processes, 
+helps humans achieve certain pre -determi ned and pre -defined objectives. AI which functions as a tool (known 
+as Artificial Narrow Intelligence) must  be clearly distinguished from the aspirational goal of AI becoming as 
+'intelligent' as a human (a concept known as Artificial General Intelligence).  Understanding this distinction 
+would be an important step in promoting Digital Literacy and AI.  A facet of AI ethics, on the other hand, 
+concerns the ethical choices which humans make while developing AI systems. If one is looking to achieve 
+global colla boration on AI then we must be on the same page as to the meaning of AI as well as the impact 
+AI systems may have. For example, the draft EU AI Act seeks to regulate the impact of an AI system by 
+focusing only on the use of AI Systems and by introducing a risk categorization framework for such systems. 
+However, The EU AI Act is only one approach to look at the impact of AI systems, and countries should be 
+free to choose a mechanism that suits them the best.  Only from this basic agreement of the meaning of AI 
+and the impact that AI systems may create, can we then have subsequent discussions of how the path to achieve 
+global collaboration will unfold.  
+Pakistan,  Ahmad Manzoor Founder & CEO Pakistan Blockchain Institute & AnZ Technologies  The 
+convergence of di gital literacy and artificial intelligence (AI) is ushering in a new age of digital societies, 
+where AI is increasingly used as a productivity tool. Digital literacy, which involves the ability to access, 
+evaluate, and use digital information effectively, is becoming increasingly critical as AI usage becomes more 
+prevalent. AI is transforming the way we work by automating repetitive tasks and enabling us to process vast 
+amounts of data quickly. However, to maximize the benefits of AI as a productivity tool,  individuals and 
+organizations must have the necessary digital literacy skills to effectively use and integrate AI into their 
+workflow. With AI as a productivity tool, employees can free up time to focus on higher -value tasks, and 
+organizations can improve  efficiency and effectiveness. As we continue to embrace AI as a productivity tool, 
+it is essential to prioritize digital literacy to ensure that everyone can participate in and benefit from the new 
+age of digital societies.  
+ 
+UN Digital Compact Consultation (09.03.2023 and 28.03.2023)  
+ Summary of Issue2 recommendations  
+The unconnected in some areas in the world are a majority and not a minority(Peru, South Africa) which 
+creates cultural and social divisions, leading to pessimism even for educators(Zimbabwe) where digital 
+literacy is concerned. Adaptive le arning, knowledge, and creativity for all social groups from and regional 
+extremes needs to be introduced, due to the speed with which current education systems are becoming 
+redundant in the face of AI(Earth 3.0, Italy, Africa).  
+Rather than a swift and forceful digital inclusion a cultural invite approach should be implemented. And while 
+certain parts of the world recognize and implement AI literacy to preserve jobs and upskill(Mexico), others 
+view the access to the goods and services of the internet as a digital ethics issue.  
+ 
+Issue 3: Tackling democratization of digital innovations as a public good. /target:  Building a more effective 
+architecture for digital cooperation/  
+Background: Digital innovations are siloed off and split in regions, geographies, and spheres. While the 
+competitive nature of the digital market provides goods and services at better/competitive/ quality, 
+collaboration, it is bridging differences, providing access which will support the betterment of everyone’s 
+future – democratic valu es, shared standards, improved collaboration, improved markets.  
+Global corporate investment in AI has reportedly reached US$60 billion in 2020 and is projected to 
+more than double by 2025.  
+https://www.brookings.edu/research/strengthening -international -cooperation -on-ai/ 
+Into by Dr. Monika Manolova:  “There are economic framework and regional frameworks currently 
+developed ac ross the globe(example – India’s AI strategies target the protection of jobs, China’s AI strategies 
+target further economic growth and expansion of production), which define the future of Artificial Intelligence 
+and digital literacy and place us on “rails '' with very little room for collaboration and inclusion. To 
+democratize digital and artificial Intelligence innovation for the good of all, it is necessary to engage stakeholders 
+from other underrepresented regions ”  
+ 
+RECOMMENDATIONS/DISCUSSION  
+ 
+Peru, Andr es Leon -Geyer, Pontificia Universidad Católica del Peru – PUCP  (Digitalization)  The 
+democratization of digital goods and services needs to be approached from the perspective of a large -scale 
+education programme (from the UN), which will help the terminology of AI to be better understood and not 
+cause people to be misled.  
+UK, Jaisal Surana, MKAI  (Digitalization)  People often understand computers and technology but not AI, 
+there needs to be additional awareness about what AI applications capture and  how they use and reuse  it. At 
+the same time tackling democratization could be supported by the inclusion of experts from a variety of expert 
+fields in the development of regulations and to support the commonalities between the policies as the variety 
+of countries analyze the problems within countries.  Further collaboration between tech experts and legal 
+experts is necessary to support the collaboration between the frameworks.  
+Netherlands,  George Beers, Wageningen University  (Econo my) the speed of digitaliz ation is higher than the 
+traditional approaches to bringing innovations to society. Within the field of agriculture trust is a fundamental 
+issue, where the utilization of digital technology is concerned. The establishment of excellence centers, centers 
+of expertise and digital innovation hubs has shown to be successful due to the trust placed on local experts 
+that are well -equipped to support bringing  the new technology to the farmers. Demonstration of the new 
+technology close to the people you want to impa ct is of the most importance. While technological  
+advancements are incredibly important, they can be a “zero -sum” game and it is important to address the 
+downside as well as the advantages.  
+USA , Dr. Ingrid Vasiliu Feltes, Founder & CEO Institute for Scienc e, Entrepreneurship,  and Investments ,  
+(Economy)  Noted  that increased education efforts are required to optimize the level of global digital literacy 
+and digit al fluency  related to the use of digital products and services solutions are crucial for success. 
+Additio nally, there needs t o be a greater collaborative effort to  integrat e AI impact metrics, with  financial, 
+operational, ESG(environmental , social and governance)  metrics as there are currently numerous silos that 
+cause cyber -ethics vulnerabilities. Harmonization  and integrat ion have the potential to restore societal digital 
+trust and facilitate trac king the true ROI(return of investment) for artificial intelligence (AI) deployment . 
+UN Digital Compact Consultation (09.03.2023 and 28.03.2023)  
+ Special attention  to bioethics  in healthcare and life sciences is required to increase awareness about the need 
+of “informed consent” and “dynamic consent” concepts  for h ighly sensitive genomic and precision medicine 
+data sets.   A cohesive eff ort to uphold digital ethics, while optimizing enterprise AI deployments is a moral 
+and business imperative.  
+Bulgaria , Monika Manolova,  Digital National Alliance (Economy)  Noted tha t perhaps there are some 
+intersections between segments which share a bond like agriculture and healthcare(the food we eat, being 
+directly reflected in our health) and education and IT(the capacity for various domains to collaborate with 
+digital technologi es) which may be explored to break down the silos between innovation segments(such as 
+working groups).  
+Hungary , Dr. Tuan Trinh, EIT Digital Hungary ( Digitalization )  As already noted earlier, the majority of 
+Hungarian businesses are not exploiting the opp ortunities offered by digital technologies with only 34 percent 
+of SMEs having at least a basic level of digital intensity, significantly below the EU average of 55 percent, 
+which is confirmed by the DESI 2022 figures. It is recommended that Hungary to be more integrated in the 
+European initiatives to strengthen digitalization in business sector. Initiatives like the EIT Strategic Regional 
+Innovation Scheme (EIT RIS initiative from the European Institute of Innovation and Technology) in Europe 
+should be imp lemented in other parts of the world as well to help the regions to strengthen its capability and 
+digitalization  and innovation. Within the EIT family, EIT Digital, the largest digital innovation ecosystem in 
+Europe, acts as “gateway” to European digital i nnovation. EIT Digital works hard for a strong digital Europe 
+which is Inclusive, Fair, and Sustainable. Hungary hosts the EIT Digital Office in Budapest, corresponding to 
+Region East.  
+Peru,  Andres Leon -Geyer, Pontificia Universidad Católica del Peru – PUC P (Educatio n and literacy )  
+working groups may be further  analyzed but there should also be  a consideration for the difference between 
+digital skill gaps and literacy a s literacy is another theme occurring in different countries and disciplines.  
+Romania, Ana Prica Cruceanu, Association of Women in Engineering, Science and Technology (AFIST)  
+(Digitalization)  outlined that there needs to be recognition for our own biases in the sphere of tech and that 
+an elderly person from a village also needs to b e represented in national frameworks , while at the same time 
+greater levels of transparency and explainability need to be provided in the field of artificial intelligence to 
+prevent furthering the gaps.  
+Serbia, Miloš Dimitrijević, University of Kragujevac (Digitalization)  - The barriers for improved 
+collaboration between the countries are in regulation, different goals and view of policymakers, too big 
+bureaucracy, decision -making power at all levels, not enough projects etc. The main drivers for improved 
+digital collaboration may be in more projects in this area, harmonization regulation and globally framework 
+of this topics, encouraging researchers to deal with this topic and networking researchers from all over the 
+world among the some common bases of res earchers and not through some decision makers, networking and 
+building some platform of producers, consumers, policymakers and researchers.  
+Ireland,  Shaun Topham, DataVaults and PISTIS(Horizon project) (Digitalization)  A key building block in 
+"digitalizati on with social values" is data. More equal access to data, particularly to personal data  is vital to 
+prevent the evolution of a global data economy driven by more corporate and less social goals. This in turn 
+shapes AI as wide access to data is a prerequi site. Digital SMEs find it harder to access data than they do 
+finance. A  pathway for release of personal data for the public good should be developed.  
+India, N. KISHOR NARANG,NARNIX Technolabs (Digitalization)  The artificial -intelligence industry is 
+often compared to the oil industry: once mined and refined, data, like oil, can be a highly lucrative commodity. 
+Now it seems the metaphor may extend even further. Like its fossil -fuel counterpart, the process of deep 
+learning has an outsize environmental impact . Although AI presents transformative opportunities to address 
+the earth’s environmental challenges, left unguided, it also has the capability to accelerate the environment’s 
+degradation. There is a major hype to leverage AI to bring sustainability in diff erent aspects forgetting the 
+extensive energy it consumes, in turn increasing GHG emissions and carbon footprint it adds to anything, 
+when you apply AI to any product, system or solution. Environmental considerations should be an integral 
+part of digital l iteracy  
+UAE, Dr. Jane Thomason, Founder WMC (Digitalization ) First we need to address universal access to the 
+internet. Gen Z and Gen Alpha will grow up with digital skills which. Older generations may miss out on. All 
+education should teach kids from begi nning to code therefore, we need to give access to the digital tools and 
+how to use them. Digital literacy in the Age of AI means transformation of economic segments as well. AI 
+UN Digital Compact Consultation (09.03.2023 and 28.03.2023)  
+ will directly impact the income streams of accountants, doctors, lawyers, jour nalists, artists, professors, 
+teachers and more. These professionals will need to evolve.  
+Australia,  Dr. Stephanie Camarena, Founder of Source Transitions  (Digitalization) Noted that Digital 
+literacy in the Age of AI means The ability to understand what AI  means for oneself and for the industry/sector 
+in which you operate. This means the ability to also imagine what AI could do for you and your future. I would 
+also say it is the ability to develop the muscle of critical thinking in an area which has deep et hical and social 
+implications. There are opportunities for a greater level of development in all economic segments. However, 
+AI applications are often developed in tech industries which are effectively disconnected from the industries 
+themselves. Often thi s results in high tech solutions which do not match the type of problems that these 
+industries face. In the food industries, AI and digital are bringing changes to agriculture (crop monitoring and 
+precision agriculture), intelligent packaging to reduce foo d waste, precision health and nutrition, and others.  
+ 
+Pakistan,  Ahmad Manzoor Founder & CEO Pakistan Blockchain Institute & AnZ Technologies As digital 
+innovations continue to reshape society, it is essential to ensure that democratization is at the forefr ont of their 
+development. This requires capacity building and product development as a public good. Capacity building 
+refers to providing individuals and organizations with the skills and knowledge necessary to effectively use 
+digital technologies. Product  development as a public good entails creating digital innovations that are 
+accessible, affordable, and designed to meet the needs of all members of society. By investing in capacity 
+building and product development as a public good, we can promote equitab le access to digital innovations, 
+empower marginalized communities, and drive inclusive economic growth. It is essential to prioritize 
+democratization in digital innovation to ensure that technology serves all members of society and does not 
+exacerbate exi sting inequalities.  
+ 
+ 
+Summary of Issue3 recommendations  
+The combination of digital literacy with digital fluency is fundamental for every segment of th e economy and 
+the integration of AI innovation in a meaningful way.  
+There needs to be a clear delineation between digital skill gaps and digital literacy, which affect different 
+economic segments and economic spheres, but collaboration will have to be est ablished between the fields to 
+break down silos and to support the implementation of transdisciplinary and innovative digital standards. 
+Within agriculture an approach which has proved successful is reliance on trusted professionals within 
+excellence cente rs and digital innovation hubs which support the speedier acceptance of digital solutions via 
+demonstration. Within healthcare, the solutions require understanding of “informed consent” and “dynamic 
+consent”. Transparency and representation are quite impor tant towards the national frameworks, but there is 
+also a need  to open regulatory and strategic frameworks in AI to expert overview.  
+ 
+Summary of Consultation Recommendation  
+ 
+While the world is connecting through digitalization, societies who lack it remain disconnected, accounting 
+for the majority of people on our planet. (e.g. Peru, South Africa). This inequity disempowers people, 
+especially educator s(e.g. Zimbabwe, Türkiye, Bulgaria, Romania) and  creates cultural and social divisions. 
+While regional  differences are a significant factor in the analysis of digital literacy, the geography is 
+sometimes secondary as literacy is an issue even within large metropolitan areas in the USA. Digital literacy 
+should be connected to the UN SDG, becoming a basic hu man right on the principle of “leave no one 
+behind”.Access to basic services predicated on digital literacy (such as transport, telecommunications and 
+healthcare) is faced with barriers in the constantly evolving digital context throughout Europe (e.g. Bel gium, 
+Portugal) that affects vulnerable groups and the elderly.  
+ 
+Education and literacy  
+▪ Additional support and awareness are needed within the farthest removed areas in Africa where people 
+are unaware of the opportunities, which digital literacy provides, but such lack of awareness exists also 
+in small rural communities within countries like Hungary, Bulgaria, Romania, Serbia, N. Macedonia, 
+which requires a “human interface” to the digital divide.  
+UN Digital Compact Consultation (09.03.2023 and 28.03.2023)  
+ ▪ Adaptive learning, knowledge, and creativity for all social groups and regional extremes(e.g. Italy, 
+some African countries) need to be introduced, due to the speed with which current education systems 
+are evolving too slowly in the face of AI (e.g. Generative AI applications, such as ChatGTP or the 
+recently emergi ng  Emotion AI).  Methodologies which encourage augmented education,  higher order 
+thinking skills and multimodal learning.  
+▪ Rather than assuming every culture desires increasing digitalization  and forcing such solutions , digital 
+inclusion and a cultural invite approach should be implemented. And while certain parts of the world 
+recognize and implement AI literacy to preserve jobs and upskill ( e.g., Mexico), others view the access 
+to the goods and services of the internet as a digital & AI ethics issue.  
+▪ Further investment in user -friendly hardware needs to be implemented to prevent a significant barrier 
+(for children with disabilities in the UK, disadvantaged schools in New York, the elderly in Portugal 
+and Belgium).   
+Economy  
+ 
+▪ Within agriculture, manufacturing an approach which has proved successful is reliance on trusted 
+professionals within excellence centers and digital innovation hubs which support the speedier 
+acceptance of digital solutions via demonstration( e.g., Netherlands).  
+▪ Digital literacy solutions should include explanations of "informed consent" and "dynamic consent." 
+(e.g. in healthcare, agriculture and manufacturing). Even for highly educated executives these may be 
+concepts that require further training.  
+▪ To bridge the economic gaps and digital divide, various stages of innovation could provide additional 
+value to support upskilling small and medium enterprises in global territories (e.g. Philippines, 
+Bermuda, Myanmar)  
+ 
+ 
+Digitalization  
+▪ It is important to cle arly define digital skills, digital divide and digital literacy, AI literacy, which affect 
+education, economic segments,  and spheres, to measure and resolve digital skill gaps.  
+In addition, to provide the means for keeping up with the changing trends and tools in the marketplace 
+and a mechanism for end -users to offer culture specific input.  
+▪ Transparency, trust, representation, safety,  and security are quite important inputs for international 
+digitalization strategies. When innovating, balance can be achiev ed through transparency, trust, safety 
+and security, representation, as well as regulatory and strategic frameworks in AI/XR through 
+transdisciplinary expert oversight. It is crucial to emphasize that policies and measures must be 
+introduced and implemente d to ensure transparency, trust in AI applications. AI ethics should be 
+seriously dealt with early on in the development phases of AI applications. Data security and privacy 
+issues should be ensured and respected when implementing and running AI applicatio ns. In the country 
+level, sovereignty should be respected.  
+▪ Digital literacy and awareness together with Green AI should be properly addressed at multiple levels, 
+ideally as early on as high school level, because “Green Literacy” is as important as Digital Literacy, 
+keeping in mind the UN’s 17 sustainable development goals. We recommend that efforts need to be 
+taken to ensure that Green Literacy and Digital Literacy should go hand in hand and future initiatives.  
+▪ Guardrails need to be included within the real m of fast paced AI proliferation and its integration with 
+social and education frameworks.  
+▪ Additional collaboration will have to be established between a variety of education and economic 
+fields to break down silos and to support the implementation of transdisciplinary and innovative digital 
+standards.  
+▪ This expanded digitalization must include mitigation solutions in alignment with CODES UN. 
+Educating the end users about the impact of digitalization and engaging them for local innovative 
+solutions. Development of educational programmes to understand the cost of digitalization for the 
+environment (e.g. gamification , social, mass media) and provision of “how to use” frameworks for 
+digital tools, which support sustainability.  
+UN Digital Compact Consultation (09.03.2023 and 28.03.2023)  
+ ▪ Alternative solutions for lowering and/or removing barriers for digitisation, promoting equity and the 
+provision of balance to  all actors and within all stakeholder should be an outcome of UN actions in the 
+coming decade. These may include investment, global digital upskilling, drive sustained outcomes, 
+have a society of intelligently augmented heroes, infrastructure with equal o pportunity given to all.  
+ 
+Co-authors of the recommendations  
+ 
+Consultation organizers and editors  
+1. Dr. Monika Manolova, Digital National Alliance, Bulgaria  
+2. Dr. Haydee Sh eombar, Kankan*Tree, Netherlands  
+3. Jaisal Surana, MKAI, UK  
+Consultation participants  
+1. Marisa Zalabak, Open Channel Culture/IEEE AI Ethics in Education/Planet Positive,  USA  
+2. Laura Babío, POLIS Network, Brussels, Belgium  
+3. Mónica Rogério, ACDIPE, Portugal  
+4. Richard Foster -Fletcher, MKAI, UK  
+5. Daniel Opanubi, Omdena, Nigeria  
+6. Jasen Tanev, Digital National Alliance/CyberClub, Bulgaria  
+7. Dr. Tuan Trinh, EIT Digital Hungary, Hungary  
+8. Andres Leon -Geyer, Pontificia Universidad Católica del Peru – PUCP  
+9. Oleg Missikoff, Earth 3.0 Foundation, Italy  
+10. Jessica Gardner, Worth Marketing Solutions, Sou th Africa  
+11. Maria Mac Andrew, Executive Director My Zalu/AIEthics.World, Ecuador  
+12. Victor M. Larios, Universidad de Guadalajara, CUCEA Smart Cities Innovation Center, Mexico  
+13. George Beers, Wageningen University, Netherlands  
+14. Dr. Ingrid Vasiliu Feltes, Author and  Thought  Leader on Healthcare and Life Sciences, USA  
+15. Ana Prica Cruceanu, Association of Women in Engineering, Science and Technology (AFIST), 
+Romania  
+16. Dr. Mulughe ta T. Solomon,PhD, Omdena -Milan C hapter; The Information Lab , Italy (Country of 
+Origin - Eritrea) 
+17. Edward Darling, LifeMap, UK  
+18. Kristina Eskenazi, Chairwoman of the Management Board of  Health & Life Sciences Bulgaria, and 
+Member of Manage ment Board of AI  Cluster Bulgaria   
+19. Dimitar Dimitrov, Chairman of Management Board of  Health & Life Sciences Cluste r Bulgaria,  and 
+Member of Management Board of AI Cluster Bulgaria  
+20. Olivia Murungi, PEDAL Consulting, Slovakia  
+21. Shaun Topham, DataVaults and PISTIS(Horizon project), Ireland  
+22. Assoc. prof. Kosyo Stoychev, Sofia University Bulgaria  
+23. Prof. Mohamed Essaaidi, IEEE Global Cities Alliance, Moroccan School of Engineering Sciences 
+(EMSI), Morocco  
+24. Gergana Passy, President, Digital National Alliance Bulgaria  
+25. Gerry Copitch, MKAI UK  
+26. Aleksandra Hadzic, MKAI UK  
+27. Dr. Miloš Dimitrijević  , Research Associate at Faculty of Economics, University of Kragujevac, Serbia  
+28. Massimo Rocchitta, LAORE  Sardegna  – Regional  Agency for Agriculture  Development  
+29. delphine nyaboke, MKAI/Omdena, Kenya  
+30. Lavina Ramkissoon, Advisor African Union (AU), Women in AI Ethics, Global AI Ethics Institute 
+(GAIEI), Responsible AI Network (RAIN), Africa  
+31. Prof. Markus Krebsz, UNECE GRM / The Human -Ai.Institute  
+32. Dr. Meltem Huri Baturay / Prof., Director at the Center for Teaching & Learning, Atılım University / 
+Founding Leader,  and President of LET -IN R &D, Türkiye  
+33. Dr. Manijeh Motaghy, Program Director & Founder of  Perfectly Here, UCLA Mindfulness Instructor 
+- United States  
+UN Digital Compact Consultation (09.03.2023 and 28.03.2023)  
+ 34. Oluwaseun Wey, Senior Project Manager, Nigeria Inter -Bank Settlement System  
+35. N. KISHOR NARANG, Technology Philanthropist, Design Stra tegist & Architect, Innovation, 
+Standardization & Sustainability Evangelist, NARNIX Technolabs, India  
+36. Dr. Jane Thomason,  Founder of World Metaverse Council(WMC), Web3.0 Leader, Author, Futurist, 
+UAE  
+37. Dr. Stephanie Camarena, Founder of Source Transitions,  Researcher RMIT University , Australia  
+38. Vibhav Mithal, IPR lawyer, Anand and Anand, India  
+39. Ahmad Manzoor (Founder & CEO Pakistan Blockchain Institute & AnZ Technologies), Pakistan  
+ 
+ 
+ 

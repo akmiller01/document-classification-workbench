@@ -1,0 +1,178 @@
+VMind
+Input to the Global Digital Compact
+April 2023
+Revision B
+Public
+Copyright © 2023 VMind Technologies, Inc. All rights reserved.
+VMD 0426023-B VMind Public
+VMD 0426023-B VMind Public
+VMind
+Input to the Global Digital Compact
+Copyright © 2023 VMind Technologies, Inc. All rights reserved.
+Release History
+Date Revision Confidentiality
+April 29, 2023 A Public
+April 29, 2023 B Public
+Proprietary Notice
+Information in this document is provided in connection with products and services by VMind
+Technologies, Inc., a Delaware corporation ("VMind"). This document is protected by copyright and other related rights and the practice or implementation of the information contained in
+this document may be protected by one or more patents or pending patent applications. No part
+of this document may be reproduced in any form by any means without the express prior written permission of VMind. No license, express or implied, by estoppel or otherwise, to any
+intellectual property rights is granted by this document unless specifically stated.
+Your access to the information in this document is conditional upon your acceptance that you
+will not use or permit others to use the information for the purposes of determining whether
+implementations infringe any third party patents.
+THIS DOCUMENT IS PROVIDED "AS IS". VMIND PROVIDES NO REPRESENTATIONS
+AND NO WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, INCLUDING, WITHOUT
+LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY
+QUALITY, NON-INFRINGEMENT OR FITNESS FOR A PARTICULAR PURPOSE WITH
+RESPECT TO THE DOCUMENT. For the avoidance of doubt, VMind makes no representation
+with respect to, and has undertaken no analysis to identify or understand the scope and content
+of, third party patents, copyrights, trade secrets, or other rights.
+This document may include technical inaccuracies or typographical errors.
+TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT WILL VMIND BE LIABLE FOR ANY DAMAGES, INCLUDING WITHOUT LIMITATION ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT
+OF ANY USE OF THIS DOCUMENT, EVEN IF ARM HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+Copyright © 2023 VMind Technologies, Inc. All rights reserved.
+VMind Public
+2
+VMD 0426023-B
+VMD 0426023-B VMind Public
+This document consists solely of commercial items. You shall be responsible for ensuring that
+any use, duplication or disclosure of this document complies fully with any relevant export laws
+and regulations to assure that this document or any portion thereof is not exported, directly or
+indirectly, in violation of such export laws. Use of the word "partner" in reference to VMind's
+customers is not intended to create or refer to any partnership relationship with any other company. VMind may make changes to this document at any time and without notice.
+VMind may make changes to specifications and product descriptions at any time, without notice.
+If any of the provisions contained in these terms conflict with any of the provisions of any signed
+written agreement specifically covering this document with VMind, then the signed written
+agreement prevails over and supersedes the conflicting provisions of these terms.
+Words and logos marked with ® or TM are registered trademarks or trademarks of VMind Technologies, Inc., a Delaware corporation. All rights reserved.. Other brands and names mentioned
+in this document may be the trademarks of their respective owners. The MLPerf name and
+logo are trademarks of the MLCommons Association. See https://mlcommons.org/ for more
+information.
+This document is Public. Any disclosure by you is subject to you providing the recipient the
+conditions set out in this notice and procuring the acceptance by the recipient of the conditions
+set out in this notice.
+Copyright © 2023 VMind Technologies, Inc. All rights reserved.
+VMind Technologies, Inc., a Delaware corporation.
+548 Market Street PMB 46591, San Francisco, California 94104, United States of America.
+VMind: Input to the Global Digital Compact
+VMD 0426023-B
+Copyright © 2023 VMind Technologies, Inc. All rights reserved.
+https://www.vmindai.com
+Copyright © 2023 VMind Technologies, Inc. All rights reserved.
+VMind Public
+3
+VMD 0426023-B
+VMD 0426023-B VMind Public
+Dr. Amandeep Singh Gill
+Secretary-General’s Envoy on Technology United Nations
+New York, New York
+United States of America
+Dear Dr. Amandeep Singh Gill,
+VMind is a privately funded, for-profit artificial intelligence (AI) research
+and compute corporation based in San Francisco, California and Cambridge, Massachusetts, United States.
+As a stakeholder in regulation of artificial intelligence, VMind followed a
+Habermasian process, rooted in the philosophy of Jürgen Habermas, that
+emphasizes communicative action and the importance of inclusive, democratic deliberation, to prepare this input for the Global Digital Compact.
+VMind believes all governments, companies, civil society organizations and
+other stakeholders of regulation of artificial intelligence should pledge the
+following principium:
+To responsibly develop artificial intelligence for the use and sake of
+humanity, and never for its harm.
+This principium follows from a pluralistic synthesis by leading Oxford ethicist Luciano Floridi (2019) of major AI ethics declarations from across the
+world down to a set of five common agreed-upon principles: (1) explicability, (2) beneficence, (3) autonomy (4) justice, and (5) non-maleficence.
+If you have any questions or comments about this input, please contact
+Jabran Ilyas, VMind Head of AI Ethics, at jabran.ilyas@vmindai.com.
+Respectfully,
+VMind Technologies, Inc.
+Copyright © 2023 VMind Technologies, Inc. All rights reserved.
+VMind Public
+4
+VMD 0426023-B
+VMD 0426023-B VMind Public
+Input to the GDC on Regulation of AI
+Core Principles
+VMind believes all governments, companies, civil society organizations and
+other stakeholders of regulation of artificial intelligence should adhere to
+the following five principles:
+I. Beneficence.
+II. Non-maleficence.
+III. Autonomy.
+IV. Justice.
+V. Explicability.
+These five principles were identified by L. Floridi and J. Cowls (2019)
+as common to all the following major AI ethics declarations: the 2017
+Asilomar AI Principles (Future of Life Institute 2017); the 2017 Montreal
+Declaration for Responsible AI (Forum on the Socially Responsible Development of AI, 2017); the General Principles of the 2nd version of the Ethically Aligned Design document by the IEEE Global Initiative on Ethics of
+Autonomous and Intelligent Systems (IEEE 2017); the European Commission’s European Group on Ethics in Science and New Technologies’ 2018
+Statement on Artificial Intelligence, Robotics and‘Autonomous’Systems
+(EGE 2018); the ’five overarching principles for an AI code’in the 2018
+UK House of Lords Artificial Intelligence Committee’s report AI in the
+UK (House of Lords 2018); and the six Pillars of the Partnership on AI
+(Partnership on AI, 2018).
+Copyright © 2023 VMind Technologies, Inc. All rights reserved.
+VMind Public
+5
+VMD 0426023-B
+VMD 0426023-B VMind Public
+Key Commitments, Pledges and Actions
+In agreence with the principles I-V above, VMind believes all governments,
+companies, civil society organizations and other stakeholders of regulation
+of artificial intelligence should pledge to:
+Responsibly develop artificial intelligence for the use and sake of
+humanity, and never for its harm.
+Accordingly, VMind pledges to responsibly develop artificial intelligence
+for the use and sake of humanity, and never for its harm.
+Copyright © 2023 VMind Technologies, Inc. All rights reserved.
+VMind Public
+6
+VMD 0426023-B
+VMD 0426023-B VMind Public
+Annex: Process
+VMind followed a Habermasian process, rooted in the philosophy of Jürgen
+Habermas, that emphasizes communicative action and the importance of inclusive, democratic deliberation. To prepare this input, VMind took the following
+steps:
+1. Identifying diverse stakeholders: VMind first identified a diverse range of
+stakeholders from the within the company, ensuring that multiple perspectives
+were considered in the process.
+2. Promoting open and inclusive communication: To facilitate democratic deliberation, VMind organized a series of online fora where stakeholders could
+engage in open and inclusive dialogue. The company ensured that these platforms were accessible to all within the company, providing accommodations
+where relevant.
+3. Establishing a transparent and accountable process: VMind made sure that
+the deliberative process was transparent and accountable by publishing agendas,
+minutes, and decisions of the meetings to everyone in the company. This allowed
+stakeholders and everyone else in the company to follow the process and hold
+participants accountable for their actions, if any.
+4. Encouraging rational discourse: VMind emphasized the importance of rational discourse, which is a key component of Habermasian communication. This
+meant that participants were encouraged to present evidence-based arguments,
+critique others’ positions constructively, and strive for consensus in decisionmaking.
+5. Ensuring equal participation: VMind took measures to ensure that all stakeholders had an equal opportunity to participate in the deliberative process. This
+involved providing resources, such as training and support, to help every participant engage effectively in the discussions regardless of their role or seniority
+in the company.
+6. Iterative consultation and feedback: VMind carried out multiple rounds of
+consultation and feedback to refine the input document. This iterative process
+allowed stakeholders to address any concerns, suggestions, or objections and
+helped reach a broad consensus.
+Copyright © 2023 VMind Technologies, Inc. All rights reserved.
+VMind Public
+7
+VMD 0426023-B
+VMD 0426023-B VMind Public
+7. Integrating consensus outcomes: Once the deliberations concluded, VMind
+integrated the outcomes into the final input document for the Global Digital
+Compact. The company made sure to highlight areas of consensus, as well as
+acknowledge differing opinions and the reasoning behind them.
+8. Publicizing the final input document: To maintain transparency and accountability, VMind published the final input document within the company’s
+internal network, making it accessible to all interested parties. This allowed
+for ongoing feedback and monitoring of VMind’s input for the Global Digital
+Compact.
+Copyright © 2023 VMind Technologies, Inc. All rights reserved.
+VMind Public
+8
+VMD 0426023-B
+c@vmindai.com
+Copyright © 2023 VMind Technologies, Inc. All rights reserved.
+VMind Public
+9
+VMD 0426023-B

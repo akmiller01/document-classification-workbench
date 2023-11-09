@@ -1,0 +1,300 @@
+ 
+ 
+Submission to the Global Digital Compact  
+April 2023  
+ 
+About AARP  
+ 
+AARP is a nonpartisan, nonprofit association based in the US dedicated to enhancing the 
+quality of life for all as we age. Since its founding in 1958, AARP has delivered value to 
+its members through advocacy, information, and service. As a social change or ganization, 
+we work tirelessly to fulfill our vision of a society in which everyone ages with dignity 
+and purpose. While being a domestic organization, AARP has always had an international 
+perspective and we pride ourselves on being a leader on health and economic security 
+issues and a respected global source of information and advocacy.  
+For additional information or questions, please contact:  
+ Michael Phillips  | Director, Technology Strategy & Relationships  
+mphillips @aarp.org  | 601 E Street NW, Washington  DC, 20049  | 202 -434-3109  
+ 
+Summary  
+ 
+Increasing digital connection for older adults is critical to achieving universal internet 
+connectivity and represents one of the shared global challenges of the twenty -first 
+century.   
+A 2022 global survey  found 27 percent of people over 55 never use the internet, and 
+another 31 percent only use it occasionally. Th e gap in internet access mean s that the 
+current state of digital connectivity  can reinforce inequalities rather than break them 
+down and  create barriers to the ingredients of modern healthy aging such as healthcare, 
+financial services, and social connection.   
+Beyond the multitude of b enefits  to individuals that connectivity can provide, there is 
+also a strong economic case for getting older adults online. Older Adults are the 
+wealthiest age cohort  in the world . By 2050 , the annual economic contributions of the 
+50-plus age group in the US will triple, from $8.3 trillion to $26.8 trillion. Despite older 
+adults’ potential to contribute to society economically and socially as innovators, 
+mentors, caregivers, and leaders, they lack  equitable and reliable internet access in both 
+developed and developing economies. In developing countries, internet penetration is 
+often far lower. Such digital connectivity gaps are not only to the detriment of older 
+adults but are also a missed opportunity for their communities and countries.  
+ 
+ 
+AARP’s  submission to the Global Digital Compact examines th ree key barriers to digital 
+adoption by older adults and aggregates recommendations  that were surfaced through 
+the Network for the ‘Digital Inclusion of Older Adults ’. 
+ 
+The Network for the Digital Inclusi on of Older Persons  
+ 
+In an effort to address these issues and help close the gaps, in 2022 AARP convened a 
+series of roundtables with experts from governments, the private sector, and 
+nongovernmental organizations, focusing on three key pillars for achievi ng the digital 
+inclusion of aging populations:  
+1. Broadband Access : Today, broadband is seen as the foundation for an internet -
+dependent world. However, uptake is undermined by barriers to physical access 
+as well as issues of affordability that impact older adults  disproportionately.  
+2. Digital Skills : Even when connecte d to the internet, many older adults face a 
+significant but surmountable skills gap that limits the utility of digital devices and 
+services. Adequate and appropriate training can help ensure that older adults get 
+online and get the most out of the digital realm.  
+3. Inclusive Design : Design processes often tend to treat older adults and their 
+needs as afterthoughts. Involving older adults of all backgrounds and abilities 
+from the start, and adapting to their design needs, can make digital ecosystems 
+work bet ter for everyone.  
+The ‘Network for the Digital Inclusion of Older Persons’  represents a diverse group of 
+stakeholders supporting the United Nation’s Secretary -General’s Roadmap for Digital 
+Cooperation. It calls for the global community to work together to  connect all people by 
+the year 2030 by ensuring digital inclusion for all. The convenings of this Network were  
+to identify successful models, potential solutions, and recommendations addressing 
+digital inclusion barriers for older persons. Th e network of global experts explored 
+accomplishing this task through partnerships, technologies, metrics, programs, and 
+policies.  
+ 
+Broadband Access  
+ 
+Access to affordable high -speed internet is a major barrier to connectivity for older 
+adults, especially in rural and low -income contexts. Developing countries lag behind 
+high-income economies in infrastructure needed to get people online. Urban areas tend  
+ 
+ 
+to have greater internet access than rural areas, and older adults tend to account for a 
+higher proportion of the population in rural areas than in urban areas. Broadband 
+accessibility can mitigate the challenges that older adults face and contribute to t he 
+expansion of their engagement and participation in life.  
+Internet access remains unaffordable for many around the world. For example, the 
+average cost of fixed -broadband access in 2018 in Africa was equivalent to 64 percent  
+of average monthly income. Adequate infrastructure, while necessary, is insufficient for 
+closing the digital inclusion gap among older adults  if internet subscriptions remain 
+financially out of reach.  
+ 
+Recommendations  
+Leverage  public private partnerships:  No single entity or sector can fix the 
+broadband gap alone.   
+Reframe broadband access in terms of economic gains : Demonstrating the 
+additional benefits of broadband access, not strictly  the costs of its provision, can 
+increase public and private sector support for increasing access.   
+Access means more than infrastructure:  Research during the COVID -19 
+pandemic suggests that broadband internet connectivity paired with training  leads 
+to positive social outcomes for older adults who were previously offline.  
+Increase  awareness  of benefits:  While a ccess to technology has become a human 
+right, many older people lack access, and not know why it would provide benefit.  
+Ensure m easurement  is written into p olicy:  “If you can’t measure it, you can’t 
+achieve it .” 
+Adopt a framework for measurement that spans five dimensions : Funding for 
+expansion, regulatory constraints, availability, profitability & design (FRAPD).  
+Promote models for public -private collaboration : The Alliance for an Affordable 
+Internet  has global sponsors such as Google, Amazon, Cisco, Ericsson, Intel and 
+Huawei, among many others, with efforts to expand low -cost access . 
+ 
+Building Digital Skills  
+ 
+Successful digital inclusion of older adults is dependent on providing individuals with the 
+digital skills needed for an increasingly online world. People who learned to use digital 
+technologies later in life often lag behind those who acquire  digital skills earlier in life 
+ 
+ 
+such as how to use a computer, internet browser, and search engine. This can reduce the 
+utility of online spaces for older adults or shut them out entirely. A 2021 survey of U.S. 
+adults over 50, for example, found that 54 percent wanted better skills  to use digital 
+devices but 37 percent said they lacked c onfidence in using technology. This skills gap 
+can manifest in many ways in daily life, from an inability to access an online portal for 
+public services, to failure to use mobile device reminders to take medication, to an 
+inability to apply for a new job o r connect with a community group. The skills gap can 
+lead to lower earnings as well as lowered consumption. Older adults are more likely to 
+lack the basic digital skills that are critical for participation in many jobs, even when they  
+possess  superior lit eracy and numeracy skills, compared to younger cohorts. Likewise, a 
+disconnection from digital platforms can lead to a lack of awareness wherein individuals 
+simply do not have access to information that could improve their lives, from 
+opportunities for low -cost broadband access, to e -learning classes, to the tools to search 
+for jobs online. A lack of trust also contributes to less participation online, as older age 
+groups are often targets of and particularly concerned with cybercrime such as fraud and 
+theft of personal information.  
+ Recommendations   
+Leverage varied points of entry : Successful training programs provide varied 
+points of entry to older adults, meaning approaches that offer numerous options 
+for contact and reflect the different skill sets of se niors.  
+Involve trusted institutions : Learning opportunities work best when delivered by 
+institutions that older adults are familiar with and tend to trust, such as a local 
+library, religious network, or senior center .  
+Tailor training : Optimizing the appro achability of training for older adults is critical 
+to maximizing its uptake. To be effective, digital literacy programs require a 
+programmatic framework that is well matched to the specific needs of a 
+community and designed to boost the confidence of olde r users.  
+Keep pace with new technology : Skills training tends to lag behind the latest 
+technology, which leaves older  adults without the ability to properly use new 
+devices or services, while old equipment may lack functionality or suffer from 
+increased cy bersecurity risks.  
+Effective scalable training requires a 3 -tiered approach:  1) a funder; 2) a 
+curriculum provider and program manager ; and 3) a local delivery partner.   
+Help overcome the stigma of learning something new : Try devices in broadly 
+accessed locations like libraries and/or restaurants – within the comfort zone of 
+older individuals who may be there already.  
+ 
+ 
+Start with connection to friends and family : People want to learn in order to 
+interact and play with gran dchildren  and people they love . 
+Co-design new technology with the participation of older adults : Under the 
+inclusive design mantra, “nothing for us, without us”.  
+Create individual lifelong learning accounts : Example: a free educational service 
+(with points) that matches interests at any age, enabling older adults to acquire 
+skills or knowledge that improve their quality of life.  
+Create a scalable digital navigator/ambassador role for older adults : Partnering 
+with stor es to promote technology adoption  in different contexts.  
+Build a ‘digital well’ : Create community access centers to deliver the usage and 
+adoption resources they might need. A well symbolizes a place where people 
+come and congregate to relieve thirst.   
+Combat  ageism among tech and service providers : For example , provide 
+terminology guide s for new users who “don’t speak ‘geek speak’”.  
+Leverage skills of older persons to train others : Successes with one -on-one 
+training on digital literacy, using older women to train their peers.  
+Online Safety is a skill:  Digital literacy must include training individuals to protect 
+themselves from fraud and exploitation online. Fraud is a global problem . 
+Mirror tech literacy programs that focus on school -aged children : Example: 
+Comcast Internet Essentials or OATS -provided training materials for low -income 
+older adults, especially to expand Internet access.    
+Leverage n ational organizations t hat support  wellness  and independence : 
+Example:  The Veterans Administration in the US has various initiatives to expand 
+broadband access to veterans with a special focus on telehealth.  
+Volunteer Cyberacademy : This has been launched in 18 -19 countries abroad. 
+Micro learnings are useful in training and education of young people and can work 
+with older adults.  
+Implement a system of social networks to help adoption:  Example: tech literacy 
+in Japan  is notably high  and b aby boomers are relatively comfortable with 
+technology . Japan has  networks to assist older people in the use of technology 
+and accessing services.  
+Add a national tech support help line for older adults:  Example : Israel has a 
+national program for digital literacy for older adults that includes working with 
+people who are homebound  and providing a free help desk for people who have 
+completed skills training.  
+ 
+ 
+ 
+Age-Inclusive Design  
+ 
+Digital design processes often fail to account  for the many disparate needs and abilities 
+of older adults. For example, nearly half  of older adults in the United States experience 
+technological barriers that interfere with social connections. Rather than an inclusive 
+approach to design that accommodates all, technology is almost always made to 
+accommodate the modern general user who is already online and wel l adapted to the 
+digital realm. The rare exception is assistive digital technology, which tends to offer a 
+drastically different digital experience and reduced functionality.  
+Between these two ends of the spectrum are many other levels of skill and ability  to use 
+digital tools. Making a digital  world that works for everyone requires design processes 
+that have everyone —including different demographics and  marginalized groups —in mind 
+from the start.  
+Ageism  can lead many to equate old age with inability, thus perpetuating  stereotypes 
+and incorrect assumptions about aging populations, such as the false notion that older 
+adults are ill -suited to the digital realm and incapable of using technology. Additionally, 
+disabilities are prevalent among older adults —affecting more tha n 46 percent of those 
+over 60 globally —and represent some of the primary hurdles for getting aging 
+populations online and using digital devices. Older adults with disabilities face a vast 
+array  of challenges, from visual and hearing loss to cognitive decli ne and learning 
+limitations. Design process currently  marginalize and negatively impact older adults 
+through the reduced functionality of digital devices or failure to cater  to specific needs.  
+Devices and digital experiences are often simply not designed with older adults  in mind, 
+and continued high ba rriers to using new and emerging products may discourage them 
+from using digital  tools entirely.  
+Recommendations  
+Elevate design -for-all concepts : Companies and universities can achieve an 
+optimal user experi ence for  people across age groups by being more intentional 
+about the digital inclusion of older consumers and maintaining a  focus on the 
+unique needs of 50 -plus users throughout the development process.  
+Involve older adults : Similar to peer -training with digital skills, involving older 
+adults in the product design lifecycle, including co -creation, testing and feedback, 
+can break down misconceptions and expose challenges for a range of groups that 
+may not be obvious to designers and developers.  
+ 
+ 
+Include new  interfaces such as voice tech and natural language processes : 
+Emerging technologies often mean o lder adult users will be more capable of 
+controlling their devices.   
+Emphasize ability:  At a broader level, age -inclusive design should be 
+reconceptualized not as a burden but  as a route to enabling and accessing the 
+unique skills of everyone, especially older adults.  
+Consider the pace of change : The continuous cycle of updates creates adoption 
+challenges, i nteroperability  issues, training challenges and general frustration.  
+Form a consistent legislative approach to boosting age-inclusive design : Consider 
+a parallel to the Americans with Disabilities Act of 1980.  
+Legislative initiatives need to include effective standards  that  build trust:  Spam 
+laws are not doing a good job of preventing spam . 
+Promote diversification and representation of older a dults in the private sector :  
+Add older adults, including women, on boards  and to product design teams.  
+Transfer the lessons learned from accessibility initiatives to design and testing 
+for the aging market segment . 
+Engage designers of products to teach older digital skills classes.  
+Create age -friendly technology metrics to track adoption.  
+Speak their language —literally and figuratively : Digital devices and services need 
+to be attuned to local contexts . Governments and internet providers can ensure 
+that digital products and resources are available in local  languages  
+ 
+Cross -Cutting  Recommendations  
+Focus on where inequalities are greatest:  Key to addressing development targets 
+such as SDG -1 (ending  poverty) and SDG 8 (decent work and economic growth) is 
+prioritizing those groups where disparities are most acute.  
+Build coalitions : Digital inclusion of older adults is a shared responsibility 
+requiring the collaboration of public,  private, and non -profit entities at local, 
+national, and international levels . 
+Recognize the business and social imperatives: By adopting strategies that 
+address the gaps in digital access,  skills, and design, compani es can both further 
+corporate social responsibility goals, by helping improve the  livelihoods of aging 
+populations, and access a burgeoning new market opportunity.  
+ 
+ 
+Develop consistent data and benchmarks:  Understanding of the global benefits 
+of digital incl usion  and the national and regional gaps that persist is hindered by 
+inconsistent data across and within countries, and  varying conceptions of what 
+qualifies as adequate digital access.  
+Utilize multiple metrics : Across access, affordability  and adoption  especially  
+identifying the gap between access and usage . 
+Measure digital readiness gaps : Crafting  population assessments possibly 
+modeled on a Pew research report about the use of tech tools to pursue learning 
+online, categorizing individuals from ‘least ready’ to ‘most ready.’   
+Match financial incentives and programs connection to adoption: This is needed 
+to ensure projects don’t fail due to poor access . 
+Measure the connection between technology access and health equity : For 
+example, use of technology that could address or assist for chronic conditions like 
+diabetes, heart disease, or dementia. WHO i dentifies Social Determinants of 
+Health (SDH), but these do not include technology access that could help manage 
+chronic conditions.  
+Uplift positive stories, both at individual and population levels:  For example , the 
+Web Accessibility Initiative  offers stories about specific, vision, hearing, and 
+cognitive limitations. W3C notes that that there are 1 billion people globally with 
+disabilities and represent spending power of $1 trillion.  
+Increasing points of entry : Stakeholders must offer a complete on -ramp to digital 
+use and literacy, but one that has many doors of entry. Not everyone has some 
+same goals – and may only need a subset of capabilities with limited features.  
+Connect programs to the increased use of telehealth and remote patient 
+monitoring (RP M): These changes require increased access to high-speed  Internet 
+services, and/or smartphone devices for telehealth interactions.  
+Help private sector participate and be part of the solution : Allowing other sectors 
+and categories participate – the private sector should know that access is good 
+business practice to help people use their technologies.   
+ 
+Looking Ahead  
+As much of daily life moves online —from work opportunities to essential services such as 
+healthcare and banking —inclusion in the digital world has become critical to the 
+wellbeing of people around the world. This is especially true for older adults, who face 
+acute risks from exclusion from online spaces. As this anal ysis shows, digital inclusion is 
+an area ripe for public -private collaboration, inclusive design, and innovation. Working 
+ 
+ 
+together, governments, internet service providers, and other stakeholders, can support 
+older adults to be healthy, fulfilled, and prod uctive in their later lives.  
+ 

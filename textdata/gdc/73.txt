@@ -1,0 +1,438 @@
+ 
+ 
+Submission of Inputs for the Global Digital Compact  
+United Nations Educational, Scientific and Cultural Organization (UNESCO)  
+ 
+ 
+Global Digital Compact - General Comments:  
+ 
+• UNESCO welcomes the President of the UN General Assembly ’s appointment of the 
+Permanent Representatives of Rwanda and of Sweden as Co -facilitators to lead the 
+intergovernmental process on the Global Digital Compact  (GDC)  and conduct the 
+consultations with Member States and Stakeholders on the proposal a nd the 
+development of the GDC.  
+ 
+• UNESCO embraces  the initiative of the United Nations Secretary -General to propose 
+a Global Digital Compact and recognizes the need for coherent and coordinated UN 
+effort and process leading to the ‘Summit of the Future’ outc omes in 2024.  
+ 
+• Along the ROAM principles (a human -Rights based, Open, Accessible, and 
+Multistakeholder shaped digital environment) adopted by UNESCO ’s Member States,  
+and the Ethics of AI principles included in the UNESCO Recommendation of Ethics of 
+Artific ial Intelligence adopted by acclamation by the Member States in 2021,  
+UNESCO appreciates the multistakeholder character of the consultations so far and 
+calls for continued opportunities for multistakeholder engagement throughout the 
+process of development  of the Global Digital Compact.  
+ 
+• UNESCO emphasizes the need to foster a human -rights based, open, accessible, and 
+multistakeholder shaped technological environment in the service of humankind 
+through development and dissemination of knowledge, skills and ethical standards  
+ 
+• UNESCO encourages GDC to adopt a gender perspective  to ensure equal access 
+to information and technologies, and to promote inclusive and diverse participation in 
+all mechanisms of the digital ecosystem, as well as integrate the Leave  No One 
+Behind Agenda with specific measures for marginalized and vulnerable 
+populations . 
+ 
+• UNESCO considers that the digital transformation also includes the interaction 
+between artificial intelligence, internet of things, the cloud, neurotechnology and ot her 
+emerging technologies, and will continue shaping the way we work, learn, and engage 
+with each other, and should also be reflected in the Global Digital Compact.  
+
+• In times where digital is mainstreamed in all areas of life and across all fields of UN 
+competence, the respective mandate s of and themes covered by UN Organizations 
+must become the key anchor of digital initiatives.  
+ 
+• UNESCO expresses the need to ensure consistency between existing multilateral fora 
+and mechanisms, avoiding duplication and ensuring that efforts complement, build on 
+and reinforce existing frameworks and successful activities, which have proven to be 
+impactful.  
+ 
+• Any new efforts proposed in the GDC should complement the broader UN digital 
+cooperation landscape a lready established and should include all relevant players 
+from the digital ecosystem.  
+ 
+• UNESCO  has established a solid foundation and strong case to continue its role as a 
+thought -leader , standard setter and capacity developer  on digital and can play an 
+important advisory role for the GDC, especially in the consultation period before its 
+adoption by UN Member States at The Summit of the Future.  
+ 
+1. Connect all people to the internet, including all schools  
+a) Core Principles  
+ 
+• Center  the most marginalized . Connectivity and technology must be deployed to 
+help close growing educational divides. Too often, they benefit privileged learners and 
+educators first. We must recalibrate our policies, actions, and investments to centre 
+learners m ost in need of opportunities. This will help bridge inequalities, spark needed 
+innovation, and make solutions easier to ‘scale out’ to more privileged groups. Asking 
+how approaches can work for refugees, for students with disabilities, for girls and 
+women,  for teachers in remote areas, and for other underprivileged learners and 
+educators needs to be a point of departure.  
+• ROAM Principle of ‘Accessibility to All’ . The principle of Accessibility to All has 
+technical, economic and social aspects. It reaches fa r beyond mere connectivity, for 
+example, to include issues of affordability, content and capability. It is closely related 
+within societies to the distribution of income and resources between women and men, 
+poor and rich, rural and urban communities, langu age groups and ethnic minorities, 
+and those affected by disability or marginalisation.  
+b) Key Commitment/ Pledges/ Actions  
+ 
+• Ensure connectivity reaches all individual learners . For connectivity to truly 
+equalize educational opportunity, it needs to enable anytime, anywhere internet 
+access for individual students and teachers. Connectivity initiatives should be guided 
+by an ethic of inclusion and begin with those facing disadvant age. Efforts to assure 
+connectivity reaches and follows learners and educators should be grounded in a 
+rationale of educational equality. They must also be accompanied by expanded and 
+improved digital skills training, so students and teachers can make prod uctive use of 
+connections for education   
+• Assure clear and affordable connectivity for education . Governments should 
+consider mandating that internet and mobile service providers offer basic and easy -
+to-understand ‘connectivity for education’ plans or credi ts at fixed or subsidized -rates. 
+People who want a basic connectivity option to support education should be able to 
+find it. As education becomes increasingly reliant on connectivity, it must progressively 
+be folded into state commitments to provide free a nd inclusive quality public education.  
+• Create conditions for gender -responsive digital learning environments for girls 
+and women  who have missed out on education, including by investing in school 
+infrastructure, the development of free, safe and accessible  digital public learning 
+resources, with good -quality, multilingual and context -relevant educational content, 
+and the training of teachers to use gender -responsive blended and hybrid learning 
+methods and deliver digital skills training. Those modules shoul d also take into 
+account reskilling and upskilling content, in order to equip women and girls  with skills 
+relevant  to the emersion in society that is highly shaped by emerging technologies, 
+based on the guidelines set out in the Policy Paper I’d blush if I could , published by 
+UNESCO and partners in 2019.   
+• Support digital open schooling models that integrate connectiv ity for schools, 
+digital content covering all subject areas and appropriate grade levels, and digital 
+competencies needed for online coaching and online social caring based on 
+Guidelines for ICT in Education Policies and Masterplans, published by UNESCO in  
+2022 .  
+• Support cultural institutions  in the digitization of cultural content, including through 
+the AI Ethics Recommendation . inventorying of museum collections, documentation 
+and transmission in the digital environment . 
+ 
+2. Avoid internet fragmentation  
+a) Core Principles  
+ 
+• ROAM Principle of Openness . The Internet should be open for all to develop or take 
+advantage of its resources and opportunities in whatever ways seem most appropriate 
+or valuable to them. Openness is concerned alike, therefore, with technical issues, 
+markets, content, transparency and  trust in the Internet and Internet -enabled services, 
+including issues such as open -source  software and development, open government, 
+open data and open educational resources. Through openness, Internet Universality 
+acknowledges the integrity of the Intern et as enabling a common global exchange, 
+rather than being confined to ‘walled gardens’ based on incompatible technologies.   
+• ROAM Principle of Human Rights . Internet Universality emphasises the importance 
+of harmony between the growth and use of the Intern et and human rights. A free 
+Internet is one that respects the human rights set out in key international agreements 
+and enables people to enjoy and exercise them fully. It includes the full range of inter -
+relationships between human rights and the Internet,  such as freedoms of expression 
+and association, privacy, cultural participation, gender equality, security and rights 
+concerned with education, employment and welfare.  
+  
+b) Key Commitment/ Pledges/ Actions  
+ 
+• Technology  developers  should base their approach on open standards, 
+interoperability, and an open and distributed architecture consistent with Human 
+Rights, and its governance should promote open standards, informed by individual 
+and collective expertise and decisions that all ow for a resilient, stable, decentralized, 
+secure, and interconnected network that is available to all.    
+• Governments  should refrain from disproportionate measures, particularly prior 
+censorship and internet shutdowns, under the guise of combatting disinfo rmation or 
+any other reason inconsistent with the ICCPR.   
+• Judicial Systems  should apply international human rights standards in their decisions 
+regarding the internet ecosystem, avoiding a fragmented approach that can have 
+implications to the protection of  fundamental freedoms and to the architecture of 
+internet.  
+  
+3. Protect data  
+a) Core Principles  
+ 
+• High -Level Principles for the Transparency of Internet Companies . Principles 19  
+-26 of this UNESCO developed framework  deal specifically with the question of 
+Personal Data Gathering and Use, as well as Data Access.  
+ 
+b) Key Commitment/ Pledges/ Actions  
+ 
+• In line with the Policy Area on Data Governance in the Recommendation on AI Ethics, 
+governments  should leverage the power of open government data in strengthening 
+transparency and innovation through the development of data -driven public services. 
+Governments, private sector, and civil society should support digitization and 
+preservation of documentary archives, transfor ming them into data that can power 
+digital transformation for public good .  
+• All stakeholders  should respect the privacy of users, including right to anonymity 
+online and provide them with tools for managing and controlling their data, including 
+the possibi lity to remove data from online platforms , with a special attention given to 
+the protection of data privacy of children.  
+• Governments  should set up frameworks for data interoperability and encourage the 
+creation of data stewards and data commons, to enhance  control of users over their 
+data.    
+• Due to the impact large datasets have on AI systems, companies  should adhere to 
+internationally recognized standards related to data governance and in particular 
+training algorithms.    
+• Companies  should apply UNESCO’s 26 high -level principles for transparency of 
+internet platform companies .  
+  
+4. Apply human rights online  
+a) Core Principles  
+ 
+• ROAM Principle of Human Rights . Internet Universality emphasizes  the importance 
+of harmony between the growth and use of the Internet and human rights. A free 
+Internet is one that respects the human rights set out in key international agreements 
+and enables peo ple to enjoy and exercise them fully. It includes the full range of inter -
+relationships between human rights and the Internet, such as freedoms of expression 
+and association, privacy, cultural participation, gender equality, security and rights 
+concerned w ith education, employment and welfare.  
+• In line with the UNESCO Recommendation on the Ethics of AI , governments should 
+ensure that emerging technologies including AI, respect the rule of law, and promote 
+human rights and fundamental  freedoms.  
+ 
+b) Key Commitment/ Pledges/ Actions  
+ 
+• Governments  should create a positive enabling environment for freedom of 
+expression and access  to information online, in line with international guarantees of 
+these rights, promoting universal access  to the Internet, a nd taking measures to 
+reinforce the safety of journalists and artists online, including with a specific focus on 
+women journalists and artists.  
+• Governments  should  respect  the requirements of Article 19(3) of the ICCPR.  
+• Digital platforms  should respect huma n rights and adhere to international human 
+rights standards in accordance with the UN Guiding Principles on Business and 
+Human Rights, applying them consistently and fairly across all regions, languages, 
+and technologies.  
+• Digital platforms  should conduct p eriodic risk assessments, including gender 
+specific risk assessments, as well as Ethical Impact Assessments to identify and 
+address any actual or potential harm or human rights impact of their operations, based 
+on the provisions of Article 19 of the ICCPR and drawing on the principles set out in 
+the UN Guiding Principles on Business and Human Rights, and the UNESCO 
+Recommendation on the Ethics of AI.  
+• Governments  should be transparent and accountable about the requirements they 
+place upon digital platforms.  
+• Digital platforms  should be transparent and accountable to independent regulatory 
+systems in how they handle  the rights to freedom of expression, access to information, 
+and freedom of association and the safeguards to address and prevent online gender -
+base d violence that are direct threats to the universal human rights and fundamental 
+freedoms of women and girls.  
+• Education systems, and professional organizations  should equip engineers, data 
+scientists, and other members of the technical community, to under stand human rights, 
+ethical standards  and gender equality  perspectives how to apply them to the products 
+and services they develop or maintain.  
+• Lawmakers  should structure processes of legal reform impacting human rights online 
+in a multistakeholder partici patory  way, including with the full engagement of women’s 
+rights organizations to support reforms that specifically address gender -based 
+violence and disinformation online  
+• Digital platforms  should enable inclusive  access to culture and participation in 
+cultural life and its benefits as an ethical, social and economic imperative;  
+• Policymakers and digital platforms  should cooperate to protect and foster the 
+diversity of cultural contents and languages online , and reinforce intellectual property 
+to uphold the  economic and social rights of artists.  
+ 
+5. Accountability for discrimination and misleading content  
+a) Core Principles  
+ 
+• High -Level Principles for the Transparency of Internet Companies . Principles 5 -
+9 of this UNESCO developed framework deal specifically with the question of content 
+and process transparency when it comes to efforts by platforms to address content 
+issues.  
+• The principles underpinning the  UNESCO  Guidelines for regulating dig ital 
+platforms  will be particularly useful here and should be integrated throughout to 
+ensure effective human -rights based approaches.  
+• The Windhoek +30 Declaration , adopted  at the 2021 World Press Freedom 
+Conference in Namibia and subsequently endorsed by UNESCO Member States at 
+the 42nd session of its General Conference, outlines principles to ensure information 
+as a common good in the digital age. It particularly calls for greater transparency of 
+Internet companies, support for the economic viability of independent journalism, and 
+incre ased efforts to teach citizens critical thinking through media and information 
+literacy.  
+ 
+b) Key Commitment/ Pledges/ Actions  
+ 
+• UNESCO and partners  should support uptake of guidelines on the development and 
+implementation of independent regulatory processe s that guarantee freedom of 
+expression and access to information while dealing with content that is illegal 
+according to international human rights law, and corresponding jurisprudence and 
+content that risks significant harm to democracy and the enjoyment of human rights.  
+• Regulatory frameworks  targeting digital platforms, including self - co- and 
+governmental regulatory frameworks, must be based on international standards of 
+freedom of expression, access to information and gender equality.  
+• Platform models , editorial policies  and advertising systems, as well as human and 
+algorithmic content moderation policies and practices, should be made transparent  
+and eliminate gender bias . 
+• All relevant stakeholders  should  advocate for human rights -respecting regulation on  
+content moderation, and to hold government and digital platforms accountable.  
+• Regulatory bodies  should focus  regulation mainly on the systems and processes 
+used by platforms, rather than on single pieces of content. Any specific decisions 
+about the legali ty of specific pieces of content should follow due process and be open 
+to review by a judicial body.  
+• Digital platforms  should commit  to being transparent about the systems and 
+processes used to moderate and curate content on their platforms and how those 
+systems and processes fulfil the goal of regulation and address the specific threats to 
+the safety of women and girls. (see also principle 4)  
+• Digital platforms  should adhere to international human rights standards in the way 
+they operate and to be able to demonstrate  how they are implementing these 
+standards and other policies contained in their terms of service, including gender 
+disaggregation in their reporting of content moderation statistics, and the guidelines 
+set out in the Policy Area on Communication  and Information in the Recommendation 
+on the Ethics of AI.  
+• Digital platforms  should have  content moderation and curation policies and practices 
+consistent with international human rights standards.  
+• Digital platforms  should offer Media and Information Literacy resources and training, 
+empowering users to interact critically and safely with digital content and technologies 
+to raise awareness of the impact of online harassment  (including towards women and 
+girls), to produce guidance on navigating online spaces safely and to build a culture 
+of solidarity against online disinformation and violence.  
+• Digital platforms  should have effective user complaints mechanism to allow users 
+and non -users meaningful opportunities  to raise their conc erns, especially women and 
+girls who are experiencing harassment and threats online, including the right to 
+redress against decisions taken.  
+• Relevant stakeholders  commit to taking concretes actions for the prevention, 
+protection and prosecution of online violence against journalists, artists, scientists, 
+human rights and gender equality activists.  
+ 
+6. Regulation of artificial intelligence  
+a) Core Principles  
+ 
+• The Ethics of AI principles  encompassed in the Recommendation on the Ethics 
+of Artificial Intelligence , the first global standard -setting instrument that was adopted 
+in November 2021, by the 193 Member  States, namely Proportionality and Do No 
+Harm, Safety and security, Fairness and non -discrimination, Sustainability, Right to 
+Privacy and Data P rotection, Human oversight and determination, Transparency and 
+explainability, Responsibility and accountability, Awareness and literacy, Multi -
+stakeholder and adaptive governance and collaboration.  
+ 
+b) Key Commitment/ Pledges/ Actions  
+ 
+• Governments  should apply AI regulation  in a manner consistent with international 
+human rights standards, including the UNESCO Recommendation on AI Ethics, and 
+Article 19 of the International Covenant on Civil and Political Rights (ICCPR), and 
+under the public scrutiny of civ il society organizations, journalists, artists, scientist, 
+researchers, and other relevant institutions in a system of checks and balances.  
+• AI regulation  should take into account the complex nature of AI systems, and the fact 
+that they span many domains an d policy areas.  
+• The principles of transparency and accountability should be core to any AI regulation, 
+taking into account the responsibility  of governments  to the risks that AI systems that 
+they might be adopting could include, and the responsibility of the companies  
+developing AI systems, throughout the supply chain and the different stages in the AI 
+life cycle.  
+• Accountability measures  should  include redressal measures, establishing AI ethics 
+officers, and the possibility to report harm caused by AI sys tems.  
+• Governments  should assess and measure the impact of AI and other emerging 
+technologies on the environment , and set policy guidelines to balance any risks.  
+• The AI regulatory framework  should  include a strong component of data governance.  
+• Regulatory processes  should  be led through an open, transparent, multistakeholder, 
+and evidence -based manner, including the collection of gender disaggregated 
+statistics.  
+• Regulatory systems  must have suffici ent and independent funding to carry out their 
+responsibilities effectively including  dedicated funds from their public budgets to 
+finance gender -responsive schemes and ensure that national digital policies include 
+a gender action plan.  
+• Regulatory systems  should  include monitoring mechanisms such as Ethical Impact 
+Assessment and Readiness Assessment.  
+• Regulations dealing with informational issues  with respect to AI and the use of 
+algorithms and automated  mechanisms for content moderation and curation should 
+also be informed by UNESCO’s Guidelines for regulating digital platforms: a 
+multistakeholder approach to safeguarding freedom of expression and access to 
+information , especially as it concerns measures  to eliminate gendered disinformation 
+and online gender based violence . (These guidelines are currently under development 
+and due to be published later in 2023)  
+• Governments and relevant stakeholders should take accountability to develop 
+value orientation, understanding, and skills needed for ethical use of AI for all citizens 
+based on AI and Education: Guidance for Policy -makers, published by UNESCO in 
+2021.  
+ 
+7. Digital commons as a global public good  
+a) Core Principles  
+ 
+• Our actions  should be guided by commitments to human rights, inclusion, equity, 
+environmental sustainability, and social justice  
+• Education  should remain a human right and public good in digital as well as in 
+physical spaces, as explained in Reimagining Our Futures To gether: A New Social 
+Contract for Education, published by  UNESCO in 2019.  
+• The Windhoek +30 Declaration , adopted at the 2021 World Press Freedom 
+Conference in Namibia and subsequently endorsed by UNESCO Member States at 
+the 42nd session of its General Confe rence, outlines  principles to ensure information 
+as a common good in the digital age. It particularly calls for greater transparency of 
+Internet companies, support for the economic viability of independent journalism, and 
+increased efforts to teach citizen s critical thinking through media and information 
+literacy.  
+• ROAM Principle of Multistakeholder Participation . Multistakeholder participation in 
+the development and governance of the Internet has drawn together governments, 
+intergovernmental and internation al organisations, the private sector, civil society and 
+the Internet technical and professional community and academia. The goal of 
+multistakeholder participation is to improve the inclusiveness and quality of decision -
+making by including all those who hav e an interest in the Internet and its impact on 
+wider social, economic and cultural development in open and transparent decision -
+making processes.  
+ 
+b) Key Commitment/ Pledges/ Actions  
+ 
+• The scientific community  should make multilingual scientific knowledge openly 
+available , accessible and reusable for everyone; increase scientific collaborations; 
+and sharing of information and knowledge  for the benefits of science and society.  
+• Promote and engage in international and multi -stakeholder cooperation  in the 
+context of open science and access for information to all, with a view to reducing digital, 
+technological knowledge gaps  and gender digital gaps, in line with UNESCO’s 
+Recommendation on Open Science  
+• Establish and iteratively improve public digital le arning platforms  with high 
+quality, curriculum -aligned education resources, ensuring they are free, open and 
+accessible for all, in the framework of the initiative of Gateway to Public Digital 
+Learning launched at the Transforming Education Summit and in line with UNESCO’s 
+Recommendation  on Open Educational Resources, while also protecting the privacy, 
+safety and data security of users.  
+• Aim for achieving universal digital literacy for education  being mindful of the 
+systemic and long -term transformation of the labour market due to digitalization. The 
+a system -wide approach to integrate values, knowledge, understanding, and skills on 
+digital technologies into the school curricula, qualifications of  technical and vocational 
+education and training (TVET) and higher education, taking into consideration the 
+ethical aspects and interrelated humanistic disciplines. Be cognizant of the emergence 
+of a set of AI literacy skills required for effective human –machine collaboration. Take 
+institutional actions to enhance digital literacy across all layers of society. Give a 
+special focus on women and girls, cultural and linguistic minority groups, and older 
+people . 
+• Governments and the cultural community  should imp lement the principles of the 
+MONDIACULT 2022 Declaration on culture as a global public good, with a view to 
+harness and contribute to the design  and implementation of suitable digital 
+technologies across the cultural value chain to promote a diverse supply  of and plural 
+access to cultural expressions online, bearing in mind the importance of preserving 
+cultural heritage, diversity , artistic freedom  and gender equality . 
+• Governments  should implement the principles of the Windhoek+30 Declaration on 
+Information as a Public Good, built on the three pillars of media viability, transparency 
+of internet platform companies, media and information literacy and gender equality.  
+ 
+8. Other areas : Build capacities for fair and equitable participation in digital 
+transformation  
+a) Core Principles  
+ 
+• Inclusive, equitable and quality education and lifelong learning for all : Steer 
+human -centred digital learning to advance our national and international aspirations 
+for education and lifelong learning.  
+• ROAM Principle of ‘Accessibility to All’ . The principle of Accessibility to All has 
+technical, economic and social aspects. It reaches far beyond mere connectivity, for 
+example, to include issu es of affordability, content and capability. It is closely related 
+within societies to the distribution of income and resources between women and men, 
+poor and rich, rural and urban communities, language groups and ethnic minorities, 
+and those affected by disability or marginalisation.  
+ 
+b) Key Commitment/ Pledges/ Actions  
+ 
+• Use three keys to unlock the power of digital teaching and learning , making it 
+more universally accessible and a more reliable pillar of holistic educational 
+experiences:  
+• Content . High quality, curriculum -relevant digital teaching and learning content must 
+be made available to all students learners, teachers and caregive rs through digital 
+learning platforms  
+• Capacity . Capacity to use digital technology to improve learning must be 
+strengthened to ensure teachers, learners and other education stakeholders have the 
+skills and knowledge needed to leverage digital tools for lea rning using evidence -
+based approaches.  
+• Connectivity . Digital connectivity helps ensure that all schools and individuals can 
+benefit from the educational  advantages that come with good quality internet 
+connections.  
+• States, civil society, private sector, and international organisations , commit to 
+making the necessary investments and taking the required actions to identify and 
+cooperate to close gender gaps related to the capacities of all groups to enjoy fair 
+equal and safe participation  in all aspects of digital knowledge societies – from 
+technology development and deployment, to the generation and exchange of 
+information and knowledge  
+• Relevant stakeholder s build capacities to leverage digital technologies for cultural 
+employment, as to enhance the safeguarding, promotion, digitization , and 
+inventorying of cultural heritage . 
+Contact : Bobir Tukhtabayev , Chief of the Section for Relations with the United Nati ons 
+and Intergovernmental Organizations  (b.tukhtabayev@unesco.org ) 

@@ -1,0 +1,344 @@
+The Brazilian Internet Steering Committee – CGI.br
+Inputs to the Global Digital Compact
+GLOBAL DIGITAL COMPACT
+Brazilian Internet Steering Committee – CGI.br
+April 28th, 2023
+Global Digital Compact – Inputs from CGI.br 1
+
+The Brazilian Internet Steering Committee – CGI.br
+Inputs to the Global Digital Compact
+INTRODUCTION
+The Brazilian Internet Steering Committee (CGI.br)1 congratulates the call for inputs to the  
+Global Digital Compact. As a multistakeholder Committee dealing with de development of  
+the Internet in Brazil, we support initiatives that contribute to the Internet governance  
+ecosystem as a whole and seek to actively participate in diverse processes that try to build  
+multistakeholder  consensus  driven  solutions.  This  document  presents  CGI.br's  
+contributions  to  the  Global  Digital  Compact,  following  a  tradition  of  consistent  and  
+reiterated participations in international discussions.
+1https://cgi.br/about/  .
+Global Digital Compact – Inputs from CGI.br 2
+
+The Brazilian Internet Steering Committee – CGI.br
+Inputs to the Global Digital Compact
+Proposals presented in each of the topics defined by the consultation:
+1. Connecting all people to the Internet, including all schools
+a) Core Principles:
+•Internet access must be universal so that it becomes a tool for human and social  
+development,  thereby  contributing  to  the  formation  of  an  inclusive  and  
+nondiscriminatory society, for the benefit of all;
+•Access to the Internet and digital infrastructure should be affordable;
+•Access and connectivity should be meaningful in all levels;
+•The fair, rational, equitable, and efficient allocation and use of radio spectrum and  
+satellite orbits are essential and key to connectivity;
+•Schools are key spaces to be focused by public policy processes in order to  
+advance meaningful access and connectivity;
+•Multistakeholder dialogues and south-south cooperation are key to advance the  
+connectivity infrastructure and access landscape.
+b) Key Commitment/ Pledges/ Actions:
+•The fair availability of radio spectrum and satellite orbits to provide connectivity all  
+over the world might be targeted by the specialized United Nations body, the  
+International Telecommunication Union (ITU);
+•Stakeholders should commit to initiatives to develop and foster digital literacy and  
+the critical use of technologies, including in education;
+•Digital capacity building initiatives should gain more focus and resources, as a tool  
+to drive sustainable development;
+•Stakeholders should work together to build, improve and expand available digital  
+Infrastructure;
+•Digital divide continues to be a persistent and serious issue in several parts of the  
+world and should be tackled by collaborative frameworks between States and the  
+multistakeholder digital ecosystem;
+•In the context of the data economy it is crucial to tackle the challenge of the  
+increasing use of technological platforms in education by consolidating frameworks  
+for the fair governance of infrastructure and data, with transparency, accountability  
+and safeguards for users' rights;
+•The increasing use of technology in education should continue to be incentivized in  
+a critical approach, by the promotion of digital literacy and also policy frameworks to  
+protect user data, and to raise awareness of impacted people.
+2. Avoid internet fragmentation
+a) Core Principles:
+Global Digital Compact – Inputs from CGI.br 3
+
+The Brazilian Internet Steering Committee – CGI.br
+Inputs to the Global Digital Compact
+•Bear in mind that there are principles that must be preserved to maintain a global  
+open and equally accessible Internet environment, taking into account that other  
+discussions may benefit from a coordinated action. The global network needs some  
+level of uniformity necessary to its smooth and fair operation to all. However, at the  
+same time, the world also needs to preserve the sovereignty and diversities of  
+States  and  peoples.  These  are  not  incompatible  expectations  and  may  walk  
+together towards a more valuable and cooperative global digital ecosystem;
+•The stability, security and overall functionality of the network must be actively  
+preserved through the adoption of technical measures that are consistent with  
+international standards and encourage the adoption of best practices;
+•Free access to information and services is a fundamental right and should be  
+guaranteed for all groups and peoples.
+b) Key Commitment/ Pledges/ Actions:
+•States should seek collaboration in order to further shared frameworks that enable  
+countries to safeguard their sovereignty as well as cooperate in common matters,  
+being able to deploy solutions that enable legal interoperability in the global level;
+•All stakeholders should prevent and mitigate any actions to break or negatively alter  
+the uniformity and cohesiveness of the Internet that may fragment the network and  
+pose negative effects to societies and users, due to the unequal access to services,  
+goods and information by populations in different countries;
+•States  should  commit  to  protect  core  values  and  the  core  functions  and  
+technologies that shape the global Internet as a unique, open, democratic space to  
+promote  human  development,  following  previous  important  processes  and  
+documents,  such  as  the  NETmundial  declaration,  the  principles  of  the  Global  
+Commission on the Stability of Cyberspace, and others;
+•States  should  avoid  any  shutdowns  and  blocking  to  services  and  information  
+offered through the Internet, especially when these shutdowns and blockings harm  
+fundamental rights, such as freedom of expression and freedom of association.
+3. Protect data
+a) Core Principles:
+•People’s privacy and personal data protection should be guaranteed in all levels  
+and actions, and by all stakeholders, and should be also integrated to national  
+frameworks;
+•In an evolving global landscape of more efforts to access cross-border user data of  
+different types, there should be a fair balance between legal interoperability and the  
+protection of users;
+•Coordinated global efforts towards regulatory harmonization of privacy and data  
+protection should have a human-centered approach and focus on the benefit of  
+individuals worldwide.
+Global Digital Compact – Inputs from CGI.br 4
+
+The Brazilian Internet Steering Committee – CGI.br
+Inputs to the Global Digital Compact
+b) Key Commitment/ Pledges/ Actions:
+•States should cooperate with other stakeholders to enhance capacities to 
+guarantee privacy and protection of personal data;
+•States should share information and best practices to fight data exfiltration and 
+exploitation by malicious actors;
+•States should increase confidence-building measures and pursue strategies to 
+make cross-border data sharing more efficient and fair at all levels;
+•States and the multistakeholder digital ecosystem should cooperate in order to 
+address conflict of jurisdictions and legislations, as so to provide a global full-
+fledged set of protections to users.
+4. Apply human rights online
+a) Core Principles:
+•Human rights must apply both online and offline;
+•The protection of human rights on the digital realm depends on the maintenance of  
+an open and safe Internet;
+•Adequate  application  of  human  rights  online  also  depends  on  consistent  
+transparency and accountability frameworks;
+•The  application  of  human  rights  online  should  take  into  account  diversity  and  
+minority groups’ specificities, and aim to be inclusive;
+•Capacity building on  accessibility and diversity issues such as gender and race  
+inequalities is key to consolidate the application of Human Rights online.
+b) Key Commitment/ Pledges/ Actions:
+•States should work together with all stakeholders to consolidate shared norms,  
+principles and frameworks for the safeguarding of human rights on the Internet and  
+the global digital ecosystem as a whole;
+•Efforts should especially focus on the protection of minorities and promotion of  
+rights for women and girls, indigenous and black communities, LGBTQIA+ groups,  
+older people and people with disabilities, and other vulnerable and marginalized  
+groups.
+5. Accountability for discrimination and misleading content
+a) Core Principles:
+•Disinformation and misleading content need to be recognized as elements which  
+may lead to the decrease of trust on the Internet and digital technologies;
+•Transparency  and  Accountability  measures  should  take  political  and  cultural  
+realities into account in order to build consistent frameworks; 
+Global Digital Compact – Inputs from CGI.br 5
+
+The Brazilian Internet Steering Committee – CGI.br
+Inputs to the Global Digital Compact
+•The  fight  against  discrimination  and  misleading  content  should  be  a  
+multistakeholder coordinated effort and take into account all the diversity of issues,  
+actors, and regions;
+•States have an important role to play regarding minimal cross-industry rules that  
+should be defined in a multistakeholder and transparent way and adopted by private  
+actors in a willingly and smooth manner;
+•Artificial Intelligence technologies and the use of algorithms have added complexity  
+to the process of identifying and distinguishing between human  action and those  
+originated from  automated systems;
+•As a general principle, actions to counter illicit activity on the Internet should firstly  
+aim at those directly responsible for such activities, in accordance with national  
+frameworks and legislations.
+b) Key Commitment/ Pledges/ Actions:
+•Intermediary liability rules should aim at the updated dynamics of the Internet but  
+still protect its core characteristics, such as the protections to online freedom of  
+expression, access to knowledge and others;
+•Hate  speech  and  extremist  and  violent  content  should  be  tackled,  as  well  as  
+misinformation and content that threatens democracy, with fair and reasonable  
+frameworks that mitigate risks and negative impacts, at the same time that protect  
+Internet core benefits;
+•Continued  multistakeholder  dialogues  on  these  topics  should  be  permanently  
+sought to leverage proposals and solutions.
+6. Regulation of artificial intelligence
+a) Core Principles:
+•Artificial Intelligence should be recognized as an emergent technology that has a  
+true potential to transform multiple social dynamics in both positive and harmful  
+ways;
+•As a disruptive technology, Artificial Intelligence needs to be leveraged to drive the  
+evolution of the digital ecosystem with innovation and responsibility;
+•A  holistic,  ethically  responsible  and  human-centered  approach  should  guide 
+discussions about Artificial Intelligence and its implementation and impacts.
+b) Key Commitment/ Pledges/ Actions:
+•The development and use of Artificial Intelligence should be undergone through  
+multiple governance debates, within multistakeholder dialogues, in order to expand  
+views on its study, development, deployment, and risks’ mitigation, and also caring  
+for the protection of fundamental rights;
+•Such  dialogues  should  consider  permanent  review  of  capacities  needed  to  
+overcome challenges that may arise;
+Global Digital Compact – Inputs from CGI.br 6
+
+The Brazilian Internet Steering Committee – CGI.br
+Inputs to the Global Digital Compact
+•Concepts such as ethics, privacy and security by design, as well as consistent  
+transparency and accountability mechanisms should be considered as core values  
+to  embed  within  Artificial  Intelligence  development,  standardization,  and  
+governance.
+7. Digital commons as a global public good
+a) Core Principles:
+•The Internet and the digital ecosystem should continue to be framed as a key tool to  
+foster global social development;
+•The use of the Internet must be driven by the principles of freedom of expression,  
+individual privacy and the respect for human rights, recognizing them as essential to  
+the preservation of a fair and democratic society;
+•Internet governance must be exercised in a transparent, multilateral and democratic  
+manner, with the participation of the various sectors of society, thereby preserving  
+and encouraging its character as a collective creation;
+•Cultural diversity must be respected and preserved and its expression must be  
+stimulated, without the imposition of beliefs, customs or values;
+•Internet governance must promote the continuous development and widespread  
+dissemination of new technologies and models for  access and use;
+•Filtering or traffic privileges must meet ethical and technical criteria only, excluding  
+any  political,  commercial,  religious  and  cultural  factors  or  any  other  form  of  
+discrimination or preferential treatment;
+•All action taken against illicit activity on the network must be aimed at those directly  
+responsible for such activities,  and not at the means of access and transport,  
+always upholding the fundamental principles of freedom, privacy and the respect for  
+human rights;
+•Digital inclusion and access to inform ation / knowledge should be regarded as  
+important tools for social development, in a human-centered perspective;
+•Open  Internet  and  open  interoperable  digital  technologies  are  key  to  the  
+development of multiple and globally available services and goods.
+b) Key Commitment/ Pledges/ Actions:
+•Internet, ICTs, and digital infrastructure and tools in general should be in the center  
+of multistakeholder discussions when it comes to advance processes such as the  
+2030 Agenda for sustainable development and the SDGs;
+•Digital platforms may actively take measures to tackle recognized illicit content on  
+the Internet, taking into account their capabilities and responsibilities within the  
+scope of their networks and activities, as well as business models.
+8. Other areas
+Global Digital Compact – Inputs from CGI.br 7
+
+The Brazilian Internet Steering Committee – CGI.br
+Inputs to the Global Digital Compact
+Specify area: Global cooperation and relationship with other processes and arenas
+a) Core Principles:
+•There is a need to reinforce open and inclusive multistakeholder dialogues to build  
+solutions for digital cooperation , following the success of the history of Internet  
+governance as a multistakeholder ecosystem;
+•The Internet Governance Forum  – IGF is a valuable forum for the discussion of  
+“public policy issues related to key elements of Internet governance in order to  
+foster  the  sustainability,  robustness,  security,  stability  and  development  of  the  
+Internet”,  as  mandated  by  the  Tunis  Agenda,  promoting  cooperation  among  
+different actors in a global perspective. The IGF could have a more prominent role  
+in the follow-up of the GDC, for instance on the continuous assessment of results  
+obtained by countries and other relevant stakeholders regarding the GDC goals.  
+The National and Regional IGFs would build a formidable network of resources to  
+help in this task;
+•The Internet Governance Forum may play the role of a convergent arena for digital  
+policy debates, being the main space for the discussions over the Global Digital  
+Compact debate and implementation. To enable that, the IGF may benefit from  
+some improvements, many already envisioned by previous processes such as the  
+High-Level Panel on Digital Cooperation and the IGF Plus model. For example, the  
+IGF  could  be  framed  as  a  permanent  digital  cooperation  arena,  thus  needing  
+adequate human and financial resources. Other than that, it is very important to  
+improve inclusion and diversity in the participation of stakeholders, professional  
+fundraising structures to enable long-term planning, and more tangible outcomes  
+such  as  policy-oriented  activities  that  can  deliver  policy  recommendations  and  
+concrete solutions for digital issues worldwide. Additionally, as discussed during the  
+digital cooperation debates, the IGF needs more channels for cooperation and new  
+modes for disclosing information, as well as outreach and engagement practices  
+able to reach diverse stakeholders, including policy and decision-makers;
+•We believe in the importance of the Internet Governance Forum to achieve better  
+understanding between stakeholders in order to advance Internet governance and  
+the digital agenda worldwide. It is of utmost importance to preserve and evolve this  
+arena in terms of improving policy discussions, recommendations, and also means  
+for governments and other stakeholders to be able to collect ideas, information and  
+concrete solutions for the most pressing digital issues of our time, especially in light  
+of recent discussions and processes such as Digital Cooperation and the Global  
+Digital Compact, or even the WSIS+20 Review. The IGF is a very important space  
+for stakeholders to meet and discuss in order to advance these and other important  
+digital agendas. We hope the Global Digital Compact take that into account;
+•We believe in the importance of having a stable, trustworthy and resilient digital  
+infrastructure, technically backed by a strong network of experts and a diversity of  
+Global Digital Compact – Inputs from CGI.br 8
+
+The Brazilian Internet Steering Committee – CGI.br
+Inputs to the Global Digital Compact
+stakeholders as means for advancing and strengthening the local ecosystems, and  
+also  to  protect  human  rights  and  fulfill  demands  of  human  and  technological  
+resources;
+•Environment,  sustainability  and  climate  change  are  rising  hot  topics  within  the  
+global digital agenda. There is a need to foster a digital technologies' ecosystem to  
+contribute to the mitigation of climate change effects and to pursue the Sustainable  
+Development Goals agenda;
+•In line with the Brazilian Computer Society – SBC's Manifesto “Digital Technologies  
+for the Environment ”2, we believe in the need to foster national robust digital policies  
+and  a  coordinated  global  strategy  in  order  to  tackle  climate  challenge  and  to  
+contribute  to  the  green  economy  transition,  grounded  on  a  transdisciplinary  
+approach to define a new vision of knowledge above disciplines.
+b) Key Commitment/ Pledges/ Actions:
+•The Global Digital Compact and other related initiatives should always build upon  
+previous very well succeeded processes, such as WSIS, NETmundial, the HLPDC,  
+and others, and have the Internet Governan ce Forum as a key arena for debate  
+and cooperation;
+•It is also of utmost importance that the GDC moves along with discussions for the  
+WSIS+20 review, in order to avoid overlapping and contradictions between them;
+•The Internet Governance ecosystem and the digital environment in a broader sense  
+follow a fast changing dynamic, and it is difficult to keep all their elements at the  
+same pace. It is necessary to find a balance between, from one side, demands for  
+participation, representation and diversity, and from the other side, rules, norms,  
+work plans and clear terms of reference that help the model to reach the goals  
+sought by the ongoing proposed process;
+•The WSIS process and all its elements are very important for the developments in  
+the digital ecosystem as a whole, being a core guidance for thinking of how to  
+improve cooperation in the field. In this sense, the second review of the WSIS  
+mandate is also approaching quickly and it is very important for us to reflect on how  
+to appropriately advance the work done since the last review in 2015. One of the  
+great concerns is how to fit in this review a reflection upon emerging technologies  
+that  grew  in  relevance  since  the  last  review.  WSIS  mandate  should  take  into  
+account the digital ecosystem and its developments, also framing that in a scalable  
+way that can fit brand-new issues and challenges, and also means for cooperation.  
+The Global Digital Compact could be tailored to also reflect these issues observed  
+in the WSIS process , in a way that ensures full consistency between the two 
+processes and do not preempt  the WSIS+20 review ;
+•Ever expanding digital technologies and services also have a significant impact on  
+climate change and the sustainability agenda, and this must be addressed on a  
+holistic basis. It is also very important to recognize that, despite improvements in  
+2Available at https://sol.sbc.org.br/livros/index.php/sbc/catalog/book/104  
+Global Digital Compact – Inputs from CGI.br 9
+
+The Brazilian Internet Steering Committee – CGI.br
+Inputs to the Global Digital Compact
+recent years, large digital divides still exist, both within and between countries, and  
+also between men and women. We note that divides are often closely linked to  
+education levels and existing inequalities, and we recognize that further divides can  
+emerge  in  the  future  because  of  new  technologies,  thus  slowing  sustainable  
+development for all. Billions of citizens in the world still need to be connected, and  
+many more to have a meaningful and affordable connection to the Internet and to  
+digital  technologies  and  services.  We  must  also  recognize  that  differences  in  
+individuals’ capabilities to both use and create content and services on the Internet  
+represent a knowledge divide that perpetuates inequality;
+•We must not forget the main characteristic that led the evolution of the Internet  
+throughout its history: innovation. The Internet and the digital ecosystem must be  
+preserved  and  leveraged  as  a  key  catalyst  for  innovation  as  the  basis  for  
+development,  addressing  past,  present,  and  future  concerns  and  technologies,  
+emerging technologies such as artificial intelligence and so on, in order to extract  
+benefits for people and drive the development of our world with responsibility,  
+fairness, equality, and opportunities for all. All these aspects are also key when  
+looking  ahead  to  the  Global  Digital  Compact,  but  also  to  bear  in  mind  the  
+importance  of  the  Digital  Agenda  to  fulfill  the  Sustainable  Development  Goals  
+(SDGs);
+•Seconding the proposals from the above mentioned Manifesto from the Brazilian  
+Computer Society – SBC, we highlight the importance of defining robust digital  
+technology policies that enable openness, integrity and interoperability of systems,  
+as well as greater global cooperation on the field;
+•Creation,  promotion  and  expansion  of  funding  initiatives  for  Research  and  
+Development in digital technologies for the environment is key to advance the  
+Sustainable Development Goals, including with relation to emerging technologies  
+such as Artificial Intelligence.
+Global Digital Compact – Inputs from CGI.br 10

@@ -1,0 +1,124 @@
+Latin American and Caribbean Internet Governance Forum:
+contribution to the Global Digital Compact
+April 2023
+About the Latin American and Caribbean Internet Governance Forum (LACIGF) 
+The first regional IGF in Latin America (LACIGF) was established in 2008 and has been reconvening
+annually ever since. To the date, it has had 15 editions – of which the past three were held online due to the
+restrictions  imposed  by  the  COVID-19  pandemic.  A  Program  Committee,  established  to  guarantee
+multistakeholder representation in the development of the agenda, decision making regarding the Forum and
+to ensure its continuity and sustainability, coordinates the LACIGF. More information can be found at:
+https://lacigf.org/en/.
+Considering the discussions around a Global Digital Compact (GDC) within the United Nations and the
+opportunity to advance on its topics also within the global Internet Governance Forum (IGF),   the 15th
+edition of the LACIGF in 2022 advanced Latin American and Caribbean messages on key themes established
+by the GDC in the first stake of after its initiation. A public consultation was held to define the four top
+priority issues for the LAC IGF community and the was set agenda according the prioritized themes: connect
+all people to the internet, including all schools; apply human rights online; protect data; and  accountability
+criteria for discrimination and misleading content.
+About this submission
+This document was systematized by the Association for Progressive Communications (APC) and Derechos
+Digitales as civil society members  of the LAC IGF Program Committee. It is based on LACIGF15 session
+reports and captures key messages from the Latin American and Caribbean internet governance community
+gathered at LACIGF15 from October 25 to 26th,, 2022.1 More than 400 people from 20 different countries
+from the region, distributed among the different sectors that are part of the digital ecosystem and with
+equitable representation by gender, participated in this event.
+Although they do not reflect a regional consultation or voting process, they identify potential consensuses
+within stakeholders participating in each session. Its goal is to offer input not only to the GDC public
+consultation process, but to inform future regional conversations on internet and digital governance. 
+We highlight that consolidated multistakeholder internet governance processes like the ones behind this
+submission,  should  continue  to  be  prioritized  and  reinforced  as  we  advance  towards  a  Global  Digital
+Compact. 
+1October 24th was a Day 0 of the event dedicated to sessions led and organized by Youth LACIGF and the National
+and  Regional  IGFs  operating  in  Latin  America  and  the  Caribbean.  The  full  program  can  be  found  at:
+https://lacigf.org/en/lacigf-15/
+Submission by theme
+I. Connect all people to the internet, including all schools
+Informed by session 1 of the LACIGF15 “ Towards meaningful connectivity for all: challenges, lessons and
+proposals from Latin America and the Caribbean”
+Introduction:  While the COVID-19 pandemic demonstrated the relevance of the internet for exercising
+fundamental rights, especially in extraordinary and emergency situations, it also exposed the persistent
+inequalities behind internet access figures in Latin America and the Caribbean. From an identification of
+challenges and lessons learned at the regional level, this section seeks to propose pathways to advance
+connectivity for all.
+Summarized key messages from LACIGF15 participants:
+States should development connectivity policies in line with their human rights obligations;
+Connectivity  should  be  understood  within  a  meaningful  access  framework  that  includes
+commitments  to,  at  least,  strengthen  digital  literacy,  overcome  digital  divides,  implement
+accessibility measures and promote multilingualism; 
+Regulatory frameworks should allow different connectivity models to exist and flourish in order to
+facilitate affordable connectivity to all (multi-model, multi-operator, multi-solution approach) and
+contribute to digital inclusion;
+States should promote an enabling environment that includes the adoption of special measures to
+allow facilitated access to licenses and spectrum, particularly to local and community providers,
+without unnecessary constraints;
+States should create incentives for investments in connectivity including tax reduction for specific
+actors and areas; 
+Spectrum management should be considered a development tool and not a revenue generating
+mechanism;
+Universal service funds should be redesigned considering a gender and diversity perspective that
+prioritizes the connection of the most marginalized groups.
+II. Apply human rights online
+Informed by session 2 of the LACIGF15  “Protecting human rights in digital environments in Latin America
+and the Caribbean”
+Introduction: The internet enables the exercise of a wide set of fundamental rights. As States increasingly
+move towards the digitalization of essential services, internet access becomes key for the rights to education,
+protest,  health,  work  and  many  others.  On  the  other  hand,  censorship,  surveillance,  online  violence  -
+especially towards historically excluded groups- and the lack of relevant content in local languages, for
+example, present obstacles for the exercise of those rights. This section seeks to advance proposals towards
+the protection of human rights in digital environments and build from lessons learned in Latin America and
+the Caribbean. 
+Summarized key messages from LACIGF15 participants:
+The digitalization of public services should take into account possible human rights impacts from the
+design phase;
+A human  rights  framework  should  inform  the  acquisition  and  implementation  of  surveillance
+technologies, including biometric and facial recognition technologies;
+Special attention should be given to the protection and promotion of encryption;
+Audits and human rights impact assessments should be implemented within the life cycle of artificial
+intelligence technologies to prevent algorithmic biases; 
+Coordinated efforts between the different stakeholders should be made to strengthen the respect and
+enforcement  of  human  rights  standards  and  commitments,  particularly  in  Latin  American  and
+Caribbean countries;
+One-size-fits-all  regulatory  solutions  should  be  avoided  and  effective  and  sustained  regional
+participation  should  be  promoted  within  global  decision-making  processes  pertaining  digital
+technologies and internet policies. 
+III. Protect data
+Informed by session 3 of the LACIGF15 “ Myths and realities around data protection in Latin America and
+the Caribbean”
+Introduction: Countries in Latin America and the Caribbean have made significant progress in the area of
+data protection in recent years. In the world's most unequal region, data protection frameworks are a key tool
+for promoting individual autonomy, informational self-determination while also representing an opportunity
+for economic development in the globalized digital economy. However, the consolidation of regulatory
+frameworks is accompanied by implementation challenges not only institutionally, but also technically, along
+with the need to seek the appropriate balance with other fundamental rights. This section seeks to develop
+proposals on data protection considering the challenges, good practices and lessons learned within Latin
+America and the Caribbean.
+Summarized key messages from LACIGF15 participants:
+The increase of multistakeholder and regional participation in global data protection and internet
+governance discussions should be a priority in order to advance guidelines towards context-sensitive
+and multicultural approaches;
+It is necessary to make progress in the implementation of existing standards and legislation regarding
+data protection regulation, and develop concrete guidelines and mechanisms to balance fundamental
+rights, including the protection of personal data; 
+Mechanisms, standards and guidelines should be developed to support the necessary autonomy and
+specialized capacities of data protection authorities at national levels;
+It  is  necessary  to  recognize  the  role  of  data  protection  authorities  to  advance  cooperation
+mechanisms, collaborate with different stakeholders, and develop capacities within data protection
+ecosystems.  
+IV . Accountability criteria for discrimination and misleading content
+Informed by session 4 of the LACIGF15 “ Who oversees the Internet? Responsibility for misleading content:
+reflections from Latin America and the Caribbean”
+Introduction:  Countries  in  Latin  America  and  the  Caribbean  are  increasingly  affected  by  online
+disinformation: electoral or democratic decision processes have been affected by misleading content that take
+over public debate, often distancing it from key discussions of public interest. The LAC region is not exempt
+from orchestrated  disinformation  actions by public and corporate  actors,  or  by  organized hate  groups,
+oriented to discredit or silent certain voices or speech, and currently represent one of the main challenges in
+the  internet  governance  ecosystem.  This  section  presents  proposals  built  from  the  regional  experience
+regarding the fight against misleading online content and behavior from a multistakeholder approach.
+Summarized key messages from LACIGF15 participants:
+Both, State and private sectors, should adhere to strict accountability and human rights standards and
+collaboration among all stakeholders have to be considered when it comes to responding to the
+threats and impacts of disinformation;
+There is a need to recognize and address the gendered impact of disinformation;
+It  is  necessary  to  advance  prevention  mechanisms,  in  particular  digital  literacy,  with  concrete
+commitments and actions at different levels and considering approaches that are sensitive to the
+various forms of inequalities that affect people when it comes to their online experience.

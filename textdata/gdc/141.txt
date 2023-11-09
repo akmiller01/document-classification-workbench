@@ -1,0 +1,2333 @@
+ 
+ Global Digital Comp act: 
+Consulta tion for the  
+Americas  
+Mexico City   
+February  15-16, 2023  
+   
+ 
+
+ 
+ 
+Content  
+Introduction  ................................ ................................ ................................ ................................ ...................  1 
+1. Welcoming Remarks. High -level intervention  ................................ ................................ .......................  5 
+1.1 Martha Delgado, Undersecretary for  Multilateral Affairs and Human Rights of Mexico  ..............  5 
+1.2 John Reyels, Head of the Cyber Department at the German Foreign Affairs Office  .....................  6 
+1.3 Amandeep Singh Gill, United Nations Secretary -General's Envoy on Technology  ........................  7 
+2. Universal Connectivity  ................................ ................................ ................................ ...........................  9 
+2.1 Open discussion. How can digital public goods move forward in the 2030 Agenda and its SDGs 
+in the Americas?  ................................ ................................ ................................ ................................ ........  9 
+2.1.1  Yawri Carr, ITU Youth  ................................ ................................ ................................ .............  9 
+2.1.2  Ricardo Torres, Digital Public Goods Alliance  ................................ ................................ ........  9 
+2.1.3  Questions and answer s ................................ ................................ ................................ ........  10 
+2.2 Panel. Universal Connectivity  ................................ ................................ ................................ ...... 14 
+2.2.1  Salma Jalife, representative of Centro México Digital  ................................ .........................  14 
+2.2.2  Gustavo Siles, representative of Bolivian Private University  ................................ ...............  14 
+2.2.3  Lizania Pérez, representative of Technical Telecommunications Regional Commission 
+(COMTELCA)  ................................ ................................ ................................ ................................ ........  15 
+2.2.4  Elon Parkinson, representative of Digicel Jamaica  ................................ ..............................  16 
+2.3 Work session. Universal Connectivity  ................................ ................................ ..........................  17 
+2.3.1  Discussion based on guiding questions  ................................ ................................ ...............  17 
+2.3.2  Key takeaways from the u niversal connectivity workshop  ................................ ..................  20 
+3. Digital Inclusion  ................................ ................................ ................................ ................................ ... 23 
+3.1 Panel. Digital Inclusion 1. Equity in Access  ................................ ................................ ..................  23 
+3.1.1  Matías Dodel, representative of the Cath olic University of Uruguay  ................................ .. 23 
+3.1.2  Federica Tortorella, Internet Ambassador  ................................ ................................ ...........  23 
+3.1.3  Denis Pocasangre, Secretary of State for Innovation of the Presidency of El Salvador  .......  24 
+3.2 Work Session. Digital inclusion 1. Equity in access  ................................ ................................ ...... 24 
+3.2.1  Discussion based on guiding questions  ................................ ................................ ...............  24 
+3.2.2  Key takeaways from the work session Digital Inclusion 1. Equity in access  ........................  28 
+3.3 Panel. Digital Inclusion 2. Empowerment and active participation in the digital transformation
+ 30 
+3.3.1  Joana Varon, Coding Rights.  ................................ ................................ ................................  30 
+3.3.2  Valeria Betancourt, Association for the Progress of Communications  ................................  30 
+3.3.3  Alejandro Patiño, CEPAL  ................................ ................................ ................................ ...... 31 
+3.3.4  Javier López Casarín, President of the Science, Technology and Innovation Commission of 
+the Mexican Chamber of Deputies  ................................ ................................ ................................ ...... 32 
+3.3.5  Questions and answers to Javier López Casarín.  ................................ ................................ . 33 
+3.4 Working session. Empowerment and active participation in the digital transformation  ...........  34 
+ 
+ 3.4.1  Discussion based on guiding questions  ................................ ................................ ...............  34 
+3.4.2  Key takeaways from the workshop empowerment an d active participation in digital 
+transformation  ................................ ................................ ................................ ................................ ..... 38 
+4. Open space on topics not addressed in the agenda  ................................ ................................ ...........  40 
+5. Conclusion and perspectives towards the future  ................................ ................................ ................  41 
+5.1 Amandeep Singh Gill, United Nations Secretary -General's Envoy on Technology.  .....................  41 
+Annex. Universal Connectivity  ................................ ................................ ................................ .....................  42 
+Equity in Access  ................................ ................................ ................................ ................................ ...........  45 
+Empowerment and Participation  ................................ ................................ ................................ ................  48 
+ 
+ 
+ 
+1 Introduction  
+The present document gathers the results of the Americas Consultations of the Global Digital Pact, held in 
+Mexico City on February 15th and 16th, 2023.  
+The first section includes the welcoming remarks from representat ives of the convening institutions.  
+The following sections collect the results of three thematic sessions held with members of civil society, 
+governments and multilateral organizations, the private sector and academia in the Americas  on the 
+following topics:  
+Universal connectivity  
+Digital inclusion 1. Equity in access  
+Digital inclusion 2. Empowerment and active participation in the digital transformation  
+In these, a synthesis of the panels with the participation of experts is first pr esented, and of the subsequent 
+session of questions. Secondly, the contributions collected in the participatory discussion work groups based 
+on guiding questions are presented. Thirdly, a summary of the conclusions of each thematic session is 
+presented.  
+Finally, the report contains a brief section of Conclusion and perspectives towards the future.  
+ 
+ 
+ 
+ 
+ 
+1 Executive Summary: Main Recommendations and Findings of the Americas Consultation  
+▪ Internet access, as a multidimensional factor, must be understood from a human rights 
+perspective.  
+o Some level and access to  connectivity must be guaranteed to all people.  
+o Individuals and groups must have their right of access recognized and be  capable of self -
+determination in the design, deployment, use and management of connectivity 
+infrastructure.  
+o Connectivity must remain a right and not an imposition. The option of not connecting 
+(staying offline)  must be respected and digitization policies must always consider 
+accessible analogue alternatives for access to essential services and the exercise of 
+fundamental rights.  
+▪ Connectivity conditions should be fostered through public, private, community initiatives or multi -
+sector alliances, including co llective access alternatives, for example with the promotion of 
+community centers for connectivity and community networks , or the use of public facilities. Such 
+policies  must be adopted from a perspective of complementarity.  In this sense, it is necessary to:  
+o Reform  political, normative , and regulatory environments to enable the  coexistence of 
+different connectivity provision models, including community networks, and cooperatives 
+for the provision of internet services.  
+o Develop  complementary approaches for private, public and community solutions, based 
+on public -private partnerships.  
+o Implement complementary approaches and models  that surpass the idea of connectivity 
+based on commercial terms,  fostering  connectivity through public, private, community 
+initiatives, and multi -sector alliances , where it is not attractive from a market perspective . 
+o Promote the creation and maintenance of free  and subsidized  community infrastructure 
+networks derived from publi c-private alliances.  
+o Governments should encourage public policies and regulations that are flexible to 
+stimulate innovative business models, competition , and complementarity of formats to 
+foster connectivity.  
+▪ There is a need to d ismantle a logic of access to connectivity as an end in and of itself and avoid 
+the reductionist imperative of connecting the unconnected; in this sense we must shift the focus 
+on how to connect and what to connect for.  
+o It is essential to generate political, financial, regulatory , and technical conditions to 
+increase individual and collective autonomy for the entire population in terms of access.  
+o It is necessary to generate mechanisms for an efficient use of universal service funds from 
+programs with specific goals and with the objec tive of reducing  structural inequality gaps  
+that affect communities in more vulnerable conditions.  
+o Women  and girls , LGBTQIA+ people, rural  populations , Afro -American , and indigenous 
+communities , among others, must be able to participate in the decision -mak ing process 
+on digital inclusion programs and connectivity policies, as well as in monitoring their 
+implementation.  
+▪ The Global Digital Compact should generate practical guidelines for States to implement digital 
+inclusion policies aligned with human rights  and sustainable development standards based on the 
+establishment of mechanisms that facilitate the exchange of experiences and cooperation.  
+ 
+ o The Global Digital Compact should focus on sharing best practices, definitions and 
+concepts based on pre -existing c onstructions in specialized forums and other spaces for 
+multilateral and multisectoral construction to encourage the creation of effective policies  
+and avoid duplication.  
+o The Global Digital Compact can make a fundamental contribution in recognizing the mai n 
+structural factors that hinder the universalization of access to connectivity, such as 
+coverage and costs.  
+o The Global Digital Compact represents an important opportunity to advance agreements 
+that allow countries at a structural disadvantage or without a ccess to fiber optics, to 
+engage in infrastructure sharin g among other  countries in their region and facilitate access 
+to connectivity infrastructure.  
+o It is necessary to encourage the creation of agreements to share digital infrastructure 
+between countries and establish  the corresponding  audit and control mechanisms.  
+o The Global Digital Compact should contribute to creating measures, standards or 
+indicators that can be taken as existing indicators and guides to promote agreements and 
+conventions bet ween countries.  
+o It is necessary to deepen our understanding of some of the main challenges  in the Digital 
+Transformation, such as : (1) the potential contributions of large companies through market 
+schemes , (2) collaborations between the public and private sectors and (3) technology as 
+an innovati ve tool to increase connectivity.  
+▪ It is necessary to take advantage of connectivity for the Disaster Risk Reduction  in the context of 
+climate change, as well as prevention of fires and deforestation.  
+▪ Digital  Access must be understood from a comprehensive perspective that considers the concept 
+of meaningful  access.  This includes the following dimensions:  
+o The development and use of digital  skills should be strengthened, focusing on overcoming 
+gaps,  such as the accessibility for people with different abilities and speakers of different 
+languages (multilingualism).  
+o Digital a ccess should not be an isolated  policy issue. Instead, it needs to be closely related 
+to educational, health, housing and sanitation policies,  and other rights enjoyed by all 
+communities. It is necessary to address issues of digital education and the development of 
+soft skills in all the actors involved, in order for them to be able to insert themselves and 
+benefit from the digital transformatio n. 
+o Efforts to address digital inclusion should be tailored to different target audience s (i.e., 
+rural communities, people with different abilities, native communities, farmers , etc.) and 
+must establish differentiated and clear objectives and strategies to guarantee digital 
+inclusion considering their needs under a human rights protection approach.  
+▪ It is necessary to adopt an intersectional gender perspective in the formulation of policies on 
+access and connectivity.  
+▪ In the formulation of policies on technol ogies and digital inclusion, it is essential  to guarantee the 
+participation of each community from the ir own  perspective,  recognizing their needs from a 
+systemic approach and considering their differences and particularities.  
+o Equity access policies must be  built  on evidence -based diagnoses and determine shared 
+responsibilities so that each sector can design complementary actions that integrate the 
+criteria  of transparency and accountability.  
+ 
+ o It is necessary to consider challenges and issues  at the subnation al level in order to 
+integrate all actors  in achiev ing universal connectivity.  
+▪ We must review the existing frameworks regarding exceptions and limitations for content 
+protected by copyright to encourage the production of content at the local level, obtain greater 
+plurality and diversity in the digital environment and move towards meaningful access.  
+▪ Considerations on socio -environmental justice, climate change and energy transition must be part 
+of the formulation of policies on connectivity and digita l inclusion seeking to promote responsible 
+and sustainable initiatives.  
+▪ The design and implementation of digital policies and strategies at the local, national, regional , 
+and global level must incorporate human rights standards by design ; and establish for mal 
+mechanisms for multisectoral participation, including at the monitoring, follow -up, and evaluation 
+stages.  
+▪ State digitization and digital transformation policies, as well as initiatives for the implementation 
+of automated or semi -automated systems for the public function, must be widely discussed with 
+society since  the design stage.  
+o The diversity of social realities must be considered in the design of consultation 
+mechanisms, including consultations focused on organized groups; online and offline 
+consul tations, among other formats that seek to guarantee concrete actions to enhance 
+the participation of groups that have historically been excluded from decision -making on 
+technology decisions.  
+o It is necessary to generate mechanisms to prevent and mitigate ri sks in the development 
+and implementation of systems —especially from the public sector —, including prior 
+analysis of the impact on human rights, prior to the adoption and deployment of 
+digitization policies.  
+▪ It is necessary to establish responsibility mec hanisms for technology companies in relation to 
+potential abuses and violations of human rights , as well as potential adverse effects on the 
+environment through  policies on transparency and accountability  
+▪ Digital governance must be strengthened, establishi ng mechanisms for multi -stakeholder 
+participation and coordination in the design and implementation of digital policies. It is also 
+necessary to establish a structure at the national level that maintains leadership in the 
+implementation of said policies, w ith the necessary resources and tools that allow  for the follow -
+up and monitoring of the implementation of said policies.  
+o The State must create coordination mechanisms  with experts in the field , and  international 
+cooperation to generate technological soluti ons. It is necessary to generate value and train 
+civil and public servants in the development soft skills and form multidisciplinary teams.  
+o It is necessary to integrate digital identity and interoperability in the development of digital 
+services needed by  rural communities, native population s, people with disabilities , and 
+communities  in vulnerable conditions,  
+▪ The United Nations System must establish mechanisms to support the implementation of the 
+Global Digital Compact from the multis takeholder  perspecti ve of Internet governance. The model 
+of the 2030 Agenda could serve as an inspiration to organize cooperation and coordination 
+between UN agencies and commissions in  its preparation and implementation.  
+▪ Sustainable and responsibl e digitization and mechanisms to account for the environmental impacts 
+of technologies should be promoted, for example in relation to electronic waste.
+ 
+ Day 1, Februrary 15 2023  
+ 
+ 
+ 
+
+ 
+ 
+ 
+5 1. Welcoming Remarks . High -level intervention   
+1.1 Martha Delgado, Undersecretary for  Multilateral Affairs and Human Rights of 
+Mexico  
+Mrs. Martha Delgado welcomed all the participants and expressed Mexico’s pride in hosting  one of 
+the three regional consultations aimed at producing tangible recommendations to be included in the 
+Global Digital Compact , which will be adopted at the Summit of the Future in 2024  
+She stated that, as revealed by the COVID -19 pandemic, digital tech nologies have become essential 
+for the achievement of fundamental rights, including the right to health, education, access to 
+information and privacy, among many others, as well as for the achievement of the 2030 Agenda.  
+However, they also represent new ri sks to address the deep inequality gaps, as well as to sustain 
+sustainable development models around the world.  
+She exemplified that, with half of the world's population disconnected, talking about sustainable 
+development will only be valid if these people  have access to the digital tools that characterize the 
+lives of the other half of the population.  
+In this sense, Undersecretary Delgado affirmed that the Global Digital Comp act is an opportunity to 
+outline among all of us the path we want to follow in the  use of these new technologies, as well as to 
+redefine the social contract and revitalize international cooperation.  
+It is a time to catalyze new opportunities and mitigate the challenges before us. For this reason, we 
+believe that its core axis must be to achieve universal, meaningful , and accessible connectivity, which 
+places the well -being of the human being at the center of all policies.  In that sense, she reiterated that 
+Mexico  is deeply committed to participating in this global effort.  
+She highlight ed that for a long time a model has prevailed that conceives science and technology as 
+being asocial; and that technological progress is intrinsically good and that,  it thus  automatically 
+promotes well -being and prosperity.  This approach needs to be correc ted. 
+Given this scenario, Mexico considers it essential that technology and science maintain their link with 
+the complex social system to which they belong and guarantee that they are at the service of humanity.  
+She expressed that w e must understand this c hallenge as one that no country or government can 
+effectively address alone.  
+In this sense, Mexico considers that a Global Digital Compact must incorporate a variety of 
+perspectives that jointly respond to the opportunities and challenges of the present.  Governments, 
+technology companies, academic institutions, international organizations, as well as civil society from 
+all regions, contexts and stages of development must be present in the conversation.  
+In view of the foregoing, Ms. Delgado expressed that th ese Consultations for the Americas are crucial, 
+as they bring together experts from a wide variety of sectors to participate in informed discussions 
+that will lead to lasting partnerships.  
+From Mexico's multilateral perspective, it is with this approach ba sed on collective conversations that 
+we will achieve an open and free society, as well as a secure digital future for all people.  
+ 
+ 
+ 6 In conclusion, she reaffirmed that, for Mexico, digital inclusion is crucial for sustainable development 
+and access to fundame ntal rights.  
+She extended an invitation to work together to address the digital divide, so that all people have access 
+to the necessary technologies that allow them to fully participate in society with dignity, both online 
+and offline, and thus build a future that is inc lusive, equitable and sustainable and we forge a just 
+digital transformation, leaving no one behind .  
+1.2 John Reyels, Head  of the Cybe r Department at the German  Foreign Affairs Office  
+For his part, Mr. John Reyels began his welcome speech by thanking the aut horities present and the 
+government of Mexico for hosting the consultations for the Americas. He thanked the experts from 
+the different countries of Latin America and the Caribbean, who met to prepare the consultations for 
+the Global Digital Compact . He es pecially appreciated the presence of the United Nations Secretary -
+General 's Envoy  on Technology, Amandeep Singh Gill, for his commitment during the regional 
+consultation process.  
+He noted that the consultations seek to create a space to design and collect the opinions of different 
+sectors and digital experts from the Americas.  
+On the Germ an side, he  highlighted two aspects:  
+Firstly. Why is the digital compact  important?  
+The speaker  mentioned that the Global Digital Compact  is a decisive opportunity for the international 
+community to agree on principles for the appropriate use, development, and regulation of digital 
+technologies. He also noted that the terms of use for these technologies have been established 
+according to co mmercial, technological, and scientific interests. Reyels emphasized that the Global 
+Digital Compact  currently represents an important pathway to align the interests of communities and 
+nation -states around the world and to broaden the vision of digital tec hnologies as part of an 
+international dialogue involving commercial actors and representatives from the fields of science and 
+technology.  
+He emphasized that the Global Digital Compact  will be a key document that will align the use of 
+digital technologies i n the future, position ing human development and prosperity at the center. He 
+reiterated that the Global Digital Compact  has the potential to become a central universal document 
+as a reference for the sustainable and responsible use of digital technologies.  
+Secondly . What does Germany hope to achieve through its support of these regional consultations?  
+He answered  that the German government aims to mobilize as many interested actors as possible. He 
+spoke on behalf of communities, interest groups, and regions, emphasizing that their hopes, 
+expectations, and needs should be considered in the negotiations for the Global Digital Compact  to 
+make it a meaningful document for all. He mentioned that the process of the Global Digital Compact  
+will be negotiated by the co -facilitator countries Sweden and Rwanda, through their representatives, 
+who he also welcomed.  
+On the other hand, he e mphasized that since the Global Digital Compact  is a document negotiated 
+between countries, it is very important to disseminate it as widely as possible and unite the voices of 
+stakeholders to share their point of views. He also noted  the importance of doc umenting comments 
+and agreements in a concrete way, summarizing the main points and conclusions, with the aim of 
+ 
+ 
+ 7 achieving a sustainable process through a report that compiles all the required information to be 
+shared with the United Nations.  
+As a represen tative of the German government, he has emphasized that they are particularly proud of 
+what has been achieved through the consultations. This is because the approach with the host 
+countries of the regional consultations (Mexico, Kenya, and India) has been leveraged to bring 
+together the largest number of regional experts in one place and to bring the results of this 
+multisectoral dialogue to the attention of the United Nations community through dedicated events 
+that will take place in Geneva and New York in  2023.  
+The importance of working together to train digital diplomats from around the world to successfully 
+negotiate the pact was also highlighted, as well as exploring different implementation methods with 
+stakeholders, which will be an essential part of the development and application of the pact.  
+To conclude  his welcome speech, he mentioned the creation of a tool that will give continuity  to the 
+exchange on the topics discussed in the consultat ions. This will be done through a digital platform  
+that will be presented at the end of the Americas consultation and officially launched at the end of 
+February. It was said that this platform was created by the GIZ team as part of their support in 
+organizing th e regional consultations.  
+1.3 Amandeep Singh Gill, United Nations Secretary -General's Envoy on Technology  
+Mr. Amandeep Singh Gill began his welcome messages by thanking the Mexican government for 
+their role in hosting the Americas consultation and the German government for their commitment to 
+organizing the series of regional consultations. He also expressed  his gratitude to the representatives 
+of Sweden and Rwanda, who serve as co -facilitators of the regional consultations. He was also seen 
+appreciative of the experts who participated in the multisectoral dialogue, both as participants and as 
+part of the imple mentation.  
+As his first point , he emphasized that  from the perspective of the United Nations, the diversity of 
+interested actors gathered  is very encouraging in the process of the Global Digital Compact . Likewise, 
+he highlighted the importance of multilateral cooperation by the United Nations  as digital 
+technologies are having an impact on the whole of society . Thus, it is crucial to have a universal forum 
+to discuss these issues across different sectors and develop a shared vision of principles an d priorities  
+in order  to take action for the future.  
+The speaker addressed that historically,  society has progressed through different waves of 
+technological revolution, leaving behind the governance of these technologies until a negative event 
+sparks inte rest in creating better governance conditions to benefit society in a politically and 
+economically sustainable manner. Therefore, society finds itself at the right moment within this latest 
+technological wave to generate new opportunities for governance.  
+Similarly,  it was argued that the paradigms of Information and Communication Technologies have 
+been implemented since the 1970s and even when  they have brought about several  benefits to the 
+world,  currently  new paradigms such as data application and artificial intelligence have emerged as 
+key and central topics.  
+As a second point, it was mentioned that the Global Digital Compact  process provides a space for all 
+voices and topics, taking a comprehensive approach that is not limited to certain aspects. As an 
+example, the speaker mentioned that within the  UN Secretary -General ’s Common Agenda report  and 
+various speeches, there has been a wide diversity of topics  related to digitization and digital 
+ 
+ 
+ 8 technologies  such as the digital divide  and connectivity , but also a great deal referring to  data 
+generation, human rights, fighting  discrimination, prevention  of internet fragmentation, among 
+others.  
+To conclude his intervention , Mr. Amandeep Singh Gill stressed  that while  the Global Digital 
+Compact  process is currently in the consultation phase , where different ideas and points of view  will 
+be heard,  comments can be shared through the website , which will be available until April  30th. 
+Finally, the participants were encoura ged to remain active and engaged during the discussion in order 
+to generate a unique opportunity for positive exchange and knowledge -building within the 
+construction of the Global Digital Compact.  
+ 
+ 
+ 
+ 
+ 
+9 2. Universal Co nnectivity   
+2.1 Open discussion . How can digital public goods move forward in the 2030 Agenda 
+and its SDGs in the Americas?   
+The dialogue began with representatives from academia and civil society, addressing the following 
+guiding points:  
+• Understanding the implications for human rights of open -source goods.  
+• The role of digital public goods in advancing digital social policy.  
+• Financial models for the development and maintenance of digital public goods.  
+• How can digital public goods  be leveraged to accelerate progress towards the SDGs in the 
+Americas?  
+2.1.1 Yawri Carr,  ITU Youth   
+During her presentation, M s. Carr addressed digital public goods as a key driver for advancing the 
+Sustainable Development Goal s. These refer to all types of technologies available to everyone, as and 
+when required, with the particular  feature that they do not compete with each other. In the field of 
+healthcare,  she indicated that open  code  applications  have  been  developed which h ave made 
+significant contributions during the Covid -19 pandemic.  
+In the field of education, it was noted that nowadays  various open data models can be utilized by 
+those interested in learning new topics or sharing knowledge. Similar as for innovation, it is important 
+to be able to count  on collaborative models where technologies are available at any time. It was then 
+affirmed that such public digital goods contribute to transparency, the eradication of corruption, and 
+the generation of democratic and inclusive governance models and systems.  
+2.1.2 Ricardo Torres, Digital Public Goods Alliance   
+Mr. Torres agreed that  a general unde rstanding of the meaning of digital public goods  is needed . He 
+maintained  that the concept should go beyond software, data, and open -source code  as they have 
+certain characteristics that contribute to achieving the SDGs. Standards , open content, applicatio ns, 
+artificial intelligence models, among others  can also be considered as digital  public goods.  Regarding 
+the creation of value of digital  public  goods, especially in developing countries, he mentioned the 
+concrete example of Sri Lanka in the health sector.  
+At the onset of the pandemic in 2020, Sri Lanka was able to create an application to monitor Covid -
+19 cases within just two days after detectin g its first positive case in the country. Said application was 
+implemented in hospitals, airports, and other public places through out the country. This case stood 
+out for the speed  respo nse in face of the  crisis, but also for being created using the open -source 
+software DHIS2, a digital public good and information system for the health sector used in over 73 
+countries. Being a completely public application, it provided an opportunity for 38 other countries to 
+take up the application and adapt their own vers ions.  
+Additionally, t he speaker  reflected  that there are privacy, security, and interoperability implications 
+for creating value in all sectors of society, but said that by being open technologies , they can help 
+mitigate the risk of blocking or hacking of basic services such as healthcare. In fact, it  was pointed 
+ 
+ 
+ 10 out that critical digital infrastructure can be made more resilient to cyber -attacks by using digital 
+public goods. The implementation of these types of digital solutions can be come essential, 
+particularly in Latin American countries  aiming  to build a more inclusive and resilient digital 
+infrastructure that benefits citizens, the public sector, and the private sector.  
+2.1.3 Questions and answers   
+• How to make use of digital public goods to regain “lost ground” during the pandemi c? 
+Mr. Torres mentioned that the pandemic had two very important effects, first in the delay of 
+digitization and the lag of the communities, but also increased the perception of need for how the 
+digital infrastructure must b e a service for all.  
+He mentioned that the real needs must be considered starting from the communities where they come 
+from; therefore, governments and organizations must be the ones who develop the infrastructure from 
+the internal perspectives of each cou ntry, taking into account the considerations adapted to the 
+regional and global context.  
+Miss Carr added that the pandemic was a possibility for the development and opening of data and 
+public information for many countries, especially since in some countri es there were no laws 
+applicable to access to public information. Such scenario became a call for decision makers, policy 
+makers and other stakeholders to address not only the global emergency of the pandemic, but also 
+other regional and global challenges.  
+Comment  1: In the Americas region there is no clear conceptualization or definition of digital public 
+goods, nor are there many related public policy instruments. It is due to determine the state of the art 
+in the region, generate clear concepts, incentiv es, and impulses  for the creation of these  concepts . 
+Mr. Torres mentioned that the Alliance  for Digital Public Goods is focused on enabling and finding 
+projects developed in different countries, but an important step is that both leaders and local 
+governments can focus and join the efforts that exist at the regional level.  
+Comment  2: One of the main concerns is how to relate the issue of digital public goods to public 
+infrastructure. In digital identity systems, technology is usually thought of  as the goal, representing  
+the solution that is sought to be adapted to the existing problems. From a digital identity systems  
+perspective, it is necessary to create public policies focused on human rights and on the results,  they 
+seek to achieve with it. Consider ing that the goal is not limited  to implement ing technology , but aims 
+to foster  communication and connection for society, and the open, secure and inclusive internet is the 
+tool to achieve this, but not the objective.  
+• How to stimulate the developme nt of digital public goods and encourage  the cooperation of 
+the production  sector and the private sector to participate in these processes ? 
+Ms. Carr mentioned that it is crucial  to have the consent of the communities in order to  adopt these 
+types of techno logies or technological processes  and that d ifferent cultures and ways of life must be 
+respected. Regarding the new sources of investment, she emphasized that the objective of digital 
+public goods is to encourage  collaborative participation , not to impose them on society, respecting 
+opinions while being equitable.  
+Free software or digital public goods should serve to reduce the existing digital gap in the different 
+countries of the region, for which it is necessary to have a catalog of existin g digital public goods that 
+ 
+ 
+ 11 are easy to understand, access, and download, not only by the authorities of the countries concerned 
+but also by the production  and private sector.  
+• How to integrate a human rights perspective from the outset in public goods, tak ing into 
+consideration a gender and a culturally  appropriate perspective? How to ensure that States 
+develop justice and accountability mechanisms from the outset?  
+Mr. Torres mentioned that one of the main challenges in the identification of digital public  goods are 
+the characteristics and principles with which they can be developed, especially considering the 
+possibility that they may be implemented under schemes that are not beneficial to society. Therefore, 
+a more detailed construction from a human right s perspective is missing, as well as identifying the 
+components that should be integrated into standards and principles.  
+Ms. Carr identified as a priority to determine what are the needs of the population and to which 
+communities it refers; within the inte rnational perspective, it is imperative to recognize digital human 
+rights within international spaces such as the Inter -American Court of Human Rights, since so far 
+there are legal gaps in the currently existing arguments and jurisprudence . Also, she  empha sized Latin 
+America’s clear  lag regarding the implementation of digital rights  when compared to other regions 
+such as Europe.  
+• What specific adjustments do you consider  necessary within the ecosystem of internet 
+governance and global digital cooperation? Starting from  a perspective that considers and 
+governs the Internet as a public good .  
+Comment  1: The discussion on digital public goods can also lead, within the compliance of national 
+legislation, to the  generation of barriers and disadvantages compared to goods created by the private 
+sector. There are coordinates that can serve  as a guide for digital public goods to compete as a fraction 
+of what is produced digitally in the private sector, such as scale,  identity management, barriers, cross -
+border effects , and memory. When establishing a national perspective on the creation of digital public 
+goods, considering the example of the Internet as a public good, it should be  taken into account not 
+to hand over the management exclusively to the government, as this is generally what happens with 
+public goods. Therefore, it is necessary to reestablish a strategy focused on digital public goods that 
+includes public policies, as well as  cooperation w ith communities and compet ition with privatized 
+goods . 
+While revisiting the topic of internet as a public good and its governance, Ms. Carr mentioned that 
+today there are new generations  who are interested in internet governance, but that at  the same time,  
+many human rights or basic issues cannot be exercised without the internet. She commented that it is 
+important to start questioning society's current conceptions of the needs of some communities. In 
+addition, she reiterated that States should provide free  and good quality access to the Internet  so that 
+communities can decide whether to use it or not.  
+As an example of the results derived from the Covid -19 pandemic, she mentioned that currently there 
+are digital native companies, but there are also companies  focused on other products that have faced 
+difficulties in their transition to digitization , leading to other challenges within companies.  
+She stressed that education and awareness about  the challenges and opportunities of new technologies 
+should be key to governance, especially Internet governance. She also reiterated the importance of 
+recommendations within consultations, as there is not always representation from large companies or 
+local governments, which limits the influence of action.  
+ 
+ 
+ 12 • Returning to human rights and public goods, within the free software movement, many large 
+technology companies have appropriated the logic of this concept. Beyond thinking about the 
+implications of huma n rights and digital public goods, how to limit the debate from becoming 
+a form of colonial expropriation of knowledge?  
+Comment  1: The principles related to autonomy and technology development are key to think about 
+the SDGs, but also for the digital futur e that we want to build. A human rights perspective must be 
+included in the development of technologies, and beyond the technical vision s, technologies should 
+consider principles of autonomy  and self-determination of people and affected communities; 
+specif ically in the management of knowledge and data (privacy, security and interoperability), for the 
+advancement of technologies. It is necessary to think about how to prevent appropriation and 
+improper extraction of knowledge that benefit s the communities tha t are affected.  
+Regarding governance, it is necessary to strengthen mechanisms for multisectoral participation in 
+political discussions and implementation of policies of any kind  as well as  mechanisms for effective 
+social participation of the affected communities. Likewise, it is crucial to reflect on what kind of 
+technologies and policies are intended to be promote d, to reach a viable reality . 
+Countries must develop public policies focused on guaranteeing the dignity of the person in the digital 
+environment and unrestricted respect for human rights, not only as an abstract desire but with 
+objectives and tangible facts that allow generating evidence that the design, development, and 
+implementation of digital public goods are adapted to the needs of society and contributes to closing 
+the existing digital divide in the countries of the region.  
+Comment  2: The nations' cybersecurity strategies do not include a definition of digital public goods; 
+at least 18 strategies in the region have no mention of this. Partly, this is due to the lack of definition 
+of the concept. Here is an opportunity to advance a definition at the national level, which is easier 
+when a strategy is developed with diffe rent interested stakeholders.  
+There are two ways in which the region is pursuing the issue of digitalization and cybersecurity, there 
+is a polarization between the two issues, as many countries choose to develop a digital agenda and 
+some more develop digital strategies; both compete fo r the prioritization of public goods and 
+resources, rather than being complementary. Ideally, both tools should define the term digital public 
+goods and coordinate different common initiatives, from their own perspectives. Cybersecurity is 
+important to add ress issues of human rights, inclusion, etc., if this is not considered, it will be difficult 
+to talk about inclusiveness . 
+• Access to digital public goods is important for inclusiveness, but is there any consideration 
+for the establishment of cyber diplomac y, policies and/or laws? As many developing countries 
+do not have this availability to protect certain sectors or people develop these solutions.  
+Mr. Torres mentioned that there is a disadvantage especially for smaller and developing countries to 
+implement  this type of digital solutions and that the focus should be on funds that can be gathered by 
+multilateral companies to build this capacity within the countries. He mentioned the debate that 
+currently exists about Chat GPT (artificial intelligence chatbot prototype), whether it is a public good 
+or not, because of the controversy of definition that exists within the general consensus. The model 
+is open, as anyone can use it, although it does not have the legal conditions to be modified by third 
+parties.  
+He added that this can be applied to other technological tools or social networks, where there is self -
+determination of the technologies. Whereas other open platforms have adopted certain federated 
+ 
+ 
+ 13 models, where there is no single company or geographic locatio n where it is implemented, but it is 
+distributed and jointly preserved by multiple people or stakeholders.  
+Ms. Carr took up the issue of colonialism and added that it also happens within digital technologies, 
+so it is essential that influential and/or econ omically powerful people, as well as vulnerable, 
+traditionally marginalized or discriminated populations, are aware of the rights and risks that these 
+technologies entail when using them. In relation to the question on ways to protect the developers of 
+these open technologies, he mentioned that these people can introduce a different model of program 
+development, work with models of responsible research and innovation, or include possible risks; he 
+also mentioned that an evaluation and analysis of people's r eaction and interaction with the 
+technologies will be necessary. Considering the involvement of experts in technological ethics to help 
+cover the lack of laws in the development of new technologies for responsible development, he 
+pointed out that it is not  easy to develop new technologies for responsible development.  
+He highlighted that it is not easy to develop general concepts, but by including the technical concept 
+with the incorporation of human rights and privacy issues, it will allow a better understa nding of the 
+limitations and fundamental issues, so that people can better understand these concepts and apply 
+them in a responsible manner and avoid them being used for practices with negative impacts on 
+society . 
+Comment  1: In relation to the definition of digital public goods, it is important to distinguish between 
+the terminologies of public and common  as well as to distinguish commons and public goods, as this 
+distinction defines what the governance of goods implies. Digital commons, like no n-digital 
+commons, are threatened by a dismantling of life -sustaining possibilities and are inappropriate, yet 
+there is a global trend to appropriate the commons and the life of communities; there are also public 
+interest technologies and critical infrastr uctures that are also under threat. We are invited to reflect on 
+the way in which discussions are framed, since human rights and public -private relations, which are 
+considered a  threat to these goods, can be left aside .  
+Comment  2: Regarding the distinctio n of digital goods, it usually implies that the government is the 
+provider of public services, such as security, education, health, etc.; however, in the Latin American 
+region, the public sector is not well known for its efficiency. Given the relevance of digital goods, the 
+definition of public goods should imply the relevance of the role of government, albeit not the best 
+way, especially because of the difference in terminology. The commons are considered a governance 
+model, which can control access to inf rastructure or community networks as it is commonly referred 
+to in the Americas region.  
+There are digital assets created and managed by specific communities which may involve partnership 
+with government, though government should not be the core actor with this responsibility. We know 
+that government management is not the best or most efficient option, especially  since government 
+terms change from time to time and the lack of follow -up falls on the management of the government 
+in office.  
+Another element of t he digital ecosystem to be explored in the digital public domains, are the 
+communities that build community networks connected through their own infrastructure, including 
+the management and expansion of the connection, do not need the patronage of the gove rnment or 
+the private sector and do not compete with each other; but complement the limits of their approaches, 
+which is known as market areas of numbers, since the market can fail and so can the government .  
+ 
+ 
+ 14 2.2 Panel. Universal Con nectivity   
+The dialogue began with the intervention of civil society, academia, the public sector , and the private 
+sector to share the different perspectives on universal connectivity based on  the sectors they represent . 
+2.2.1 Salma Jalife, representative of Centro México Digi tal  
+Ms. Jalife began her speech by remarking that the world is currently in a phase of digital revolution, 
+which has marked different aspects of daily life, as well as economic interaction in terms of 
+competitiveness, productivity,  and economic growth of countries. It has also marked the reduction of 
+inequalities and the success in facing any crisis. She mentioned that universal connectivity is a very 
+important factor and by understanding it as access to broadband and internet, either these 
+terminologies  or the technology we should adopt might change in the future.  
+She considered that universal connectivity is the basis for introducing society in all these aspects, but 
+we must know the details of the gaps that prevent universal connectivity. She pointed ou t that most 
+countries do not measure these gaps because they ignore how to do it and where they want to go. She 
+used as an example the State Digital Development Index, the aim of which is to turn it into a regional 
+initiative to gradually test it, to know the gaps that exist and to understand why there is no connectivity 
+in all the identified gaps. She added that there is a close relationship between digital development and 
+universal connectivity with phenomena such as social backwardness and per capita inc ome. From a 
+human rights point of view, she stressed the need to empower individuals and communities to decide 
+whether or not to connect and utilize these technologies . 
+She mentioned  three findings about the index : 
+• Affordability: connectivity in urban area s without the possibility of paying for continuous 
+(monthly) service, and the affordability gap for the devices used that allow access to all 
+Internet tools.  
+• Reach of technology service providers: there is a gap towards rural and semi -urban areas 
+where the re is no affordability. This service is covered by small operators; in Mexico there is 
+a concession of social or community coverage, these seek to be simplified and can be 
+considered as an alternative to reduce the universal connectivity gap.  
+• MSMEs: in the region, unlike the successful coverage percentages, in the case of MSMEs for 
+the digital use of companies, only 20% are using digital technologies; because they do not 
+have the ability to easily access digitization schemes and enhance their economic 
+development.  
+2.2.2 Gustavo Siles, representative of Bolivian Private University   
+From the academic and technical perspective, Mr. Siles commented that there are wireless solutions 
+such as the 5G network, that although it is starting in Latin America within rural areas, the question 
+arises whether it will really bring the same effect as in the northern hemisphere (in rural areas). 
+Nevertheless, he highlighted the importance of reflecting on the promotion of affordable and 
+accessible digital connectivity throu gh "bottom -up" strategies with the support of different sectors as 
+the best way to bring connectivity to new users in underserved areas, and to propose solutions based 
+on their requirements/needs.  
+He stressed the importance of empowering users to make conn ectivity affordable and with the 
+cooperation of multiple parties to reduce costs. In terms of business models, he mentioned that 
+ 
+ 
+ 15 currently within the technology entrepreneurship ecosystem, companies are not always focused on 
+the rural environment. The new generations must be encouraged to reflect on the spaces for 
+improvement through entrepreneurship, jointly developed with the communities and their 
+requirements.  
+From the regulatory field, he mentioned that governments have to open up to cooperation with ne w 
+actors to provide connectivity to disadvantaged areas. Within the current model in most Latin 
+American countries, they do not have cooperation with other actors and now community connectivity 
+providers will be a fundamental part of closing the gaps.  
+Finally, to close his speech, he mentioned the universal service funds, sharing as an example the case 
+of Bolivia, where they concentrate on projects executed by a single company. Although the 
+participation of large players is considered, there is no opportuni ty for bidding and it becomes a 
+monopoly, coupled with a lack of accountability. He considered that funds should be distributed in a 
+better way, integrating community operators.  
+2.2.3 Lizania Pérez , representative  of Technical Telecommunications Regional Commiss ion 
+(COMTELCA)   
+Ms. Perez begun by reflecting on the hope that the entire world population will be connected, given 
+that the pandemic has shown how digitalization and connectivity have helped the production  sectors 
+to continue their operations by making us e of technologies. As a main concern, she pointed out the 
+risks that exist online for all users that resulted from the lack of awareness of the risks and 
+vulnerabilities when making use of the cyberspace.  
+She agreed that there are multiple barriers for connectivity, affordability  being  one of the main ones. 
+She noted that the cost to the operator and the price to the end user are generally considered, however, 
+consideration should be given to ways in which it can be made cheaper for both the operator and  the 
+end user.  
+She proposed that having traffic exchange points in the countries could be a way for operators to 
+exchange traffic locally without having to make use of international connectivity, which translates 
+into lower costs for the operator and a low er internet price.  
+Furthermore, she highlighted the tax burden that telecommunication services signify, using as an 
+example the case of the Dominican Republic. Specifically, that taxes applied to telecommunication 
+services, with 2% going to contribute to t he development of these services, but there is also a 10% 
+tax on consumption. Although she pointed out that this tax is applied to luxury goods, different 
+international forums have acknowledged that the Internet is not a luxury good, but rather a basic 
+service that should thus be more accessible for the development of the sector.  
+As a consequence, she agreed on the need to create measurements and analysis within each country 
+to decide how to generate alliances with the actors that determine the application of taxes in order to 
+generate a fiscal scheme where telecommunications are not affected.  
+On one hand, in terms of accessibility, she reiterated the importance of promoting the deployment of 
+infrastructure, especially as it is not profitable for operators t o deploy infrastructure in remote 
+communities due to the low existing demand. Nonetheless, she commented that there is not much 
+knowledge and analysis on remote communities and their social, demographic, and other needs. On 
+ 
+ 
+ 16 the other hand, regarding digita l literacy rates, she pointed out that currently the focus should be on 
+the productive use of technologies as the first general objective . 
+Lastly, with respect to the device barrier, she stressed the importance of the homologation of import 
+schemes that al low the entry of low -cost devices to cover the needs of rural areas. As an integral 
+strategy, regulatory bodies must be considered, along with customs requirements, import permits and 
+homologation. She proposed that the regulatory model should promote not barriers, but openness. As 
+an example, she cited the successful case of the regulatory sandbox in Colombia, which aims to enable 
+suppliers to test technologies, exempting them from regulatory compliance for a certain period of 
+time. If it proves to be func tional, it can be implemented directly influencing the supply and demand 
+of services . 
+2.2.4 Elon Parkinson , representative of Digicel Jamaica   
+Mr. Parkinson mentioned that from a private sector perspective, an understanding between the 
+different actors is sought within three main interests : 
+• Accessibility of technologies, going through the revolutions up to the current implementation 
+of 5G. The goal is to ensure universal  access so that people can use the service as a social and 
+economic good.  
+• Affordability through deals between parties interested in the acquisition of technology and 
+its deployment . 
+• Availability, as affected by access and entry  barriers.  
+For reflection, he posed the question: what are the real barriers? He shared that currently, more than 
+62% of internet traffic in the Caribbean is done on behalf of large technology companies such as 
+Facebook, Google, Apple, among others; a large amount of  money is paid to carry their internet traffic 
+in order to constantly improve network capabilities to carry the traffic that large companies want to 
+establish within the countries.  
+He explained that in the last five years, Digicel has invested more than $442 million USD  to improve 
+broadband capabilities in terms of LTE and firewall in the Caribbean.  When large companies use 
+approximately 62% of the capacity, it translates into more than $230 million USD  invested for the 
+purpose of carrying their internet tr affic. The audience was reminded that these large technology 
+companies do not pay taxes in the countries in which they operate and are hardly subject to 
+compliance with the laws in such countries, in addition to the fact that they do not generate 
+investmen t. 
+He highlighted that when one has digital services established in another country and selling content 
+to the countries receiving this technology, along with the pressure from consumers and businesses to 
+increase bandwidth, technology providers must inves t in additional services. Compared to the 
+services that customers pay for and the amount of investment by companies, it is not enough and 
+constraints for acquisitions arise.  
+He assured that there is a limit to what can be achieved with costs, especially be cause in the future 
+large companies are going to generate new products and it will be the technology providers that will 
+be under pressure to introduce and bring them closer to consumers, such as is the case with 5G 
+technology. And when asked about how to get that return on investment, he shared that in 2015 the 
+internet value chain was $3.3 trillion  USD , while in 2022 it was $7 trillion  USD . He mentioned that 
+ 
+ 
+ 17 over the last few years, technology companies have been in a structural decline in the returns the y get 
+from the value chain with a 12% decline.  
+Thereafter, as a reflection on the regulatory issue, he highlighted the issue of how to ensure that large 
+companies pay their fair share of taxes. Legislators can establish limits on the amount of data and 
+traffic with which they operate, to determine the percentage they have to pay either at the operational 
+or capital expenditure level. This is done to ensure that local networks continue to advance as they 
+are also affected by the high demand for bandwidth.  
+Finally, he reiterated the importance of empowering regulators to understand what the challenges are 
+and how to face them. To this end, all stakeholders must be included in the discussion so that 
+connectivity becomes universal (government, private sector, ac ademia , and technology giants).  
+2.3 Work session. Universal Connectivity  
+2.3.1 Discussion  based on guiding questions   
+• In what ways can we make  universal digital connectivity affordable and accessible for 
+vulnerable communities , such as  hard-to-reach rural areas?  
+• What business models can be fostered to create market conditions for investing in universal 
+digital connectivity?  
+• What can we do to promote favorable regulatory environments for smaller -scale Internet 
+providers, alongside local and regional connecti vity assessments?  
+ 
+Group  1 
+Promote affordable 
+and accessible  
+connectivity for 
+vulnerable 
+communities  Business models  Regulatory 
+environments  
+ Other relevant 
+aspects  
+─ Qualified, productive, 
+and participatory 
+connectivity . 
+─ GDC  should generate 
+measures, standards, 
+indicators, and 
+guidelines . 
+(20-30 ITU’S  Agenda ) 
+─ Consider the Internet as 
+a digital public good. A 
+minimum level of 
+universal connectivity 
+should be provided 
+without creating first 
+and second -class users . 
+─ Autonomy of 
+connected individuals . ─ Generate a favorable 
+context for businesses 
+from rural communities.  
+─ Affordable and 
+accessible connectivity .  
+─ Offer services that 
+reduce service costs and 
+guarantee the neutrality 
+and impartiality of the 
+network . 
+─ Pricing -focused 
+standards . 
+─ Universal access funds 
+with citizen ov ersight or 
+audit .  
+─ Conditional transfer 
+programs . ─ Protection of small 
+business Internet 
+Service Providers 
+(ISPs).  
+─ Open data and metrics 
+for competitiveness.  
+─ Regulatory changes. 
+Regulatory innovation 
+and virtual education.  
+─ Policies that prioritize 
+the promotion and 
+adoption of open 
+technologies.  
+─ Regulatory innovation 
+in order to promote 
+connectivity.  
+─ Regulatory sandbox: 
+testing technology to 
+see if it works before ─ Agreements 
+amongst  countries 
+and provinces to 
+share digital 
+infrastructure.  
+─ GDC would play 
+an important role 
+in promoting these 
+agreements to 
+share infrastructure 
+between countries.  
+─ Develop and 
+operate a 
+mechanism for 
+monitoring 
+agreements.  
+─ Promote 
+community 
+networks.  
+ 
+ 
+ 18 ─ Traffic exchange 
+points . 
+─ Susceptibility on the 
+company’s part . 
+─ Standards of 
+responsibility and 
+ethics for free Wi -Fi. 
+─ Free Wi -Fi access in 
+public spaces  
+─ Recognition of the 
+coverage -based model, 
+its costs,  and its 
+limitations  
+─ Enabling conditions : 
+─  Supporting the 
+realization of people's 
+right to address their 
+own connectivity needs 
+=> self-determine how 
+to design, deploy, use, 
+and manage 
+connectivity 
+infrastructure.  
+─ Facilitating multi -
+stakeholder co -
+responsibility : - 
+State/Government - 
+Companies - 
+NGOs/Civil Society - 
+Citizens  
+─ GDC could request that 
+countries clarify their 
+commitments, develop 
+a roadmap, and 
+accountability 
+measures  
+─ Reuse of infrastructure  
+─ Review solidarity fund 
+mechanisms  ─ Leverage and ways to 
+encourage private 
+investment. State task . 
+─ Promote that free 
+infrastructure is 
+subsidized . 
+─ Encourage 
+complementary models 
+to the traditional one 
+such as cooperatives and 
+community  models  
+─ Develop collaboration in 
+digital companies with 
+complementary models 
+such as community 
+initiatives and 
+cooperatives .  
+─ Generate political, 
+financial, regulatory and 
+technical conditions to 
+increase individual and 
+collective autonomy   
+─ Incentives for 
+communi ty networks  
+─ Sustainable emerging 
+technologies eg. satellite  
+─ Circular economy in 
+community  networks  
+─ Public / private 
+partnerships  
+─ Community networks  
+─ Cooperative models  launching it on the 
+market.  
+─ The State must ensure 
+a minimum access as 
+in the case of water. 
+State as guarantor of 
+access.  
+─ Consider the 
+recommendations of 
+ITU-CITEL for the 
+development of 
+comm unity networks  
+─ Reform the political, 
+normative, regulatory 
+environments so that 
+they allow the  
+coexistence  of 
+different connectivity 
+provision models, 
+including community 
+networks.  
+─ Empower the last mile  
+─ Better regulation of 
+universal service 
+funds  
+─ Suitable  regulatory 
+environment: 
+flexibility and 
+asymmetry (different 
+rules for different 
+contexts), updated 
+indications => how to 
+regulate, what type of 
+connectivity?   
+─ Shared and open 
+infrastructure, 
+(regulatory instrument 
+available to the 
+operator)  ─ Connectivity for 
+citizen monitoring 
+processes of 
+environmental 
+issues. Ex., a 
+monitoring  and 
+containment 
+program in the 
+Amazon with the 
+participation of the 
+8 Amazon 
+countries.  
+─ Early warning 
+systems on the 
+effects of climate 
+change, such as 
+droughts, 
+hurri canes, frosts, 
+storms, etc.  
+─ Evaluation and 
+attention to climate 
+change issues.  
+─ Area not served.  
+─ Right to 
+connection of 
+people on the 
+move in the region 
+(migrants and 
+refugees)  
+─ Multi -stakeholder 
+participation  
+─ Spaces for 
+dialogue with civil 
+society, academia , 
+government and 
+the private sector  
+─ Zero emissions: 
+electronic waste. 
+Opportunities and 
+challenges of ICT 
+Climate Change  
+Key messages   
+─ Connectivity for risk prevention.  
+─ It is necessary to focus  that the  GDC can help identify factors that hinder connectivity . 
+─ Need for flexible regulatory frameworks.  
+ 
+ 
+ 
+ 19 Group 2  
+Promote affordable 
+and accessible 
+connectivity for 
+vulnerable 
+communities  Business models  Regulatory 
+emnvironments  Other relevant 
+aspects  
+─ Important to foster  
+multisectoral alliances, 
+use of existing public 
+facilities.  
+─ Consider human rights, 
+share best practices, 
+space for multilateral 
+discussion for effective 
+policies.  
+─ Need of d igital literacy  
+starting from  better 
+mapping of 
+communit y’s needs.  
+─ Minorities and 
+vulnerable sectors must 
+have the right to 
+participate . 
+─ Accessibility: use 
+industry and state 
+actions, promotion, and 
+incentive.  ─ Greater wealth through 
+business models with 
+incentives.  
+─ How digital humanis m 
+is built, adaptability of 
+the digital society.  
+─ Encourage free 
+competition hand in 
+hand with the 
+population.  
+─ Competition and 
+complementarity of 
+formats to promote 
+connectivity.  
+─ The State should assume 
+an integrating role, with 
+a modular approach.  
+─ The option of not 
+connecting must be 
+respected and 
+digitization policies 
+must always consider 
+accessible analogue 
+alternatives for access to 
+essential services and for 
+the exercise of 
+fundamental rights . 
+─ Address linguistic 
+diversity to promote 
+multicultura lism.  ─ Governments should 
+encourage flexible 
+public policies and 
+regulations.  
+─ State must be 
+financed.  
+─ Governments must 
+establish innovative 
+public policies and 
+promote connectivity.  
+─ Taking advantage of 
+forums or 
+consultations such as 
+the GDC and other 
+const ruction spaces to 
+promote the creation 
+of inclusive policies.  
+─ Exchange and 
+strengthening of 
+regulatory 
+frameworks that 
+promote new business 
+models . 
+─  ─ Three great 
+challenges:  
+1. Financing  
+2. Alliances  
+3. Technology 
+keeps  innovat ing 
+in new and 
+affordable 
+products. 
+─ 4. Deployment of 
+technological 
+infrastructure in 
+rural areas.  
+─ 5.Endowment of 
+resources, given 
+that public 
+resources are 
+scarce.  
+─ 6. Manage loans 
+from cooperating 
+sources.  
+─ 7. Have trained 
+personnel for the 
+deployment of 
+connectivity in 
+rural areas.  
+Key messages  
+─ Flexible regulatory policies to promote connectivity.  
+─ Efficient  use of universal service funds.  
+─ Broad participation in  program  design, monitoring , and supervision . 
+ 
+  
+ 
+ 
+ 20 2.3.2 Key takeaways from the universal connectivity workshop  
+Group  1 
+• Dismantle a logic of access to connectivity as an end in itself and avoid the reductionist 
+imperative of connecting the unconnected; it is necessary to create a focus on how to connect 
+and what to connect for.  
+• The Global Digital Compact  can make a fundamental contribution to recognizing the main 
+factors that hinder the universalization of access to connectivity in the region, such as 
+coverage and costs  
+• The need to reform political, regulatory, and normative environments that allow for th e 
+coexistence of different connectivity provisioning models, including community networks 
+and internet service cooperatives, was raised.  
+• Complementary approaches for private, public, and community solutions, based on public -
+private partnerships . 
+• The need t o reinforce the right of individuals and groups at both the individual and collective 
+levels to address their own needs for access, connectivity, and self -determination in the 
+design, deployment, use, and management of connectivity infrastructure . 
+• It is es sential to create political, financial, regulatory, and technical conditions to increase 
+individual and collective autonomy for the entire population.  
+• Creation of flexible regulatory frameworks that enable the possibility of coexistence of 
+different models . 
+• Recognition of the tendency to assume connectivity as a human right.  
+• Global Digital Compact  as an important opportunity to advance in agreements that allow 
+countries at a structural disadvantage or without access to fiber optic s to enable infrastructure 
+sharing among  countries in the region and facilitate access to connectivity infrastructure.  
+• Internet as a digital public good with a guaranteed minimum of connectivity, without creating 
+first and second level users.  
+• Create measures, standards or indicators  that could be taken from existing indicators and 
+guides to promote the agreements and conventions that the countries would assume.  
+• As business models, the creation of community networks of free, subsidized infrastructures 
+derived from public -private allia nces was proposed.  
+• Create a regulatory sandbox and provide audit and oversight mechanisms.  
+• Promote the creation of agreements to share digital infrastructure amongst  countries.  
+• As “other aspects”, environmental impacts and climate change were addressed wit h zero 
+emission targets.  
+Group  2 
+• Address connectivity and internet access from a human rights perspective.  
+• Implement complementary approaches, beyond a connectivity idea based on commercial 
+terms, integrating connectivity through public, private, community , and multisectoral 
+partnership initiatives.  
+• The importance of the Global Digital Compact  being able to base itself on processes and 
+contents previously developed by expert organizations and multisectoral spaces.  
+ 
+ 
+ 21 • Efficient use of universal service funds, based on programs with specific goals and with the 
+objective of reducing gaps between rural, urban, gender communiti es, and other gaps 
+identified in the region.  
+• Broad social participation in the elaboration of public policies, accompaniment, supervision , 
+and monitoring of programs/policies.  
+• Internet as a right and not as an imposition; respect the decision of the commun ities to connect 
+or not  and consider alternative forms of participation in different  formats.  
+• Flexible regulatory policies that can mobilize different formats and businesses, in order to 
+promote connectivity.  
+• Propose ways in which technology companies can contribute to universalization funds.  
+• Different visions pointed to the need to reduce regulation and others more focused on 
+increasing private subsidies.  
+• Identify that large technology companies financially cooperate with universal service fu nds 
+to bring connectivity to marginalized communities.  
+• Integrate the internet as a right for all, in the digital age, the lack of access to information or 
+non-digitized government services impacts human dignity.  
+• Acknowledge access to digital services as a human right.  
+• Identification of main challenges: (1) how large companies can contribute to financing the 
+market, (2) collaborations between the public and private sectors and (3) technology as an 
+innovation tool to increase connectivity.  
+• A connectivity syst em focused on the prevention of risks and disasters in the context of 
+climate change. Including protection of connectivity infrastructure.  
+• Improve connectivity for the prevention of deforestation in Amazonian countries, linked to 
+climate change.  
+• Public pol icies must have objectives, indicators, and annual goals to close gaps in universal 
+connectivity and monitor compliance. They must be part of a State Policy or a National 
+Agreement so that when there are changes in governments, continuity in the process of  
+closing digital gaps is guaranteed.  
+Complementary  comments in the plenary session  
+• The Global  Digital Comp act represents an opportunity to build upon what has already been 
+accomplished and not allow  any setbacks.  
+• Recommendation to use the resolutions and recommendations of CITEL as a reference for 
+community network initiatives and to recognize the role that alternative models play in 
+providing connectivity.  
+• Regarding  monitoring mechanisms, there have been discussions about establishing 
+mech anisms to track the agreements reached in the context of the  debate, considering that the 
+final debate will take place between governments and civil society will not have access to 
+monitoring the final text. Therefore, transparency mechanisms should be cre ated for the 
+development of the text that will ultimately be approved by the Member States of the United 
+Nations.  
+• Universal coverage funds are small amounts of money distributed through politicized 
+mechanisms. Most  funds are distributed according to decis ions made by a committee on 
+contributions obtained from taxes, which are mandatory for telecommunications operators  
+ 
+ 
+ 22 and who are in turn paid to establish networks in areas without coverage. Expectations are 
+very high, compared to the 1% coverage of a count ry. If a global fund is being considered, it 
+is essential  to consider how it will be converted into investments within each country and 
+what the decision -making mechanisms will be since it is a government mechanism that needs 
+to be converted into a multi-stakeholder  one. 
+• While the Global Digital Comp act is a multilateral framework, there should be a motivating 
+factor for governments to establish a multi -stakeholder model in each country. Although the 
+compact is signed by government representatives, there sh ould also be an invitation to build 
+multi -sectoral groups or an entity where issues are discussed with the participation of civil 
+society, academia, the private sector, technical community, and government, including the 
+large technology companies that curr ently dominate the digital world. This will make it 
+possible to monitor the agreements of the pact in each country.  
+• The best approach is to generate social participation, ideally from different interested parties, 
+to identify the best ways to use universal  funds to subsidize it. There are also innovative ways, 
+such as how the economy ministries have programs for innovative startups and financing for 
+rural areas to create new businesses, but do not consider micro -telecommunications 
+operators, which can be co nsidered absurd, because it is very easy to implement. 
+Governments can easily do this because they have the resources to do so, it is about making 
+good use of what is already available, as there is a lot of money allocated for this.  
+• The importance of build ing upon previous progress is exemplified by the Digital Agenda for 
+Latin America  and the Caribb ean, which originated as a process to articulate the region's 
+positions towards the World Summit on the Information Society. This initiative was 
+subsequently continued through an intergovernmental meeting to discuss digital policy 
+priorities, providing a solid  foundation for regional consultations on the Global Digital 
+Comp act. A key issue in achieving universal access to digital services is the capacity for 
+leadership and political decision -making, as much of the necessary reorganization is closely 
+tied to the  actions of governments.  
+ 
+ 
+ 
+ 
+23 3. Digital Inclusion   
+3.1 Panel. Digital Inclusion  1. Equity in Access  
+The dialogue began with the presentation of representatives of academia, civil society and the public 
+sector . 
+3.1.1 Matías Dodel , representative of the Catholic University of Urugua y 
+Mr. Dodel began his intervention with a visual explanation using three graphs to understand the 
+inequalities in digital access better. The first graph reflects the 1962 theory called "Theory of diffusion  
+of innovations," which reflects how technological innovations are adopted in society with an "S" 
+shape. In the beginning, a small number of people (the "early adopters") adopt the technology (about 
+10%), continuing with the majority (40%), a late majority  (approximately 40%), and lastly, the 
+laggards (another 10%). However, this way of understanding access growth has a significant bias: it 
+assumes that everyone starts from the same starting point and has the same opportunities.  
+Here on , the speaker mention ed the following graphs as two possible solutions. The first one is based 
+on the theory of normalization, which suggests that technologies become cheaper over time and 
+although they start from different contexts, they always reach the same benefits. The se cond graph 
+reflects the theory of stratification, where one starts later in the adoption of technologies and thus 
+inequalities increase due to the lag  it represents.  
+He also spoke about how to conceive access and gave the example of considering it as a py ramid with 
+different levels of inequality. From where we are born and from the more traditional socioeconomic 
+class, material access is determined (devices and Internet), the next level could be considered skills 
+and uses, and the last one is the internet "for what" or the purpose of use of the Internet (the tangible 
+results). These levels of access are sequential and not dichotomous. Access is complex, and benefits 
+accumulate, but negative factors, such as poor quality, can lead to less potential or divers ity in use. 
+This, in turn, reduces the potential impacts of the Internet on people's lives.  
+The last slide presented the Uruguayan case on the diffusion of access to computers and the Internet 
+in homes. The graphs presented based on official Uruguayan data  allow us to observe the "S" shape 
+of the innovation diffusion model. The charts follow the stratification pattern without state 
+intervention (only through the market logic). However, public policies can change the trends toward 
+normalization. Uruguay has the particularity of Plan Ceibal, a much more complex and sophisticated 
+version of the 1 -to-1 model than "One laptop per child" (content was generated, and teachers were 
+trained, among others). Plan Ceibal provided computers to boys and girls, which they t ook home. 
+This caused a reduction in the gaps in access to devices (computers) between households with higher 
+and lower incomes. Digital gaps of origin can be reduced; this can be achieved through public policies 
+and the intervention of governments, and th e participation of other actors to change the inequalities 
+of access  that stem from ones origin  through public policies and government intervention, as well as 
+the participation of other  actors , to address inequalities in access.  
+3.1.2 Federica Tortorella , Internet Ambassador   
+Ms. Tortorella mentioned that when thinking about the resolution of any issue, it is considered that 
+the government and its dependencies have the abilities and faculties to solve society's problems. 
+However, it is also necessary to ref lect on the different approaches for citizen empowerment of 
+ 
+ 
+ 24 participation in different spaces. As an example, in the Dominican Republic there is a neighborhood 
+council, if it had that voice and vote focus to create knowledge and recognize false news. Or, w ithin 
+local governments, with participatory consultations, it is not about removing the governments ’ 
+administrative responsibilities, as it is only to consider what is already available and see how it can 
+be better used.  
+She stressed that in order to talk about digital transformation, knowledge must be created,  and people 
+must be empowered, to develop adequate mechanisms. Mentioned as examples : 
+• The implementation in the Dominican Republic of the basic digital basket, a pilot plan where 
+2,000 women for two y ears will receive an internet subsidy, a smart device, and training to 
+generate digital skills.  
+• From the civil society the use of experiences, similar to video games, are used to create 
+learning. A game called "Social media vs humanity" was created , as t here is a lot of interest 
+from people to continue learning about online moderation , which has allowed us to 
+understand this alternative as a solution to understand the benefits and risks of browsing the 
+Internet.  
+Decisions and policies must  be adapted to the problems of society. Each country/region/ person  has 
+needs, so the policy approach has to be different  and take into account diversity and what the global 
+majority says.  
+3.1.3 Denis Pocasangre, Secretary of State for Innovation of the Presidenc y of El Salvador   
+Mr. Pocasangre discussed the case of El Salvador as an example of the implementation of public 
+policies and decisions taken at the governmental level. In response to the implications of the Covid -
+19 pandemic, digital inclusion policies we re implemented at the presidency level, making use of 
+information and communication tools.  
+The policies were mainly directed towards the education and health sectors.  
+• From a human rights perspective, it is important to highlight the implementation of a di gital 
+health system and the management of information to prevent diseases or risk patterns within 
+a particular population . 
+• In terms of education, he mentioned the delivery of tools that allow students to increase their 
+access to educational platforms. Deli vering smart devices to each student to continue 
+accessing virtual classes and distance learning from their homes.  
+He concluded by emphasizing the importance of establishing programs that allow and ensure different 
+types of rights, such as data privacy, cy bersecurity, among others, as well as ensuring every digital 
+service promotes digital inclusion.  
+ 
+3.2 Work Session . Digital inclusion  1. Equity in access  
+3.2.1 Discussion based on guiding questions  
+• How can we promote “equitable, meaningful, and safe access to the use, leadership, and 
+design of digital technologies, services, and associated opportunities for everyone 
+everywhere”?  
+• What actions must be implemented to create true equity in the framework of digital 
+transformation?  
+ 
+ 
+ 25 • What policies, frameworks and programs have proven to be most successful and should be 
+scaled up and adapted to other contexts to foster digital inclusion?  
+• What practical steps do we need to take to guarantee  digital skills and digital literacy for 
+vulnerable groups?  
+Group  1 
+How to move 
+forward ? Actions for equity  Policies, frameworks 
+and program s Relevant steps  
+─ Access to connectivity: 
+multiple and beneficial 
+technologies for 
+people.  
+─ Community use, 
+community content, in 
+the language of the 
+region.  
+─ Diagnosis of needs of 
+target populations.  
+─ Policies and strategies: 
+create transversal 
+digital agendas, 
+including various 
+issues that contemplate 
+continuity between 
+governments.  
+─ Policies that address 
+the vulnerable 
+population.  
+─ Entrepreneurship: so 
+that the population of 
+LAC countries, mostly 
+consumers rather than 
+creators of technology, 
+transition to the 
+creation of technology 
+and content.  
+─ Create a sector with 
+specific governance 
+that can create inter -
+institutional programs.  
+─ Recognition of the 
+existence of structural 
+inequiti es and multiple 
+digital gaps  
+─ Democratic deficit 
+environments are not 
+conducive to equitable, 
+meaningful and secure 
+access.  
+─ Equity goes through 
+the developing and ─ Address structural 
+inequalities, gaps in the 
+plural  form.  
+─ Use of Technologies by 
+providers of 
+technological 
+companies.  
+─ Learn about the diversity 
+of offers from digital 
+training.  
+─ Technologies based on 
+principles in the realities 
+of each in dividual and 
+group.  
+─ Information and training 
+as a solution to the 
+challenges  
+─ Know uses and needs.  
+─ Generate content that is 
+located  and built 
+alongside  communities   
+─ Establish mechanisms 
+that allow  the voices of 
+historically marginalized 
+groups to be heard a nd 
+considered.  
+─ To discuss and dialogue 
+about digitization issues 
+a common knowledge 
+base is needed  
+─ Promote more 
+participation of women 
+in all activities.  
+─ Attention to disabilities, 
+native populations and 
+minorities.  
+─ Digitization or digital 
+transformation?  
+─ Mechanisms for  other 
+development models 
+(outside the private 
+sector).  ─ Creation of impact 
+indicators to measure 
+and monitor.  
+─ Policies and 
+strategies, based on 
+good practices as 
+experiences . 
+─ General agenda that 
+addresses particular 
+agendas.  
+─ Intersectional politics 
+and digital literacy.  
+─ Have a democratic 
+framework, 
+continuous policies 
+and equity.  
+─ Context based digital 
+literacy: pe dagogies 
+bottom -up, 
+hyperlocal, 
+“pedagogy of 
+oppressed”  
+─ Support youth from 
+minority groups to 
+develop digital skills, 
+including “structural 
+barriers” addressing  
+─ Policies aimed at 
+strengthening and the 
+sustainability of 
+community networks  
+─  
+─ Policies for the 
+promotion of open 
+technologies  
+─ Promote local 
+technological 
+solutions – 
+technological 
+autonomy . 
+─ Digital skills training: 
+basic, advanced to 
+create technologies . ─ Learn in practice.  
+─ Create computing 
+autonomy 
+capabilities.  
+─ Develop skills for 
+technological uses.  
+─ Digital services 
+based on social 
+needs.  
+─ Reinforcement of 
+the multi -
+stakeholder 
+participation 
+model in the 
+design of access 
+policies, digital 
+literacy programs, 
+and content 
+generation.  
+─ Promote the 
+generation of 
+intersectional data 
+on digital 
+inequality  
+─ Design human -
+centered digital 
+services  
+─ Rationalize the 
+fascination with 
+new technologies 
+(eg metaverses)  
+─ Create  capacities 
+to process and use 
+information and 
+data 
+─ Access to 
+information for 
+knowledge 
+creation  
+─ Technology as 
+cultural transfer  
+ 
+ 
+ 26 How to move 
+forward ? Actions for equity  Policies, frameworks 
+and program s Relevant steps  
+promoti on of  digital 
+culture.  
+─ Invest  in the capacities 
+to develop local 
+technology (preferably  
+open source).  
+─ In addition to access , 
+focus on training and 
+training.  
+─ Recognize inequality , 
+intersectionality and 
+diversity in  needs  
+─ Address connectivity 
+by layers  
+─ Strengthening  
+institutions  and the 
+governance of digital 
+policy  
+─ Interinstitutional and 
+intersectoral programs  ─ Bottom -up technology 
+design.  
+─ Productive use of ICTs  
+─ Digital languages plan 
+─ Public -private 
+collaboration.  ─ Options on how it is 
+included and non -
+digital options for 
+others.  
+─ Create an ecosystem 
+structure for 
+innovation and 
+entrepreneurship . 
+─ Critical training on 
+how the internet 
+works: security, 
+privacy, bad practices  
+─ Plan CEIBAL  
+─ Awareness programs  
+─ Programs to address 
+resistance to change.  
+─ Digital agendas: 
+transversal  
+─ Long term planning.  
+─ Creation of a 
+governing 
+body /organism  
+Key messages  
+─ Participation in preparing plans and programs related to digital issues is needed  to better understand 
+multiple contexts and realities at the local level.  
+─ Importance of advancing digital education policies from a critical perspective.  
+─ We need to think about digital inclusion policies focused on reducing structural gaps.  
+ 
+  
+ 
+ 
+ 27 Group  2 
+How to move 
+forward?  Actions for equity  Policies, frameworks 
+and programs  Relevant steps  
+─ Education stimulation 
+policies.  
+─ Available access 
+conditions of devices.  
+─ Creative industries: 
+flexible economic 
+policies for innovative 
+business models.  
+─ Consider the different 
+realities in all 
+countries.  
+─ Use cases and 
+construction for 
+internet users and non -
+users.  
+─ Equal  floor for all to 
+guarantee equal 
+conditions.  
+─ Reflect on the 
+administrative projects 
+of certain governments.  
+─ Global and open 
+Internet.  ─ Country theme, by  
+different realities.  
+─ The gender gap was 
+imperceptible at the 
+national level but can be 
+extended in some more 
+developed States.  
+─ There are gaps not yet 
+identified.  
+─ We forget people who 
+are not connected to the 
+internet.  
+─ Identify potential users.  
+─ Socioeconom ic rural 
+gaps.  
+─ Make visible the costs of 
+digital literacy.  
+─ Identify minorities.  
+ ─ Break away from 
+corruption.  
+─ Work at the 
+subnational level.  
+─ Access is only 
+meaningful if it is 
+global and open.  
+─ Creation of active 
+participation 
+mechanisms, with a 
+cultural perspective.  
+─ Inclusion policies, 
+linked to policies and 
+practical case studies 
+to better understand 
+how to achieve 
+inclusion.  
+─ Begin to decolonize 
+our views of  
+technologies in 
+communit ies. 
+─ Digital inclusion 
+centers.  ─ Cybersecurity 
+must be considered  
+one of the pillars 
+of digitization.  
+─ Digital literacy.  
+─ Identify gaps that 
+dominate the 
+digital scenario . 
+─ Establish access 
+points to get 
+internet access   
+Key messages  
+─ Need to incorporate the human rights perspective into the formulation of policies related to connectivity 
+and digitization.  
+─ Generate legal conditions and integrate public policies to promote meaningful access . 
+─ Address issues of corruption and impunity.   
+ 
+  
+ 
+ 
+ 28 3.2.2 Key takeaways  from the work session  Digital Inc lusion 1 . Equity in access  
+Group  1 
+▪ To achieve equity with a view to digital inclusion, it is necessary to understand local needs 
+and particularities. Therefore, adopting bottom -up models is a condition for p olicies on the 
+matter to have an effect.  
+▪ Digital inclusion is directly associated with strengthening individual and collective rights. 
+The design, use, access, and development of technologies must be based on respect for 
+human rights.  
+▪ Promote incentives fo r the implementation of objectives and goals.  
+▪ Encourage countries to raise their level through "rankings"; this provides credibility and 
+increases reputation; they can be incorporated into the digital agendas of each country.  
+▪ The need for diagnoses and pub lic policies is based on evidence and the participation of the 
+communities and nations that make up the compact.  
+▪ Determine shared responsibilities, and each sector can design complementary actions.  
+▪ Development of abilities and capacities, the autonomy of the user to choose the tools that he 
+wants to implement, that he can determine what type of technology and for what purpose.  
+ 
+Group  2 
+▪ There is no one recipe for everyone, but we need to focus on communities and people who 
+are not connected and involve them in discussions.  
+▪ Access should not be isolated but associated with educational policies. Topics of digital 
+education and soft skills to be able to be inserted in the digital transformation.  
+▪ The intersectionality approach should be  integrated into the discussions.  
+▪ It is necessary to review the exceptions and limitations for content protected by copyright.  
+▪ Transparency and accountability on the part of technology platforms and companies are 
+essential to determine the scope of artific ial intelligence initiatives and their impact on 
+society.  
+▪ Energy transition in non -interconnected areas.  
+▪ Connect the issue of digital inclusion with the energy transition to identify mechanisms and 
+ways to use digital technologies to mitigate the environme ntal crisis.  
+▪ Corruption and impunity must be addressed at all levels, and digital technologies should be 
+promoted to instill a culture of transparency and accountability in the governmental and 
+non-governmental sectors.  
+▪ Equal access implies recognizing tha t the other has the same rights and must be treated with 
+respect; they must also participate in the design of public policies, regulations, or 
+technological solutions, which must be focused on satisfying their needs or solving the 
+general problems affect t hem.  
+ 
+ 
+ Day 2, February 16  2023  
+ 
+ 
+ 
+
+ 
+ 
+ 30 3.3  Panel. Digital Inclusion  2. Empowerment and active participation in the digital 
+transformation   
+The dialogue began with the presentation of academia, civil society, and public sector  representatives.  
+3.3.1 Joana Var on, Coding Rights . 
+Ms. Varon emphasized that f rom the perspective of feminist theories in practice, as a political analysis 
+of the imbalance of power in the development and use of technologies, alternative futures are 
+envisioned based on past and prior knowledge.  
+She considered that in order to speak about empowerment and inclusion it is relevant to ask, who 
+holds the power? She mentioned that previously, when the interested parties  started to debate about 
+digital policies, connectivity was the primary topic on the agenda. Now the context has changed and 
+there is talk of, for example, layered models of monopoly data. And as digitalization advances in all 
+aspects of society, political  power is higher in some states, with that also the power to influence human 
+behavior and mental health.  
+She proposed as an example that in Brazil, monopolies are gaining from threats to democracies with 
+hate speeches, gender violence, social discriminatio n, among others. These actions are generating 
+profits for these companies, as well as the information of electoral processes, everything is monetized 
+by algorithms and prioritizes the engagement of these issues that are biased towards communities 
+such as L GBT and other vulnerable communities . 
+Technologies have materiality and unfold in the map of "Cartographies of the Internet", there is key 
+material for technological infrastructure, starting from countries of the global south, with severe social 
+and enviro nmental impacts. Derived from the different stratification patterns on the map, recurring 
+colonial relations can be seen, therefore, it is necessary to transform the current notion of digital 
+transformation by  changing the relations between countries and s ituating the global power 
+asymmetries and geopolitics behind the technology, as well as the materiality.  
+She emphasized that the debate should be led with key issues to be the focus of other international 
+forums on the digital side to break the monopolies of large technologies, address gender -based 
+violence, the regulation of platforms, limit and prohibit surveillance tools, social and environmental 
+impacts of technological developments, among others.  
+Finally, within the progressive agenda, she mentioned th at structural inequalities must be recognized 
+in different mechanisms with the support of investment in education, research, infrastructure and 
+consider affirmative actions both nationally and considering the consequences of colonization and 
+how they conti nue to guide relations in geopolitics.  
+3.3.2 Valeria Betancourt, Association for the Progress of  Communications1  
+At the beginning of her remarks , Ms. Betancourt mentioned that from the presentation of the report 
+of Our Common Agenda by the Secretary General of the United Nations in 2021, the development of 
+the Global Digital Comp act is proposed to be agreed upon at the Summit of the Future in 2024 . Based 
+on this, she mentioned that civil society organizations in Latin America that work in the field of digital 
+ 
+1 The Coding Rights and APC intervention can be viewed in full at: https://www.apc.org/en/pubs/apc -and-
+coding -rights -intervention -gdc-americas -multistakeholder -consultation/.  
+ 
+ 
+ 31 technologies, human rights, and development, began a process of facilitation and exchange to 
+exchange points of view and collect inputs and contri butions to the Global Digital Comp act. 
+As part of these processes, she mentioned that the Latin American and Caribbean Internet Governance 
+Forum (LACIGF) focused its conversations and discussions on thematic axes, also from the 
+perspective of identifying p riorities in the region for the compact process. She showed interest in 
+sharing the views and discussions that have arisen with different actors on digital inclusion, and she 
+highlighted that many of the interests are established by specific groups. This d esign has an impact 
+on society, especially those that have been subjected to structural conditions of inequality or some 
+discrimination and violence.  
+She considered it essential that multisectoral social participation processes complement multilateral 
+dyna mics so that people can access and enjoy a free and open internet to exercise their autonomy and 
+build collective power and organizational capacity within uneven power relations due to structural 
+factors.  
+Participation and empowerment in the digital enviro nment cannot be addressed without considering 
+cybersecurity from a rights perspective. The absence of balancing mechanisms that facilitate access 
+to culture and knowledge, generated by the predominant intellectual property paradigm, hinders the 
+production of relevant content focused on people's needs.  
+Finally, she emphasized the increase in technology -based gender violence as an obstacle to digital 
+participation and inclusion. The gender -based  violence that structurally crosses Latin American 
+societies has moved from physical spaces to digital spaces and has been magnified, deepening the 
+gender gap in technologies.  
+To safeguard rights and build a free, open, and secure environment in a digital future, the idea of the 
+internet as a common good must be priorit ized, together with the idea that individual and collective 
+rights are essential to advance the development of a dignified life.  
+3.3.3 Alejandro Patiño, CEPAL   
+Mr. Patiño began by pointing out that within policy design, both the governance framework and the 
+institutional framework relate to enable channels of empowerment and active participation in the 
+digital transformation. As a starting point, he argued that the national digital agendas have been 
+considered as an instrument for advancing the policy. According to the last review of 20 Latin 
+American countries, 15 countries have implemented national agendas, while there are leading 
+countries in digital policy such as Uruguay.  
+He emphasized to retake the dissemination of these instruments in terms of content as th ey are always 
+linked to infrastructure issues and digital government. Likewise, he added that the strategic objectives 
+must continue to work on productive development. An important part are the digital tools in 
+companies, for innovation and entrepreneurshi p. 
+As challenges, he highlighted the following:  
+• Institutional governance models can be translated in practical terms or in the empowerment 
+of active participation, they have to do with how national and local digital agendas are 
+designed.  
+• It is extremely important what lies behind this instrument, as an institutional and governance 
+framework with institutions with important hierarchy linked to these digital issues.  
+ 
+ 
+ 32 • Not all countries have coordination committees, it is important to articulate poli cies in 
+different sectors.  
+• The construction of the policy must have participatory spaces in the design, renewal and 
+updating of the policy as part of the institutional design.  
+Finally, he brought his intervention to a close by emphasizing the issue of reso urces, since the budget 
+allocated by governments to these policies is very small or almost nil. The institutional design is 
+important to give practicality to empowerment and active participation in the digital transformation.  
+3.3.4 Javier López Casarín,  Presiden t of the Science, Technology and Innovation Commission 
+of the Mexican Chamber of Deputies  
+According to Mr. Lopez Casar ín, innovation is the engine of economies . Likewise, science, 
+technology , and innovation are the route under which the different challenge s that each country faces 
+must be addressed . He considers that these elements are also the key to reduc ing the inequality gaps 
+in society; he assured that there is no bad technology, it depends on its implementation which 
+undoubtedly leads to different iated responsibilities:  
+• Technology will help achieve the SDGs, as a route that has been agreed globally.  
+• Internet connectivity  must be  considered as a human right; in Mexico it is considered as a 
+constitutional right.  
+• The impact sought in public policies, is not only to recognize  it as a right  but to ensure  the 
+right to quality and content, as well as civility and ethics in the training of users.  
+• We must c ollectively address the current dilemmas  in the digital sphere  such as free dom of  
+expression and censorship of publications.  
+• It is important to foster e ducation on digital tools and the use of the Internet.  
+• Society must acquire co- respo nsibility in the use of internet or digital world.  
+Moreover , he shared public policies implemented in Mexico , and mentioned that the power should 
+emanate from society, since it is the users who set the trends. One of these policies is the "Internet for 
+All" program, w hich aims to increas e connectivity to reduce the connectivity gap and provide 
+tools/knowledge to generate economic growth. He also recalled that i t is also important to consider 
+that not everyone wants to belong to the digital world.  
+As part of the initiatives  adopted in the Mexican Chamber of Deputies, he mentioned making public 
+policy on Internet access a priority, ethical accompaniment, as well as digital education that can be 
+taught from early childhood  through public  education mod els. 
+He also noted that to address one of the most relevant problems, namely cybersecurity, it is necessary 
+to create  a solid legal framework, strengthening the rule of law and classifying  crimes in the digital 
+world  which warrant a differentiated treatmen t under the Law than crimes committed  in the physical 
+world.  
+He mentioned the legal framework that Mexico is prioritizing within its rule of law , the following 
+ongoing initiatives : 
+• Federal Cybersecurity Law:  
+• Cyber Defense Law  
+• Digital Identity Law  
+• Digital Economy Law  
+ 
+ 
+ 33 In his closing remarks,  he mentioned the importance of international collaboration to strengthen 
+the existence of cybersecurity agencies and agencies aimed at other technology -related issues, in 
+order to foster awareness among countries  of the co -responsibility  we must develop  within the 
+region and within local ecosystems.  
+3.3.5 Questions and answers  to Javier López Casarín.  
+Comment  1: When talking about inclusion and if we are looking for equal access, one must start 
+from the security measures that allow equal access.  Security measures must be taken from the origin, 
+as citizens we have a social responsibility about the data we share. The adaptability of the digital 
+society is what will allow it to be acquired.  
+a. How to transmi t to the local congresses of the different countries of the Americas, in order 
+to convert the initiatives into bills and to determine that a regulatory framework is produced?  
+b. Regarding the institutional follow -up of the consultations, it would be intere sting to 
+propose, through a multilateral representation such as ECLAC, an entity to follow up on the 
+Global Digital Comp act from the Latin American perspective. Since there is no United 
+Nations agency to act as an interlocutor . 
+The deputy mentioned that th e model implemented by Mexico for the cybersecurity framework will 
+be presented in April at the UN meeting in Vienna, to all sectors and the entire ecosystem, through 
+forums and putting into perspective the vision of each one and knowing what their concern s are. One 
+of the challenges is the issue of investment, so that companies and suppliers have social responsibility 
+to invest in infrastructure.  
+He added that constant parliaments are maintained, through parliamentary diplomacy with different 
+countries for  the exchange and strengthening of practices, through what is going to be implemented. 
+One thing missing is an area that can maintain a follow -up despite the fact that people change 
+positions and that is maintained beyond the legislative periods.  
+Comment  2: We are failing to address the concept of digital humanism;  the development of 
+technology is more focused on the corporate and the interests of large technology companies. At 
+present people are living a tyranny of the algorithm and a war for the attention  and influence of the 
+big technologies. There is a dehumanization, an algorithm created by other cultures has been created, 
+leaving aside the different cultures of the region. It is also worrying how women are involved from 
+their interests and their purpos es can use science and technology, this is related to the educational 
+approach of the future and how human beings are enabled from what they want.  
+Mr. López Casarín reacted to the previous comment by mentioning that Mexico is analyzing a new 
+Law on Science  and Technology, the proposal of the Federal Executive is the Law on Humanities, 
+Science, Technology and Innovation, putting people at the forefront in order to prioritize the 
+perception of the concept of humanism. It must emanate from a collective conscie nce and the 
+formation of society. Similarly, it is essential to integrate inclusion issues such as youth, 
+environmental issues, privacy, dissemination, among others.  
+The deputy proposed that after the forum, the conclusions be presented in the Mexican Cham ber of 
+Deputies to reach more sectors of society within the country . 
+ 
+ 
+ 34 3.4 Working session . Empowerment and active participation in the digital 
+transformation   
+3.4.1 Discussion based on guiding  questions   
+• How can we empower communities to create and influence digital content and development 
+that is relevant to their priorities and environment?  
+• What practical policies and programs can be put in place to ensure that people in vulnerable 
+conditions are involved in the design, development, testing and evaluation of  digital devices, 
+services, policies , and programmes?  
+• What elements should be included in the GDC to safeguard fundamental rights and freedoms 
+online, as well as user data and privacy, and promote a free, open and secure digital 
+environment?  
+Questions sugg ested by the participants : 
+• What opportunities does the GDC process and broader digital processes offer both to reaffirm 
+the principle that human rights apply online as well as  offline and to contribute to the 
+protection of human rights?  
+• What specific prior ities and roles  for the UN system would you recommend in order to 
+promote digital inclusion, limit the growing power of corporations and move towards a free, 
+safe and open internet?  
+• How can governments, the private sector and civil society ensure mechanisms for real social 
+participation in the design, development and implementation of digital technologies and 
+policies around these tools that are relevant to their priorities and environment ? 
+ 
+  
+ 
+ 
+ 35 Group 1  
+Empower 
+communities  Practica l policies  and 
+program s Element s on 
+freedoms and rights  Other relevant 
+aspects  
+─ Evidence -based 
+diagnosis.  
+─ Approach of shared 
+and differentiated 
+responsibility between 
+all economic and social 
+sectors.  
+─ Human rights audits 
+that include impacts 
+upon  communities.  
+─ Consider the diversity 
+of social realities in the 
+co-design of 
+consultation 
+mechanisms and 
+participatory processes.  
+─ Inform the community 
+about the possible risks 
+of using technologies.  
+─ Inform about  
+cybersecurity in depth 
+and raise critical 
+awareness.  
+─ Provide  
+recommendations for 
+both the private and 
+public sectors, 
+academia, and civil 
+society, to identify 
+functions.  
+─ Training in the first 
+levels of basic 
+education.  
+─ Prior consultation and 
+participation  
+mechanisms  
+─ Strengthen supervision 
+mechanisms of large 
+technology companies.  
+─ Internet / enable the 
+exercise of law, build 
+with communities from 
+the bottom up  
+─ Detonate content 
+creator groups, 
+regulations, and 
+regulatory framework  
+─ Work on capacity 
+building a nd create a ─ Impact 
+evaluation/monitoring to 
+redesign policies.  
+─ Sustainable , coordinated 
+and integral  strategy.  
+─ Inform citizens with 
+total transparency about 
+digital rights.  
+─ Human rights language 
+translated into 
+compatible languages.  
+─ Monitoring Big Tech in 
+terms of human rights.  
+─ Encourage a national 
+digital d ialogue.  
+─ The model of the 2030 
+Agenda could serve as 
+an inspiration to 
+organize cooperation 
+and coordination 
+between UN agencies 
+and commissions in the 
+elaboration and 
+implementation.  
+─ Adequation of  
+regulatory frameworks 
+for the coexistence of 
+different pro vision 
+models  
+─ Mandatory human rights 
+assessments of software 
+and hardware used by 
+the State.  
+─ Promote financial 
+inclusion experiences  
+─ National bodies for 
+monitoring GDC 
+commitments  
+─ Financing incentives for 
+compliance with GDC 
+objectives and goals  
+─ Education systems must 
+train in citizenship and 
+digital rights  
+─ Policies and programs 
+require governments 
+disposition to national ─ Train the public sector 
+in human rights. For 
+the same sector and 
+academy.  
+─ Issues of regulation, 
+efficiency and setting 
+limits.  
+─ Regulatory 
+frameworks for 
+coexistence in 
+provision models.  
+─ Net neutrality.  
+─ Content preservation.  
+─ Avoid discrimination 
+against these.  
+─ Strengthen research 
+capacities and 
+evidence production 
+as a basis for defining 
+public policies.  
+─ Set a clear boundar y 
+for the mechanisms.  
+─ Hold multi -parties 
+exercises  
+─ Promote own research 
+from within the 
+communities and 
+region  
+─ Transparency and 
+accountability of 
+companies  
+─ Integration of 
+calendars  
+─ To implement the 
+lines of action of the 
+GDC, suggest 
+creating agreements  
+and both national and 
+local groups  
+─ Use of open and 
+interoperable 
+standards  
+─ Use of open and  
+interoperable 
+standards  
+─ Exchange  of 
+experiences for 
+promoting the defense ─ Platforms that 
+invade privacy.  
+─ Sensitization of 
+issues.  
+ 
+ 
+ 36 Empower 
+communities  Practica l policies  and 
+program s Element s on 
+freedoms and rights  Other relevant 
+aspects  
+cybersecure 
+environment  
+─ Empower in critical use 
+of the internet  
+─ Participation 
+mechanisms that 
+consider:  data security 
+and privacy  and 
+mitigation of 
+harassment  risks  of 
+vulnerable groups   dialogue and political 
+agreements  
+─ Boost the digital 
+economy in vulnerable 
+communities through 
+government incentives.  
+─ Policy against planned 
+obsolescence  
+ of rights  between 
+countries that have 
+managed to  hold the 
+private sector co -
+responsible . For 
+example,  
+accountability of Big 
+techs for abuses of 
+platforms that invade 
+privacy  
+─ Sensiti zation of the 
+issues.  
+ 
+Key messages  
+─ Need to establish responsibility mechanisms for technology companies about potential abuses and 
+violations of human rights that consider elements of transparency and accountability.  
+─ Need to generate means to prevent and mitigate risks in the development and implementation of  
+systems - especially from the public sector - including a preliminary analysis of the impact on human 
+rights and audits.  
+─ Need to establish mechanisms for the participation of multiple stakeholders in decision -making about 
+technologies.  
+ 
+  
+ 
+ 
+ 37 Group  2 
+Empower 
+communities  Practical policies and 
+program s Elements on 
+freedoms and rights  Other relevant 
+aspects  
+─ Strengthened  digital 
+governance.  
+─ Technology 
+construction policy 
+from the academy.  
+─ Involve design, 
+development, 
+implementation and 
+evaluation.  
+─ Establish a structure at 
+the national level, 
+coordination in the 
+implementation of 
+digital policies.  
+─ Access to community 
+netwo rks. 
+─ Synergies between 
+actors in the digital 
+world - same as in the 
+analog world.  ─ Formal mechanisms for 
+multisectoral 
+participation.  
+─ Mechanisms that 
+facilitate the exchange 
+of experiences.  
+─ Provide the right to 
+community networks.  
+─ Establish global 
+community access fund.  
+─ Collaborative 
+participation, 
+understanding the role of 
+each involved actor . 
+─ The electromagnetic 
+spectrum is a public 
+good.  
+─ Agree new guiding 
+principles, based on 
+human rights.  ─ Understand the needs 
+of communities.  
+─ Cybersecurity from 
+elementary school 
+education.  
+─ Vulnerability of 
+communities (poverty 
+and resource  scarcity).  
+─ Focused consultations 
+to online and offline 
+focus groups.  
+─ Reaffirm the 
+principles of the 
+summit "Build upon 
+what has been built".  
+─ Vulnerability of 
+sexual preferences, 
+magnified in the 
+Internet  ─ Training for public 
+officials, soft 
+skills, clear 
+objectives and 
+clear goals with 
+monitoring   
+─ Language as a 
+barrier for digital 
+inclusion and used 
+dialects as a means 
+of transmitting 
+informatio n and 
+knowledge.  
+ 
+Key messages  
+─ Freedoms and rights: mechanisms that facilitate the exchange of experiences.  
+─ Identifying opportunities,  the GDC offers to reaffirm the contribution to digital inclusion.  
+─ Locate all communities that are not on the daily agenda of governments and encourage their participation 
+in policy formulation, allowing access to communities.  
+ 
+  
+ 
+ 
+ 38 3.4.2 Key takeaways from the workshop empowerment and active participation in digital 
+transformation  
+Group  1 
+▪ The State must create coordination mec hanisms, experts in the field, and international 
+cooperation to generate technological solutions.  
+▪ From the perspective of the public sector, integrate digital identity and interoperability in 
+developing digital services that rural communities, natives or vulnerable populations, and 
+people with disabilities need, thus putting the State at the service of society.  
+▪ Generate value; we must train civil and public servants in soft skills and form 
+multidisciplinary teams.  
+▪ Clear objectives, a clear strat egy, and good follow -up and monitoring of all the progress of 
+the matter.  
+▪ It is suggested to have a local representative, national people by country, etc., to collect the 
+information. It goes hand in hand with active and effective participation to create j oint 
+strategies.  
+▪ Generate the spaces and the appropriate environment and strengthen the soft skills of public 
+servants to achieve a climate of trust with the peasant and native communities that allow the 
+co-creation, co -design, and implementation of techno logical solutions to the general 
+problems that affect them.  
+▪ The United Nations can contribute to digital inclusion from different perspectives: 1) 
+Generating spaces for debate in the different Member States on the matter, 2) Articulating 
+efforts between th e public sector, the private sector, organized civil society, and academia to 
+promote spaces of collaboration in the development of solutions that make it possible to 
+close the digital gaps, 3) Generate a knowledge management platform for technological 
+solutions to public problems that affect vulnerable populations, rural communities, or 
+people with disabilities and share it with the member states; 4) Grant funds to finance 
+technological projects with a high social and environmental impact that allow the di gital 
+inclusion of vulnerable groups or rural areas, and 5) Create training spaces on the use and 
+operation of digital technologies and emerging technologies.  
+▪ Make good use of what we already have, governments can make participatory mechanisms, 
+but we can also use what we already have, such as the United Nations system, sectoral and 
+commissions that guide the implementation of the GDC, not only creating sound principles 
+but also with ideas and good use of them.  
+▪ Support communities to have a voice and vote.  
+▪ Freedom of expression, analyze how it can be approached from knowledge.  
+ 
+Group 2  
+• Ranking to account, we use the example and the idea of doing a similar approach to good 
+digital inclusion practices.  
+• How this relates to the GDC platform in principles and ideas.  
+• Determine the process you want to give communities around artificial intelligence and how 
+that works.  
+• Elements that make us rethink the environment from academia about digital environments.  
+ 
+ 
+ 39 • Do not lose sight of the fact that countries  must have the access speed, transmission rates or 
+bandwidths that are provided to uncovered communities.  
+• Sustainable, responsible digitization that leads to terms such as electronic waste.  
+• Important to consider green communications.  
+• Semiconductors and raw  materials, sourced from many countries. Take into account 
+responsible consumption.  
+• The GOC can suggest to the signatory states that they carry out their national internal 
+processes to comply with the GDC with the participation of multiple stakeholders. Th is is 
+important to ensure all relevant stakeholders' continued participation.  
+ 
+ 
+ 
+ 40 4. Open space on topics not addressed  in the agenda   
+Representatives of civil society from across the Americas working on human rights and technology 
+proposed and facilitated an open conversation on issues not addressed on the agenda on the second 
+day of the Consultation of the Americas. The conversation took place in an informal round table 
+format. It was proposed to focus on how the Global  Digital  Compact can reinforce human rights, 
+considering that several instruments currently recognize that human rights apply online and offline.  
+Several c hallenges in the region were recognized inside and outside the digital sphere, particularly 
+concerning historically marginalized communities such as LGBTQ+, Afro -American, and indigenous 
+groups. During the conversation, the participants highlighted the fol lowing key messages for 
+consideration in the discussions on the Global  Digital  Compact:  
+▪ It is essential to include vulnerable groups in discussions and decisions about technology.  
+▪ Human rights considerations related to the development and deployment of te chnologies and 
+connectivity and access policies should consider the specific needs of migrant populations in 
+the region.  
+▪ An intersectional gender approach is necessary when considering adopting measures on 
+connectivity and access.  
+▪ The intersectional gender  approach should be the basis for designing, adopting, and 
+implementing digital technology policies.  
+▪ It is necessary to establish concrete measures to limit and control the development, 
+acquisition, and deployment of surveillance technologies - which have been used to violate 
+fundamental rights in the region.  
+▪ It is necessary to advance measures to strengthen the protection of privacy and personal data 
+with specific guarantees for children and adolescents.  
+▪ When developing and using technologies, it is essent ial to consider the different gender 
+variants and reflect on how currently artificial intelligence and automated decision -making 
+affect the lives of the LGBTQ+ community from the use of mass surveillance tools or facial 
+recognition tools that reproduce vio lence and patterns of discrimination, so that they do not 
+become echo boxes for biases that put the fulfillment of fundamental rights of certain groups 
+at risk.  
+▪ It is necessary to establish liability mechanisms for technology companies about potential 
+abuses and violations of human rights and effects on the environment so that they consider 
+elements of transparency and accountability.  
+▪ From the perspective of public policy, it is essential to apply a systemic approach based on 
+evidenc e when one wants to address universal connectivity, digital public goods and digital 
+inclusion, for which it is necessary to: 1) Focus and identify the human rights that are may 
+be affected in the matters to be dealt with, 2) Determine the scope of the mat ters to be dealt 
+with, 3) Determine the magnitude and impact of public problems by matters to be dealt with; 
+4) Identify, focus and segment the target audience or affected population; 5) Hold meetings 
+with the active participation of the affected public an d other interest groups to propose 
+solution alternatives; 6) Review national and international good practices in solving the 
+identified public problem; 7) Select the solution alternatives after analysis of technical, 
+budgetary and legal feasibility and ris k analysis; 8) Seek support and coordination with the 
+private sector, academia, cooperating sources, and others; 9) Determine the control and 
+follow -up mechanisms of the chosen alternatives, and 10) Have a technical team for the 
+follow -up, control and eval uation of the results .
+ 
+ 
+ 41 5. Conclusion and perspectives  towards the future  
+5.1 Amandeep Singh Gill, United Nations Secretary -General 's Envoy on  Technology . 
+As a closing message, Mr. Amandeep Singh Gill, mentioned that in the exchange  rounds, there were 
+contributions on human rights with extremely powerful testimonies about communities that are being 
+left behind, so that by maintaining a focus on individual rights, a certain community focus is lost.  
+He emphasized that public policies matter, referring to regulation and self -regulation, having 
+confidence that the industry can do the right thing does not always happen. He mentioned that public 
+policies must be applied at all levels, including the international level. To this end, smart regulations 
+and govern ments must be generated, without excluding or discriminating against people.  
+He also highlighted the tension of connectivity approaches, in the case of the internet, the words have 
+a meaning, but it is not always very useful, so who will benefit from these  approaches must be 
+considered.  
+He noted that there was much mention on the intersectionality of the digital world, integrated into the 
+analog world where digitization highlights many social gaps to be addressed and choices must be 
+made by policy makers in  each country to address these gaps. A clear idea of the analog world in 
+which we live must be maintained in order to address these issues . 
+Another point that surfaced during the discussion dealt with the application of the future general data 
+protection r egulation, at the international level there are principles, but it cannot allow machines to 
+come to life without human authorization. He pronounced not to agree with the statement that 
+technology is neutral, and from his perspective, shared that technology  instead of being neutral, it 
+reflects  values.  
+Lastly, he considered that the discussion during the two days of the Americas Consultation was highly 
+useful  in the lead up to the Global Digital Compact . He expressed his gratitude for the collaboration 
+of all the participants and the diversity of ideas that were generated during both days. He also thanked 
+the hosts in Mexico and the German government for the organization and support during the regional 
+consultation phase. He hopes that the building of knowledge will continue, as this is the best way to 
+build international learning.  
+ 
+ 
+ 
+ 42 Annex.  
+Universal Connectivity  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 43  
+
+ 
+ 
+ 44  
+
+ 
+ 
+ 45 Equity in Access  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 46  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 47  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 48 Empowerment and Participation  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 49  
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 50  
+ 

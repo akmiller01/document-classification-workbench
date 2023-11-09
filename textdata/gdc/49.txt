@@ -1,0 +1,181 @@
+ 
+    
+ 
+Input to the Consultations on the Global Digital Compact  
+Prepared by  the Secretariat  of the Commission on Science and Technology for Development (CSTD)1 
+ 
+A. Context setting (why the GDC is important and what needs to be achieved)  
+Why GDC is important?  
+Over recent years fast developments in the digital space, the pandemic, economic uncertainty, and 
+conflict, both real -world and digital  have significantly altered the context in which the global community 
+must address the challenge of achieving digital development  through digital cooperation.  At the same 
+time, discussions at the UN Commission on Science and Technology for Development ( CSTD ) illustrate that 
+considerations about the lack of truly universal  inclusion in the di gital economy , the need to fully integrate 
+the digital dimension into actions to address poverty, gender equality, and climate change , and grave 
+concerns about cybersecurity remain as valid as ever.  
+Take the digital divide. Although 63% of the world’s pop ulation is using the Internet , least developed 
+countries still only count 27% of their populations as internet users2. In its annual review of the p rogress 
+made in the implementation of and follow -up to the outcomes of the World Summit of the Information 
+Society at the regional and international levels , the CSTD has noted  that the persistent connectivity divide 
+can lead to a serious development divide, stalling the progress to achieve the 2030 Agenda for sustainable 
+development.  
+Conflicts in which digital technology plays an increasingly central role have become one of the most salient 
+effects of digitalization on society and politics globally. Digital technology is becoming increasingly 
+weaponized in sophisticated ways. From cyberattacks that disru pt infrastructure and services to the theft 
+of sensitive information and the destabilizing potential of deep fakes and fake news, information 
+technologies are increasingly often among the major causes and means of conflict. Countries lacking the 
+cybersecur ity infrastructure to protect themselves from these threats are liable to suffer 
+disproportionately, amplifying global power imbalances.  
+The multidimensional impact of digital data on all aspects of societies and economies continues to 
+necessitate global c onversations around regulation and governance. Areas of concern are wide -ranging 
+and include the geographical concentration of digital innovation and data management, problems of 
+cross -border jurisdiction, competition policy, consumer rights, and content m oderation.  
+The regulatory challenges created by those questions are complex, particularly where the need for 
+international enforcement interacts with differences in national laws and norms. International forums are 
+increasingly concerned with such issues. For example , a growing number of initiatives aim to address the 
+ 
+1 Contact: Ms. Liping Zhang, Chief, Science Technology and Innovation for Development Section, Technology, 
+Innovation, Knowledge Development Branch, Division of Technology and Logistics, UNCTAD (stdev@unctad.org).  
+2 https://datahub.itu.int/data/?c=&i=11624& e= 
+ethical dimensions of emerging technologies such as machine learning and artificial intelligence, raising 
+the question of the risk of fragmentation in the treatment of these matters.  
+None of t hese challenges can be tackled successfully without digital cooperation.  The ongoing process of 
+consultations on the Global Digital Compact should outline shared principles for an open, free, and secure 
+digital future for all, which could become k ey compon ents of deliberations at the Summit of the Future in 
+2024.  
+What needs to be achieved?  
+A number of elements can  be identified based on the work undertaken in the CSTD as part of its review 
+and follow up to the implementation of the outcomes of the World Su mmit on the Information Society 
+(WSIS):  
+• Digital cooperation  should be  recognized as central to the GDC . The multidimensional impact of 
+digital ization  on all aspects of societies and economies continues to necessitate global 
+conversations around regulation and governance. Areas of concern are wide -ranging and include 
+the geographical concentration of digital innovation and data management, problems of c ross-
+border jurisdiction, competition policy, consumer rights, and content moderation. The regulatory 
+challenges created by those questions are complex, particularly where the need for international 
+enforcement interacts with differences in national laws a nd norms. International forums are 
+increasingly concerned with such issues. For example, a growing number of initiatives aim to 
+address the ethical dimensions of emerging technologies such as machine learning and artificial 
+intelligence, raising the questi on of the risk of fragmentation in the treatment of these matters.  
+ 
+• The GDC should focus beyond solutions -oriented work to address systemic issues.  Recognizing 
+that GDC and WSIS are distinctive processes, the GDC could cover areas that WSIS was not 
+designe d to address. While the WSIS vision remains strongly relevant in seeking to achieve a 
+people -centred, inclusive and development -oriented Information Society, it was impossible to 
+foresee and plan for the extent and manner in which digitalization has occurr ed. Given the 
+constantly changing and increasingly complex digital economy and society,  the GDC should 
+prioritise the  creation of a  long -term  platform and framework for accountable and inclusive 
+global digital governance.  
+ 
+• Mechanism s for all stakeholders to keep abreast of the progress made in the implementation 
+of digital cooperation should avoid complexity and duplication.  Member States and other 
+stakeholders, particularly those from developing countries , often face challenges to keep tr ack of 
+developments in international processes in the digital sphere.  A central review mechanism that, 
+similar to that for the WSIS, seeks to be focal point for digital development issues is crucially 
+important to ensure that the challenges and opportuniti es presented by the constantly changing 
+digital context are appropriately addressed at the international level. The CSTD, with its 
+longstanding experience and the stock of knowledge it has accumulated in its work on the WSIS 
+outcomes, enjoys unique advanta ges to contribute valuably to the success of the GDC  in this 
+regard .   
+ 
+• Finally, t he GDC process must recognize that trust is the foundation for the digital economy  and 
+society  and must be built through various measures, including more robust cybersecurity, data 
+privacy laws, consumer protection, and transparency measures.  It should high light the need for 
+digital experiences that respect human rights and prevent discrimination, and which ensure that 
+individuals can have control over their data.  
+ 
+ 
+B. Sources of knowledge (what is the basis for our inputs – have we involved any consultations with our 
+member states and other stakeholders)  
+These inputs of the CSTD have been based on  the discussions among member States and other 
+stakeholders engaged in the CSTD work on digital technologies and the WSIS follow up, as well as the  
+annual report s of the Secretary -General on progress made in the implementation of and follow -up to the 
+outcomes of the WSIS at the regional and international level , which incorporate contributions from over 
+30 international organizations, regional commissions and non -governmental entities .3 The annual 
+Secretary -General’s report s on this matter have  been prepared in response to Economic and Social 
+Council resolution 2006/46, which requested the Secretary -General of the United Nations to inform the 
+CSTD about implementing  the W SIS outcomes.  
+The Report of the Secretary -General on WSIS is presented in the annual session of the Commission on 
+Science and Technology for Development (CSTD) . It forms the  basis of discussion with member States and 
+other stakeholders to identify emerging and future opportunities and challenges faced by the 
+information society, including the socio -economic consequences arising from acceleration of the 
+changes caused by digitalization.  At the 26th annual session of the CSTD  held on 27 to 31 March , 
+member States and other stakeholders discussed the GDC process and shared thoughts about the 
+path it should take.  
+C. Wha t we would like member States to do moving forward  
+Retain a people -centric approach, building on the WSIS vision and principles:  
+The objective of the World Summit from its inception has been to move towards a “people -centered, 
+inclusive and development -oriented Information Society.” Its overarching mission was to ensure that the 
+benefits of ICTs, networks, and services would be available to all and that these technologies would 
+ 
+3 For instance , in the latest report,  inputs are provided by the following  entities: Association for Progressive 
+Communications (APC); Council of Europe; Economic and Social Commission for Asia and the Pacific (ESCAP); 
+Economic and Social Commission for  Western Asia (ESCWA); Economic Commission for Africa (ECA); Economic 
+Commission for Europe (ECE); Economic Commission for Latin America and the Caribbean (ECLAC); End Child 
+Prostitution in Asian Tourism International; Food and Agriculture Organization of the United Nations (FAO); Global 
+System for Mobile Communications Association (GSMA); International Federation of Library Associations and 
+Institutions (IFLA); Internet Society (ISOC); International Telecommunication Union (ITU); International Trade Centre ; 
+Office of the Secretary -General’s Envoy on Technology; Organisation for Economic Co -operation and Development 
+(OECD); UNCTAD; United Nations Children’s Fund (UNICEF); United Nations Department of Economic and Social 
+Affairs (DESA); United Nations Develop ment Programme (UNDP); United Nations Educational, Scientific and Cultural 
+Organization (UNESCO); United Nations Entity for Gender Equality and the Empowerment of Women (UN -Women); 
+United Nations Environment Programme (UNEP); United Nations Industrial Deve lopment Organization; United 
+Nations Office on Drugs and Crime; United Nations Relief and Works Agency for Palestine Refugees in the Near East; 
+Universal Postal Union; World Bank; World Food Programme; World Health Organization (WHO); World Intellectual 
+Property Organization; World Meteorological Organization; World Trade Organization.  
+contribute to gains in social and economic welfare, including the achievement of first the MDGs and now 
+the SDGs.  
+It is crucial to m aintain the internation al community’s commitment to this objective and orient the Global 
+Digital Compact around it. The development, promotion, implementation, and governance of digital 
+technologies must take a “people -first” approach. They must focus on ensuring that technologi es’ benefits 
+are inclusive, notably by first closing the digital divide and making technologies accessible to all. Access 
+does not just mean availability and affordability; it also means awareness of the existence of the 
+technology, linguistic and disabili ty accessibility, and ability in terms of user skills.  
+The WSIS vision  could provide the foundations of the GDC  process  and vision. T he WSIS’s multi -
+stakeholder and global approach  should also be maintained in the GDC’s  own working methods . 
+Ensure the GDC adds coherence, not incoherence, in the multilateral digital ecosystem:  
+In formulating the GDC, member States must consider how it interacts with the pre -existing multilateral 
+digital/ICT landscape to ensure it does not simply add another layer of comp lexity and overlap with other 
+actors in the area, including WSIS. If the outcome of the GDC involves a larger scale overhaul of existing 
+institutions and bodies, it is crucial that member States capitalise on the work that has been done by these 
+and learns  from their experiences. The WSIS multistakeholder approach in particular is one that the GDC 
+should draw lessons from.  
+Existing institutions and infrastructure should be made use of where appropriate. The CSTD for instance, 
+as the focal point in the UN sy stem on STI for development which  has long considered the policy issues 
+raised by rapid technological changes  and are strongly driven by the evolution of digital technologies , has 
+extensive knowledge and expertise to share and build on . It may also serve a s a forum for member States 
+and other stakeholders to monitor progress in the GDC’s implementation, similar to the role it has played 
+for the WSIS follow up.  
+Concerns about digital divides reflected in WSIS outcome documents remain important. The internati onal 
+community should c ontinue to  pay particular attention to the risk that unequal access to digital 
+technology will exacerbate divides in access to other developmental goods, perpetuating social and 
+economic disparities.  
+Given the longstanding work of WSIS on the digital question and the many lessons that have been learned 
+across two decades, it is strongly recommended that the experience gained in the WSIS process and 
+outcomes,  and the relevant findings and expertise are fully considered and built on as the Global Digital 
+Compact  is shaped .  
+Supporting documents  
+ECOSOC, 2021 Session, Report of the Secretary -General: Progress made in the implementation of and 
+follow -up to the outcomes of the World Summit on the Information Society at the regional and 
+international levels (A/78/62 -E/2023/49), available at: https://unctad.org/system/files/official -
+document/a76d64_en.pdf  
+ 
+ECOSOC, 2022 Session, Report of the Secretary -General: Progress made in the implementation of and 
+follow -up to the outcomes of the World Summit on the Information Society at the regional and 
+international levels (A/78/62 -E/2023/49), available at: https://u nctad.org/system/files/official -
+document/a77d62_en.pdf  
+ 
+ECOSOC, 202 3 Session, Report of the Secretary -General: Progress made in the implementation of and 
+follow -up to the outcomes of the World Summit on the Information Society at the regional and 
+international levels (A/78/62 -E/2023/49), available at: https://unctad.org/system/files/official -
+document/a78d62_en.pdf  
+ 
+CSTD, 21st Session, 2018: Report of the Chair of the Working Group on Enhanced Cooperation  
+(E/CN.16/2018/CRP.3 ), available at:  
+https://unctad.org/system/files/official -document/ecn162018crp3_en.pdf   
+ 
+Working Group on Enhanced Cooperation on Public Policy Issues Pertaining to the Internet (2016 -
+2018) at: https://unctad.org/topic/commission -on-science -and-technology -for-
+development/wgec -2016 -2018  
+ 
+  

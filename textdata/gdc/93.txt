@@ -1,0 +1,645 @@
+ 
+ITU’ S INPUTS TO THE GLOBAL DIGITAL COMPACT  
+ 
+In 2003 and 2005, through the two phases of the World Summit on the Information Society 
+(A/RES/56/183 ), nearly 50 heads of states and hundreds of ministers and high -level representatives 
+from 175 countries, together with thousands of multistakeholder participants, endorsed the 
+Declaration of WSIS Principles  and WSIS Action Lines  to establish the foundations for an information 
+society for all, reflecting all the different interests at stake.  
+ 
+Since the WSIS Summit, new technologies and services have been constantly and dramatically 
+emerging, adding to the range and diversity of appl ications and potential of digital technologies on all 
+aspects of economy, society and development. On the one hand, global experience since the WSIS 
+Summit has shown how difficult it is to anticipate the pace at which specific technologies will be 
+adopted,  and therefore to develop appropriate policies and principles to maximize potential benefits 
+and mitigate potential risks. On the other hand, experience especially during the COVID -19 pandemic 
+has proved how digital technologies could influence, improve, a nd impinge on inter -society solidarity 
+and our joint success.  
+ 
+The ‘Global Digital Compact’ has been proposed to build global frameworks, agreements or key 
+principles on major digital issues. The key principles for digital technologies can vary depending on the 
+context a specific goal(s) of the nations, groups, or organizations, but generally they should promote 
+an inclusive, responsible, and sustainable use of digital technologies for all . 
+ 
+1. CONNECT ALL PEOPLE TO THE INTERNET , INCLUDING ALL SCHOOLS  
+ 
+Connectivity is essential for enabling the full potential of digital technologies and for ensuring that the 
+benefits of digital transformation are realized by all.  At the Plenipotentiary  Conference of ITU held in 
+Bucharest in 2022 , Member States strongly reiterated the critical role of connectivity for sustainable 
+development, and approved new goals and targets for the Union, along with updated priorities for 
+advancing towards “universal connectiv ity” and “sustainable digital transformation” outlining the ITU 
+strategic Plan.  
+Also i n the Bucharest Declaration on “Building A Better Digital Future for All”  (25 September 2022), 
+ICT Ministers urgently called for immediate actions to accelerate connectivity an d better digital future . 
+Clearly, achieving universal and meaningful connectivity is a global challenge that requires global 
+commitments to address it. One of the major international commitments to fully exploit the 
+opportunities provided by digital transf ormation of various sectors of the economy and supporting all 
+relevant stakeholders is the Kigali Declaration  adopted by ITU Member States at the World 
+Development Conference (WTDC -22) under the theme ‘Connecting the unconnected to achieve 
+sustainable development’.  
+1.2. CORE PRINCIPLES  
+ 
+In particular, the global principles aiming to achieve universal and meaningful connectivity1 should 
+include:   
+ 
+• Availability: Connectivity should be available everywhere, including remote  and rural areas, to 
+ensure that everyone has access to the opportunities and benefits of the digital technologies.  
+ 
+1  Achieving universal and meaningful digital connectivity: setting a baseline and targets for 2 030, UN Office of 
+Secretary -General’s Envoy on Technology and ITU, April 2022.  
+ 
+• Inclusiveness: Connectivity should enable participation of all individuals and communities  in the 
+digital world,  including women and girls, persons with disabilities, people with special needs, older 
+persons, indigenous communities, and marginalized groups.  
+• Meaningfulness:  Connectivity should provide users with a secure, enjoyable, valuable and 
+efficient online expe rience that is affordable and accessible to all. It is essential to balance 
+universal connectivity and meaningful connectivity, as neither one alone can result in significant 
+societal benefits.  
+• Affordability:  Connectivity should be affordable and accessibl e to all, regardless of location, socio -
+economic status, or other factors.  
+• Quality:  Connectivity should be reliable, with sufficient speed, quality, and stability to support the 
+use of digital technologies for various purposes, including education, health,  commerce, and social 
+interaction.   
+• Interoperability:  Connectivity should be interoperable, allowing different systems, technologies  
+and devices to work together seamlessly, and enabling the free flow of information across borders 
+and platforms.  
+• Security and Resilience : Connectivity should be secure and resilient, protecting against cyber -
+threats (protecting the most vulnerable, inclu ding children), data breaches, unauthorized access 
+and other forms of malicious uses, as well as physical risks, including natural disasters.  
+• Sustainability : The development and deployment of connectivity infrastructure should be 
+sustainable, environmental ly responsible, and support the urgent need to address the climate 
+crisis.  
+ 
+1.2. COMMITMENTS THAT SHOULD BE TAKEN BY STAKEHOLDERS  
+ 
+Key ingredients or commitments necessary for achieving universal meaningful connectivity in 
+accordance with the principles above include:  
+ 
+• Assessing  policy, regulation and governance: Connectivity should be supported by future -
+oriented policies and collaborative regulatory frameworks to leverage the power of connectivity 
+to build innovation -driven digital ecosystem , facilitate new and emerging technologies for 
+sustainable development , while effectively managing and mitigating potential harms . 
+• Enhancing investment: Investment in connectivity should focus on all stages of development and 
+deployment and take into conside ration interlinkages between the connectivity and broader 
+digital transformation. It should also be supported by a multi -faceted approach with policy 
+interventions to encourage financial investments for the physical infrastructure, such as 
+broadband networ ks, to improve connectivity in underserved areas.  
+• Being equipped with skills:  Citizens should be provided with the necessary digital skills to make 
+use of connectivity for their social and economic well -being. Thus, investment in connectivity 
+should also cover investment in education and training to achieve a digitally skilled popula tion.  
+• Building inclusive digital societies : The preservation and promotion of diverse cultural identities 
+and linguistic diversity through local digital content development is an important foundation of 
+inclusive digital societies.  It will enhance social and economic development and stimulate 
+participation of all stakeholders, including vulnerable groups and people living in rural and remote 
+areas.  
+• Strengthening data ecosystems: Data and measurement are critical for all nations  to achieve 
+towards universal and meaningful connectivity. They are needed to conduct a proper diagnosis 
+and design effective, tailored, and targeted interventions and monitor progress.  Yet, good, 
+reliable, actionable data and statistics remain desperately  scant.  
+• Accelerating i nnovation: Countries can overcome digital development challenges by leveraging 
+cutting -edge approaches to digital innovation, such as developing locally appropriate technical 
+ 
+capabilities through experimentation and flagship initiati ves, while incentivizing and promoting 
+responsible tech -led innovation for digital entrepreneurship across economic sectors.  
+• Strengthening partnership : To achieve u niversal, meaningful and accessible connectivity , it is 
+essential to foster partnerships an d collaborations between g overnments, private sector, 
+academia, civil society, and international organizations , creating synergies, pooling resources and 
+coordinating efforts across the ecosystem. The development and implementation of connectivity 
+solution s require leveraging the expertise and resources of multiple stakeholders.  
+ 
+2. AVOID INTERNET FRAGMENTATION   
+ 
+2.1. CORE PRINCIPLES  
+ 
+The multistakeholder community came together in 2003 and 2005 to formulate the WSIS principles  
+and advance multistakeholder cooperation.  Nearly two decades later, with the Internet now a critical 
+part of our lives  (for many of us) , and our economies, we face new challenges , including relating to  
+security and privacy , risks to marginalized  populations , lack of c onformance to international technical 
+standards,  rise of geopolitical tensions,  and several others.  
+ 
+If not addressed in a timely manner, these challenges could lead to the fragmentation of the Internet  
+as we now know it. The key to overcoming these chall enges lies in coming together and working 
+collectively as a multistakeholder community, in a spirit of openness and cooperation. Some core 
+principles towards this goal could be derived from the ITU Plenipotentiary Resolution 102  on ITU's role 
+with regard t o international public policy issues pertaining to the Internet and the management of 
+Internet resources, including domain names and addresses : 
+ 
+• that the Internet promises social, economic, cultural and environmental development that can 
+bring out the best in humanity;  
+• that increased availability of online services will contribute to bringing sustainable social and 
+economic development to all the w orld's inhabitants;  
+• that emerging telecommunications/ICTs will transform both the Internet and the digital economy 
+and will have an impact on overall achievement of Sustainable Development Goals , and therefore 
+extension of the benefits of new telecommunic ation technologies to all  the world's inhabitants  
+must be promoted ; 
+• that there is a need for preserving and promoting multilingualism on the Internet for an 
+integrating and inclusive information society ; 
+• that the management of the Internet encompasses both  technical and public policy issues and 
+should involve all stakeholders and relevant intergovernmental and international organizations ; 
+• that the management of the Internet is a subject of valid international interest and must flow from 
+full international a nd multistakeholder cooperation on the basis of the outcomes of the two 
+phases of WSIS;  and 
+• that, as stated in the WSIS outcomes, all governments should have an equal role and responsibility 
+for international Internet governance and for ensuring the stabil ity, security and continuity of the 
+existing Internet and its future development and of the future Internet, and that there is a need 
+for development of public policy by governments in consultation with all stakeholders . 
+ 
+2.2. COMMITMENTS THAT SHOULD BE TAKEN BY STAKEHOLDERS  
+ 
+ITU firmly believes that multi -stakeholder cooperation and collaboration is the cornerstone of a truly 
+inclusive and empowering global digital space. ITU Plenipotentiary Conference Resolution 64  on Non-
+ 
+discriminatory access to telecommunication/information and communication technology facilities, 
+services and applications, including applied research and transfer of technology, and e -meetings, on 
+mutually agreed terms  also invites Member States “ to refrain from taking any unilateral and/or 
+discriminatory actions that could impede technically another Member State from having full access 
+to the Internet, within the spirit of Article 1 of the ITU Constitution and the WSIS principles ”. 
+ 
+ITU, as the speci alized UN agency for ICTs, offers numerous opportunities for various stakeholders to 
+convene and gain a comprehensive understanding of the challenges in the ICT sector and the solutions 
+needed. These opportunities include the WSIS Forum , as well as ITU’s Council Working Group on 
+International Internet -related Public Policy Issues  (CWG -Internet) , among others.    
+ 
+3. APPLY HUMAN RIGHTS ONLINE  
+ 
+3.1. CORE PRINCIPLES  
+ 
+Advancing the 2030 Agenda for Sustainable Development requires global solutions that can leverage 
+the power of digital to drive progress. Increasingly, as society, economy and technology become 
+inextricably linked, these efforts and initiatives need to be designed holistically and grounded in 
+human rights. The right of the public to access international telecommunication services is 
+recognized in ITU’s Constitution , with certain conditions defined under which services can be stopped. 
+The International Telecommunication Regulations  (ITRs) also contain provisions regarding the right to 
+means of  communication . 
+ 
+3.2. COMMITMENTS THAT SHOULD BE TAKEN BY STAKEHOLDERS  
+ 
+The core tenet of ITU’s  work on connectivity is focused on developmental values and rights, placing a 
+special emphasis on the inclusion of women and girls, persons with disabilities, older persons, 
+indigenous communities, other marginalized groups, and people in remote and rural  areas.  
+ 
+In addition, the interplay between technical standards and human rights is also important to highlight. 
+Technical standards underpin and help technologies work together, making them safer, more 
+accessible, more affordable, and more sustainable . As an international standards -making body, ITU 
+is cognizant of the importance of considering potential human rights impacts at the design and 
+development stage of technical standards as well. This relationship has been recognized by the Human 
+Rights Council  as well, and it has called for closer cooperation between the Office of the High 
+Commission on Human Rights and Standards Development Organizations including the ITU ( Res. 
+47/23 ). 
+ 
+In 2022, the Global Youth Summit process convened by ITU produced a Youth  Call to Action ‘My digital 
+future’  also calling for ‘[ u]phold[ing] human rights online and develop frameworks for navigating the 
+internet safely, expressing oneself freely, requiring consent for online transactions, acc essing social 
+and economic opportunities and creating value using digital technologies, tools and the internet ’. 
+ 
+4. ARTIFICIAL INTELLIGENCE  
+ 
+4.1. CORE PRINCIPLES  
+ 
+ 
+The Sixth World Telecommunication/ICT Forum (WTPF -21) organized by ITU  in December 2021  
+agreed2 that: 
+   
+• the responsible development and use of new and emerging technologies , particularly AI, can 
+help to empower future innovation and address related policy issues, and that stakeholders 
+involved in their development and use should engage in policy discussions, including on 
+accountability and sustainable development;  
+• that it is important to promote building confidence and security in and inclusive development 
+of these technologies as well as to foster equitable access to their benefits;  
+• that enabling strategies, policies, regulations, guidelines or principles may contr ibute to 
+maximizing the potential of such  technologies to facilitate the use of telecommunications/ICTs 
+for sustainable development;  
+• that all stakeholders need to work closely together to harness the potential of such services 
+and technologies for the bene fit of all and to advance sustainable development, as well as 
+address any common policy issues and other challenges, inter alia , related to confidence and 
+security, reliability, inclusiveness, transparency and interoperability, that may arise in their 
+use; and 
+• that stakeholders should be encouraged to implement projects, programmes, and initiatives 
+to enable all nations to benefit from the use of such technologies to achieve the Sustainable 
+Development Goals . 
+ 
+4.2. COMMITMENTS THAT SHOULD BE TAKEN BY STAKEHOLDERS  
+ 
+Give the role that AI is expected to play in our globally interconnected digital future, one of the key 
+challenges before us now is how to maximize the benefits and opportunities that AI presents, while 
+mitigating the associated risks and challenges. Cross -sectoral and multi -stakeholder collaboration will 
+be key.  
+ 
+In Opinion 4 of WTPF -21, all stakeholders have been  invited to work collaboratively :  
+ 
+• to utilize the potential of relevant new and emerging tec hnologies, such as AI, to facilitate the 
+use of telecommunications/ICTs to achieve the SDGs;  
+• to promote public policies and strategies at the national, regional, and international levels to 
+take advantage of opportunities and overcome challenges in the use and mobilization of 
+technologies above for sustainable development;  and 
+• to encourage the participation of all stakeholders from developing countries, and in particular 
+from Least Developed Countries (LDCs), Landlocked Developing Countries (LLDCs) and S mall 
+Island Developing States (SIDS), in the activities of relevant entities, organizations, institutions 
+and initiatives that are working on the various policy matters set out in this Opinion,  
+ 
+The Best Practice Guidelines of ITU’s Global Symposium for Regulators (GSR)   adopted by the global 
+community of regulators provide guidance to national ICT and digital sector and cross -sector 
+regu lators and policy makers overseeing ICT and digital markets.  In the increasingly complex and 
+dynamic digital transformation, it is important to agree on common principles and put forward clear 
+and simple rule s, such as:  
+ 
+• Multiple formats and modes of regulation  are required to incentivize the development and 
+adoption of new and emerging technologies . Formal regulation should leave sufficient space 
+ 
+2 WTPF -21 Opinion 4: New and emerging technologies and services to facilitate the use of 
+telecommunications/ICTs for sustainable development  
+ 
+for self -regulation, hybrid and collaborative regulatory models and oversight mechanisms for 
+law enforcement. From incentives and rewards through forbearance to targeted obligations, 
+the range of tools and remedies at hand for regulators to explore is wide . New issues call for 
+novel approaches and the regulatory canvas has expanded to cover regulatory sandboxes, 
+ethical frameworks, technology roadmaps, regulatory impact assessment, multi -varied 
+research and big data simulation in exploring the most balanced , proportionate and fair 
+regulatory response. Artificial intelligence, Internet of Things, and online disinformation are 
+some of the complex issues waiting to be addressed.  
+• Policies and regulations need to provide the necessary guardrails to ensure an open , 
+inclusive and transparent digital environment.  Regulatory decision -making processes should 
+encourage broad participation of stakeholders, including those from industry, academia, civil 
+society and local governments, through formal and informal channels. Throughout the 
+development and implementation of emerging technologies such as Artificial Intelligence and 
+Internet of Things, regulated entities and regulators should share responsibility for the 
+development, monitoring and implementation of rules and gui delines.  
+• Data shielding : Clear, strong and enforceable rules related to data governance can provide 
+adequate shield for digital consumer protection while creating a predictable, structured 
+framework for doing digital business. State -of-the-art regulatory p rotocols and mechanisms 
+can go a long way towards enhancing trust in the digital ecosystem, such as the commitment 
+to comply with requirements related to the access to non -personal data retained by digital 
+platforms, transparency of certain essential algor ithms used by digital services, portability of 
+essential data of structuring platforms, interoperability and maintenance of APIs (application 
+programming interfaces).  
+ 
+ITU Plenipotentiary Resolution 214 (Bucharest, 2022)  on Artificial Intelligence technologies and 
+telecommunications/information and communication technologies  also recognized that fully realizing 
+the benefits of AI technologies will require bridging digital divides and achieving universal access to 
+telecommunications/ICTs , and that the development of AI brings both opportunities and challenges .  
+ 
+ 
+  
+ 
+ANNEX  1: WSIS  FORUM 2023  INPUT TO THE GLOBAL DIGITAL COMPACT  
+ 
+ 
+WSIS Forum 2023 Input to the Global Digital Compact  
+ 
+The WSIS Forum 2023  hybrid week was held from 13 to 17 March in Geneva, Switzerland, under the 
+theme of WSIS Action Lines for building back better and accelerating the achievement of the SDGs . The 
+Forum’s hybrid week welcomed more than 2,700 participants attending both onsit e and remotely 
+from over 150 countries. The hybrid week comprised over 250 sessions with innovative formats, 
+including open space talks, country workshops, knowledge cafes, round table discussions, and many 
+more. The WSIS Forum 2023 Chairperson is H.E. Dr Emilija Stojmenova Duh, Minister of Digital 
+Transformation, Slovenia.  
+ 
+The high -level track had a significant presence of 46 Ministers, 50 Ambassadors, and 15 Mayors from 
+various countries around the world, discussing implementation of the WSIS process and  its Action 
+Lines, advancement of the Sustainable Development Goals, contributing to the Global Digital Compact 
+and other global processes. The event also recognized outstanding contributions in the field of 
+information and communication technology by awar ding stakeholders for their contributions to 
+various topics, including innovation in healthy ageing, digital service design, generation connect and  e-
+government activities. The WSIS Forum 2023 continues with virtual workshops from April to May 
+2023.  Highli ghts, outcomes, and achievements of all the sessions of the WSIS Forum 2023 are 
+available  online .  
+ 
+This year’s hybrid week had several innovative session formats and featured around 250 sessions 
+organized by multistakeholders (governments, private sector, civil society, academia, international 
+organizations and technical community),  including open space talks, thematic workshops, country 
+workshops, WSIS Action Lines Facilitation Meetings, knowledge cafes, WSIS Prizes, high -level track 
+sessions, and many more. The stakeholders appreciated the new innovative formats, which fostered 
+more participatory and collaborative exchanges with engaging dialogues. 30+ exhibitions spaces  
+showcased ICTs for sustainable development. The United Nations Group on the Information Society 
+(UNGIS)  reiterated its commitment to the WSIS process and WSIS Action Lines implementation as well 
+as to strengthen the alignment of the WSIS and SDG processes. UNGIS members discussed the 
+preparation of an action plan to leverage the pro file of UNGIS and to contribute to other global 
+processes on digital for development issues, including the Global Digital Compact.  
+ 
+The WSIS Forum 2023 also provided a platform for multistakeholder discussions  on the Global Digital 
+Compact. The co -facilit ators of the GDC, H.E. Mr. Claver Gatete, Ambassador of Rwanda, and H.E. Ms. 
+Anna Karin Eneström, Ambassador of Sweden, were present at the WSIS Forum and had the 
+opportunity to interact and listen to the views of multistakeholders on the future on GDC and  the 
+importance of the WSIS process beyond 2025. Mr. Amandeep Singh Gill, UN Secretary -General's Envoy 
+on Technology, was also present at the Forum.  
+ 
+
+ 
+WSIS Forum 2023 Ambassadors Roundtable Input  
+ 
+The WSIS Forum 2023 Ambassadors roundtable discussion took place on 13 March 2023, featuring 
+approximately 50 Ambassadors to UN in Geneva, where they deliberated on the following topics:  
+ 
+- Leveraging the power of information and communication technologies (ICTs) and the need to 
+bring about an inclus ive, prosperous, sustainable, safe and trusted digital future for all;  
+- Meaningful communication and Geneva community’s role in effective implementation of UN 
+Processes.  
+- WSIS+20 review process and the future of WSIS beyond 2025 – identifying emerging trends, 
+challenges and opportunities for implementing the WSIS Action Lines.  
+- WSIS+20 review and the Global Digital Compact (GDC)  
+▪ GDC discussions could consider ongoing multist akeholder discussions on WSIS+20. The 
+WSIS Action Lines are particularly important as they capture emerging trends, 
+opportunities, and challenges in the digital world beyond 2025.  WSIS Forum will continue 
+to play an important role in digitalization.  
+▪ Global  Digital Compact process must reflect the needs of developing countries to create 
+more equitable prosperity and reduce structural inequalities. Questions on the GDC 
+process, including its linkages with the Summit of the Future, were raised. Mexico 
+informed  that during the GDC discussions in Mexico, the imperative of closing the digital 
+divides was discussed to produce tangible elements to be included in the future Global 
+Digital Compact to be adopted at the Summit of the Future in 2024.  
+▪ To avoid duplicatio n, the WSIS+20, Global Digital Compact, and Summit of the Future 
+should be synergized. Some highlighted strengthening the role and contribution of the 
+Geneva community towards can contribute to Global Digital Compact discussions with 
+Sweden, Rwanda, and th e UN Tech Envoy. WSIS+20 is important to achieve the common 
+goal of connecting humanity.  
+ 
+WSIS Forum 2023 Ministerial Roundtable: WSIS Forum 2023 Chairperson’s Concluding Summary  
+ 
+The Ministerial Roundtable at the WSIS Forum 2023 (13 -17 March), benefited  from the presence and 
+contributions of 40 Ministers/Deputies. In an innovative format with 3 breakout rooms chaired by 
+Ministers (Gambia, Philippines, UAE), 3 topics were discussed:  
+ 
+- ICTs rescuing the 2030 Agenda for Sustainable Development WSIS Action Li nes for building 
+back better and accelerating the achievement of the SDGs  
+- World Summit Information Society Ministerial Contribution to the Global Digital Compact 
+Consultations  
+- Exploring the Potential of Space for all as a Driver of Sustainable Development  
+ 
+The Ministerial roundtable of WSIS Forum 2023 concluded with the following:  
+ 
+1. They emphasized that harnessing the power of digital will be vital to rescuing the SDGs. ICTs are a 
+powerful tool that should be fully leveraged towards this goal. The WSIS process provides an existing 
+and well -functioning framework for accelerating the achievement of the SDGs.  
+ 
+2. They invited all stakeholders to harness the power of digital and leverage the alignment between 
+the WSIS process and the 2030 agenda for sus tainable development, as well as the SDG Digital Day to 
+accelerate the achievement the SDGs.  
+ 
+ 
+3. They recognized that discussions on Our Common Agenda and especially its Global Digital Compact 
+are complementary to the WSIS Framework. Therefore, they invite d all stakeholders to leverage the 
+learnings of the implementation of the WSIS Framework and related process in their deliberations of 
+Our Common Agenda.  
+ 
+4. They recognized the enormous potential that Space holds in global efforts to connect the 
+unconnect ed and beyond. Thus, they invited all stakeholders to work together to ensure that Space is 
+leveraged in a safe and sustainable manner.  
+  
+ 
+ANNEX  2: BUCHAREST DECLARATION ON “BUILDING A BETTER DIGITAL FUTURE FOR ALL”, 
+ADOPTED AT THE MINISTERIAL ROUNDTABLE , BUCHAREST , 25 SEPTEMBER 2022  
+  
+
+ 
+ 
+  
+
+ 
+ANNEX 3: ITU’ S WTDC  DECLARATION , KIGALI , 6-16 JUNE 2022  
+ 
+ 
+  
+
+ 
+ 
+  
+
+ 
+ 
+  
+
+ 
+ANNEX  4: ITU’ S COMMITMENTS ON CONNECTIVITY AND DIGITAL TRANSFORMATION  
+ 
+ITU’s vision  is an information and digital society, empowered by the interconnected world, where 
+telecommunication/ICTs enable and accelerate social, economic and environmentally sustainable 
+growth and development for everyone. As the specialized UN agency for ICTs, ITU’s mission  is to 
+promote, facilitate and foster affordable and universal access to telecommunication/ICT networks, 
+services and applications and their use for social, economic and environmentally sustainable growth 
+and development.  
+ 
+To work towards this  vision and mission, ITU has a common strategy and accountability framework, 
+called ‘Connect 2030’ . The Connect 2030 Agenda for Global Telecommunication/ICT Development  
+focuses on how technological advances can contribute to accelerate the achievement of the 
+Sustainable Development Goals (SDGs) by 2030. With the five goals: i) Growth, ii) Inclusiveness, iii) 
+Sustainability, iv) Innovation and v) Partnership, the Connect 2030 Agenda is linked to ITU’s overall 
+Strategic Plan, ensuring that technology serves humanity and the planet.   
+ 
+The Kigali Action Plan adopted at the WTDC -22 constitutes one of the main engines of a forward -
+looking agenda to address the global connectivity gap along with a set of key WTDC resolutions3, 
+including the five priorities for ITU Development Sector (ITU -D): i) Affordable connect ivity, ii) Digital 
+transformation, iii) Enabling policy and regulatory environment, iv) Resource mobilization and 
+international cooperation, and v) Enabling environment. A set of initiatives, including the ones for six 
+regions of ITU , adopted by WTDC guide  ITU implementation efforts and countries themselves in 
+developing and implementing specific projects to address priority needs in the area of ICTs and digital 
+development.  
+ 
+• CONNECTIVITY INITIATIVES : The Partner2Connect Digital Coalition (P2C)  is a global alliance 
+launched by ITU in 2021 in cooperation with t he Office of the Secretary -General’s Envoy on 
+Technology and the UN -OHRLLS. The Coalition provides an open platform for resources, 
+commitments and partnerships to be mobilized with the objective of fostering meaningful 
+connectivity and digital transformati on globally, in the hardest -to-connect communities, including 
+those LDCs, LLDCs, and SIDS. To date, the coalition has mobilized some 600 pledges coming from 
+over 280 entities around the world, totalling nearly USD  30 billion in value for extending 
+meaningf ul connectivity, with financial or in -kind commitments addressing key issues like 
+infrastructure, cybersecurity, digital skills, inclusion, and socio -economic transformation.  
+ 
+Giga  is an ITU -UNICEF initiative dedicated to connecting every school in the world to the Internet, 
+and every young person to information, opportunity, and choice. Giga's work includes: 1) mapping 
+the location of schools and monitoring their connectivity status in real time; 2) planning the 
+infrastructure, policies, regulations, and investments needed to deliver sustainable school 
+connectivity; 3) designing solutions to finance the capital and operational costs of connecting 
+schools; and 4) supporting governments to  contract connectivity for schools. As of December 
+2022, Giga has helped connect more than 5,700 schools and 2.2 million children across 19 
+countries. Giga has also mapped 2.1 million schools across 137 countries.  
+ 
+• CONNECTIVITY INFRASTRUCTURE MAPPING : In t he area of infrastructure and network 
+development, identifying connectivity gaps in ICT and digital infrastructures is key. The ITU 
+ 
+3  Notably, WTDC Resolution 37 (Rev. Kigali, 2022)  on Bridging the digital divide, WTDC Resolution 77 (Rev. 
+Buenos Aires, 2017) on Broadband technology and applic ations for greater growth and development of  
+telecommunication/information and communication services and broadband connectivity , and WTDC 
+Resolution 89 (Kigali, 2022) on Digital transformation for sustainable development  
+ 
+Broadband Mapping (of its 193 Member States)  activities make use of geospatial tools applied to 
+telecom infrastructure, together with relevant data for identifying missing links. This allows the 
+development of projects and case studies for planning national broadband infrastructure 
+deployment in suppor t to digital transformation across sectors (e.g., financial inclusion, education, 
+health). ITU mapping tools feed into partnership activities such as in school connectivity, financial 
+inclusion and the use of ICT Business Planning for sustainable network d evelopment.  
+ 
+• CONNECTIVITY DATA AND STATISTICS : Data is critical to our goal of connecting the world. It tells 
+us where we were, where we are, what works and what does not. It is a key ingredient of empirical 
+research for establishing correlation, determining causality, identifying good practices, and 
+designing effective interventions. ITU leads the global ICTs statistics agenda. It collects , actively 
+uses the data and statistics to monitor digital divide, and disseminates vital informa tion and 
+carries out world -class research to support evidence -based decision making towards universal and 
+meaningful connectivity and sustained digital transformation: e.g., through ITU DataHub , ITU’s 
+annual Facts and figures  and ICT price t rends , and t he Digital Development Dashboard .  
+ 
+• SPECTRUM AND SATELLITE FOR CONNECTIVITY : At the forthcoming Radiocommunication 
+Conference (WRC -23), ITU Member States will decide after a 4 -year study cycle to update the 
+Radio Regulations on agenda items,  including but not limited to: i) the continued development of 
+International Mobile Telecommunications (IMT) systems, including the use of high -altitude 
+platform stations as IMT base stations (HIBS), ii) the enhancement of aeronautical and maritime 
+communi cations, including by satellite, for sub -orbital vehicles and for unmanned aircraft systems, 
+iii) the modernization of the Global Maritime Distress and Safety System (GMDSS), iv) the 
+improvement of the science services for the increasing importance and nee d for weather forecast 
+and climate change monitoring and other scientific missions, iv) the development of the technical, 
+operational and regulatory measures for the use of earth stations in motion on board aircrafts and 
+ships for communication with geosta tionary and non -geostationary satellites, and v) the 
+continued development of the regulation of recent constellations deployment, as well as 
+improving the regulation of space planned bands and equitable access to satellite spectrum by 
+new Member States.  
+ 
+• ENABLING ENVIRONMENT (POLICY AND REGULATION ): As recognized by the regulatory 
+community as best practice, an adaptive, resilient, evidence and outcome based, collaborative 
+and fit -for-purpose policy and regulatory ecosystem is necessary for open and competi tive digital 
+markets to thrive along with delivering positive consumer outcomes and provide the foundation 
+for Digital Transformation. The Best Practice Guidelines ‘ Regulatory uplift for financing digital 
+infrastructure, access and use ’ adopted by regulators at the Global Symposium for Regulators 
+(GSR)  further amplify the importance of policy and regulatory thought leadership, cross -sectoral 
+collaboration, building trust, engagement, and novel regulatory approaches the gold standard for 
+digital regulation , to fast-forwarding digital connectivity for all , and bridge the funding and 
+financing gap in digital markets.  
+ 
+Serving as a reference framework of good practices for digital policy and regulation, the G5 
+Benchmark  and ICT Regulatory Tracker   help countries to track progress, identify gaps in policy 
+and regulatory frameworks and to establish roadmaps towards digital collaborative governance 
+and inclusive digital transformation across all sectors of the economy.   
+ 
+• DIGITAL SKILLS: Digital skills are key to digital transformation and a significant enabler of each 
+country’s digitization. Instilling the necessary skills has become a key part of national digital 
+transformation strategies.  With a wide range of projects that target digital skills, ITU contributes 
+ 
+actively to the strengthening  of digital capacities among its member states, e.g., via training for 
+ICT professionals; basic and intermediate skills training for citizens and marginalized groups; a 
+commitment to invest in skills development for young people; tools and guidelines to im plement 
+digital skills strategies; and international cooperation to help governments increase their digital 
+capacity. Among others, the ITU Digital Tr ansformation Centres (DTC) Initiative , launched with 
+Cisco in 2019, aims to strengthen people’s digital capacities, particularly in underserved 
+communities. Over 150  000 people (of which over 60% were female) have been t rained in basic 
+and intermediate digital skills through 13 DTCs located in Africa, the Americas, and the Arab and 
+Asia-Pacific regions.  
+ 
+• CYBERSECURITY AND EMERGENCY TELECOMMUNICATION S: ITU is committed to promoting 
+cybersecurity and ensuring the security of telecommunication/ICT networks and services. Its 
+Global Cybersecurity Index (GCI)  provides a framework for measuring a country's commitment 
+and helps improve cybersecurity. ITU's National CIRT Programme  helps enhance countries' 
+cybersecurity capabilities, and its Cyberdrill  exercises provide hands -on training for cyber incide nt 
+response teams. ITU is also helping countries develop their National Cybersecurity Strategies and 
+action plans  and promoting cybersecurity inclusion through initiatives such as Child Online 
+Protection (COP ) and Women in Cyber . ITU provides capacity building support for developing 
+countries and has established programs for women in cybersecurity. As an internat ional 
+standards -making body for ICTs, interoperability, accessibility and security are our requirements 
+from the design stage. Over 200 standards focusing on security and a series of ICT standards (e.g., 
+Artificial Intelligence, Quantum Information Technol ogy for Networks, many more.) have been 
+published by ITU.  
+As the world witnessed an increased number of natural hazards and climate -related disasters, ITU 
+works with countries to better leverage ICTs in disaster risk reduction and management, such as 
+developing National Emergency Telecommunications plans , and promotes the adoption of the 
+Tampere Convention to promote coordination across different stakeholders in the whole lifecycle 
+of disasters. Mo reover, as part of the UN Early Warnings for All Initiative , ITU is leading the effort 
+on warning dissemination an d communication pillar, and highlight the use of mobile networks 
+(e.g., cell -broadcast and/or location -based SMS in combination with Common Alerting Protocol to) 
+in early warnings. In disaster response, ITU Disaster Connectivity Maps  support government and 
+first responders in identifying connectivity outages to facilitate faster and targeted connectivity 
+restorati on. Upon request from the country, ITU deploys equipment  to support coordination of 
+relief operations, with the support of the IT U Emergency Telecommunication Roster. ITU works 
+closely with Emergency Telecommunications Cluster (ETC) and other partners in disaster response.  
+• SUSTAINABLE CONNECTIVITY , INCLUDING WORK ON GHG  EMISSIONS AND E -WASTE : While 
+digital technologies are critical tools to respond to the most pressing global challenges of our time 
+and a key for fast -tracking the achievement of the SDGs, responsible innovation and 
+environmental and circular considerations must become integral in the design, deployment and 
+decommissio ning of digital technologies. ITU’s unique membership and mandate make it an 
+important player for driving green digital transformation. This includes it work on green standards  
+and e-waste data  and policies , where it guides countries and provides technica l assistance to 
+support countries in establishing environmentally sound national e -waste management systems 
+and regulation. ITU also tracks industry emissions, energy use and climate commitments from the 
+world’s largest technology companies and supports co untries in monitoring and tracking ICT 
+sector G reenhouse Gases (G HG) emissions and energy use (e.g., ITU’s Global E -waste Monitor  and 
+the Greening Digital Companies Report ). 
+  
+ 
+• CONVENING GLOBAL PLATFORMS FOR CONNECTIVITY : Led by H.E. President Paul Kagame of 
+Rwanda and Carlos Slim Helù of Mexico, the Broadband Commission for Sustainable Development  
+is co -chaired by ITU’s Secretary -General  and UNESCO Director -General and comprises over 50 
+Commissioners who represent a cross -cutting group of top CEO and industry and policy leaders, 
+with academia and organizations concerned with development.  The Commission serves as a 
+foundation for bringing the UN Secretary -General’s Roadmap for Digital Cooperation to life with 
+its advocacy and thought leadership work and contributing and  shaping the Global Digital Compat 
+process (in particular in  the pillar of  " Connect all people to the internet, including all schools") 
+and outcomes as the high -level advisory multistakeholder group.  
+ 
+• THE WORLD TELECOMMUNICATION /ICT  POLICY FORUM (WTPF)  is a high -level international 
+forum to exchange views on the key policy issues arising from today’s fast changing 
+telecommunication/ICT environment. At the last meeting, held in Dec2021, the Forum approved 
+a set of five non -binding policy guidance documen ts, known as ‘Opinions’, such as on emerging 
+telecommunication/ICT services and technologies, affordable and security connectivity, digital 
+literacy and skills, and more,  helping shape future technology policy. ITU, together with UNESCO, 
+UNDP and UNCTAD, in collaboration with all WSIS Action Line (co -) facilitators and partners, is also 
+convening the annua l WSIS Forum  as a global multistakeholder platform facilitating the 
+implementation of the WSIS Action Lines. With the theme of WSIS Action Lines for ‘Building Back 
+Better and Accelerating the achievement of the SDGs’, the WSIS Forum 2023  was held from 13 – 
+17 March at the ITU HQs in Geneva, followed by virtual workshops scheduled in April and May.  
+ 
+• GLOBAL PARTNERSHIP FOR GENDER EQUALITY IN THE DIGITAL AGE (EQUALS)  contributes 
+to the UN Sustainable Development Agenda through actions and evidence -based research aimed 
+at closing the global gender digital divide. By promoting awareness, building political 
+commitments, leveraging resources and knowledge, harnessing the capacities of partners, and 
+supporting real action, EQUALS seeks to achieve digital gender equality. Generation Connect  is a 
+leading platform to engage, specifically wi th global youth and encourage their participation as 
+equal partners alongside the leaders of today’s digital change, empowering young people with the 
+digital skills and opportunities to advance their vision of connected future. Its Call to Action ‘ My 
+digital future ’ facilitated by ITU serves as an advocacy instrument to enhance youth engagement 
+in ITU and across the UN system and strengthen the youth perspective in  organizational digital 
+strategies and their implementation.  
+ 
+• THE AI FOR GOOD PLATFORM , organized by ITU, together with 40 partner UN agencies and co -
+convened by the government of  Switzerland. The goal of AI for Good is to identify practical 
+applications of AI to accelerate progress towards the SDGs and connect AI innovators with public 
+and private -sector decision -makers to help scale up AI solutions globally. The landmark 2017 AI 
+for Good Global Summit marked the beginning of a global dialogue on the potential of AI to act as 
+a force for good. The action -oriented 2018 and 2019 summits gave rise to numerous AI for Good 
+projects including several ITU "pre -standardization" initiatives  investigating the standardization 
+requirements for high -potential AI use cases. The upcoming AI for Good Global Summit 2023  (6-7 
+July, Geneva) combines 3,000+ participants and online participation from the over 15,000+ 
+members of the AI -powered community platform, the AI for Good Neural Network , making it the 
+world’s most inclusive AI solutions and matchmaking event.  
+ 
+As part of AI for Good, ITU, in collaboration with over 40 UN agencies and  bodies, issues an annual 
+report that aims to present a comprehensive overview of the activities being carried out by the 
+UN system. The 2022 edition is available here . 
+ 
+ 
+• AI IN STANDARDIZATION : There are a number of pre -standardization initiatives, open to 
+everyone, called ITU-T Focus Groups  that work for the quick development of specifications to 
+address industry needs as they emerge on various aspects of AI: inclu ding digital agriculture, 
+disaster management, health, autonomous networks, and the metaverse. ITU -T Study Groups, 
+that are open to all ITU members, also address aspects of AI and machine learning within their 
+mandates. The work has so far resulted in ITU-T Recommendations and Supplements  as well as 
+deliverable s from the various ITU-T Focus Groups . There is also ongoing work within ITU -R on this 
+topic.  
+ 
+• GLOBAL INITIATIVE ON AI AND DATA COMMONS : The Global Initiative on AI and Data 
+Commons is a program and collaborative platform to support the implementation of beneficial AI 
+based solutions to accelera te progress towards the 2030 Sustainable Development Goals. It is now 
+initiating a public collaborative effort named “ Project Resilience ”. The vision, in the continuity of 
+efforts towards AI for the common good, is to create a public AI service where a global community 
+of innovators and thought leaders can enhance and utilize a collection of data and AI approaches 
+both in the context of th e current pandemic and for similar future challenges. The goal is to 
+collaboratively design and build an open AI system that could inform and help tackle global 
+decision -augmentation problems.  
+ 
+• AI/ML  COMPETITIONS (“CHALLENGES ”): Through the Challenge, ITU  encourages and supports 
+the growing community driving the integration of AI/ML in networks and at the same time 
+enhances the community driving standardization work for AI/ML, creating new opportunities for 
+industry and academia to influence the evolution of ITU standards. The solutions can be accessed 
+in several repositories on the Challenge GitHub . 
+ 
+• UN HIGH-LEVEL COMMITTEE ON PROGRAMMES (HLCP)  INTERAGENCY WORKING GROUP 
+ON AI (IAWG -AI): The IAWG -AI, established during the 40th HLCP session in October 2020, 
+focuses on advancing policy and programmatic coherence of AI activities within the UN. It 
+currently has 40 UN agencies and bodies as members, and several workstreams such as capacity 
+development, procurement guidelines, educa tion, justice, industry, foresight, and other areas .  
+ 

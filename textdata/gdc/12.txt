@@ -1,0 +1,2194 @@
+0  
+  
+ 
+ 
+ 
+Nairobi, Kenya.  
+ REPORT  ON THE  GLOBAL  
+DIGITAL  COMPACT - AFRICA  
+CONSULTATIONS  
+5-6 DECEMBER,  2022  
+
+1 Table of Contents  
+1 Executive Summary  ................................ ................................ ................................ .........................  4 
+2 Background  ................................ ................................ ................................ ................................ ..... 6 
+2.1 Introduction  ................................ ................................ ................................ ............................  6 
+2.2 Objectives of the consultation  ................................ ................................ ................................  6 
+3 High -Level Segment/Welcoming Speeches  ................................ ................................ ....................  6 
+3.1 UN Secretary -General’s Envoy on Technology, Under -Secretary -General Mr Amandeep 
+Singh Gill  ................................ ................................ ................................ ................................ .............  6 
+3.2 Eng. Daniel O. Obam, Communications Secretary at National Communications Secretariat) 
+Representing Mr. Edwin Owalo the Cabinet Secretary, Ministry of Info rmation, Communications 
+and The Digital Economy, Republic of Kenya. ................................ ................................ .....................  7 
+3.3 German Ambassador to Kenya, Mr. Sebastian Groth  ................................ .............................  8 
+4 Introduction and Orientation  ................................ ................................ ................................ ..........  8 
+4.1 Getting to know the participants – Who is in the room?  ................................ .......................  8 
+4.2 Summary of open discourse -What doe s the digital future look like for Africa?  ....................  9 
+4.3 Anonymous survey  ................................ ................................ ................................ ................  10 
+5 Lightning Talk - Perspectives from Civil Society  ................................ ................................ ............  10 
+5.1 Ms Nnenna Nwakanma, Chief Web Advocate at webfoundation.org  ................................ .. 10 
+4.2.1  Summary of Questions, Answ er and Feedback Session  ................................ ..........  11 
+5 Sustainable Use of Digital Technologies in the 21st Century: Achieving the 2030 Agenda and 
+Strengthe ning Human Rights (Presentation of practical experiences about how digital technologies 
+helped achieve SDGs in Africa)  ................................ ................................ ................................ .............  11 
+5.2 Ms R ym Jarou, Unit Manager - Technology Driven Entrepreneurship, Smart Africa Alliance
+ 12 
+o Why do we need a single digital market in Africa?  ................................ ................................ ... 12 
+5.2.1  Summary of Questions, Answer and Feedback Session  ................................ ..........  12 
+o ................................ ................................ ................................ ................................ ........................  13 
+5.3 Ms Angela Lungati, Executive Director at Ushahidi & Civic Tech Frontrunner  .....................  13 
+5.3.1  Summary of Questions, Answer and Feedback Session  ................................ ..........  14 
+6 Breakout Session 1: Sustainable Use of Digital Technologies in the 21st Century  ........................  15 
+6.2 Where are we standing regarding SDGs globally and in Africa?  ................................ ...........  15 
+6.3 How did the use of digital  technologies already contribute to addressing the issue(s) and 
+how can it contribute even further?  ................................ ................................ ................................ . 15 
+6.4 Which contribution is necessary from each stakeholder to make digital technologies a 
+strong driver for achieving the 2030 Agenda? ................................ ................................ ..................  15 
+Key Messages  ................................ ................................ ................................ ................................ .... 17 
+Key Messages  ................................ ................................ ................................ ................................ .... 19 
+Key Messages  ................................ ................................ ................................ ................................ .... 20 
+2 7 Protecting a global, open, free and secure Internet  ................................ ................................ ..... 21 
+7.2 Addressing the Risk of Internet Fragme ntation and Reinforcing the Multi -Stakeholder 
+Model - Josephine Miliza, Africa Regional Coordinator, Association of Progressive Communication - 
+LOCNET Project hosted by KICTANET  ................................ ................................ ...............................  21 
+7.1.2  Summary of Questions, Answer and Feedback Session  ................................ ..........  21 
+8 Breakout Session: Protecting a global, open, free, and secure Internet  ................................ ...... 22 
+8.1 What are the main risks for an open, free and secure Internet from an African perspective?
+ 22 
+8.2 Which measures are necessary?  ................................ ................................ ...........................  22 
+8.3 How can GDC contribute to addressing the issue?  ................................ ...............................  22 
+8.4 How can an inclusive vision for the future Internet look like?  ................................ .............  22 
+Key Messages  ................................ ................................ ................................ ................................ .... 23 
+Key Messages  ................................ ................................ ................................ ................................ .... 25 
+Key Messages  ................................ ................................ ................................ ................................ .... 26 
+9 INTRODUCTION TO DAY 2  ................................ ................................ ................................ .............  27 
+9.1 Opening remarks, Mr. Yves Iradukunda -Permanent Secretary Ministry of ICT and 
+Innovations in Rwanda  ................................ ................................ ................................ ......................  27 
+9.2 Feedback on the anonymou s survey conducted on Day 1  ................................ ...................  27 
+9.3 Recap from Day 1  ................................ ................................ ................................ ..................  27 
+10 The impact of artificial intelligence and emerging technologies: advancing technological 
+innovation and protecting human rights  ................................ ................................ ..............................  28 
+10.1  Presentation by Mr. Marco Kamiyo - United Nations Industrial Development Organisation 
+(UNIDO)  ................................ ................................ ................................ ................................ .............  28 
+10.2  Presentation by Mr. Jack Ngare, Technical Director in the Office of the Chief Technology 
+Officer, Google Cloud  ................................ ................................ ................................ ........................  29 
+10.3  Presentation by Ms. Linda Bonyo CEO, Africa Lawyers Hub  ................................ .................  29 
+11 Fishbowl Session  ................................ ................................ ................................ .......................  30 
+12 Break out session: on artificial intelligence and emerging technologies  ................................ .. 32 
+12.1  Which opportunities and risks do AI and other emerging technologies offer?  ....................  32 
+12.2  How can they be regulated?  ................................ ................................ ................................ . 32 
+12.3  Who should be in charge of standard setting and regulation?  ................................ ............  32 
+12.4  How can GDC contribute to  addressing the issue?  ................................ ...............................  32 
+Key Messages  ................................ ................................ ................................ ................................ .... 33 
+13 Closing remarks  ................................ ................................ ................................ .........................  38 
+13.1  Ms. Regine Greinbreger, German Cyber Ambassador  ................................ ..........................  38 
+13.2  Mr. Yves Iradukunda -Permanent Secreta ry Ministry of ICT and Innovations in Rwanda  .... 38 
+13.3  Eng. Daniel O. Obam, Communications Secretary National Communications Secreta riat-
+representing the Cabinet Secretary for Information, Communication and Digital Economy  ..........  38 
+3 13.4  UN Secretary -General’s Envoy on  Technology, Under -Secretary -General Mr. Amandeep 
+Singh Gill  ................................ ................................ ................................ ................................ ...........  38 
+13.5  Conclusion  ................................ ................................ ................................ .............................  39 
+Annex 1 - Findings from Anonymous Survey  ................................ ................................ .........................  40 
+Annex 2 - Messages to the Americas and Asia in preparation for their regional GDC Consultations  ... 46 
+Annex 3  ................................ ................................ ................................ ................................ .................  48 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 1 Executive Summary  
+The development of a Global Digital Compact is one of the proposals arising from the UN Secretary -
+General’s report titled ‘Our Common Agenda’ report of September 2021. In this regard, consultations 
+at various levels have commenced with three regional consultations  in Kenya, Mexico, and India 
+schedul ed to provide an opportunity for input into the draft GDC that will be tabled for adoption at the 
+Summit of the Future in September 2024.  
+This report is a summary of the discussions of the first regional consultations held in Nairobi, Kenya 
+on 5-6 Decembe r 202 2 bringing  together stakeholders drawn from government, civil society, private 
+sector actors, international organisations, academia/research, and technical community from across 
+the African region  to reflect on Africa’s priorities and interests in the GDC. The Africa  consultations 
+were in the form of presentations by key speakers, questions  and a nswer  sessions, and  three  
+interactive b reakout sessions of three groups. There were three guiding thematic areas : sustainable use 
+of digital technologies in the 21st Century: achieving the 2030 agenda and strengthening human 
+rights; protecting a global, open, free, and secure internet , and the impact of artificial intelligence and 
+emerging technologies .   
+From the consultations the key recommendations along the three key sub -themes can be summarised 
+as follows:  
+Sub-theme 1: Sustainable use of digital technologies in the 21st Century: Achieving the 2030 
+Agenda and strengthening human rights :  
+a. Africa is not just a market for technologies there is thus a need to respect the agency, input, 
+and contribution of the continent;  
+b. There is a need to ensure meaningful inclusion of ALL populations including women, 
+children, and people with disabilities in policy consultations  for the development of 
+technological solutions to avoid the perpetuation of further inequality and create a safe and 
+secure digital environment for all;  
+c. Human rights considerations need to be at  the core of any digital technology service 
+interventions;  
+d. Make digital technologies affordable, accessible, and of good quality; by addressing existing 
+challenges such as inadequate infrastructure in certain regions;  
+e. Ensure GDC is not elitist;  
+f. Continuous efforts towards capacity building for policymakers and the general population 
+through education and research;  
+g. Governments need to be proactive in developing enabling and regulating policies for 
+emerging technologies; and  
+h. There is a need for collaboration  between and among actors in government and the private 
+sector in addressing the existing gaps and challenges.  
+Sub Theme 2: Protecting a global, open, free, and secure internet : 
+a. Systematically reinforce the African voice, to avoid replicating existing inequalities in the 
+offline World into the digital space;  
+b. Invest in digital literacy and safe use of the internet ; including sensitisation on  cyber security 
+to protect particularly vulnerable persons ; 
+5 c. Ensure better clarity on the notions of digita l rights, privacy rights, and internet openness and 
+ensure adequate regulatory balance to guarantee respect for the fundamental rights for all;  
+d. Facilitate meaningful public participation by availing resources for public participation in this 
+regard, the GDC can become a platform for continuous engagement ; 
+e. Consider i ndependent continental regulation  to ensure context -responsive interventions; and  
+f. Encourage investments in African solutions developed by Africans .  
+Sub Theme 3: T he impact of artificial intell igence and emerging technologies in advancing 
+technological innovation while protecting human rights : 
+a. Promote the responsible and collaborative use of AI for the public good 
+(education/health/climate etc.);  
+b. Enhance representation of  Africa  in decision -making at  the global standard -setting bodies 
+e.g., ISO, ITU -T. There is thus a need to enhance the meaningful participation of Africa by 
+supporting consistent multi -stakeholder participation ;  
+c. Be intentional in mitigating the implications of AI  on economic opportunities/job 
+environment in Africa;  
+d. Sustainable investment in awareness creation, capacity building, and the proactive response to 
+the dynamism in AI;  
+e. Promote evidence -based deployment of AI and other technologies;  
+a. Ensure adequate balanc e between regulation and innovation;  
+f. Enhance collaboration between various stakeholders in the sector and a multidisciplinary  and 
+multi -stakeholder approach to regulation; and  
+g. View the GDC as a living document and a continuing platform for  stakeholder eng agement.  
+ 
+The Nairobi GDC consultations were made possible through the collaboration of the Government of 
+Kenyan , the German Federal Foreign Office and the Office of the UN Secretary General’s Envoy on 
+Technology, Mr. Amandeep Gill. This report was developed by Ms. Sarah Wesonga and Ms. Jane 
+Muhia of ARTICLE 19 Eastern Africa.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 2 Background  
+In September 2020, on the commemoration of the seventy -fifth anniversary of t he United Nations, 
+member states adopted a political declaration , Guided by the Charter, on how they are going to ensure 
+the future they want and the United Nations they need. Consequently, in September 2021 the UN 
+Secretary -General published his report entitled “ Our Common Agenda ,” which proposes a Global 
+Digital Compact (hereinafte r ‘GDC’) that seeks to “outline shared principles for an open, free and 
+secure digital future for all.” The proposed Global Digital Compact is set to be agreed upon at the 
+Summit of the Future  in September 2024.  
+It is against this background that the Kenyan and German governments in cooperation with the Office 
+of the UN Secretary -General’s Envoy o n Technology, held multi -stakeholder consultations on the 
+Global Digital Compact, in Nairobi, Kenya, on 5 – 6 December 2022. The consultations, led by the 
+UN Secretary General’s Envoy on Technology, Mr. Amandeep Gill, aimed to provide a forum to 
+discuss ho w the future GDC  can facilitate the use of digital technologies for the realisation of the 
+2030 Agenda for Sustainable Development and enhance digital access for societies across the Global 
+South and provide an opportunity for various stakeholders to inpu t into the GDC. The consultations 
+further aimed to enable discussions about how risks and challenges associated with new technologies 
+can be addressed by anchoring principles for responsible use inside the GDC.  
+2.1 Introduction  
+The workshop Consultations were moderated by Martin Reinfeldt and Joy Doreen Biira. Day 1 of the 
+consultations was live -streamed on YouTube and can be accessed here. General resources from the 
+workshop including the agenda, presentations, s urveys , and key messages can be accessed on this 
+Miro  board .  
+2.2 Objectives of the consultation  
+A. Contribute to the exchange of ideas about the potential as well  as the challenges in the future 
+use of digital technologies.  
+B. Represent your organisations, companies or offices' knowledge and standpoint on principles 
+for an open, free and secure digital future for all.  
+C. Develop, together with other stakeholders, tangi ble recommendations for elements to be 
+included in the Global Digital Compact.  
+3 High -Level Segment/Welcoming Speeches  
+3.1 UN Secretary -General’s Envoy on Technology, Under -Secretary -General Mr 
+Amandeep Singh Gill  
+ 
+In his opening statement, Mr. Amandeep Gill thanked the government of Kenya and all participants 
+for their continued partnership and openness to collaboration. He la id context for the engagement by 
+referencing the 75th Anniversary of the United Nations, where member states adopted a political 
+declar ation with one of the key commitments being to improve digital cooperation i.e., work together 
+across territorial boundaries and domains (government, civil society, academia, private sector , and the 
+technology community) to address the MISUSE and the MISSE D-USE of digital technologies to 
+drive progress on SDGs.  
+He cited the example of M-pesa (Mobile Money) in Kenya and Mpesa -like solutions in the African 
+region as empowering digital technologies that allow all people to participate in a modern economy. 
+He noted that while stakeholders seek to address the misuse of digital technologies it is important to 
+highlight such opportunities that promote the  realisation of the SDGs ensuring no one is left behind.  
+7 The UN Envoy on Technology stated that the GDC is a unique, once -in-a-generation opportunity to 
+reboot multilateralism at the Summit of the Future scheduled for 2024.  He highlighted that the GDC 
+would be an opportunity to agree on some shared principles for an open, free and inclusive digital 
+future. He emphasised the need to move from principle to action and that the GDC is the foundational 
+pillar to drive said action.  
+He noted that a key stream in the GDC was to address the digital divide. Over the two days, all 
+participants would have an opportunity to articulate  what  an open, free and secure digital future for 
+all, means. He further noted the importance of protecting both online and offline human rights and the 
+significance of aligning technology with human rights.  
+He encouraged the stakeholders to aim the conversation towards actionable solutions that bring value 
+to member states. He challenged the audience to assess the ambition of the GDC and el evate the 
+conversation to a level for leaders to listen to and find the political centre of the GDC and ensure it 
+reflects the aspirations of Africa and its people, it  is relevan t to the diverse contexts, and evaluate how 
+it could leverage existing opportu nities without leaving anyone behind.  
+In his closing remarks, he assured the stakeholders that he is present to listen, learn and share and 
+thanked the organisers  and GIZ for facilitating the consultations.  
+ 
+3.2 Eng. Daniel O. Obam, Communications Secretary at  National Communications 
+Secretariat) Representing Mr. Edwin Owalo the Cabinet Secretary, Ministry of 
+Information, Communications and The Digital Economy, Republic of Kenya.  
+ 
+Eng. Obam commenced his remarks by welcoming all participants to Kenya and thanki ng the 
+organisers for facilitating the event. He noted that the government of Kenya was undergoing 
+administrative transitions and conveyed  apologies on behalf of the Cabinet Secretary who was 
+attending a different meeting to onboard the newly appointed Pri ncipal Secretaries.  
+He then proceeded to read the address on behalf of the Cabinet Secretary:  
+The Cabinet secretary expressed his gratitude that Kenya was among the three countries nominated to 
+co-host the GDC consultations and reiterated that the country fully supports the UN report, “Our 
+Common Agenda” and is in concurrence with all the 12 Commitments made therein, as they are 
+aligned to the development agenda of the Government of Kenya.  
+He noted that the aim of the GDC to connect all people, is very muc h in line with the commitment of 
+the Government of Kenya to avail universal broadband to its citizens . In this regard, he indicated that 
+to fast -track broadband connectivity across the country , the government has already committed to the 
+construction of an  extra 100,000 kilometres of national fibre optic cable network. He stated that it 
+aims to enhance government service delivery through the digitalization of all critical government 
+processes and aims to make available 80% of services online in the next yea r. 
+The CS noted that when improperly used, digital technologies can fuel divisions within and between 
+countries, increase insecurity, undermine human rights, and exacerbate inequality therefore urged the 
+full potential for beneficial use of technology, add ressing digital trust and security, must continue to 
+be a priority.  
+He stated that Kenya has developed robust and dynamic policy, legal and regulatory frameworks to 
+support and promote digital inclusion and a sustainable digital economy and its ’ nomination  to host 
+this vibrant digital consultation is a strong testament to the strides made in the digital space. He 
+reported that the digitalisation of government services, digital business, infrastructure, innovation -
+8 driven entrepreneurship, digital skills and digital inclusion, as well as creating awareness of data 
+protection are among the fundamental pillars the country has identified as drivers for digital 
+transformation.  
+In his closing remarks, Eng. Obam thanked the Federal Government of Germany, as well as other 
+partners, for committing to support and facilitate a cross -regional multi -stakeholder process in close 
+coordination with the Office of the UN Secretary General’s Envoy on Technology. He reiterated 
+Kenya’s commitment  to play its role as a trusted memb er of the United Nations.  
+3.3 German Ambassador to Kenya, Mr. Sebastian Groth  
+In his remarks, Amb. Groth  welcomed all in attendance and thanked the organisers and partners for 
+bringing the event to fruition. He noted that the Global Digital Compact was a timely and crucial 
+initiative hence the German government took it seriously from the beginning. He thanke d the 
+Government of Kenya as well as the Principal Secretary of Foreign Affairs who were instrumental in 
+the preparation of the conference. He acknowledged that Nairobi is one of the global digital 
+technology hubs and that such initiatives create an opport unity for most countries in the North, 
+including Germany, to engage, share and learn about innovation from the African continent at large.  
+He reiterated that the Global Digital Compact project is a core element of the United Nations' 
+common agenda as its m embers prepare for the next political. The GDC provides a roadmap for 
+digital cooperation as it seeks to bring all stakeholders including governments, civil society, 
+academia, the private sector, etc, together to see what role digital technology can play i n advancing 
+sustainable development.  
+He explained that the objective of the Africa consultations was to bring together all stakeholders  to 
+examine  how the future of the GDC can facilitate the use of digital technologies for the realisation of 
+the SDGs amid st the existing challenges and also explore how digital solutions could increase benefit 
+and create opportunities for people in the global south. The consultations would further explore and 
+identify the risk s and challenges associated with digital technolo gies including human rights and 
+cybersecurity.  
+Amb. Groth stated that alongside Kenya, the Federal Republic of Germany shall also be partnering 
+with Mexico, and India as partners for the GDC consultations in the Americas and Asia  regions  
+respectively. He c ommended Nairobi for being open and accommodating to digital technology and 
+innovation and encouraged the continued building of expertise and leveraging on the existing  
+opportunities.  
+He concluded by stating that in the GDC consultations, the priority for Germany is not development 
+cooperation but to initiate a political conversation - “how do we shape the digital future? How do we 
+develop the next digital cycle?”  
+4 Introduction and Orientation  
+4.1 Getting to know the participants – Who is in the room?  
+ 
+After the  welcoming speeches, the moderators explored, together with the participants, ‘who is in the 
+room’ today. By raising their hand, each person responded to the following questions:  
+Which sector or group are you / is your organisation representing?  
+● Governments  
+● Civil Society  
+● Private Sector  
+● International Organisations  
+9 ● Academia / Research  
+● Technical Community  
+All the above -mentioned sectors were represented  with governments and civil society ma king up the 
+majority of  the participants. Durin g this exercise, everyone got the opportunity to quickly introduce 
+themselves.  
+Which age group do you represent?  
+● Under 30 years  
+● from 30 - 45 years  
+● from 46 - 60 years  
+● Beyond 60 years  
+With 3 participants fitting the first group and 1 participant in the last, the two middle -aged groups 
+made up the vast majority of participants with the 30 - 45 years group being the one with the highest 
+number of participants.  
+In which language do you feel more at ease?  
+● English  
+● French  
+3 Participants opted for ‘French’, whi le all other participants opted for ‘English’.  
+4.2 Summary of open discourse -What does the digital future look like for Africa?  
+Once the question about ‘Who is in the room had been answered, participants were invited to inquire 
+from the person sitting next to them, and vice versa  on, ‘what a digital future looks like for Africa?’ 
+Here is a sample of responses from the participants:  
+● “The future is bright and promising with the potential leverage developments we’ve seen from 
+other countries to leapfrog our progress. However, there are challenges on the nexus between 
+rural and urban connectivity that needs to be addressed” - Government representative, Ministry of 
+Foreign Affairs, Kenya.  
+● “The future is very bright with even more growth potential.” - Civil Society Representative, 
+Nigeria.  
+● “The future offers an opportunity for collaboration, particularly for African -grown solution s and 
+not band -aid solutions copy pasted from the West. There’s potential; for multi -stakeholder 
+collaboration and ensuring Africa is connected to the next industrial revolution.” - United Nations 
+Agency Representative.  
+● “There’s a need to understand and res pect the context. The future also offers opportunities for 
+partnership and collaboration across public and private sectors for the public good.” - Technology 
+and Innovation Hub Representative, Rwanda.  
+● “The digital future for Africa entails 100% penetration and access to technology and ICT 
+infrastructure and ensur ing safety digital safety and security for everyone.” - Academia and Civil 
+Society Representatives, Nigeria, South Africa and Côte d'Ivoire.  
+● “The digital future will consider the diverse cultural cont exts in the African continent in 
+enhancing digital experiences. It will include consideration for human rights in the context of 
+digital technology, bring development in rural settings, address  the digital divide between urban 
+and rural sectors in entrench ing human rights and access to the internet.” - Ministry of ICT 
+Representative, Benin.  
+ 
+10 4.3 Anonymous survey  
+Following the presentations, the moderators shared a link and QR -code ( here) to access an anony mous 
+survey which contained the following questions:  
+● Which country do you represent, today?  
+● To which degree do you see the internet in your country open, free, and secure?  (On a scale from 
+1 - 10) 
+● What would it take to make the internet more open, free, an d secure in your country?  
+● What is your main expectation from the 2 days of consultation?  
+ 
+Findings from the survey are annexed herein and marked  ‘Annex 1.’ 
+5 Lightning Talk - Perspectives from Civil Society  
+To prepare for the subsequent discussions,  Ms Nnenna Nwakanma was invited to present a Civil 
+Society perspective on the Global Digital Compact process and its context.  
+5.1 Ms Nnenna Nwakanma, Chief Web Advocate at webfoundation.org  
+Ms Nnenna provided an overview of her experience in the l ast 20 years in the digital space since the 
+establishment of the digital solidarity fund and how over the years they have worked in Africa, to 
+support the power of ICT for human development. She reiterated her confidence in the UN Tech 
+Envoy Amandeep Gill Singh, based on his extensive experience and appreciated his openness to a 
+multi -stakeholder approach, which is crucial to the process.  
+On CSO engagement, she reported that the Web Foundation convenes  a forum of  about a hundred 
+organisations interested in digital cooperation and invited all other CSOs who had mutual interests to 
+join the platform. She noted that it is crucial for civil society to support the government in the GDC 
+journey through collaboration and cooperation.  
+She encouraged African countri es and all stakeholders to not only limit themselves to regional 
+international consultations but also conduct similar consultations at national, sub -national, sectoral, 
+and thematic levels. She shared that the Web Foundation held consultations in Ghana, Cô te d'Ivoire, 
+UAE, Rwanda and Burkina Faso, among a broad base of stakeholders regarding the GDC. She called 
+upon everyone to make use of the extensive resources for conducting consultations that have been 
+developed and availed on the UN Secretary General’s  Envoy on the Technology’s website for the 
+GDC.  
+She cited her concerns about the sustainability of the consultation process and the importance of 
+ensuring this is not a one -time event. She noted that this can only be achieved if all stakeholders agree 
+to meaningfully engage in the GDC by being intentional and proactive from the consultative process 
+and throughout the implementation process after it is adopted in 2024.  
+She further shared her apprehension concerning the implementation of the GDC in a manner that 
+ensures it serves the people as intended. Notably, member states may adopt the GDC with little or no 
+sustainable actionable plan to implement it. She expressed concerns from her repeated trauma of 
+engaging in similar processes e.g., the Digital Solida rity Fund as well as the Global and International 
+Internet Governance Forums (IGFs) which despite being active have not yielded concrete policy 
+solutions. Additionally, she noted that t he office of the UN Tech envoy, despite its competent 
+leadership, is a quasi -judicial office without the capacity or mandate to implement the Africa 
+development agenda under the GDC.  
+Lastly, she thanked the German Government for its initiative and internationality in supporting the 
+GDC process.  
+11 4.2.1 Summary of Questions, Answer an d Feedback Session  
+a. In developing the technology, we need, who will fund the capacity and how do we ensure that 
+in the continent, we have the people to develop the technology as needed? (Academia, 
+Senegal).  
+Feedback: The DiploFoundation has for instance, been undertaking initiatives to ensure Africans are 
+meaningfully included in digital spaces, strengthen ing African voices in digital diplomacy and spaces 
+and provide online open resources that enhance the capacity for the meaningful participa tion of 
+Africans. (DiploFoundation Representative, Kenya).  
+b. What happened to the digital solidarity fund, is it achieving its initial objectives? African 
+solutions should come from Africa. What is the best way to meaningfully engage African 
+countries to ens ure robust, inclusive, and meaningful engagements? (Government, Kenya)  
+ 
+Answer by Ms.Nnenna  
+Forums like the IGF are important because the discussions lead to action. Engagements on the 
+sidelines of such events have been quite meaningful. Thematic, regional and community -based 
+working groups are meaningful and efficient as they give precise actions and recommendation s and 
+they should therefore be encouraged.  
+In conclusion, Ms. Nnenna emphasised the need for capacity building to address challenges and poor 
+decision -making that is mostly based on ignorance such as internet shutdowns based on  impunity and 
+emotional respo nses without proper consideration of the bigger picture.  
+She noted that a good place to start is reflecting on what we have in our own countries, and how we 
+can make the best of it. For instance, Kenya n IGF could be a platform to make decisions, and 
+imple ment them, cross -fertilise our expertise and share experiences with other African countries. 
+Government should not fear new technology rather it should be open and willing to try these 
+innovations and initiatives.  
+5 Sustainable Use of Digital Technologies in  the 21st Century: 
+Achieving the 2030 Agenda and Strengthening Human Rights 
+(Presentation of practical experiences about how digital 
+technologies helped achieve SDGs in Africa)  
+ 
+After the lightning talk, the core of the 2 -day consultation session commenced : The exchange 
+alongside three major topics, namely  
+● Sustainable Use of Digital Technologies in the 21st Century: Achieving the 2030 Agenda 
+and Strengthening Human Rights,  
+● Protecting a global, open, free and secure Internet: Addressing the Risk of Internet  
+Fragmentation and Reinforcing the Multi -Stakeholder Model,  
+● Artificial Intelligence and Emerging Technologies: Advancing Technological Innovation 
+and Protecting Human Rights  
+During these sessions, participants were able to  
+1. Receive an initial input linke d to the topic in question, followed by a short Q&A  
+2. Take part in an exchange in breakout groups. Based on guiding questions, these moderated 
+group  sessions  discussed and worked out aspects linked to the topic, documented them on a 
+digital board and formula ted key messages as a summary of what should be included and 
+12 considered in the  GDC process. All groups discussed the same topic and the same guiding 
+questions in parallel.  
+3. Finally each group s hare their results and key messages in the plenary  session.  
+5.2 Ms R ym Jarou, Unit Manager - Technology Driven Entrepreneurship, Smart 
+Africa Alliance  
+o Why do we need a single digital market in Africa?  
+Ms. Jarou started by elaborating that Africa's digital economy  is projected  to be worth  US$180B by 
+2025 and that so far, the continent has the fastest -growing urban, mobile population. Consequently, 
+both people and businesses could benefit from a single digital market through trade and commerce, 
+innovation, diversity in investments and improved quality of life through t echnology  
+Nonetheless, she noted, there are significant barriers to unlocking this potential. For instance, the 
+continent has over 50 countries  with over 50 digital legal, regulations and policies and there are  
+limited cross -countries infrastructures and the continent still relies strongly on non -African 
+infrastructure and products. Additionally, there’s a low level of digital skill  (data available for a few 
+countries in Africa shows an average of 8% in the standard literacy skills) and  digital markets are 
+largely national and do not benefit from the scale of the continent.  
+She explained that Smart Africa aims to unlock Africa’s potential by transforming the continent into a 
+Single Digital Market by 2030, through a bold and innovative mu lti-stakeholder approach. She added 
+that the Smart Africa Manifesto was endorsed by Heads of State and Government in October 2013 
+and further endorsed by the AU in January 2014. The principles therein include;  
+1. To put ICT at the centre of national socioecon omic development agenda  
+2. To improve access to ICT , especially Broadband  
+3. To improve accountability, efficiency and openness through ICT  
+4. To put the Private Sector First  
+5. To leverage ICT to promote sustainable development  
+So far, the Smart Africa Alliance h as grown to 35 member states representing approximately 
+1.1billion people as well as development partners in the private sector, NGOs and academia. In 
+moving forward, she stated that they aim to drive more impact with their new Triennial strategy 2023 -
+2025 , driven by three major programmes Sustainable & inclusive digital infrastructure (CONNECT),  
+Digital Empowerment and Capacity Building (INNOVATE) and Digital transformation & Services 
+(TRANSFORM). She concluded by reiterating that the core of the work is c ross-border collaboration 
+and in -country support.  
+5.2.1 Summary of Questions, Answer and Feedback Session  
+Questions posed:  
+a. On the implementation of connectivity cross border  programmes; Kenya has multiple projects 
+aiming at achieving this - how do you leverage the pre -existing programme to ensure they are 
+in tandem and have no duplication (Government representative from Kenya  
+b. Is Smart Africa operating under the aegis of another institution? What are the s pecific 
+activities implemented by smart Africa?  
+c. Initially t he goal was for Smart Africa to be the equivalent of the digital arm of the African 
+Union, is that still the goal?  
+d. What’s the progress in allowing for network roaming i.e access to digital services freely 
+across African borders?  
+e. How specific is the engagement of Smart Africa in each country? What’s the nature of the 
+engagement and how is it structured?  
+13 Ms. Rym Jarou’s R esponse:  
+Smart Africa is trying to support countries with their digital infrastructure development and support 
+interconnectivity between countries. Africa's backbone project seeks to connect at least three countries 
+to have shared connectivity and then bu ild the interconnectivity from there.  
+Smart Africa’s manifesto (anchoring document) was endorsed by the AU, they are co -chairs and 
+partners in the implementation. Smart Africa is thus not an institution under the AU but has a close 
+relationship  of coopera tion with the AU.  
+Engagements in different countries take various models e.g development of blueprints or policies that 
+can be utilised by the countries or the implementation of a concrete digital project in the country e.g 
+the smart cities in Rwanda. Eff orts towards the creation of a One Africa network are still ongoing, and 
+the ambition is still alive and the enthusiasm, but the implementation is not easy, and it is therefore 
+still a work in progress.  
+Other strategies include the development of guiding blue prints e.g. Tunisia started with specific start -
+ups and led the work on the blueprint for the continent. Each country has agency on their key areas of 
+focus based on the maturity of its ecosystems. At Smart Africa, after developing the blueprint, we 
+gather all relevant continental stakeholders to review the blueprint to ensure that regardless of your 
+digital ecosystem, one still has a roadmap to strengthen and advance their digital policies , that is, 
+continental tools for policies and strategies that ca n be contextualised to specific needs/countries from 
+alliance level to country levels.  
+o  
+5.3 Ms Angela Lungati, Executive Director at Ushahidi & Civic Tech Frontrunner  
+In her introduction, Ms. Lungati  observed that digital platforms are equivalent to fertile land as they 
+represent opportunities. Ordinary citizens must be included as part of the issues and seeking solutions 
+for their issues, solutions should tap into the collective intelligence and agen cies of the people that are 
+impacted.  
+The Ushahidi platform was born out of the 2007/08 post -election violence when a group of 5 bloggers 
+at the time decided to create a platform for ordinary people to share what was happening around them 
+that was not bei ng reported by the mainstream media.   
+Ushahidi is intentional in shaping solutions by providing a global platform of integrated tools and 
+services. The platform is free and open source, cost -effective and available. It is accessible and usable 
+on readily available solutions e.g., phones. The platform also allows people to engage in local 
+languages that they are familiar with. In a bottom -up approach to information sharing, citizens are 
+more actively involved in actions that affect them and take collective responsibility.   
+Some examples of how the Ushahidi platform has been applied in advancing SDGs are:  
+a. Activists in Egypt have used the platform to monitor sexual harassment against women by 
+plotting harass maps to create awareness and drive community -based interventions and create 
+a shift in mindset on  the issue of  sexual harassment . 
+ 
+b. In every election in Kenya since 2008 , the platform has been deployed to empower  citizens to 
+protect their vote and ensure a fair outcome , by sharing  informatio n on potential incidents 
+which are then channelled to the relevant authorities for a response as a preventative measure. 
+The platform will also be used in the upcoming elections in Nigeria in 2023.  
+ 
+c. Documenting the effects of climate change and collecting  climate data, the voice of people in 
+Kenya. The platform has been  deployed in the Tana River Climate Change & Livelihoods 
+14 Restoration Project to document  citizens' experiences  on the impact of climate change and use 
+said information to help leaders and go vernments create solutions.  
+In conclusion, Ms. Lungati urged stakeholders to look at practical ways of creating inclusion of 
+citizens beyond the boardroom.  
+5.3.1 Summary of Questions, Answer and Feedback Session  
+Questions posed:  
+a. How do other countries/stakeholders access or use the Ushahidi platform?  
+b. How can we bring in more private sector players in ICT to support similar initiatives and 
+develop open -source systems? (Government representative from Malawi)?  
+c. How many languages are used in the Ushahidi platform? In the African context countries 
+have more than 1000 languages, to what extent are translations feasible?  
+Ms. Lungati’s response: There are two ways to use the platform. Firstly, you can download the 
+software, take source code and custo mise it to your needs or use Ushahidi as a host by registering 
+directly on their website. The platform is open in any country. For translations , where certain tools are 
+only available in  specific languages such as  Swahili, a plug -in can , for instance,  be used to aid 
+translation.  
+In conclusion, Ms. Lungati challenged those who  utilise tech-based platforms and use existing open 
+software to explore ways of adding value through collaborations with the private sector to enhance 
+capacity and security.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 6 Breakout Session 1: Sustainable Use of Digital Technologies in the 21st Century  
+After the initial presentations and Q&As, the discussion in the breakout groups started, based on the following guiding questions and methodological notes:  
+o Where are we standing regarding SDGs globally and in Africa?  
+o How did the use of digital technologies already contribute to addressing the issue(s) and how can it contribute even further?  
+o Which contribution is necessary f rom each stakeholder to make digital technologies a strong driver for achieving the 2030 Agenda?  
+● Please mark what opinions/aspects are disputed within the group!  
+● Which opinions/aspects resonate most within the group?  
+● Formulate 2 - 5 key messages!  
+Group 1  6.2 Where are we standing regarding SDGs 
+globally and in Africa?  6.3 How did the use of digital 
+technologies already 
+contribute to addressing 
+the issue(s) and how can it 
+contribute even further?  6.4 Which contribution is 
+necessary from each 
+stakeholder to make  digital 
+technologies a strong 
+driver for achieving the 
+2030 Agenda?  
+ Controversial Opinion - Realistically, achieving the 2030 
+Agenda on SDG is impossible by 2030  
+ 
+● SDG 3 and 4 performances in Nigeria have been 
+deprioritised over time and implementation is 
+abysmal  
+● Zambia has seen progress in SDG 4 with the 
+implementation of free education under the new 
+administration, quality and standards of 
+education, however, need to be improved. There 
+are opportunities to leverage technology to 
+address many gaps in addressing the quality of 
+education  ● In Rwanda, digital 
+technology has been used in 
+enhancing service delivery 
+for citizens, focusing on 
+ensuring access to digital 
+services for ALL citizens  
+● Legal vis a vis digital 
+identity - centring digital 
+identity as a basis for service 
+delivery excludes 
+marginalised populations. 
+Human rights impact sho uld 
+be the foundation of ● Invest in the safety and 
+protection of sustainable 
+digital infrastructure  
+● Goal 17-Reassess the nature 
+of public -private partnerships 
+beyond economic 
+interventions, e.g., 
+collaborations based on 
+social, cultural and economic  
+development  
+● Human Rights and Digital 
+literacy - review approach in 
+deploying digital tech in 
+16 ● In Kenya SDG 17 - Partnership for the goals has 
+been exemplary due to multi -stakeholder 
+collaboration  
+● In Tunisia - SDGs 2, 3, and 4 are a little bit on 
+track.  
+● In Kenya - SDG 16, digital inclusion is 
+progressive , but aspects of human rights are not 
+included in implementing digital responses, and 
+marginalised communities are still being left 
+behind. Human rights need to be at the centre of 
+implementing SDG 16. An emerging contrary 
+opinion was that the adoption of digital 
+technologies in SDGs sought to improve 
+efficiency and enhance service delivery.  
+● In Cameroon - The legal framework on ICT is 
+sufficient, the current focus is to improve 
+universal access and coverage and integrate ICT 
+in education (SDG4)  
+● In Egypt - embracing technology/adoption of 
+digital services in implementing SDGs is below 
+average by the government due to a lack of 
+investment and access. For CSO - no coordinated 
+leadership, minimal investment, and awareness 
+are still lacking  
+● On SDG 10 and 9, Ghana h as done well 
+regionally, and digital integration and adoption 
+have improved. Mobile money has been 
+instrumental in advancing sustainable 
+development  
+● In Malawi, there is good progress on SDG 5 in 
+advancing Sexual Reproductive Health Rights 
+and addressing gender parity in participation in 
+governance on SDG7 - Inclusion of solar power 
+to the national grid and on SDG9 - Lots of digitisation in service 
+delivery.  
+● Use of ATI in fact -checking 
+information/data provided 
+by governments, centring 
+citizen agencies and voices 
+in assessing the impact of 
+digital technologies.  
+● Access to digital 
+infrastructure (SDG 8) has 
+improved access to decent 
+work through virtual 
+learning, creating job 
+opportunities and improving 
+well-being and financial 
+opportunities.  
+● Inclusive internet - 
+MEANINGFULLY include 
+critical populations to avoid 
+some being left behind e.g., 
+women, PWDs, a nd children 
+in deploying digital 
+technologies  
+● Democratise access to digital 
+technologies - ensure digital 
+technologies is not elitist, 
+cheap, quality, and 
+accessible tech for all  
+ service delivery,  create more 
+awareness for HR  
+● Content moderation - mitigate 
+information disorder (mis and 
+disinformation) to ensure 
+information integrity  
+● Trust and accountability at the 
+centre of digital technologies  
+● Inclusive policy development  
+● Assess the capacity to adopt 
+and implement technologies 
+being developed  
+● Push for the adoption of 
+regional and international 
+frameworks on tech and 
+ensure structured coordination  
+● Address the cost of digital 
+technology  
+ 
+17 investment in ICT infrastructure but there is a 
+need for data protection legislation  
+ 
+Key Messages  i. Africa is not just a ma rket- respect the agency, input and contribution of the continent  
+j. Meaningful inclusi on of ALL populations (women, children, PWDs, etc.)  
+k. Centre human rights at the core of digital technology services  
+l. Make digital technologies affordable, accessible and of g ood quality - ensure GDC is not elitist  
+m. Make the digital environment safe and secure for all  
+ 
+ 
+ 
+Group 2  Where are we standing regarding 
+SDGs globally and in Africa?  How did the use of digital technologies 
+already contribute to addressing the 
+issue(s) and how can it contribute even 
+further?  Which contribution is necessary 
+from each stakeholder to make 
+digital technologies a strong 
+driver for achieving the 2030 
+Agenda?  
+ Mutual Opinion - We are not on track; 
+from the perspective of the key pillars -
+environmental,  social, and economic  
+● The realities exposed by the Covid -
+19 pandemic include the digital 
+divide, and the question remains 
+whether the SDGs reflect our 
+contextual realities.  
+● Generally, we are not on track as 
+issues such as corruption , poor 
+project design, and lack of buy -in 
+by local populations across 
+different countries are derailing the 
+sustainability of programs e.g., the ● To facilitate people's participation and 
+inclusion e.g., use of online tools such as 
+the UNSG Envoy on Technology survey 
+tool to submit feedback on GDC  
+● Government digital platforms: enhancing 
+transparency in procurement and 
+payments, enabling the provision  of govt 
+services e.g., Kenya's Huduma  centres - 
+centralised government services  
+● The other side of digital tools. e.g., the use 
+of digital lending platforms to drive 
+access to finances but possibly silently 
+catalysing poverty amongst certain Controversial opinion - Private -public 
+sector cooperation; addressing certain 
+challenges e.g. to facilitate access, 
+there is a shared responsibility 
+obligation towards the attainment of 
+SDGs; between the private sector 
+(may provide resources) and 
+governments (enabling environment)  
+ 
+Mutual Opinion - Governments need 
+to play their role in addressing the 
+gaps in infrastructure, access, 
+connectivity and digita l literacy  
+ 
+18 Siaya irrigation programme (SDG 
+1 & 2) in Kenya.  
+● Regarding the digital space there 
+are challenges such as impor tation 
+of data laws that cannot necessarily 
+be implemented in the African 
+context e.g., GDPR; consideration 
+of the people affected by the digital 
+interventions e.g., PWDs, questions 
+about identity vs identification in 
+the era of digital ID systems, lack 
+of meaningful consultations.  
+● It is not all doom and gloom; as 
+SDGs are well communicated; 
+most people know about them but 
+we need to work on their 
+implementation.  
+ 
+ populations who  use the platforms without 
+full knowledge of their implications  
+● Enhancing research on i nterventions  such 
+as renewable energy solutions such as 
+solar  
+● Open data sources such as Ushahidi, and 
+UNICEF Tool -Rapid pro - provide 
+feedback platform s where citizens ca n 
+voice concerns and policymakers/ govt 
+can respond  
+● Use tools to a ddress specific challenges 
+affecting specific populations e.g., 
+enhancing awareness of children's 
+vaccination programmes  
+● Enhancing citizen participation e.g UN 
+General Assembly global citize ns' 
+assembly utilised  online platforms 
+alongside localised  support to bridge the 
+digital divide to bring citizens together 
+and deliberate on the climate crisis  
+● Use of emerging technologies in 
+the implementation of projects that would 
+otherwise not be plaus ible; Drone projects 
+in Namibia in the agriculture sector  to 
+monitor and respond to specific 
+challenges  
+ ● Governments; Assembling the 
+different solutions and 
+ensuring access  
+● Government; to develop Open 
+Data policy in Africa; to 
+facilitate innovation  
+● All stakeholders; 
+contributions to capacity 
+building  
+● Private sector; to upscale 
+skills and experience gaps in 
+the formal education system  
+● Need to harmonise 
+interventions! Bring resources 
+and initiatives together 
+(declaration for the future of 
+the internet, ROAM -X 
+indicators, etc)  
+ 
+ 
+19 Key Messages   
+a. People engagement is critical to ensure context -responsive solutions, the inclusion of specific groups; youth, women  
+b. Government and private sector collaboration is necessary to address the power imbalance issue  
+c. Consideration of  the African context and time line as far as the achievement of SDGs is concerned  
+d. Capacity building is necessary for legislators and the general population  
+e. Technology has to be paired with enabling policy e.g., Open data policy + proactive government  
+ 
+Group 3  Where are we standing regarding 
+SDGs globally and in Africa?  How did the use of digital 
+technologies already 
+contribute to addressing the 
+issue(s) and how can it 
+contribute even further?  Which contribution is necessary from each 
+stakeholder to make digital technologies  a strong 
+driver for achieving the 2030 Agenda?  
+ ● Financial Inclusion: mobile 
+money, telework, and the digital 
+economy are well developed in 
+the continent, e -Visa, e -tax, e -
+governments  
+● On SDG 16 (Peace, Justice, 
+inclusion) ...tech has helped 
+avoid post-election turmoil, 
+efficient governance, 
+transparency  
+● Reduction in corruption in many 
+countries, more transparency, 
+more accountability  
+● In education; during COVID ICT 
+has helped continue operations in 
+education with distance learning.  
+● In Agriculture , drone  technology 
+is being applied to enhance 
+productivity, and to detect and ● More people using e -tax 
+declaration and access to 
+mobile money for 
+payment, ensuring better 
+control by states, 
+transparency, increased 
+access and no more 
+physical constraints, with 
+options such as online 
+payments that have eased 
+transactions  
+● More efficiency in 
+processes, more visibility 
+on issues happening 
+because of online 
+activism, and better 
+mobilisation  of support.  
+● Reestablishment of 
+human dignity, and more ● Remove barriers at all levels ( harmonisation  of 
+laws in the continent)  
+● Being able to build the technologies we use, 
+capacity building, and RESEARCH needs to be 
+developed, and universities need better 
+governance, investment, regulati on, and finance.  
+● Countries should share best practices and AU 
+has to push countries to adopt best practices.  
+● The gender agenda needs to be improved by 
+giving more "effective" education to women.  
+● Digitisation is still not yet the #1 priority in 
+public polic ies, other issues seem to be given 
+more priority  
+● Digital literacy/education at all levels, 
+protection of privacy and digital rights, digital 
+living hygiene  
+● Access to connectivity should be a fundamental 
+right and priority in global digital cooperation  
+20 respond to issues that would 
+affect harvests.  
+● Impact on food security: better 
+price prediction, and avoiding  
+product deterioration during 
+transport.  
+● In Health: drone s for supply, AI 
+to assist doctors, IoT connectivity 
+for remote intervention in areas 
+without specialists.  
+● Enhanced e -participation: more 
+people getting involved, 
+reduction of the gender gap not 
+completely but, women have 
+more access, more voice, more 
+choice, etc.  
+ efficiency in daily 
+activities.  
+● Better DEI for people 
+with disabiliti es. 
+● Efficiency in governance.  
+● Data results in better 
+decision -making 
+governments and other 
+sectors  
+● Access to knowledge 
+products (MOOCs and 
+other online training),  
+● Better connections to 
+family members and 
+friends, and a stronger 
+bond with family because 
+of constant connectivity.  
+ ● Infrastructure building over all parts of the 
+countries  
+● Include key technology roles (e.g., CDO in 
+Rwanda) in governance  
+● Promote l ocal industry in Africa, 
+hardware/manufacturing industry  
+● Better transparency in universal coverage funds, 
+% to be used for digital education of rural 
+women  
+● Countries should sign international Conventions  
+● Improve multi -party actions, more open -minded 
+across the continent  
+● Better use of new tools (e.g., AI) to help make 
+people's lives  better  
+● Governments should listen to citizens in drafting 
+and signing on to policies  
+● Better regulatory framework for the use of new 
+"knowledge" (data, AI, ...)  
+● Research at universities is not well published 
+within the continent  
+● Do not reinvent the wheel  
+Key Messages  a. Go beyond numbers to measure the impact of digital education, especially gender considerations, and make sure that women 
+finish education, and occupy higher office roles  
+b. Development of local expertise: research and education  
+c. Better digital infrastructures, services,  innovation and investment in key DPI for children such as CRVS, health systems 
+(interoperable) and social registries for shock resilience  
+d. A better understanding of digital rights and privacy, better regulation frameworks, better collaboration (interoperab ility) 
+regarding these and making sure that implementation follows  
+e. Taking the environmental impacts of digital technology  into consideration  
+ 
+21 7 Protecting a global, open, free and secure Internet  
+ 
+Just like the first topic, the second topic was introduced by a  presentation  followed by a short Q&A. 
+Later, the participants split up into the same groups as before, worked on the guiding questions and 
+formulated key messages. The results and key messages were then shared in the plenary.  
+7.2 Addr essing the Risk of Internet Fragmentation and Reinforcing the Multi -
+Stakeholder Model - Josephine Miliza , Africa Regional Coordinator, Association 
+of Progressive Communication - LOCNET Project hosted by KICTANET  
+ 
+Ms. Miliza acknowledged that the topic of in ternet fragmentation has been discussed for some time, 
+but recent conversations have focused on digital sovereignty and the global control of the internet. 
+These discussions are happening at legislative and regulatory levels, with the stated goal of protec ting 
+the end user. However, these efforts are seen as threatening the original concept of an open, 
+interconnected and interoperable internet.  
+She explained that the Policy Network on Internet Fragmentation is a multi -stakeholder coalition that 
+aims to rai se awareness about measures and actions that pose a risk to an open internet. The group has 
+identified three key areas of fragmentation: the user experience, the technical layer, and internet 
+governance and coordination. It brings together a group of 28 st akeholders from the industry 
+including civil society organisations. They issued a joint statement raising concerns about the human 
+risks of internet fragmentation and setting out principles for an open, interconnected, and 
+interoperable internet. These pri nciples include protecting and promoting human rights, the open and 
+interconnected nature of the internet, and the global free flow of information. The group also 
+advocates for efforts to address the root causes of internet fragmentation, promote cooperati on to 
+increase trust in the internet, and commit to preserving and strengthening the multi -stakeholder model 
+of internet governance.  
+7.1.2 Summary of Questions, Answer and Feedback Session  
+ 
+Questions Posed  
+a. Who are the members of the Public Policy implementation on Internet Governance - all 
+stakeholders within the IGF network?  
+b. What are the accountability structures in place for internet fragmentation?  
+Opinion : Internet fragmentation can work at the national l evel, while we work with the envoy at the 
+UN level, local actors could start working on local policy actions e.g. when Nigeria blocked Twitter, 
+citizens downloaded VPNs using US and UN servers which affected algorithms. (Civil Society 
+Representative, Côte d'Ivoire).  
+c. Digital dignity - Why are African countries not adopting e -visas?  
+d. Why is the internet so expensive in Africa?  
+Response from Ms Josephine Miliza  
+● Membership is open to everyone -I think all stakeholders who are within the IGF framework  
+● There is no accountability framework yet. Currently, there is no common understanding of 
+what internet fragmentation is and what it is not. This is why discussions through the Policy 
+Network or other coalitions, especially at national and regional levels, are important. Without 
+accountability frameworks, views on fragmentation are very divergent.
+22 8 Breakout Session: Protecting a global, open, free, and secure Internet  
+The participants were divided into the same 3 groups and started the discussion based on these guiding questions and methodological notes:  
+o What are the main risks for an open, free and secure Internet from an African perspective?  
+o Which measures are necessary?  
+o How can GDC contribute to addressing the issue?  
+o How can an inclusive vision for the f uture of the Internet look like?  
+● Please mark what opinions/aspects are disputed within the group!  
+● Which opinions/aspects resonate most within the group?  
+● Formulate 2 - 5 key messages!  
+Group 1  8.1 What are the main risks for 
+an open, free and secure 
+Internet from an African 
+perspective?  8.2 Which measures are 
+necessary?  8.3 How can GDC 
+contribute to 
+addressing the 
+issue?  8.4 How can an 
+inclusive 
+vision for the 
+future 
+Internet look 
+like?  
+ ● Lack of technical 
+understanding from decision -
+makers  
+● Adoption of insecure solutions 
+exposes the continent to 
+attacks  
+● Africa is not well represented 
+at the international level at 
+decision -making forums  
+● Geo-political power play 
+(Ukraine vs Russia)  ● Increase 
+capacity/competen cies 
+in countries (gov, 
+technical, users, etc.)  
+● Data protection 
+(confidentiality and 
+integrity)  
+● Better cybersecurity  
+● Better cyber regulations  
+● Cyber -cooperation 
+between countries (build ● Make sure that 
+African countries 
+sign the 
+international 
+conventions  
+● Make sure th at 
+there is an African 
+voice on the 
+decision table and 
+that it is heard!  
+● Make sure that the 
+private sector ● The 
+consideratio n 
+that users are 
+not only 
+consumers.... 
+they are 
+humans  
+ 
+23 ● Adoption without adaption? 
+exposes users (specifically to 
+regulations)  
+● Cybe r criminality which 
+pushes countries to shutdown  
+● Digital economy: Africa is a 
+consumer and not a producer 
+(digital colonisation) our  data 
+is being exploited  
+● Africa should not be the only 
+"open": inequality/imbalance 
+in relations  
+ a framework for 
+information sharing)  
+● Adapt civil laws to new 
+cyber -environment and 
+educate actors  
+● Create cybersecurity 
+agencies and make them 
+functional  
+● Take into account local 
+socio -economic -political 
+context (must be locally 
+rooted)  
+ actions do not 
+contribute to more 
+fragmentation of 
+the internet.... or 
+do not create a 
+new gap between 
+users (cyber -
+discrimination ) 
+ 
+Key Messages  g. Better clarity on the notions of digital privacy/rights, and internet openness  
+h. Digital inequalities are a reflection of existing non -digital ones: reinforce systematically the African voice.  
+i. Awareness, education, follow -up, etc... knowledge building.  
+ 
+ 
+Group 2  What are the main 
+risks for an open, free 
+and secure Internet 
+from an African 
+perspective?  Which measures are necessary?  How can GDC 
+contribute to 
+addressing the 
+issue?  How can an 
+inclusive 
+vision for 
+the future 
+Internet 
+look like?  
+ ● Internet 
+shutdowns  
+● Technoference; 
+and its social 
+impact on Mutual Opinion - Enhancing Access: Infrastructure sharing, a 
+regulatory framework that addresses silos in certain sectors, 
+private and public sector actors - Could GDC for instance 
+include principles on infrastructure sharing to address 
+emerging challenges such as resistance?  
+ ● Opportunities  
+in low -tech 
+solutions as 
+well 
+● Set out 
+principles on Null 
+24 children, and the 
+population  
+● Effective policy 
+and an 
+understanding of 
+the 
+implementation of 
+the policies from 
+the consumers’ 
+perspective as 
+well as at 
+enforcement by 
+the investigators 
+/prosecutors/ 
+judicial officers  
+● Risks to children; 
+cyberbullying, 
+exploitation, and 
+the need to 
+consider their 
+opinions  
+● Misinformation 
+and 
+disinformation  
+● Neo-colonialism 
+elements; Africa  
+as a recipient of 
+tech solutions/ 
+models, how do 
+we bridge the 
+gaps 
+● Cybersecurity 
+risks  
+ ● Platforms that open conversations to varieties of 
+stakeholders; including citizens,  
+● Capacity building/ awareness on the internet risks, 
+and cybers ecurity to help counter some of these 
+challenges  
+● Specific initiatives for marginalised groups such as 
+women, and girls and also encourage creative use.  
+● Sensitisation on the need for responsible use of the 
+internet; expand the training curriculums to subjects 
+such as cyberpsychology  
+● Collaborative efforts between regulating bodies e.g., 
+ODC Kenya cannot enforce against digital lending 
+platforms without registration regulation by CBK  
+● Affordable internet; Kenya government initiatives 
+such a s fibre optic infrastructure expansion; fair 
+competition in the sector, One Area Network, 
+investment mindset based on the centrality of the 
+need for the internet as an enabler of the economy, 
+addressing corruption e.g., Côte d'Ivoire the law 
+allows the use  of electric poles to expand fibre 
+connectivity -but only certain companies are given 
+exclusive use  
+● Regulations that govern some of the challenges e.g., 
+internet shutdowns  
+● African governments: expand participation of 
+stakeholders in standard setting/making forums to 
+enhance engagement of academia, and private sectors 
+as seen in other countries such as China  
+● Human rights -centred regulatory frameworks  
+● Institutionalise public participation as a mechanism to 
+enhance stakeholder participation at the national, 
+regional and multilateral level  certain cross -
+cutting issues; 
+infrastructure 
+sharing  
+● Contextual 
+considerations; 
+power 
+dynamics at 
+the global 
+level  
+ 
+25 ● Revenue assurance, Cost -benefit analysis; in 
+assessing the impact of risks such as internet 
+shutdowns  
+● Making Africa a single digital market to negotiate 
+with platform owners; following from the example of 
+Europe  
+ 
+Key Messages  a. Legislative balance; regulation but protecting individual rights.  
+b. Cyber hygiene; sensitisation on cyber security to protect particularly vulnerable persons  
+c. Meaningful Public participation; avail resources for PP, and decentralised PP; the GDC can become an example for 
+continuous engagement.  
+d. Focus on the three key  components; technology, human rights, and legal framework  
+ 
+ 
+Group 3  What are the main risks for an open, 
+free and secure Internet from an 
+African perspective?  Which measures are 
+necessary?  How can GDC 
+contribute to 
+addressing the 
+issue?  How can an inclusive 
+vision for the future 
+Internet look like?  
+ Mutual Opinion - Legislation - clawback 
+legislation that infringes on free 
+speech/online expression  
+● Infiltration of counterfeit gadgets 
+with backdoor applications illegally 
+mining citizen data and illegal 
+surveillance  
+● No proper data protection 
+safeguards to ensure accountability 
+for multinationals  
+● Weak implementation and lack of 
+transparency and accountability for 
+private companies  ● Adoption of 
+independent regulation 
+mechanisms for open, 
+free and secure internet  
+● More multi -
+stakeholder/multi -
+sectoral collaboration 
+(CSOs, media, 
+academia, private 
+sector, etc.)  
+● Regional integration to 
+harmonise policies 
+across borders  and ● GDC should 
+leverage 
+existing laws 
+and not a 
+diplomatic 
+document to 
+strengthen 
+accountability  
+● Multi -
+stakeholder 
+approaches in 
+implementing 
+the GDC  ● Affordable, 
+accessible and 
+good -quality 
+internet  
+● Decolonise the 
+internet  
+● Reclaim the 
+original 
+vision/promise of 
+the internet  
+● Sensitisation on 
+internet safety and 
+data protection  
+26 ● Market monopoly/ Supply chain 
+gatekeeping  
+● Geopolitical exploitation by foreign 
+economic powers  
+● Information disorder - the 
+proliferation of fake news (mis and 
+dis-information)  
+● Increased OGBV that sometimes 
+transfers offline - cyberbullying, 
+sextortion, etc.  
+● Cybercrime legislation limiting 
+FOE online and gagging dissenting 
+and divergent voices  
+ 
+ institutionalise 
+progress/ policies and 
+legislation  
+● Digital literacy to be 
+responsive to ICT 
+advancement  
+● Peer learning and 
+adoption of best 
+practices for relevant 
+policies beneficial to 
+our contexts  
+  ● Ethical use of data 
+while safeguarding 
+fundamental rights 
+for ALL  
+● Data ownership and 
+agency  
+● Universal open 
+resources  
+● Leverage 
+continental bodies 
+e.g., AU  
+ 
+Key Messages  a. Independent continental regulation  
+b. Contextual digital cooperation  
+c. Investment in digital literacy and safe use of the internet. Affordable internet for all (leave no one behind)  
+d. Respect for fundamental rights for ALL  
+e. Encourage investments in African solutions developed by Africans  
+ 
+ 
+Following the conclusion of the plenary discussion , the 1st day was officially closed by the moderators. Later, the participants met for a joint dinner and 
+networking session in the hotel.
+27 9 INTRODUCTION TO DAY 2  
+9.1 Opening remarks, Mr. Yves Iradukunda -Permanent Secretary Ministry of ICT 
+and Innovations in Rwanda  
+The day began with an address by the Permanent Secretary of the Ministry of ICT and Innovation in 
+Rwanda, who noted that there was a lot of work to be done t owards ensuring that the GDC 
+interventions reflect the needs of those impacted particularly in the African context as had arisen in 
+the discussions from Day 1.  
+He also noted that they will be conducting national -level consultations in Rwanda to ensure that  more 
+stakeholders contribute to the outcome of the GDC. He finished by observing that the development of 
+the GDC would require collective effort toward supporting the UNSG’s Envoy on Technology, 
+Under -Secretary -General.  
+9.2 Feedback on the anonymous survey co nducted on Day 1  
+Martin Reinfeldt presented the results from the anonymous survey, annexed herein and marked in 
+Annex 1  
+9.3 Recap from Day 1  
+Participants were invited to share their key takeaways from the Day 1 discussions. The key emerging 
+observations were:  
+i. It was critical to note the impact of the conversations arising from the consultations and 
+ensure that the consultations are carried on to national consultations at the country level.  
+ii. There were wonderful stories about the digital landscape in the contine nt as told through the 
+discussions so far. However, it was imperative that the various challenges and aspirations be 
+in contact with our realities and as the participants represent various stakeholders, they had a 
+responsibility to impact change through th e conversations from day 1.  
+iii. The opening speeches enriched the conversations but the presentation by Ushahidi, on the 
+open data source platform really struck a chord  as it presented a solution that could possibly 
+be implemented to meet direct user needs.  
+iv.  Increasing accessibility while enhancing security were two important issues for Africa . 
+v. The emerging issues are shared across different countries and thus the GDC co nsultations 
+should be elevated to regional and continental platforms.  
+vi. Africa is not looking to impose, gain superiority or dominate in the digital space rather it is 
+clear that Africa wants to develop and be able to meet the needs of its people and their w ell-
+being, while still staying true to values such as community and being respectful of culture 
+and diversity . 
+vii. The capabilities of digital technologies to enhance production transformation is critical to the 
+attainment of the SDGs.  
+  
+ 
+28 10 The impact of artificial intelligence and emerging 
+technologies: advancing technological innovation and 
+protecting human rights  
+Following the same sequencing as in the previous two sessions , the discussion around artificial 
+intelligence and emerging technologies started with 3 presentation.  In contrast to the other sessions , 
+the inputs were not directly followed by the group work, but  by a Fishbowl Discussion which 
+included the presenters on the one hand, but would also - on the other hand - give the opportunity to 
+any other participant to directly engage in  the debate in the plenary.  
+ 
+After the Fishbowl Discussion, the participants split into their breakout , worked on the various 
+questions  and developed  key messages and then later presented them in the plenary.  
+10.1 Presentation by Mr. Marco Kamiyo - United Nations Industrial Development 
+Organisation (UNIDO)  
+In his presentation, Mr. Kamiy o observed th at potential of digital technologies to improve is evident  
+from the very technologies that we interact with on a daily basis such as google translate.  
+Digital technologies and AI have demonstrated certain key benefits including improved productivity, 
+lower operational costs, better decision -making, better product development and use in accelerating 
+employees’ skills.  
+On the other hand, these technologies also pose various challenges including the high cost of 
+implementation, limi tations in skill capacities, infrastructural and standard gaps particularly in the 
+developing world, gaps in private and public collaboration, and lack of basic infrastructure in certain 
+areas.  
+Mr. Kamiyo  also highlighted some projects around the World u tilising such technologie s to provide 
+solutions  such as the Fisheries 4.0 Project in Indonesia which has enhanced the management in the 
+fisheries and aquaculture sectors, strengthening implementation of the AI Eco System in Jordan to 
+enhance urban planning , to create job opportunities, improve the efficiency of government services 
+and enhance the social and economic development of different sectors.  
+In Africa, Mr. Kamiyo highlighted  the first Creative Hub in Ethiopia equipped with various digital 
+instrumen ts. In Côte d’Ivoire, there is the integration of 41R ecosystems to foster youth employment. 
+Other examples cited are the use of blockchain and smart lenses in Ghana ’s Agricultur al sector, the 
+use of the Internet of Things for geothermal energy in Kenya an d Namibia’s GIS imagery and AI 
+based on satellites and drones in the sustainable processing of bushes that affect harvest by imaging in 
+the fields  and identifying the affected areas that require interventions. He noted that such projects are 
+implemented in  consultations with the farmers/ communities to ensure continuity and sustainability.  
+In his recommendations on appropriate next steps; he noted the need to leverage on the global public 
+goods of the emerging technologies such as open data, and open system s for the industry, the need to 
+enhance training and skills and build a global alliance on AI for the industry , build regional and global 
+networks amongst UN Agencies, Development Agencies and Development Banks and keep learning 
+about Frontier Technologies  and AI effects on cybersecurity, jobs, youth and gender.   
+29 10.2 Presentation by Mr. Jack Ngare, Technical Director in the Office of the Chief 
+Technology Officer, Google Cloud  
+Mr. Ngare observed that in most instances, technology amplifies things that happen in  society offline 
+including the negative. While the role of various stakeholders such as government and civil society 
+actors is well defined, the key question for further evaluation is the role of techies and corporations. 
+For a start, he noted that the rol e of Africans in tech corporations is to amplify the voice of Africans in 
+the development of technologies. He observed that Google has for instance been incorporating local 
+languages across African countries such as Kinyarwanda, Amharic, and Kikuyu.  
+Furthe r, he noted the potential of AI technologies to amplify the capabilities of the African Continent, 
+while leveraging on Africa's demographic dividend of young people; considering the median age for 
+Africa is 19, compared to countries like China with a media n age of 38 while that of India is 27. Thus 
+60% of the workforce by 2030 will be in Africa, while Africa may not have been part of the industrial 
+revolution as it were, we have the opportunity to be part of the technology revolution, which requires 
+that th e continent upscales the skills of its population for them to fully engage.  
+Mr. Ngare concluded his presentation by highlighting the 7 principles of Google on AI which are:  
+1. Be socially beneficial: positively impact various fields be it healthcare, security, energy, etc 
+while being respectful of the cultural norms in countries where they operate;  
+2. Avoid creating or reinforcing unfair bias; 
+3.  Be built and tested with safety in mind; continuously reviewed to respond to the evolving 
+context;  
+4. Be accountable to people; be subjected to the court of human beings and have an appeal 
+mechanism;  
+5. Incorporate privacy design principles;  
+6. Uphold high standards of scientific excellence; and  
+7. Be made available for uses that are in accord with the principles.  
+10.3 Presentation by Ms. Linda Bonyo CEO, Africa Lawyers Hub  
+In her introduction, Ms. Bonyo noted that it was imperative that a focus on the possibilities offered by 
+AI technology includes a reflection on policy.  
+Ms. Bonyo’s presentation was focused  on the AI legal landscape in Kenya. She observed that one of 
+the main challenges in Kenya was the importation of policy without due regard for the context and 
+without consideration of the opinions of the local professionals. This is of particular concern since 
+some of the key drivers have certain interests in pushing certain ideas  to countries like Kenya. e.g the 
+European interest in pushing its digital policies to the rest of the World and the American interest in 
+pushing its emerging technologies across the World.  
+Some of the key components in the AI landscape fall within 5 categories: AI infrastructure, AI 
+Development Companies/Startups  or Communities, AI Governance, AI Advocacy, and AI Sectoral 
+Use. While there are no definitive laws on AI in Kenya, aspects of it are alluded to in policies and 
+provisions on digital technologies. There are also cross -cutting guiding principles emanating from the 
+Constitution of Kenya such as Art 27 on equality and freedom of discrimination, rights to privacy (Art 
+31), and freedom of expression (Art 33) among other rights. Relevant policy frameworks with an 
+application to AI include the Digital Economy Blu ePrint, 2019, the Data Protection (General) 
+Regulations, 2021, the National Broadband Strategy 2018 -2023 and the Kenya National Digital 
+Master Plan 2022 -2032 among others.  
+30 Notable Regional frameworks include the African Union Data Policy Framework and the Blue Print 
+on AI for Africa. She observed that in general, the approach in most African countries is the 
+criminalisation of cybersecurity issues with minimum focus on user protection. However, there are 
+more progressive approaches in some North African Cou ntries such as Morocco and Egypt.  
+In terms of international frameworks that could offer guidance on best practices, Ms. Bonyo 
+highlighted the EU -AI Act, UNICEF Recommendation on the Ethics of Artificial Intelligence, OECD 
+AI Principles, America’s Blueprint  for AI Bill of Rights, and the EU General Data Protection 
+Regulations (GDPR). In addition, Ms.  Bonyo highlighted some key regulatory considerations 
+emerging from practices across various countries in handling AI such as the establishment of an AI 
+expert A dvisory Group in Canada, the establishment of an independent AI oversight body in 
+Singapore, the establishment of Research centres as seen in Morocco, application of AI in strategic 
+sectors as seen in Mauritius’s National AI Strategy, encouraging public pa rticipation in AI as seen in 
+UAE’s National Program for AI and Think AI Initiative, inter alia.  
+In conclusion, therefore, Ms. Bonyo noted that there is a need for Kenya and Africa to stay ahead and 
+avoid always being recipients of technology and also ensur e effective policy, institutional and legal 
+frameworks for the application of AI, without necessarily just mirroring laws from other countries and 
+regions without due regard for our context.  
+11 Fishbowl Session  
+Participants engaged in an insightful fishbowl s ession posing questions to the presenters and engaging 
+in discourse on the issue at hand. Some of the key points arising from the session were:  
+a. The need to bridge gaps in skills and understanding of law and tech; by addressing gaps in 
+formal education but also paying specific attention to enforcement agencies including lawyers 
+and the Judiciary to ensure they are well  informed as they determine issues touching on AI.  
+ 
+b. The impact of data -based solutions that are informed by inclusive data subjects results  in 
+flawed solutions that reinforce societal biases and exclusion.  
+ 
+c. The absence of adequate policies and practices around data handling, sharing and storage 
+particularly by private actors. However, Mr. Ngare  noted that principles around data are still a 
+probl em even for the biggest organisations but it gets better with conscious efforts towards 
+enhancing data sets to inform algorithms, while we cannot afford to wait for perfect data to 
+develop and innovate, there is need to continue encouraging informed consent on the use and 
+sharing of data for the greater good.  
+ 
+d. Ms. Bonyo also observed that there is a need for efforts towards creating a balance between 
+the rights to privacy for users and commercial use of data for certain benefits such as for 
+research purposes. She also noted that there are challenges with the existence of monopolies 
+of data amongst big ger corporations and thus the need to consider policies on the sharing of 
+data with other stakeholders such as start -ups. She also observed that organisations such as 
+the Lawyers Hub, are working towards developing model laws that could guide countries 
+seeking to develop laws and further buttressed the need to enhance skills locally (Africa) to 
+facilitate meaningful engagement.  
+ 
+e. Mr. Kamiya reiterated the need to enhance indigenous capacity on the use of data, the 
+integration of data sets to enhance producti vity, strengthening  the innovation ecosystems and 
+the need to facilitate basic research needs in the developing world. 
+31  
+f. It is important to invest in research in African Universities as reinforced by the role of 
+universities in the birth of existing global tech companies e.g., Google  born out of Stanford 
+University, or Facebook which  began at Harvard University.  
+ 
+g. The goal should not be the actualisation of data sovereignty but rather the potential to meet 
+the needs of society for the greater good e.g., by us ing technology and data to enhance 
+education for children on various platforms.  
+ 
+h. There is a need  for proper principles on the capacity -building components and skills transfer 
+in projects implemented in countries with lower skill capacities as well as coope ration 
+between lawyers and tech experts to ensure responsive laws and policies.  
+ 
+i. There is a need  for the African continent to work towards creating the Continent as one Trade 
+Area even in the digital components to ensure more collaborative and collective a pproaches to 
+issues affecting all countries including data and AI gaps, better bargaining power, lower costs 
+and breakdown silos.  
+ 
+j. Considerations for special groups particularly vulnerable groups such as children to ensure 
+that their interests are adequately considered even though they are not part of such 
+consultations in their own right. In this regard, it was noted that existing pr inciples such as the 
+UNICEF  Principles on AI and Children  are an important reference point for such 
+considerations.    
+32 12 Break out session: on artificial intelligence and emerging technologies  
+The participants entered three breakout sessions for discussions guided by the following questions:  
+● Which opportunities and risks do AI and other emerging technologies offer?  
+● How can they be regulated?  
+● Who should be in charge of standard setting and regulation?  
+● How can GDC contribute to addressing the issue?  
+The groups were also invited to mark what opinions or aspects were disputed in the group and which resonated most within the group and also formulate 2 -5 
+key messages from the discussion. Herein is a summary  of the responses to the guiding questions from the groups as also presented in the plenary session  
+ 
+Group 1  12.1 Which opportunities and risks do AI 
+and other emerging technologies offer?  12.2 How can they be 
+regulated?  
+ 12.3 Who should 
+be in charge 
+of standard 
+setting  and 
+regulation?  
+ 12.4 How can GDC 
+contribute to 
+addressing the 
+issue?   
+ 
+ 
+ Opportunities  
+● Improve s quality of education and 
+collaboration with private sector to migrate 
+from traditional academia  
+● Improves standards of education through 
+responsive and personalised learning  
+● Creates job opportunities -outsourcing of 
+remote/virtual jobs on the continent  
+● Improves analytics in various sectors -
+agritech, health tech,  climate action  ● Country -based 
+multi stakeholder  
+collaboration in 
+developing 
+regulations  
+● Empowering AI 
+diplomats in 
+governance and 
+decision making  
+● Transformative 
+cross -border labour ● Co regulation 
+based on 
+meaningful 
+multi 
+stakeholder  
+collaboration 
+(country/regio
+nal/continental
+) 
+● Set guiding 
+principles for ● Developing and 
+setting 
+international 
+standards on the 
+development, use 
+and deployment of 
+AI  
+● Link GDC to 
+binding legislation 
+and fundamental 
+rights  
+33 ● International collaboration on AI for public 
+good  
+Risks  
+● AI and automation risk economic 
+opportunities for the majority of Africans but 
+create an opportunity for the creation of new 
+economic opportunities that adapt to new 
+technologies.  
+● Inadequate data governance frameworks 
+pose a risk to the protection of the use and 
+misuse of personal data. e.g. fintech  
+● Algorithm biases and manipulation of data 
+based on pseudoscience.  
+● Content moderation -opportunities to 
+integrate human input to improve CM 
+processes and eliminate algorithm biases  
+● Ethics washing  
+Resonates:  AI creates more opportunities than risks  
+Disputed : self -regulation vis -à-vis co -regulation -how 
+do we ensure independence and accountability ? laws and protection 
+for workers  
+● Mandatory 
+disclosure for the 
+use of AI in 
+processing personal 
+data  
+● Transparency and 
+simplification of 
+regulatory processes 
+on the use of AI  
+● Invest in awareness 
+and knowledge 
+creation on AI for 
+meaningful 
+participation  
+● Invest in healthy 
+cross -border data 
+ecosystems   ethical 
+development 
+and use of AI 
+that are 
+flexible and 
+customisable  ● Facilitate 
+international peer 
+learning/sharing of 
+experience on the 
+use of AI in 
+governance  
+● Sustainable 
+actiona ble 
+principles and 
+milestone s 
+Key 
+Messages  h. Promote the responsible and collaborative use of AI for the public good (education/health/climate etc.)  
+i. Be intentional in mitigating the implications of AI on economic opportunities/job environment in Africa  
+j. Sustainable investment in awareness/ capacity building and the proactive response of dynamism in AI  
+k. Evidence -based deployment of AI and other technolo gies 
+l. A multidisciplinary  and multi -stakeholder approach to regulation  
+m. Invest in data foundation including open data  
+ 
+34 Group 2  Which opportunities and risks 
+do AI and other emerging 
+technologies offer?  How can they be regulated?  
+ Who should be in 
+charge of standard 
+setting and 
+regulation?  
+ How can GDC contribute to 
+addressing the issue?   
+ 
+ 
+ Opportunities  
+● Positive impact on research  
+● Potential appropriation of 
+AI and other emerging 
+technologies for the greater 
+good  
+● Role of various actors in 
+capacity building 
+evaluating whether the tech 
+addresses our needs and 
+priorities in sectors such as 
+health, and education  
+● Potential for Africa to have 
+its own data centres; 
+considering various factors 
+such as readily available 
+energy sour ces.   
+Risks  
+● AI cannot fix everything, 
+and cannot replace human 
+beings, especially in 
+content moderation as it 
+lacks historical context  
+● Risks to individual rights 
+particularly privacy, and 
+safety of data collected e.g 
+when some organisations 
+sell data  ● Continental approach at the 
+AU Level and  at regional 
+organisations. e.g. EAC, 
+ECOWAS  
+ 
+● Data cooperatives; 
+leveraging on the youth 
+population  
+ 
+● Reflect on why and how 
+more intentionally; beyond 
+data sovereignty/centres and 
+national interests  
+ 
+● Enforcement mechanisms 
+that enhance our resilience  
+ 
+● Ratification of Malabo 
+Convention to reach the 
+threshold and then amend to 
+reflect context  
+ 
+● Children rights approach in 
+AI Strategy  
+ 
+● Cyber diplomacy, which is  
+lacking in the continent, 
+there is also no information ● AU and other 
+Regional 
+Blocs  
+● Private Sector 
+actors  
+● Governments  ● A framework on 
+digital diplomacy 
+and fostering 
+cooperation  
+● Eliminate silos 
+between countries 
+and regions e.g 
+Africa South of 
+Sahara and North 
+Africa  
+● Establishment of a 
+data exchange point 
+in Africa  
+● Encourage/ support 
+States to have 
+specific institutions 
+on data governance 
+and resource them  
+● Create/enable 
+platform s for 
+collaboration e.g. 
+conferences, 
+practical simulation 
+exercises  
+● Address knowledge 
+gaps on AI to avoid 
+potential divide  
+35 ● Lack of representation of 
+marginalised/minority 
+groups in the design of the 
+AI that may enhance 
+existing biases offline and 
+catalyse other issues such 
+as data colonisation  
+● Risks from cyber breach  
+● Potential exclusion of 
+persons who lack the 
+relevant skill s  
+● Social impacts of AI vs the 
+profit considerations  
+ sharing and cooperation to 
+address challenges e.g. 
+South Africa fibre optic 
+cables running in Nigeria 
+territorial waters. 
+Cooperation is necessary for 
+solutions towards sharing 
+costs and resources. Th e 
+challenge extends to 
+departments at the national 
+level and even between 
+actors in the private sector  
+ ● Clarify what data is 
+needed; specific data 
+sets 
+● Establish binding 
+principles to an 
+extent; for 
+operationalisation 
+and enforcement  
+Key Messages  a. Capacity building; address knowledge gaps and create a common understanding  
+b. Enhanced collaboration between stakeholders who play various roles in the sector  
+c. View the GDC as a living document and continuing platform for the exchange  
+d. Interopera bility as a principle; Africa has not been involved as much in the global standard -setting bodies e.g. ISO, ITF, ITU and 
+thus there is need to enhance meaningful participation of Africa through multi -stakeholder participation, consistent participation 
+and availing resources  
+ 
+ 
+ 
+ 
+ 
+36 Group 3  Which opportunities and risks do AI 
+and other emerging technologies 
+offer?  How can they be regulated?  
+ Who should be in charge of 
+standard setting and 
+regulation?  How can GDC 
+contribute to 
+addressing the 
+issue?   
+ 
+ 
+ Opportunities  
+● Applications in all sectors to make 
+them more efficient and even 
+transform them, improve people’s 
+life (agriculture, health, economy, 
+innovation, cultural inclusion, 
+education)  
+● Transcription to local languages in 
+Africa with application in society, 
+health  (talking to automate can be 
+more comfortable), education, 
+knowledge sharing  
+● Creation of new jobs if we are able 
+to ‘reconvert’ people  
+Risks  
+● Biases and fairness: AI can 
+amplify social inequalities (those 
+without access have less access)  
+and can exclude some people  
+● AI can be a threat to data privacy  
+● AI can be a threat to job security 
+for people without the right skills  
+● Lack of the appropriate energy and 
+infrastructure  
+● Algorithms are not transparent  
+● Lack/breach of e thics of AI Use  ● Use of AI and ethics  
+● Data collection and data 
+usage; who can collect 
+and what can be 
+collected  
+● Regulation should not 
+be a stopper to 
+innovation  
+● Impact of society should 
+be understood and there 
+should be transparency  
+● Establish a level playing 
+field when  it comes to 
+data (big tech have an 
+edge on small start -ups): 
+should we introduce a 
+tax for ‘universal AI’ to 
+give AI rights to 
+everyone ? 
+● How to make it 
+participatory so that 
+everyone has a voice.  ● Not making things too 
+heavy (risk of 
+inefficiency if many 
+actors are involved): we 
+should leverage 
+existing bodies  
+ 
+● Multi -actor approach 
+(what is the role of each 
+entity? How to use the 
+existing legal bodies: 
+government, regulator  
+(different from the 
+government), intra -
+governmental 
+organisations(regional ), 
+global  institutions (UN) 
+, private sector, 
+platform owners, 
+academia, foundations, 
+civil society, 
+communities (tech 
+devs, online 
+community, diaspora), 
+media, SME   
+• Guidelines 
+for countries  
+• Facilitate 
+cooperation 
+dialogue 
+and 
+knowledge 
+sharing 
+between all 
+stakeholder  
+• Encourage 
+countries to 
+champion 
+AI(and for 
+each pillar)  
+37 Key Messages  b. African Member States have to take the lead and be proactive  
+c. We need a balance between regulation and innovation  
+d. Gender Agenda; We need more women to be implicated (e.g. African Women in AI)  
+e. Facilitate cooperation dialogue and knowledge sharing between a ll stakeholders  
+38 13 Closing remarks  
+13.1 Ms. Regine Greinbreger, German Cyber Ambassador  
+In her closing remarks, Ms. Regine Grienberger  reflected on her own life experience with key 
+moments from the time in 1989 when she used an electric typewriter to now when German embassies 
+around the World are all connected through an intranet and currently working towards a digital 
+embassy.  
+ICT has made life richer, connected, and work easier but with current worries around cyber security. 
+With the continuous scope and dimensions of change in the sector, one can only imagine what will 
+happen in the next 30 years. While at the beginning the new experi ences with technology and the 
+tools it provided were like child play with new toys, recent experiences have been quite sobering 
+buttressing the need for such consultations.  
+Ms. Grienberger  acknowledged that she had learnt a lot about specific needs, aspir ations and 
+expectations towards the GDC during these 2 days and that she remains committed to advocating for 
+the results of this regional consultation session on the German and international level.  
+She finished her remarks by thanking the organisers  and GIZ and the participants for all the good 
+ideas and insights shared over the past couple of days.  
+13.2 Mr. Yves Iradukunda -Permanent Secretary Ministry of ICT and Innovations in 
+Rwanda  
+Mr. Iradukunda thanked the participants, the German government for facilitat ing the consultations, 
+and the Kenyan government for hosting the consultations. He encouraged participants to carry 
+forward the messages emerging from the discussions and conduct national consultations.  
+13.3 Eng. Daniel O. Obam, Communications Secretary Nationa l Communications 
+Secretariat -representing the Cabinet Secretary for Information, Communication 
+and Digital Economy  
+Eng. Obam also began his remarks with reflections on his own life experiences chronologically 
+acknowledging the advancements of technology making reference to key moments in his life like 
+when he  used floppy disks when working  on his master’s dissertation and his very first phone in the 
+late 90s that could not fit in his  pocket due to its size.  
+He thanked the Government of the Federal Republic of Germany for supporting the consultation 
+process, the UN Secretary -General’s Envoy on Technology, Under -Secretary -General Mr. Amandeep 
+Singh Gill, all government representatives,  and the participants for engaging in the consultations 
+targeted towards a formula for implementing the outputs from the GDC Africa consultations.  
+13.4  UN Secretary -General’s Envoy on Technology, Under -Secretary -General Mr. 
+Amandeep Singh Gill  
+ 
+Mr. Gill thank ed previous speakers and expressed gratitude that he could count on stakeholders as the 
+team that co -creates and built the GDC. He also expressed gratitude for the openness and 
+collaboration, constructive criticism in a respectful way, as witnessed through out the two -day 
+consultations amongst the different stakeholders, a model that could be upscaled or downscaled.  
+39 He emphasised the need for a sober appreciation of the opportunities in the digital space while being 
+mindful of the risks, collaboration and d ynamism in collaboration.  
+Mr. Gill reiterated that his office welcomed all inputs from the national and stakeholder consultations 
+and reminded stakeholders of the public call for inputs on the UN Secretary -General’s Envoy on the 
+Technology website.  
+Final ly, he highlighted the need to continue advocating for evidence -based decision -making and 
+respect for contextual experiences which entails the respect, inclusion and acknowledgement of the 
+agency of the communities we are seeking to impact being mindful of  the power dynamics, who is 
+potentially being excluded and the power implication of technology.  
+Mr. Gill’s remarks marked the end of the two -day consultations. Participants were encouraged to stay 
+in touch and keep the conversations going and were invited  to a closing reception.  
+13.5 Conclusion  
+The GDC Africa consultations held in Nairobi, Kenya, marked the beginning of the other regional 
+consultations that will follow in Mexico in February 2023 and in India in March 2023. In this regard, 
+the participants also got an opportunity to share their messages with the participants in the upcoming 
+consultations based on their experiences in Nairobi, through video or  written messages that would be 
+transmitted to other participants ( see Annex 2) .  
+The inputs from these co nsultations , the submissions to the UNSG’s Envoy on Technology through 
+the provided online  tools and policy briefs will inform the GDC that will be agreed on at the Summit 
+of the Future  in September 2024, whose theme, ‘multilateral solutions for a better tomorrow’ 
+appropriately reflects the intent of the GDC in the fast -evolving digital arena.  
+ 
+  
+ 
+THE END.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40 Annex 1 - Findings from Anonymous Survey  
+ 
+To what degree do you see the internet in your country open, free, and secure?  
+ 
+Average out of 39 responses: 6.65  
+ 
+Which 
+country do 
+you 
+represent, 
+today?  To which 
+degree do 
+you see the 
+internet in 
+your 
+country 
+open, free, 
+and 
+secure?  What would it take to make the 
+internet more open, free, and secure 
+in your country?  What is your main expectation 
+from the 2 days of consultation?  
+Nigeria  5 More democratic policy  Identifying practical solutions and 
+implementations  
+Austria, UN  9 Knowledge and capabilities  Learn from African experiences that 
+we can take global  
+Senegal  7 Respect for digital rights  Understanding and knowledge 
+sharing  
+Kenya  10 It's free  Learn more from govt and civil 
+society  
+
+41 United 
+Nations  6 Digital Public Infrastructure and Data 
+Protection Legislation  Better insights into African 
+perspectives on the GDC  
+Kenya  6 Affordability still needs to be tackled.  Practical and tangible solutions from 
+engaging discussions  
+Nigeria  6 Power and infrastructure  The implementation of frameworks  
+Kenya  3 Meaningful public participation  Multistakeholder engagement 
+resulting in a better understanding and 
+protection of interests of the user 
+most at risk  
+Ghana  10 Make it more affordable  Exchange ideas and increase 
+collaboration through networking  
+Nigeria  7 Legislation, improved infrastructure, 
+access to power, funding  Peer learning on improving digital 
+access in underserved communities  
+Rwanda  9 More capacity for network engineers  Better understanding of what GDC is  
+Malawi  7 More enabling policy, reducing the cost, 
+more carrier -neutral infrastructure  Contribute more to the Global Digital 
+Compact, engage more participants 
+and learn from them and progress 
+made in those countries.  
+Rwanda  8 Enable people’s digital literacy  Clear Action Items  
+South Africa  7 Make data cheaper and improve the 
+infrastructure  Improve our understanding of African 
+digital landscapes, their challenges 
+and possible solutions  
+42 Kenya  7 Rules for hate speech and prosecution of 
+the violation of digital human rights  Inspiration  
+Egypt  6 If the internet is more open and 
+available,  and the communities are 
+aware of the data security  To learn more about the digitalization 
+of the development sector considering 
+the data protection  
+Rwanda  8 Last mile connectivity  Strong recommendations into the 
+GDC  
+RWANDA  8 Collaboration between Government, 
+Private sector and Civil Society  Exchange ideas and connecting with 
+all stakeholders  
+Kenya  5 Government driven all -inclusive 
+initiatives  Easily understandable and actionable 
+points  
+Kenya  6 Capacity building and more awareness  To understand what the impact of the 
+digitization will look like. Understand 
+the role of each country in realising  
+inclusive digital space and security  
+Kenya  7 Good Government policies and effective 
+ICT institutions  Share knowledge and experience. 
+learn from experts  
+Global  3 1) More structured citizen participation; 
+2) Inclusively co -created rights -based 
+frameworks; and, 3) mitigation of 
+neocolonial models of state -sponsored 
+spying, corporate -sponsored spying, and 
+externally derived rights -based models  Exploring more inclusive  citizen 
+participation processes to enrich the 
+GDC.  
+43 Côte d’Ivoire  7 Laws and Regulations, cybersecurity 
+framework, open the internet market to 
+more company and access to submarine 
+fibers and address infrastructure digital 
+divide. Education and communicati on 
+on usage of the internet  Comprehensive and clear guidance on 
+how to achieve the goals of the GDC  
+Kenya  6 Implementation of data protection law, 
+cyber security capacity development for 
+SMEs, strengthening of digital 
+sovereignty, address online gender -
+based violence, tackle 
+dis/misinformation, engagement in 
+international multi -stakeholder fora like 
+the IGF, advocate for ‘one’ Internet and 
+a multi -stakeholder governance of the 
+Internet  Concrete actions African countries 
+can take to work toward an open, free 
+and secure Internet, discuss how data 
+protection can be strengthened at a 
+continental level  
+Kenya  6 Addressing infrastructure gaps, 
+openness in legal and policy and 
+consequences thereof, respect for human 
+rights, clarity and accountability on the 
+role of private sector particularly 
+platform owners particularly  Key recommendations/ actions that 
+will be considered by States in their 
+consideration of the GDC  
+Kenya  7 Greater collaboration between 
+Government and private sector to 
+support innovation.  Networking  
+44 Kenya  7 More government support, create more 
+security awareness, better 
+implementation of internet usage policy  Better understanding of the level of 
+internet penetration and usage in 
+Africa, how to improve internet usage  
+Cameroon  6 Government can take measures such as 
+promoting the use of the internet for 
+everyone at very low prices and 
+sensitive people for internet danger.  To bring answers to how the internet 
+can be used by all people  
+Kenya  8 Collaboration with all players in the 
+internet ecosystem. Regulators, 
+policymakers, ISPs, rights defenders 
+and users  Action points for all players to bring 
+about freer safer internet for all.  
+Zambia  7 Regulation and laws that encourage 
+freedom of thought, speech and 
+expression  I expect the consultations to be 
+informative, eye -opening and a 
+foundation from which pan -African 
+digital collaboration can be built on.  
+Kenya  7 Freedom of expression  Learning & Networking & Prioritize 
+needs  
+Kenya  6 Funding and supporting startups that are 
+pushing the tech industry in a better 
+direction.  To understand how funding should be 
+directed for the next years regarding 
+tech.  
+45 Cameroon  7 - développer une infrastructure large 
+bande ;  développer une industrie locale 
+du numérique, encourager la recherche 
+et l'innovation, renforcer la confiance 
+numérique, réduire les coûts d'accès, 
+mettre en place un cadre légal sur la 
+gouvernance de l'Internet, la 
+cybersecurité et la lutte contre la 
+cybercriminalité  La principa le attente est que les 
+contributions issues des consultations 
+menées dans le cadre des présentes 
+assises soient prises en compte dans 
+le Pacte numérique mondial pour 
+réduire la fracture numérique entre 
+l'Afrique et  le Nord.  
+Cote d’Ivoire  5 Review the cost of the internet 
+connection Downwards and secure the 
+digital infrastructure by the approval of 
+standards  During these two days I hope that all 
+the conclusions adopted will be 
+imposed on the different countries of 
+Africa for the glorious future of 
+digital technology in the continent for 
+the well -being of the African 
+populations  
+ 2 infrastructure and affordable Internet  meaningful contribution towards 
+Internet governance issues  
+Kenya  7 Affordability of the internet, constant 
+availability of power and electricity.  Solutions to data protection from 
+foreigners mining data  
+    
+Kenya  8 Infrastructure to penetrate to remote 
+areas  Understanding AI and preparing for 
+its change in my society  
+ 
+  
+46 Annex 2 - Messages to the Americas and Asia in preparation for 
+their regional GDC Consultations  
+What message(s) would you like to pass on to your colleagues in the Americas and Asia in 
+preparation for their regional GDC Consultations?  
+Be as inclusive as possible  
+Treat Africa like an equal partner.  
+Be prepared in advance and participative. Express the strong vision and what you think can really 
+have an impact  
+We need to leverage our collective resources, knowledge, intelligence and faith in tech for good.  
+The consultative forum was enlightening. We were able to exchange ideas on the solutions to data 
+protection issues on AI and emerging technologies. Similarly, we were able to analyse the risks 
+associated with emerging technologies in the African setup.  
+Your voice is critical for th e GDC to reflect the needs of your country, region, and the world. Make 
+this consultation process count!  
+The consultations here have been very engaging and exciting. Lots of knowledge is shared, learnt 
+and developed. The interesting aspect is the opportun ity to contribute to making the digital world a 
+better place. We have done our part, over to you!  
+Working towards a trustworthy AI is imperative. Collaboration between its users(people), 
+companies, technologists and governments is key.  
+Your voice is important...make it heard.  
+The consultations are participation friendly and I encourage you to say all  that you think is 
+important.  
+47 1. GDC MUST cater for regional differences and inequalities.  
+2. Affordability of digital technology is a huge constraint for African countries. Africa needs 
+AFFIRMATIVE ACTION to be able to afford safe and sustainable techno logy, both hardware and 
+software; both human and machines  
+I wish you the best in your deliberations. In Africa we were intentional about sharing insights, 
+learnings and best practices and what would work on the continent as well as how to leapfrog our 
+challenges and embrace the opportunities technology brings. We  looked at regulations, policies, 
+multi -stakeholder consultations and what the GDC could accomplish.  
+1. To Discuss Human and Digital measures to bridge the gap between Artificial Intelligence and 
+Humanity.  
+2. To discuss and encourage emotional based Arti ficial Intelligence and take into consideration that 
+some best decisions are made emotionally  
+48 Annex 3
+
+49  
+
+50  
+
+51  
+ 
+
+52  
+
+53  
+
+54  
+ 
+
+55  
+
+56  

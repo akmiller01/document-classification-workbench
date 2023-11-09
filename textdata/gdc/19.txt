@@ -1,0 +1,362 @@
+Ass. iur. Fabian Luetz , Maître en droit (Paris), LL.M. (Bruges) , PhD -Candidate  - Université de Lausanne (UNIL)  
+ 1 Contribution  on Human Rights, Discrimination,  and the Regulation of AI 
+with a special focus on  Gender Equality  for the Global Digital Compact  
+ 
+I. Introduction  
+ 
+Considering the  Common Agenda1 which emphasises the importance of gender equality 
+throughout its report  and to prepare the Global Digital Compact , the following three highly 
+interconnected and related issues  will be discussed  in the present submission:  human rights in 
+the digital sphere (I I.), accountability criteria for discrimination  (III.) and promot ing the 
+regulation of artificial intelligence  (IV.), with a special focus on gender equality.  
+Despite increas ed press coverage  on gender biases and stereotypes  in datasets,  reporting 
+on frequent cases of algorithmic gender -based discriminations in all spheres of life2  and slowly 
+emerging policy discussions3, specific legal rules on gender equality addressing the problems 
+and opportunities of AI for women  and the concept of algorithmic discrimination  are rar e.4 
+Ideally, the suggested core principles in relation to the three issues of human rights, 
+accountability for discrimination and regulation of AI described below should be incorporated 
+in legislative frameworks  to ensure the full respect of human rights. Hard law  is the best enable r 
+for potential victims of discrimination and human rights violations to enforce their rights via  
+administrations,  courts,  or human rights mechanisms .  
+ 
+Despite t he UN ’s general efforts  and policies  (surrounding SDG 5) and more specifically its 
+organizatio ns or bodies, such as UN Women, the Commission in the Status of Women (CSW) 
+or the CEDAW Committee being  very active in advancing gender equality and women’s rights5, 
+female representation of around 22% in the AI industry6 is very low. D iversity and 
+ 
+1 UN Our Common Agenda, Report of the Secretary General, https://www.un.org/en/content/common -agenda -
+report/assets/pdf/Common_Agenda_Report_English.pdf , gender equality a nd women’s rights are frequently 
+mentioned in the report itself, in particular on pages 6  (“Repeal of gender -discriminatory laws ” and “ Promote 
+gender parity, including  through quotas and special measures ”, 13 (“90% of United Nations Member States have 
+ratified or acceded to the Convention on the Elimination of All Forms of Discrimination against Women ”), 16 
+(progress on gender equality) , 30-32 (Beijing Platform and SGD 5), 62 -63 (“ exacerbation of gender bias and male 
+default thinking when women do not have an equal role in designing digital technologies ”). 
+2 For examples see LÜTZ, Fabian. Gender equality and artificial intelligence in Europe. Addressing direct and 
+indirect impacts of algorithms on gender -based dis crimination. In: ERA Forum. Springer Berlin Heidelberg, 2022 , 
+p. 39 ( Open Access ). 
+3 See UNESCO 2020. Artificial Intelligence and Gender Equality: Key Findings of UNESCO’S Global 
+Dialogue. UNESCO Paris, France. ; COMMISSION, E. 2020. Opinion on Artificial Intelligence and Gender 
+Equality of the Advisory Committee on Equal Opportunities for Women and Men. , that focuses on opportunities 
+and challenges for gender equali ty, available at: https://commission.europa.eu/system/files/2020 -
+04/opinion_artificial_intelligence_gender_equality_2020_en.pdf  . 
+4 New York City has adopted a law adressing disparate impacts of automated decision -making systems in the area 
+of employment (entry into force on 1st January 2023). 2021. Int 1894 -2020, A Local Law to amend the 
+administrative code of the city of New York, in relation to automated employment decision tools.  ; for the gender 
+and discrimination angle of this NYC law, see LÜTZ, Fabian, Le rôle du droit pour contrer la discrimination 
+algorithmique dans le recrutement automatisé , In: Guillaume Florence (eds.) La technologie, l‘humain et le droit, 
+Stämpfli Verlag , Bern (forthcoming March 2023) . 
+5 The 67th CSW  priority theme is entitled ‘Innovation and technological change, and education in the digital age 
+for achieving g ender equality and the empowerment of all women and girls’ , see 
+https://www.unwomen.org/en/csw/csw67 -2023  . CEDAW is currently preparing for recommendation on  the e qual 
+and inclusive representation of women in decision -making systems , 
+https://www.ohchr.org/en/events/events/2023/half -day-general -discussion -equal -and-inclusive -representation -
+women -decision  . 
+6 Despite differing numbers, the trend of an existing gender gap in AI is clear. See for the same numbers, 
+European Commission, Striving for a Union of Equality, the Gender Equality Strategy 2020 -2025 (2020) , 
+available at: 
+https://ec.europa.eu/info/s ites/default/files/aid_development_cooperation_fundamental_rights/gender_equality_s
+Ass. iur. Fabian Luetz , Maître en droit (Paris), LL.M. (Bruges) , PhD -Candidate  - Université de Lausanne (UNIL)  
+ 2 representation are only one, albeit important, issue for AI and women’s rights that needs to be 
+addressed. The problem with omnipresent  use of AI and algorithms is mainly the occurrence of 
+biases, stereotypes, and gender discrimination. Here, regarding legal instruments, notably 
+Articles 2 and 5 of CEDAW are relevant entry doors to discuss the phenomenon of algorithmic 
+discrimination.7 
+In essence, biased and discriminatory decisions are caused not only by the mindset of 
+the AI developer but to a large extend by the data(sets) used for training and feeding the 
+algorithm. The potential unrepresentative and non -diverse datasets, impacted by the gender data 
+gap, are mirroring past and current inequalities, biases, and stereotypes of society. They form 
+part of the decision -making basis of algorithms which can lead to gender -based discriminations. 
+Considering that data mirrors stereotypes and di scriminatory behaviours of the real world, 
+addressing in general gender discrimination and striving for women’s rights partly addresses 
+the problem that is perpetuated in the online world and leads to algorithmic discrimination.8 
+ 
+II. Human Rights in the Digital Sphere  
+ 
+As a preliminary remark it needs to be observed that legislative frameworks of a binding nature 
+are preferable to mere voluntary guidelines or principles when it comes to the effective 
+enforcement and guarantee of human rights.9 Women’s rights, the principle of gender equality 
+and non -discrimination are fundamental principles and human rights enshrined in the  
+International Bill of Rights (Universal Declaration of Human Rights and the International 
+Covenants10), the UN Charta  and national constitutions around the world. The UN 2030 Agenda 
+and its Sustainable Development Goals, notably SDG 5 are politically supporting and 
+advancing those human rights  and especially gender equality .11  
+More specifically, the human rights instrument Convention on the Elimination of All 
+Forms of Discrimination against Women (CEDAW ) of 1979 is drafted in an open and forward -
+looking way, does not only address discrimination ‘ in all its forms ’ but also calls upon states 
+parties to address discrimination ‘ by all appropriate means ’ which notably includes 
+‘appropriate legislation’  (Art. 2).  
+Both  positive and negative impacts of AI and algorithms on gender equality and 
+women’s rights should guide the way for a future legal and political framework to ensure that 
+the core principles of  human rights instruments are equally respected in the algorithmi c age.  
+ 
+ 
+ 
+ 
+trategy_factsheet_en.pdf  ; The World Economic Forum, Global Gender Gap Report 2020, p. 37 puts the number 
+for women in Data and AI at 26% , available at: https://www3.weforum.org/docs/WEF_GGGR_2020.pdf  . 
+7 LÜTZ, Fabian. Discrimination by correlation. Towards eliminating algorithmic biases and achieving gender 
+equality. In: (Dis) Obedience in Digital Societies. transcript Verlag, 2022. S. 250 -293 (Open Access) .  
+8 LÜTZ, Fabian. Gender equality and artificial intelligence in Europe. Addressing direct and indirect impacts of 
+algorithms on gender -based discrimination. In: ERA Forum. Springer Berlin Heidelberg, 2022. S. 1 -20 (Open 
+Access) . 
+9 The literature is slowly growing on Human Rights and Artificial Intelligence . For the gender angle  see LÜTZ, 
+F., Artificial Intelligence and Gender -Based Discrimination , in: Jeroen Temperman/Alberto Quintavilla, Human 
+Rights and Artificial Intelligence, Oxford University  Press (forthcoming April 2023) ; For Human Rights and AI 
+more generally, see MATHIAS, R. 2019. Human rights and artificial intelligence: An urgently needed agenda. 
+Human rights quarterly,  41, 1-16.; 2021. Human Rights and Artificial Intelligence. In: LIDDICOAT, J. (ed.) 
+Human Rights and the Internet.  Intersentia. .  
+10 International Covenant on Economics Social and Cultural Rights  (ICESCR) and International Covenant on 
+Civil and Political Rights  (ICCPR ). 
+11 See LÜTZ, F., Gender Equality and Artificial Intelligence: SDG 5 and the role of the UN in fighting stereotypes, 
+biases and gender discrimination , In: Cristani Federica, Fornalé Elisa (eds.) Women’s Empowerment and its 
+Limits, Palgrave (forthcoming march 2023).  
+Ass. iur. Fabian Luetz , Maître en droit (Paris), LL.M. (Bruges) , PhD -Candidate  - Université de Lausanne (UNIL)  
+ 3 Regulation of AI as ‘conditio sine qua non’ to mitigate human rights impacts and 
+discrimination for women and girls  
+ 
+International and regional organizations and States are increasingly reflecting on the regulation 
+of AI and its human rights imp acts12 notably in relation to the classical issues13 such as 
+transparency14, explainability15, accountability16 and the human -in-the-loop.17  While there are 
+different types and intensities of regulation possible, both businesses and states have their 
+responsibilities to ensure that AI does not cause any human rights violations such as gender -
+based discriminations.18 
+ For the protection of equ ality between women and men, all UN actors dealing with 
+gender equality  could be a platform for incorporating AI and algorithms into their policy work.  
+For governments, the UN framework could be an ideal starting point  to adopt human rights 
+frameworks that address the impacts of AI on women and girls. In that sense, CEDAW, notably 
+Article 1, Article 2(b),(e) and Article 3, could be seen as an invitation for State parties to adopt 
+legislation and to interpret and embrace the concept of algorithmic discrimination. It can also 
+incentivise the CEDAW Committee to further develop the concept of ‘discrimination against 
+women in all its forms’  to include algorithmic discrimination and the human rights impacts 
+caused by AI . 
+A. Core principles  
+In essence, gender equality and the principle of non -discrimination needs to be upheld to the 
+same extend in the online and the offline world. The fact that life and work partly move  in the 
+digital sphere, by means of using algorithms for predictions and decision -making should not 
+make a difference for the protection of human rights.  Ideally core principles are translated into 
+legally binding rules (legislation) which increases the ch ance of adherence  because AI 
+principles or ethical guidelines are only self -binding19 and in an alleged case of algorithmic 
+discrimination are less helpful for potential victims than enforceable legal rules.  
+ 
+12 See for example, 2020. Rec ommendation CM/Rec(2020)1 of the Committee of Ministers to member States on 
+the human rights impacts of algorithmic systems. ; OECD/LEGAL/0449, Recommendation of the Council on 
+Artificial Intelligence ; COMMISSION, E. Commission, "Proposal for a REGULATION O F THE EUROPEAN 
+PARLIAMENT AND OF THE COUNCIL LAYING DOWN HARMONISED RULES ON ARTIFICIAL 
+INTELLIGENCE (ARTIFICIAL INTELLIGENCE ACT) AND AMENDING CERTAIN UNION 
+LEGISLATIVE ACTS, COM(2021) 206 final.". ; U.S. White House, Blueprint for an AI Bill of Rights (Oc tober 
+2022), available at: https://www.whitehouse.gov/ostp/ai -bill-of-rights/  . 
+13 Most international soft law instruments (Council of Europe, OECD) or curre nt proposals (European Commission 
+proposal for the Artificial Intelligence Act, U.S. AI Bill of Rights) adress these issues.  
+14 Transparency plays such an important role, that the European Commission recently created the European Centre 
+for Algorithmic Tran sparency (ECAT) which “will contribute to a safer, more predictable and trusted online 
+environment for people and business” , https://algorithmic -transparency.ec.europa.eu/index_en  .   
+15 See for example HAMON, R., JUNKLEWITZ, H., SANCHEZ, I., MALGIERI, G. & HERT, P. D. 2022. 
+Bridging the Gap Between AI and Explainability in the GDPR: Towards Trustworthiness -by-Design in Automated 
+Decision -Making. IEEE Computational Intelligence Magazine,  17, 72-85. 
+16 See for example the U.S.  H.R.6580 - Algorithmic Accountability Act of 2022 , avai lable at: 
+https://www.congress.gov/bill/117th -congress/house -bill/6580  . 
+17 See for example, PASQUALE, F. 2020. New Laws of Robotics: Defending Hu man Expertise in the Age of AI , 
+Belknap Press ; Art. 14 of the draft EU AI  Act. 
+18 See n(31), para. 11 (‘ Business enterprises have a responsibility to respect all internationally recognized human 
+rights. ’), paras. 36 (on gender bias) and 49 ( disproportionate impacts on women and gir ls). 
+19 See on this issue for example, VAN MAANEN, G. 2020. Ethics washing: Een introductie. Algemeen Nederlands 
+Tijdschrift Voor Wijsbegeerte,  112, 462-467., p. 462-463. 
+Ass. iur. Fabian Luetz , Maître en droit (Paris), LL.M. (Bruges) , PhD -Candidate  - Université de Lausanne (UNIL)  
+ 4 1. A human -rights based approach to  algorithmic discrimination needs to be 
+incorporated  adequately  into legislative frameworks around the world  as conditio 
+sine qua non  to ensure adherence  to and compliance with human right s. 
+2. Recall Art. 2 CEDAW as core principle which can be used t o addres s the issue of 
+human rights and discrimination in the algorithmic age . 
+3. In the absence of legally binding frameworks, soft law instruments or (technical) 
+standards could contribute to achieve compliance with human rights and non -
+discrimination law .  
+B. Key com mitments , pledges, actions  to bring about these specific principles  
+ 
+1. Governments  should commit to incorporate into their legal frameworks the concept 
+of algorithmic discrimination and/or ensure that algorithmic discrimination is 
+sufficiently addressed within existing legal frameworks of human rights and non -
+discrimination law . 
+2. Governments  should both address positive and negative impacts of algorithms for 
+human rights, by  going beyond mere regulation of algorithms and assessing and 
+studying options to use algorithms for positive action, for example in recruitment 
+procedures .20 
+3. AI Companies  should commit, to the extent possible, to incorporate human rights 
+standards and the principle of non -discrimination at a technical level into the 
+development of algorithms (by design approach). Ideally, this should be a 
+consequence of legally  binding rules, alternatively voluntary approaches or best 
+practices at industry level could improve the design of non -discriminatory 
+algorithms.  
+4. AI Companies  should explore how to use  AI for  positive action measures  in 
+recruitment procedures to diminish t he occurrence of discriminatory outcomes .21 
+5. Civil society organizations, researche rs and other stakeholders  could contribute  to 
+independent and third-party  reviewing, testing,  and improving  of algorithms for 
+potential biases , stereotypes and discrimination if given the right tools to do so (open 
+source, publicly available datasets to test algorithms  etc.). 
+ 
+III. Accountability criteria for discrimination  
+ 
+Accountability22 for discrimination  in the algorithmic age  comes in different shapes, and 
+conc erns inter alia  from the design of the models and algorithms, the datasets,  or the choice of 
+the type of algorithm . All choices impact the possibilities for  transparen t and explainable  AI 
+decisions . In essence , one could understand accountability via the lens of transparency and 
+ 
+20 See for the use of positive action in the AI recruitment context from the perspective of  gender equality  LÜTZ, 
+F., Algorithmische Entscheidungsfindung aus der Gleichstellungsperspektive – Ein Balanceakt zwischen Gender 
+Data Gap, Gender Bias, Machine Bias und Regulierung, GENDER 1/23, 25 -40, p. 31 -32 (Open Access ); for a 
+more technical description of the Rooney rule  see CELIS, L. E., HAYS, C., MEHROTRA, A. & VISHNOI, N. K. 
+The Effect  of the Rooney Rule on Implicit Bias in the Long Term.  Proceedings of the 2021 ACM Conference on 
+Fairness, Accountability, and Transparency, 2021. 678 -689..  
+21 Ibid. 
+22 Accountability is defined in geenral  as “an obligation or willingness to accept resp onsibility or to account for 
+one's actions ”, “Accountability.” Merriam -Webster.com Dictionary, Merriam -Webster, https://www.merriam -
+webster.com/dictionar y/accountability. Accessed 16 Feb. 2023 . However, it can be  inter alia  understood as 
+analysis mechanism for the development of software and AI, in a legal or in a political sense.  
+Ass. iur. Fabian Luetz , Maître en droit (Paris), LL.M. (Bruges) , PhD -Candidate  - Université de Lausanne (UNIL)  
+ 5 distinguish between three varieties : responsibility (moral or legal), inspectability (process or 
+technical23) and accessibility.24 
+A. Core principles  
+1. Rather than focusing (only) on abstract concepts of fairness, more specific 
+concepts such as non -discrimination should be used as objectives /benchmarks  
+in legal frameworks.  
+2. Accountability in a legal sense comes first and foremost in the form of  a 
+legislati ve framework that ensures the respect of specific obligations, such as 
+the principle of non -discrimination and sanctions violations (legal 
+responsibility) , violations of regulatory norms25 or liability rules for AI 
+systems .26 
+3. Enabling accountability is a key principle for potential victims of discrimination 
+as it allows inspectability which regroups understanding the technical process of 
+algorithms to understand how an algorithmic discrimination occurred and  
+explainability , whi ch are all important to detect and prove discriminations.  
+B. Key commitments, pledges, actions  
+1. Governments  should commit to incorporate into their legal frameworks various 
+forms of accountability  to ensure that algorithmic discrimination can be sufficiently 
+enforced.  
+2. AI Companies  should commit to incorporate accountability and transparency 
+mechanisms at a technical level into the development of algorithms, regardless of 
+binding rules as this increases  trust of consumers into their AI products. This should 
+include but be not limited to documentation, transparency, accessibility of the 
+functioning of the algorithm, used data - and training sets and explainability of the 
+algorithmic decision -making process . 
+3. Civil society organizations, researche rs and other stakeholders  could contribute to 
+explainability and intelligibility based on  available datasets and descriptions of the 
+algorithms by the AI companies.  
+ 
+IV. Promoting the regulation of artificial intelligenc e 
+ 
+More attention on the gender perspective of the increased use of AI and automated decision -
+making is necessary. Potential positive and negative consequences for women’s human right s, 
+notably in terms of biases, stereotypes, and discrimination. Four core principles  are highlighted 
+regarding the regulation of  AI, notably in terms of the design of algorithms  (1.), biases and 
+stereotypes in datasets (2.)  and equal access to data creatio n (3.).  
+ 
+23 Technical accountability is subdivided into general and particular which includes explainability, intelligibility 
+and justifiability.  
+24 For this classification, see ZERILLI, J. 2021. A Citizen's Guide to Artificial Intelligence. The MIT Press. , p. 25.  
+25 For example those contained in the proposed EU AI Act.  
+26 See for example WAGNER, G. 2023. Liability Rules for the Digital Age -Aiming for the Brussels Effect. 
+Available at SSRN 4320285 . 
+Ass. iur. Fabian Luetz , Maître en droit (Paris), LL.M. (Bruges) , PhD -Candidate  - Université de Lausanne (UNIL)  
+ 6 A. Core principles  
+1. Better design of algorithms with more equal representation in the world of AI coding  
+ 
+Potential positive and negative consequences for women’s human right s due to the use of AI 
+and automated decision -making systems needs to include not only public but also private 
+decision makers as well as civil society.27 As a result of the omnipresence of AI, the equal and 
+inclusive representation in decision -making systems  of women becomes even more urgent. But 
+as decisions are not only t aken at political and company level, the approach to equal 
+representation of women needs to include equal representation among AI designers, developers, 
+and AI companies. Decisions affecting value choices and equality are increasingly taken by 
+algorithms, and without women sitting at the design and developing table for AI, there is more 
+risk of creating algorithms with biases and the potential to discriminate.28  
+Existing human rights instruments that address the role of businesses, such as the UN 
+Guiding Principles on Business and Human Rights  (UNGPs)29 or the OECD Guidelines for 
+Multinational Enterprises30 are a guide to incentivise more diversity in AI.  Equally other UN 
+reports highlight that ‘Business enterprises have a responsibility to resp ect all internationally 
+recognized human rights ’.31 As highlighted by the recommendations to business in recent UN 
+reports on AI, achieving more inclusiveness and diversity among AI developers  requires the 
+involvement of business es.32 
+ 
+2. Better and more representative datasets to avoid biases and stereotypes  
+ 
+The problem of the gender data gap  has been frequently highlighted as one of the causes 
+underlying biases, stereotypes, and potential discriminations.33 Fighting against stereotypes and 
+biases, in th e offline and the online world, are essential steps in addressing gender -based 
+discrimination.  
+ Considering the nature of CEDAW as a ‘living instrument and that its provisions are 
+subject to a continuous dynamic and progressive interpretation ’34, Article 5(a) CEDAW could 
+be used as an instrument to achieve ‘transformative equality’35 regarding algorithmic gender -
+based discrimination.  
+ 
+27 In that sense researchers can contribute to find new ways towards gender -inclusive AI, see for example 
+HIPOLITO, I., WINKLE, K. & LIE, M. 2023. Enactive Artificial Intelligence: Overcoming Male Gaze in Robot -
+Human Interaction. arXiv preprint arXiv:2301.08741 . 
+28 LÜTZ (n 2), p. 48; see also Duduetsang Mokoele, Nomaqhawe Moyo and Lerato Mahlangu, When algorithms 
+meet humanity, In: MAZIBUKO -MAKENA, Z. & KRAEMER -MBULA, E. 2021. Leap 4.0: African Perspectives 
+on the Fourth Industrial Revolution , Mapungubwe Institute for Strategic Reflection (MISTRA),  p. 120.  
+29 2011. A/HRC/17/31, Report of the Special Representative of the Secretary -General on the Issue of Human 
+Rights and Transnational Corporations  and Other Business Enterprises, John Ruggie : Guiding Principles on 
+Business and Human Rights : Implementing the United Nations "Protect, Respect and Remedy" Framework.  
+30 OECD Guidelines for Multinational Enterprises , available at: https://www.oecd.org/daf/inv/mne/48004323.pdf . 
+31 A/HRC/48/31, The right to privacy in the digital age, Report of the United Nations High Commissioner for 
+Human Rights , para. 11.  
+32 Ibid., para. 61(c): “Take decisive steps in order to ensure the diversity of the workf orce responsible for the 
+development of AI”.  
+33 PEREZ, C. C. 2019. Invisible women: Exposing data bias in a world designed for men , Random House. ; 
+BUVINIC, M. & LEVINE, R. 2016. Closing the gender data gap. Significance,  13, 34-37.;  
+CAITLIN KRAFT - BUCHMAN,  R. A. 2021. Artificial Intelligence Recruitment: Digital Dream or Dystopia  
+of Bias? www.womenatthetable.net . 
+34 Rikki Holtmaat, In: FREEMAN, M. A., CHINKIN, C. & RUDOLF, B. 2012. The un Convention on the 
+Elimination of All Forms of Discrimination Against W omen: A Commentary, Oxford, Oxford University Press, 
+Incorporated , p. 143.  
+35 Ibid; for the concept of transformative equality, see notably FREDMAN, S., KUOSMANEN, J. & CAMPBELL, 
+M. 2016. Transformative Equality: Making the Sustainable Development Goals Work for Women. Ethics & 
+International Affairs,  30, 177-187. 
+Ass. iur. Fabian Luetz , Maître en droit (Paris), LL.M. (Bruges) , PhD -Candidate  - Université de Lausanne (UNIL)  
+ 7  
+3. Ensure equal access to the world of data creation  
+ 
+While  AI developers shape the way algorithms might reproduce biases, stereotypes, and lead 
+to discrimination  (choice of models, algorithms, and datasets),  everybody with internet access 
+contributes to the datasets used by algorithms. Due to the digital gender d ivide36, many women 
+and girls lack access to the world of data because they cannot access the internet and therefore 
+miss the opportunity to contribute to more representative and diverse datasets.37 Narrowing the 
+digital gender divide  could contribute to h ave more balanced, diverse, and representative 
+datasets and at the same time represents the necessary starting conditions for becoming a female 
+AI coder.38 
+B. Key commitments, pledges, actions  
+1. Governments  should d evelop work based on existing UN reports and envisage a 
+future legal framework based on CEDAW which sufficiently considers the positive 
+and negative impacts of AI systems for women’s rights, and which prevents 
+algorithmic discrimination.  
+2. Governments  should commit to r ely on the CEDAW fram ework, develop 
+interpretative guidance in the appropriate form for how the current legal framework 
+at international level could address algorithmic discrimination.  
+3. Governments  should commit to develop awareness raising campaigns and training 
+programs base d on Article 5 of CEDAW to address gender biases and stereotypes 
+and to encourage women and girls to contribute to representative and diverse 
+datasets and reduce the digital gender divide.  
+4. Government and AI Companies  should pledge  to develop best practices , training 
+programmes and to attract more women in AI related professions to pave the way 
+for more diversity and inclusion at the design and developing stage for algorithms.  
+5. Civil society organizations, researchers and other stakeholders  could contribute t o 
+the promotion of regulating AI by offering their expertise throughout legislative 
+drafting, evaluation of established legal frameworks and their potential review , 
+notably regarding  auditing , algorithmic impact assessments  and monitoring of AI 
+systems .39 
+--- End of contribution --- 
+ 
+ 
+ 
+36 See for example World Economic Forum, How to close the  digital gender divide and empower women , 8 March 
+2022, available at: https://www.weforum.org/agenda/2022/03/how -to-close -digital -gender -divide/  ; USAID, The 
+Gender Digital Divide Primer, available at: https://www.usaid.gov/digital -development/gender -digital -divide -
+primer  ; Worldbank, Closing the Digital Gender Gap: Why Now Should Have Been Yesterday , 9th June 2020, 
+available at: https:/ /www.worldbank.org/en/news/feature/2020/06/09/closing -the-digital -gender -gap-why-now-
+should -have -been -yesterday  . 
+37 See also SDG 5, notably indicator 5.b.1: ‘ Proportion of individuals who own a mobile telephone, by sex’.  
+38 See LÜTZ, F., Gender Equality and Artificial Intelligence: SDG 5 and the role of the UN in fighting stereotypes, 
+biases and gender discrimination , In: Cristani Federica, Fornalé Elisa (eds.) Women’s Empowerment and its 
+Limits, Palgrave (forthcoming  march 2023).  
+39 See for example, CLEMENT, M., CRAIG, P., SCHNEIDER, J. -P., DOLLINGER, J., MERLI,  F., LE 
+MÉTAYER, D., WIERZBOWSKI, M., WOJCIECHOWSKA, K. & ZIÓŁKOWSKA, K. 2022. ELI Model Rules 
+on Impact Assessment of Algorithmic Decision -Making Systems Used by Public Administration. . 

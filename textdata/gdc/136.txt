@@ -1,0 +1,210 @@
+ 
+1 
+National Submission of El Salvador on the Global Digital Compact proposed thematic areas  
+ 
+The Global Digital Compact (GDC) should aim for Information and Communication Technologies (ICTs) 
+to be universal, accessible, free, and affordable. Hence interoperability, openness, and the global reach 
+of the Internet are key to this goal.  
+In the current context of multiple and interlinked crises, harnessing the potential of science, technology,  
+and innovation, including digital technologies, is critical t o address the multidimensional challenges 
+faced, in particular, by developing countries in their efforts to achieve the SDGs, recognizing that ICTs 
+have the potential to provide solutions to the new and evolving development challenges. In that sense, 
+concr ete actions and specific initiatives need to be implemented and harnessed through the GDC.  
+For this goal,  the importance of creating synergies, preventing duplications, and building on 
+existing initiatives cannot be overstated.  We maintain that the GDC sho uld build upon on forums 
+already advancing in digital cooperation as the International Telecommunication Union (ITU), the Office 
+of the Envoy on Technology, the Internet Governance Forum (IGF), the AI ethics work of UNESCO, the 
+World Summit on the Informat ion Society (WSIS) and the Secretary -General´s Roadmap for digital 
+cooperation, as well other related processes in the General Assembly of the United Nations.  
+We therefore call to create synergies and to take advantage of what the organization and other Me mber 
+States have been doing for the last decade on connectivity, internet governance, data protection, 
+artificial intelligence and other emerging technologies and ways to accelerate the progress of the SGDs. 
+In this regard, knowledge sharing and strengthen ing multi stakeholder partnerships would be relevant.  
+As core priorities for the achievement of the SDGs, technology transfer and capacity building for all 
+developing countries should be ensured and improved in order to reduce existing gaps and to promote 
+equal access and the use of ICTs.  
+The GDC process should be, in this sense, an opportunity to revive and promote meaningful debate 
+about the role ICTs play in our current world and how we can use these technologies to achieve 
+sustainable development for a ll, in particular to tackle current global challenges.  
+Another element that is highlighted across the thematic discussions is the need to continue the multi -
+stakeholder  approach while preserving the  intergovernmental nature of a United Nations process and  
+ensuring a  human right  centered approach.  
+We, therefore, present key elements for some of the thematic deep -dives:  
+1. Thematic areas proposals  
+ 
+Digital inclusion and connectivity  
+Bridge the digital divide including the gender divide  
+Bridging the digital divid e means ensuring that everyone can use information and communication 
+technologies (ICTs) to their advantage, and to have a pool of adequate tools available to become online 
+ 
+2 
+citizens. There is a direct link between digital and socioeconomic inequalities. Pr ior challenges arise 
+when not everyone has access to digital technologies, including the internet.  
+ 
+As highlighted in the Report of the Secretary -General related to the progress towards the SDGs, 
+persistent digital dives among and within countries are a ma in challenge for the achievement of the 
+SDGs. Leveraging the potential of technologies and ensuring connectivity for all requires investing in 
+inclusive and accessible digital infrastructure .  
+ 
+Digital inclusion also requires addressing the gender digital divide to reach - in access to and use of 
+technologies and connectivity. Is also closely related to the opportunities enabled for all women and 
+girls to access digital skills in science, technology, engineering, and mathematics.  
+ 
+Digital infrastructure  
+The internet is about data but  is also about infrastructure. Therefore,  we suggest enhancing investment 
+in digital infrastructure. This encompasses a dual approach from elements related to access to devices, 
+like a computer or other relevant devices, and as infrastructure we refer to a reliable and secure internet 
+environment.  
+ 
+As we stated before, for digital inclusion to become a reality there must be a combination of factors 
+working together to ensure not only affordable, high quality and stable connectiv ity but the basic tools 
+(physical and social) to navigate in a highly connected environment.  
+ 
+Digital literacy and training skills  
+Digital skills training and digital literacy at all levels, and to all people  throughout their life cycle. The goal 
+should be for everyone to have access to the internet, but also to have  the appropriate digital skills, 
+relevant to their individual needs, so that they are able to utilize the media environments that provide 
+the benefits they are looking for.  
+ 
+For people already immersed in ICT environments, more educational resources are needed in STEM, 
+cybersecurity, quantum computing, artificial intellige nce, and new and emerging technologies.  
+ 
+It is through the development of digital capacities at all levels, we will be able to improve social and 
+economic disparities and improve connectivity.  
+ 
+Technology transfer and capacity building  
+Taking advantage of  the positive contribution to tackle current challenges will require the adequate 
+financial resources from all sources, including through capacity building and technology transfer to 
+developing countries in order to  reduce existing gaps and promote equal a ccess in regard to  
+connectivity. The establishment of more efficient and effective mechanisms for this purpose should be 
+promoted and by strengthening and innovating existing initiatives to benefit in particular developing 
+countries.  
+ 
+Internet governance  
+Multi-stakeholder and collaborative approach to Internet Governance  
+ 
+3 
+The understanding of the Internet as a decentralized platform is key. We refer specifically to the fact 
+that no institution or entity holds sole power and control and where a multi -stakeho lder scheme 
+(governments, the private sector, non -governmental organizations, international organizations, 
+academia, and industry) collaborate together to develop an inclusive governance model for the internet's 
+growth and development.  
+Therefore,  we reaffirmed the importance of continuing the multi -stakeholder approach outlined in the 
+Geneva Summit of 2003 and the Tunis Agenda of 2005. The purpose of this is to ensure that a wide 
+range of interested and competent stakeholders can contribute to the  development of principles that 
+mark the evolution of the Internet.  
+On that line there is an urgent need to enhance and foster a more effective participation in particular of 
+developing countries on the existing platforms related to internet governance, th rough which their 
+interests and priorities could be considered.  
+Data protection  
+Human rights approach  
+Crimes related to the use of unauthorized data are on the rise. Illegal  access to data causes harm to 
+those who are affected by it. As a result, cybercri me relating to data threatens the privacy of hundreds 
+of millions of individuals whose personal information is accessed without authorization, stolen, modified,  
+or illegally used with malicious intent.  
+ 
+Therefore, we highlight the States responsibilities t o address cybersecurity concerns, particularly to 
+protect sensitive data to extend individual rights to cyberspace under national legal frameworks, as well 
+into a broader scale safeguard national security interests.  
+ 
+Protection of data in the context of in ternational security  
+Unauthorized access to sensitive information at the government level can disrupt government systems, 
+undermine public service provision, negatively affect the economy, compromise the very form of 
+government,  and compromise the supply c hain, resulting in failures in the social function of States 
+resulting in social discord and mistrust.  
+ 
+For national, social, economic, and political stability, States must ensure the safekeeping of data and 
+procurement of their digital infrastructure. Th is responsibility can also be translated as the responsibility 
+of the government to protect citizens' data collected, managed,  and stored in a public environment to a 
+greater degree.  
+ 
+Multi -stakeholder approach on Data protection  
+Private data protection can be upheld through a multi -stakeholder approach where everyone plays 
+critical roles. By promoting international standards within existing frameworks, a multilateral approach 
+can be achieved. On a national level, governments also have regulations that prevent service providers 
+from obtaining, using,  and manipulating data. Those who provide services on data management and 
+Internet Service Providers should adhere to strict regulations that prevent the improper use of sensitive 
+inform ation.  
+ 
+4 
+ 
+Principles for interoperability of data  
+We highlight for data interoperability the following principles: openness for data that isn't under 
+protection and open source software, technology neutrality to avoid dependency and adapt needs to a 
+rapidly  changing technological environment, data portability for reuse of data, transparency regarding 
+processes and accessibility in order for all people, regardless of their specific needs, to have similar 
+access to and use of ICT products.  
+ 
+Digital trust and s ecurity  
+Protection of digital critical infrastructures and digital information infrastructures  
+In order for societies to function as they should, digital critical infrastructure, such as access to food, 
+water, energy, and transportation, as well as social  services, should be protected and respected at all 
+times. Critical health and education infrastructure should be respected in all circumstances. However, 
+there is a need for Member States to discuss what embodies digital trust and security in order to sha pe 
+a common understanding of what these terms encompass.  
+ 
+Digital trust in their connection to data protection  
+Digital trust is intrinsically connected with data protection, privacy and the empowerment and 
+determination of individuals to make conscious de cisions about the recollection, storage, use and 
+elimination of private information. Transparency in the collection and manipulation of data is 
+fundamental and provides the user with sufficient power to manage personal data from a human rights 
+perspective.  To advance digital trust, more multidisciplinary discussions and collaboration are needed.  
+ 
+We also believe the misuse of ICTs poses a threat to digital trust in terms of potential risk and harm 
+caused by all forms of online violence and abuse, which can aggravate the differential impacts of 
+violence on women and children. In addition, it is necessary to address any type of discrimination caused 
+by algorithm biases and other violations of human rights in the use of ICTs.  
+ 
+In that sense, the GDC should tack le the continuity and interrelation between offline and online violence, 
+harassment and discrimination against women and girls and the increase of such acts that are 
+committed, assisted, aggravated or amplified by the use of technology, and it should urge governments 
+and all stakeholders to take all appropriate measures, including legal or criminal action, to combat the 
+use of digital tools, including social media and online platforms, for the purpose of harassment, hate 
+speech and racism against women and girls.  
+ 
+Artificial intelligence and other emerging technologies  
+Innovation  
+Digital transformation and innovation through AI applications development, implementation and use 
+represent huge opportunities. Technologies emerging from the AI realm and other e merging tech can 
+reduce gaps between countries and promote development, however they can also deepen inequalities 
+and the digital divide. Multi -stakeholder cooperation is essential to ensure that current and future uses 
+of AI are secure, peaceful, and sust ainable.  
+ 
+AI applications related to international security  
+ 
+5 
+The increasing autonomy of certain AI applications is of major concern, particularly in areas of 
+international security, weaponry development and transition to cyberspace warfare. Ethical and leg al 
+implications should be fundamental in the development of AI applications particularly those that reduce 
+or restrict human control in situations of life and death.  
+ 
+Ethic uses of AI  
+There must be a human -centered approach to AI applications development, so that they are based on 
+human rights, are secure, safe, and sustainable; they should be beneficial to individuals, respect their 
+dignity, and consider society's benefit as well.  
+ 
+Global digital commons  
+Universality of the Internet  
+It is fundamental for the internet to be viewed as a public good, with functionality, security, openness, 
+and stability being essential features. In order to prevent the open source and public nature of the 
+Internet from diminishing, newly revitalized courses should be discusse d. As this presents accessibility 
+issues for developing countries.  
+ 
+Standardization and interoperability  
+Standardization of frameworks for digital common goods is essential for improving accessibility, and 
+interoperable data is also essential for allowing information to flow from different platforms with respect 
+for privacy and elevated levels  of security.  
+ 
+Accelerating progress on Sustainable Development Goals (SDGs)  
+ICTs towards the achievement of the SDGs  
+Recognizing that information and communications technologies present new opportunities and benefits 
+for the achievement of the SDGs, requi res addressing the major impediments that developing countries 
+face in engaging with and accessing new and emerging technologies such as: appropriate enabling 
+environment, sufficient resources, infrastructure, education, capacity, investment,  and connectiv ity.  
+ 
+In that sense, in order to take advantage of the relevant role of ICTs towards the achievement of the 
+SDGs, strong multi stakeholder partnerships are critical to improve the science, technology and 
+innovation ecosystem working in collaboration with all relevant stakeholders to identify solutions to 
+pressing development challenges.  
+ 
+ 

@@ -1,0 +1,335 @@
+ 
+ 
+ 
+1 
+ Emmanuelle Duquenne  – Policy advisor  – Digital Future Foundation  
+ CONTRIBUTION TO THE GLOBAL DIGITAL COMPACT  
+1. GENERAL COMMENTS  
+The Global Digital Compact  should represent important steps towards achieving the UN Sustainable 
+Development Goals .  
+As the Global Digital Compact will be implemented ultimately by private sector, civil society, technical 
+community and governments , a multistakeholder and contributors group  should be involved  throughout 
+the entire process  and in its d rafting , beyond the cons ultation phase.  
+Consistency with existing initiatives , principles and regulations is key to ensure the effectiveness of a 
+global regulatory framework . It also requires an inclusive, dynamic and agile adoption process  to adapt 
+to the fast -paced evolution of emerging technologies  and related key issues.  
+As shown in a recent report of the McKinsey Global Institute “ Securing Europe’s competitiveness: 
+Addressing its technology gap ”, Europe needs to raise its investment in  tech R&D if it wants to compete 
+with other global leaders in transversal technologies, ranging from future  of connectivity  to next -
+generation computing or applied AI.  On the other hand , next -generation innovators  have the ability to 
+solve global issues  in various areas  according to the predictions of the Technology Pioneers recognized 
+by the World Economic Forum . 
+Just as  mobile technology has been a game changer  during the last 15 years, blockchain will 
+democratize and streamline access to credit . There is a clear correlation  between GDP per capita  and 
+cell phone penetration . In the developing countries, t he biggest driver of th is growth is mobile money . 
+People who  have never had a bank account or a secure way to save, transfer, borrow and invest money 
+now have  it all at hand.   
+With the  rise of digital labour marketplaces, “gig-work ” and “job on demand”  will offer earning 
+opportunities in countries where jobs  are scarce  for low -skilled populations . The best opportunities will 
+be given to the best talent wherever  they live , thereby truly unl eashing  the potential of a billion knowledge 
+workers.  A data -first approach in the way we do business and close  agreements  will enable  massive 
+efficiency gains and free up vast  amount of wasted human potential that could  be redirected to more 
+meaningful objectives . 
+Smart contracts have the potential to revolutionize e -commerce and the exchange of goods , forever 
+changing the  way we trade and consum e, with application evolving towards  open marketplace for 
+literally every thing, where anyone can share the value they create.  
+Ed-tech will profoundly transform our education models . The web is already interfacing  children with 
+the best experts, progressing  the quality of education and reducing inequalities in a cost -effective way. 
+In the future, technological progress will help  every child to develop skills meet ing their deepest 
+aspirations to build a better world. AI will serve as world -class education counsellor, understanding 
+every child ’s own interests  and suggesting tailored learning journeys and insights for their parents and 
+teachers.  
+Quantum networks and qu antum encryption  will ensure  secure communications leverage the power of 
+physics to enable unhackable security. Ultimately , distributed quantum computing will enable the 
+quantum internet , which power of calculation will exponentially accelerate cycles of inn ovation when it 
+comes to discover new medicines or new sustainable materials. As one of the most pressing issue is 
+to enhance trust in digital technologies , this will help combat all forms of cybercrime and illegal cyber 
+activities online, which are one of  the root cause of distrust in digital technologies and Internet 
+fragmentation.  
+Furthermore, d igital transformation is crucial  to fight climate change and ensure the energy transition . 
+Countless evidence -based studies show that countries developing and scaling more tech nologies  are 
+also the most developed and sustainable in the world.  
+ 
+ 
+ 
+2 
+ Emmanuelle Duquenne  – Policy advisor  – Digital Future Foundation  
+ While  3D-printed homes  are going mainstream, how we build future cities  will exponentially accelerate  
+our sustainability efforts . The construction industry, that accounts for almost 40% of global CO2 
+emissions, is adopting  new sustainable mat erials and battery energy storage systems  tailored for 
+construction sites that reduce carbon emissions by 80%.  
+Beyond solar farms’  projects and off-grid renewable energy , future flexible energy grid  will be able to 
+balance in real time energy supply and demand, allowing individual renewable energy producers to 
+reinject energy in the network, optimizing their earnings and energy  consumption. Electric vehicles will 
+respond to real -time grid requirements, when it need s the most.  
+In the area of CO2 capture, n ew data sources as remote sensing data streams from high -resolution 
+cameras and lasers (i.e., LiDAR), satellites, smartphon e sensors or position ing systems combined with 
+cloud data processing, artificial intelligence and data fusion will empower accurate measurement and 
+monitoring of plant health and carbon sequestration potential for natural ecosystems . 
+The examples of potentially disruptive and lifechanging future technologies could go on and on , as far 
+as innovation is critical to the future well -being of society and to driving economic growth . Nevertheless, 
+the main issues facing  the world  in the areas of connectivity , internet fragmentation, data protection, 
+human rights online , disinformation, artificial intelligence and digital commons require international 
+dialogue and cooperation  to achieve an open, free and secure digital future for all . 
+This contribution build on  public position  of other  stakeholders in an  attempt to synthesize and find 
+common positions  on the principles and commitments expected from the Global Digital Compact.  
+2. CONNECT ALL PEOPLE TO THE INTERNET, INCLUDING ALL SCHOOLS  
+Core principles  
+Achieving universal connectivity is crucial for an inclusive digital economy and to accelerate progress 
+towards the  17 United Nations Sustainable Development Goals  (SDGs), including  SDGs on education, 
+resilient infrastructure, inclusive and sustainable industrialization and innovation. As it impacts various 
+aspects  of life, including work, learning and accessing basic services, digital transformation enables 
+countless economic opportunities for all people across the world, helping to eradicate extreme poverty, 
+improving health  and well -being  as well as  inclusive and  sustainable economic growth . 
+To harness the  economic opportunities , governments, international organizations, and the private 
+sector should build on physical resources and infrastructures, focusing on digital skills, technology and 
+competitiveness.  
+Whethe r it is about infrastructure and devices, applications and services, or skills, policymaking should 
+be based on promoting the value of the entire communications and digital services ecosystem and 
+fostering competition and innovation through  non-discriminat ory, technology -neutral, and supportive 
+of innovative business models . Innovative and sustainable business models can address the challenge 
+of providing broadband connectivity to underserved areas. Emerging markets possess vibrant 
+economies and entrepreneurial energy, making them ideal for future innovation with the right policy 
+frameworks , focusing on competitiveness . 
+The Declaration on the Future of the Internet highlights key principles, such as inclusive and reliable 
+access, digital literacy and skill development, and fostering cultural diversity and social inclusion. These 
+principles aim to close the digital divide and enable individuals to safely participate in the digital 
+economy.  
+Bridging  the digital divide  with a focus on equity and en suring access to the digital sphere for all , 
+particularly women, young persons and  those with disabilities, in both rural and urban areas  should 
+result in affordable, inclusive, secure, and stable  access via trusted networks  to the open Internet . 
+ 
+ 
+ 
+3 
+ Emmanuelle Duquenne  – Policy advisor  – Digital Future Foundation  
+ The digital transformation of education  can provide unique opportunities for inclusive and equitable 
+quality education, but global digital divides, including the gender digital divide, must be overcome.  
+Connecting every school to the internet and extending services to households and individuals can 
+provide additional avenues for education and lifelong learning . Digital skills are essential for internet 
+access and should be acquired by all individuals, sta rting from elementary school and continuing 
+throughout their lives. Preventing and countering online threats , such as violence and harassment, as 
+well as promoting cybersecurity awareness , are crucial aspects of the digital skills of the future .  
+Key commi tments  
+The Global Digital Compact should reaffirm member states' commitment to bridging coverage and 
+usage gaps, recognizing stakeholders' efforts and promoting flexible, forward -looking policy and 
+regulatory approaches grounded in evidence and data.  
+Considering the complexities of delivering global connectivity, t he Global Digital Compact should 
+promote evidence -based, transparent,  adaptable and non -discriminatory policymaking and regulation  
+that foster the deployment of secure and trusted digital net works , facilitate and maximise the impact of 
+public and private investment, foster innovation across the digital value chain , and promote digital 
+literacy and skills development.  
+Ensuring access to excellent connectivity for everyone  relies on a combination of private investments 
+and public funding instruments. Investments in digital infrastructure, particularly in rural and outermost 
+regions, are crucial, with significant support for 5G and fiber networks.  Both private investments and 
+public fund ing should be guided by accurate information , including coverage and usage data, satellite 
+images, and census data to make informed decisions on network deployment . 
+To ensure competitive and regulatory environment that fosters trust in electronic communica tion 
+services and reduces the digital divide, industry leaders, stakeholders, and policymakers must engage 
+in dialogue and establish the right incentives for digital infrastructure investment . 
+Emphasis should also be placed on efficient, transparent and fair  spectrum  allocation and licensing  
+for broadband -capable networks . Unlicensed, shared, and secondary uses must be encouraged while 
+incentivizing operators to use the spectrum efficiently. For  remote and rural areas, policies should aim 
+to reduce deployment costs by easing licensing processes, providing access to sufficient spectrum, and 
+supporting alternative technology approaches. Non-discriminatory regulatory frameworks for low -cost 
+licensed  spectrum  access  should f ocus on lower frequency bands for better coverage, and promot e 
+greater access to unlicensed spectrum in unserved or underserved areas.  
+The Global Digital Compact  should promote access to affordable, stable, open, accessible, safe, secure, 
+and high -speed internet for higher education, including connecting schools.  It should commit to 
+promoting digital skills and lifelong learning  and supporting digital connectivity , infrastructure, and 
+tools in education and training institutions. Learners and teachers  must be enabled to acquire and share 
+digital skills and competences, with opportunities for up -skilling and re -skilling.  
+3. AVOID INTERNET FRAGMENTATION  
+Core principles  
+The open, interconnected, and interoperable Internet, initially designed as a shared resource , is 
+increasingly at risk due to unintended consequences of technical, legislative, regulatory, and policy 
+developments that threaten its unity and accessibility.  
+These risks occur at the technical, legislative, regulatory, and policy levels . Key threats include 
+government -imposed internet shutdowns, cybercrime, low cybersecurity standards, and policies that 
+control internet access or conduct public surveillance. Technical fragmentation at backbone layer, 
+network/access layer, and application/content layer  also threatens the global internet's interoperability.  
+ 
+ 
+ 
+4 
+ Emmanuelle Duquenne  – Policy advisor  – Digital Future Foundation  
+ This fragmentations affects users ' access to information, privacy protections, and freedom to transact 
+and communicate based on their location. It hinders international trade , particularly impacting small 
+businesses and emerging markets .  
+Restrictions on the free flow of information and ideas  have been imposed by governments.  Internet 
+must be open, interconnected, stable, secure and interoperable . Restrictions of and on the Internet 
+threaten global and open cyberspace, as well as the rule of law, human rights and democracy. Net 
+neutrality  is another  key issue that must be maintained and protected.  
+To address these concerns, a multistakeholder, bott om-up, distributed and transparent governance 
+model of Internet must be preserved , and strengthen to address Internet -related issues and promote 
+cooperation among organizations. This model should be guided by information sharing, raising 
+awareness, and collaboration . Governments, businesses, technical communities, acade mia, and civil 
+society must be involved in discussions and decision -making, ensuring diverse, equitable, and inclusive 
+policymaking processes , and supporting the meaningful participation of under -represented groups. The 
+strength of this governance model lie s in its open and inclusive participation, legitimacy, credibility, and 
+adaptability. It fosters flexibility  in adapting to changing technologies and issues . Transparency is 
+essential, with consensus -based decision -making processes reflecting multistakehol der input.  
+Key commitments  
+The Global Digital Compact  should recognize the efforts of the Internet Governance Forum Policy 
+Network on Internet Fragmentation  to counter fragmentation measures  and commit to maintain an 
+open, interconnected, stable and interoperable Internet . It should reaffirm its support  to the  mandate 
+of the IGF as the forum for cooperation and technical knowledge sharing among diverse stakeholders 
+within the UN , that promote s the free exchange of ideas , fosters diverse thinking and community -
+building, and produces best practice materials and policy insights.  
+Cybersecurity  standards  should be enhanced as the lack of it can destroy trust of individuals, 
+businesses, and governments in the open Internet.  The Global Digital Compact should advocate for and 
+support capacity -building activities related to these standards, to ensure an open,  secure, and resilient 
+internet that promotes social progress and economic growth.  
+To prevent shutdowns, technical availability and integrity  should be preserved and any restrictions must 
+have a legitimate purpose based on  international law.  
+4. PROTECT DATA  
+Core principles  
+International data flows, data portability and access to safe, secure, and privacy -protective digital 
+goods  and services  for everyone are crucial for the functioning of the global economy and to foster 
+innovation and economic  opportunities across all sectors.  
+Beyond basic social exchanges, free data flows facilitate s international cooperation  in essential areas 
+such as scientific research, law enforcement, and global security , and help managing global crises like 
+pandemics an d climate change.  
+Moreover, a  human -centric digital transformation  also requires to support local data and technological 
+ownership for a safe and secure digital environment . Trust is a central element while the lack of it 
+creates uncertainty and discourages participation in the global economy. Trust requires Governments 
+and legislators  to ensure personal and other data are protected through robust cybersecurity 
+infrastructure and a  trustworthy legal framework  for data protection. Policy and regulatory 
+environments for data protection and access need to adhere to up-to-date best practices in privacy  and 
+security  in data access, sharing, use and governance . Policies should  also  promote human rights, 
+democratic values and privacy .  
+ 
+ 
+ 
+5 
+ Emmanuelle Duquenne  – Policy advisor  – Digital Future Foundation  
+ Equally, efforts are needed to define principles and safeguards for  government access to personal data  
+held by the private sector, while transparency policies should prohibit excessive costs , burdens and risks 
+on providers that comply with legal obligations.  
+Key commitments  
+The Global Digital Compact should adhere to high data protection standards  and focus on protecting 
+data while ensuring fairness, competitiveness, and data -driven innovation. A balance must be found 
+between data protection, trade secret protection, innovation and investment in the data economy . 
+Enhanced global cooperation  on data  governance and interoperability across policy and regulatory 
+systems is needed to overcome differences and identify opportunities.  
+Special attention should be given to policies  that prevent data -extractive models and personal data 
+export to inadequately p rotected jurisdictions.  
+With regard to government access to personal data , OECD countries have adopted an agreement for 
+privacy and human rights protection when accessing personal data for national security and law 
+enforcement purposes.  
+5. APPLY HUMAN RIGHT S ONLINE  
+Core principles  
+Human rights and fundamental freedoms apply both online and offline . Internationally recognized 
+human rights standards, such as the Universal Declaration of Human Rights, the United Nations Guiding 
+Principles on Business and Human Rights, and the Global Network Initiative Principles, should guide a 
+responsible approach of  online activities. Human rights should be also considered in the design and 
+life-cycle of emerging technologies.  
+General internet monitoring should be prohibited  and investigation  to tackle illegal content should be 
+targeted and proportionate with respect to individual rights.  
+Beyond freedom of expression , safer marketplaces and access to information to ensure the Internet's 
+role in fostering development goals, special attention should be given to technical tools for law 
+enforcement to investigate c rimes  of child sexual abuse and exploitation , gender -based violence 
+reinforced by built -in bias in algorithms , or illegal content, such as copyright infringements and terrorist 
+content.  
+Key commitments  
+The Global Digital Compact should commit to human rights and fundamental freedoms and ensure 
+equal protection of rights online and offline .  
+Human rights and fundamental freedoms due diligence should be addressed as  one of the the root 
+causes of Internet fragmentation  and is  a shared responsibility  of intergovernmental organizations, 
+governments, private sector, technical community, and civil society.  
+The Global Digital Compact should promote a human rights -based approach through out the cycle of 
+digital technologies , including emerging technologies.  
+Building resilient and democratic societies  relies on anti -corruption, media and information literacy, 
+election integrity, and capacity -building efforts in digital security training for civil society, journalists, and 
+human rights defenders.  
+ 
+ 
+ 
+ 
+6 
+ Emmanuelle Duquenne  – Policy advisor  – Digital Future Foundation  
+ 6. ACCOUNTABILITY FOR DISCRIMINATION AND MISLEADING CONTENT  
+Core principles  
+Safeguar ding global security  in countering foreign information manipulation to undermine democratic 
+electoral infrastructure and political processes or interfering during conflicts or crises is crucial. 
+Therefore, media freedom and journalists' safety  should be protected . 
+Stakeholders should address challenges presented by onlin e disinformation and c itizens should be 
+empowered to make  informed choices online , with access to diverse, transparent, reliable information.  
+Key commitm ents 
+While transparency and accountability to avoid the misuse of technologies are crucial, the Global Digital 
+Compact should recognize pre -existing tools and initiatives to ensure consistency  and effectiveness 
+of any global regulatory framework related to  discrimination and misleading content.  
+The Global Digital Compact should support an online environment free from information manipulation, 
+online sexual and gender -based violence, hate speech, and harmful content.  Combating discrimination, 
+special attention should also be given to accessible persons with disabilities.  
+Platforms should be encouraged to keep on adopting and adapting accountable practices. Policies on 
+content governance and their governance are to be designed in line with international human rights, 
+democracy, and rule of law standards. In this respect , principles and guidelines developed by the  Global 
+Network Initiative (GNI) are becoming a global standard for human rights in the ICT sector.  
+7. REGULATION OF ARTIFICIAL INTELLIGENCE  
+Core principles  
+AI has the potential to benefit the society  and the economy  in many ways and to address  world 
+challenges as climate change , energy transition  and pandemics. It can be leveraged to make 
+infrastructure s and services more efficient, or for safety, cybersecurity,  and sustainability.  
+Essential to  economic development , AI could also  intensify discrimination and  digital divide . Therefore, 
+transparent and robust algorithms need  to prevent unfair biases and ensure that AI contributes 
+positively to society.  Policymakers need to  develop proportiona te, risk -based regulations that promote 
+robust and trustworthy AI applications while enabling innovation and societal benefits.  
+The OECD  Principles on AI  define h ow governments and other stakeholders  can shape a human -centric 
+approach to trustworthy AI . They  define terms and concept and p romote AI that is innovative and 
+trustworthy and that respects human rights and democratic value , based  on 5 value -based principles 
+and recommendations for policy makers.  
+Value -based principles  
+1. Inclusive growth, sustainable development and well -being  
+2. Human -centered values and fairness  
+3. Transparency and explainability  
+4. Robustness, security and safety  
+5. Accountability  
+Recommendations for policy makers  
+1. Invest in AI R&D  
+2. Foster a digital ecosystem for AI  
+3. Provide an enabling policy environment for AI  
+4. Build human capacity and prepare for labour  market transition  
+5. International cooperation for trustworthy AI  
+ 
+ 
+ 
+7 
+ Emmanuelle Duquenne  – Policy advisor  – Digital Future Foundation  
+ The European Union follows a human -centric, pro -innovation and risk -based approach to AI, grounded 
+in fundamental rights and values such as democracy and the rule of law . The legislative process on the 
+proposed AI Act and Artificial Intelligence Liability Directive , is underway.  
+A multistakeholder approach is needed to  collaborate  on flexible  guidelines and standards , to share 
+knowledge and experience , to foster trust in AI systems and to develop responsible, accountable and 
+safe AI , building on results and ethic al considerations .  
+Key commitments  
+The Global Digital Compact should recognize broadly endorsed principles for trustworthy AI  such as 
+the OECD Principles. It should foster flexible and adaptative regulation as the technology evolve, based 
+on a risk -based approach ranging from codes of conduct for low -risk A I systems to prohibition of AI 
+applications that violate fundamental rights and of lethal autonomous weapons systems.   
+Invest ment  in AI research and development and in necessary skills , ensuring a fair transition for 
+workers , should be  encouraged . 
+To support global cooperation for the implementation of the OECD Principles , the Global Digital 
+Compact  should f oster a digital ecosystem and encourage coordination and collaboration for 
+trustworthy AI . Stakeholders should share knowledge and help identify best practices, ensuring that 
+standards and guidelines are set in a transparent way.  
+8. DIGITAL COMMONS AS A GLOBA L PUBLIC GOOD  
+Core principles  
+Increased open data and open -source initiatives , respecting common core principles and standards  and 
+aiming to leverage innovation and create a competitive market through shared knowledge and 
+resources have the potential to bring significant economic benefits .   
+A balance should be struck between the necessity for more accessible data to encourage talents to 
+contribute to digital commons and facilitate global cooperation, and compliance with privacy protection 
+and digital public rights  due to the risk of misuses and privacy breaches on the other hand.  
+Key commitments  
+The Global Digital Compact should promote  increased open and aggregated data for the public interest, 
+as well as open -source initiatives  and resilient digital infrastructures  to enhanc e democratic digital 
+societies .  
+Grass -root projects in open source software and hardware are crucial for developing digital commons 
+and should be supported.  
+Brussels, April 29th 2023  
+ 
+Emmanuelle Duquenne  
+Policy advisor  
+Digital Future Foundation  
+(in her individual capacity)  

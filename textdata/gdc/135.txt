@@ -1,0 +1,253 @@
+1 
+United Nations Development Programme  Submission to the Global Digital Compact  
+United Nations Development Programme (UNDP)  
+ 
+Rapid digital transformation is changing the context of development, representing an opportunity to 
+accelerate progress towards the achievement of the Sustainable Development Goals (SDGs) by 2030. 
+UNDP’s Digital Strategy 2022 -2025 has focused on effectivel y harnessing the power of digital 
+technologies to support UNDP’s broader programmatic goals of helping 100 million people escape 
+multidimensional poverty, supporting 500 million to gain access to clean energy and 800 million to 
+participate in elections, wh ile promoting over $1 trillion of public and private investments in the SDGs. 
+We do this through our program mes to partner with countries in creating thriving and well -governed 
+digital and data economies , supporting  inclusive digital societies focused on wid espread adoption of 
+responsible technology practices and standards: inclusion, privacy, security, transparency, and good 
+governance.  Our inclusive approach is guided by our commitment to leave no one behind, and  to 
+promote  gender equality.   Demand for UNDP ’s support on digital continues to surge, and in the last 
+three years, UNDP has supported more than 250 digital solutions and platforms across 100 
+countries.    
+The Global Digital Compact is an opportunity to put forward a series of underlying, high -level 
+principles that should guide everyone – member states, the UN system, tech companies, civil society 
+and stakeholders, about the future direction of digital techn ology in relation to people and planet . 
+Drawing on our local presence in over 170 countries, including in crisis and fragile settings, and in the 
+least connected parts of the world; our deep relationships with local digital ecosystems; and our 
+built -up glo bal and local capacity for digital transformation, including through our Digital Advocates 
+Network across all programming countries and Accelerator Labs in 91 locations supporting 115 
+countries; UNDP has the honour to propose  the following elements for inc lusion in  the Global Digital 
+Compact.  
+ 
+• This is a moment of global infle ction . Although countries around the world urgently want to  
+transform digitally, governments often lack the knowledge, capacity, and investment needed 
+to close the digital divide, particularly in an inclusive mann er. 
+ 
+• Digitalization and new technologies can be a double -edged sword, fueling sustainable 
+development  while simultaneously threatening  to further widen the digital divide by 
+exacerbating inequalities and reversing gains. Digitalization efforts therefore are not always 
+sustainable, equitable or rights -based. Inequalities are being exacerbated, with billions of 
+people remaining offline or poorly connected , particularly women and other marginalized 
+populations . Other intersecting inequalities are keeping people in rural areas, marginalized 
+groups, refugees,  and oth er vulnerable populations unconnected.  
+ 
+• More problems and unintended consequences are arising with the development and 
+deployment of technology, such as information pollution, data breach, and increased 
+environmental impact (GHG emission, e -waste, extraction). Digitalization also  enables harms  
+related to surveillance, exploitation,  and exclusion.  
+ 
+• Appropriate and robust policies and regulations are often not in place. Countries may lack 
+the capacity to develop and assert their own regulatory and policy frameworks. In particular, 
+2 
+United Nations Development Programme  countries in the Global South lack the channels and capabilities to mai ntain sovereignty over 
+digitalization within their borders, much less influence global governance frameworks.  
+ 
+• Digital technologies and platforms are boosting the risk of gender -based violence and 
+cybersecurity concerns, threating women’s safety and data privacy – particularly of women 
+politicians, women ’s rights and environmental defenders and women journalists . Efforts to 
+eradicate digital and technology -facilitated gender -based violence (GBV) require multi -
+dimensional responses that integrat e enhanced leg islation, policy frameworks and 
+regulations that hold tech firms accountable.   
+ 
+• Since  countries are  making fundamental investments and decisions  in digital  infrastructure 
+right now , it is imperative that the international system, in particular the United Nations, 
+make s support available . 
+ 
+• The challenge is how countries can transform digitally at scale, with rights , inclusion  and 
+equality  embedded in intention and implementation, and build  a future -proof pol icy 
+environment with governance frameworks in place to react to the rapid development of 
+new technologies.  
+ 
+• Countries around the world face common challenges in struggling to apply digital 
+technologies to address  national priorities (e.g. developing Carbon Trading Systems, Social 
+Protection Systems, AI for Local Languages, Identity Systems etc.).  If countries s tart to 
+“reinvent the wheel” individually each time, they suffer from high costs, duplicative efforts,  
+and risk vulnerability to vendor lock -in, etc.  
+ 
+• The United Nations can help steward a “Global Digital Commons” approach that looks at 
+common or reusable technologies such as Digital Public Goods  (DPGs) , as well as Digital 
+Public Infrastructure, t o shorten the adoption curve and make digital technologies more 
+accessible and equitable to all.  This approach can also  facilitate South -South knowledge -
+exchange a nd cooperation , which can enable countries with limited resources and capacities 
+to speed up digital transformation .  
+ 
+• We should  build  safe and responsible Global Digital Commons, affirming the value of Digital 
+Public Goods and the importance of inclusive and rights -based Digital Public Infrastructure . 
+ 
+UNDP is already working closely with many partners, including the G20 , to highlight the role that 
+Digital Public Infrastructure can play. UNDP is also a member of the Digital Public Goods Alliance, 
+and supporting countries in deploying DPGs across sectors such as health, environment, 
+misinformation, etc ., as well as creating an online catalogue of open digital innovation solutions 
+(DigitalX).  
+• Enhanced governance of technologies is needed now more than ever, to both create an 
+enabling policy environment that supports innovation at scale, but also to anticipate and 
+mitigate risk s and harms.  
+ 
+• We must shift from siloed and fragmented digital solutions to strategic and holistic national 
+digital transformation processes that also empower local ecosystems.  We need to develop 
+inclusive and gender responsive digital transformation strategies and digital policies  that 
+leave no one behind . 
+ 
+3 
+United Nations Development Programme  • Funding remains one of the biggest challenges for low -income countries to digitize. W e need 
+to support governments to find the fiscal space to  invest in areas  such as digital ID an d 
+digitalization of social protection systems,  digital  capacity -building , catalytic capital to 
+support tech start -ups and social enterprises with SDG -aligned business models , and an 
+enabling environment for digital equality and inclusive digital ecosystems.   
+ 
+• People (and their rights) need to be at the  centre  of digital  ecosystems.   Universal access to 
+the Internet does not automatically translate into digital equality.  The issue of protecting 
+human rights  and particularly women’s rights  in the digital space is fundamental – human 
+rights apply online as they do offline . We underline  that there  is a continuum between 
+digital and analogue violence in which digital techno logies may amplify the risk and impact 
+of gender -based violence.  
+ 
+• Technology implementation must be accompanied by strong accountable institutions and 
+governance arrangements that emb ed critical safeguards. Data frameworks and 
+arrangements must be arranged to ensure and enable open, safe,  and secure use.  
+ 
+• Human -centred  design and responsible application of technology must entail empowerment 
+of people through legislation, increased capacity, and systems such as grievance redressal 
+mechanisms attached to digital technologies used to deliver services, etc. This improves 
+peoples’ understanding of, and exercise of their rights in the digital space.  
+ 
+UNDP  has adopted rights -based digital (and data) standards for our organization, which are 
+embedded across our programming and operations: https://www.undp.org/digital/standards . UNDP 
+is also working on embedding digital rights in digital programmes across countries, including through 
+the creation of a Digital Rights Dashboard , as well as strengthening AI preparedness and data 
+governance.  
+ 
+• We must acknowledge and recognize the digital/sustainability nexus. Digitalization can 
+become an enabler for a green and resilient transition, as digital transition is closely 
+intertwined with our climate future.  
+ 
+• We must democratize the benefits of digita l technology by making the digital space more 
+open, low -cost, and inclusive by encouraging the development of new business models that 
+make even the most powerful technologies accessible everywhere. To do so , we need to 
+understand and address overlapping s tructural barriers underlying  digital inequality – 
+including poverty time, gender -based violence, wage inequality, unequal access to political 
+opportunities, unequal access to employment and fair jobs, to name a few - that prevent 
+women and other marginali zed populations’ access to and benefit from digital technologies 
+for their social, economic,  and political advancement . 
+ 
+• Strengthening capacity in the Global South is critical , to influence and participate in bilateral 
+and multilateral global governance pro cesses  as well as build thriving local digital 
+ecosystems.  
+ 
+• As a multi -cause development problem, the digital divide should be approached with multi -
+dimensional responses from access and affordability  to skills and education, content, 
+security and privacy, and others.  
+4 
+United Nations Development Programme   
+• We must  invest in a massive upscaling of digital capacity building, from basic skills to policy 
+and governance of digitalization. We must accelerate support to significantly strengthen  
+public sector capabilities to make sense of, and steer the direction of digital transformat ion, 
+whilst also developing stronger public -private partnerships to drive inclusive digital 
+transformatio n. 
+  
+• At the national -level, the onus lies with the highest leadership levels, to empower digital 
+ministries and other accountable institutions (e.g. na tional digital agencies) to strengthen 
+and innovate on governance arrangements, in the face of new technologies that require a 
+whole -of-society approach.  
+ 
+• A multistakeholder approach  is essential , and we must strengthen partnerships and 
+coordination mechanisms between government agencies, civil society organizations and 
+private sector entities to ensure progress towards digitalization efforts, bringing together all 
+capabilities and resources as needed. This will also ensure that efforts a re not being 
+duplicated.  
+ 
+• It is critical to engage with and have  open and constructive dialogue  with the private sector 
+– particularly with big tech firms  and Telcos -  in order to support effective and sustainable 
+policy  responses, including those to expand connectivity, increase affordability of digital 
+services and equipment, and create  incentives for women and other marginalized groups to 
+be included in the digital economy.   
+ 
+• At the same time,  commitments , accountability  and transparency from  the private sector in 
+several key area s are critical . We need to continue advocating  for i) strong social protections 
+in the countries they operate; ii) responsible , sustainable , and sound operations that respect 
+human and women’s rights and address environmental impacts ; iii) address  of structural 
+barriers  to women and   marginalized  populations’ access to  jobs in the tech industry; and 
+(iv) develop ment of  digital products – especially those based on AI , machine learning 
+technologies and emerging technologies - that do not exacerbate inequalities and that 
+safeguard human rights.  
+ 
+Through the Global Digital Compact ’s affirmation of an open, free and secure digital future for all, 
+the international community should agree on a set of guiding principles for digital transformation 
+as an empowering force for people and planet - being inclusive, people -centred, rights -based, 
+gender -responsive , and environment -friendly.  
+ 
+ 
+Useful Resources:  
+• UNDP Digital Strategy https://digitalstrategy.undp.org/  
+• UNDP Guiding Principles https://digitalstrategy.undp.org/#Guiding -Principles   
+• Inclusive by Design: Accelerating Digital Transformation for the Global Goals  
+https://www.undp.org/publications/inclusive -design -accelerating -digital -transformation -
+global -goals   
+• UNDP Digital Standard s (for best practice and skill building) - 
+https://www.undp.org/digital/standards  
+5 
+United Nations Development Programme  • UNDP Governance Strategy  
+https://www.undp.org/sites/g/files/zskgke326/files/2022 -
+07/GGP%20brochure%2016May.pdf  
+• DigitalX Innovation Solutions catalogue - Digital X innovation solutions catalogue  
+• Action Plan for Sustainability in the Digital Age  
+https://www.sparkblue.org/codesactionplanlaunch   
+• UNDP (2021). Gender equality in digitalization: key issues for programming. Regional Bureau 
+for Europe and CIS. Istanbul Regional Hub 
+https://www.undp.org/sites/g/files/zskgke326/files/migration/eurasia/UNDP -RBEC -Gender -
+Equality -Digitalization -guidance.pdf  
+• UNDP (2022). Human Development Report 2021/202 2, Uncertain times, unsettled lives: 
+shaping our future in a transforming world 
+https://hdr.undp.org/system/files/documents/global -report -document/hdr2021 -
+22pdf_1.pdf  
+• UNDP (2021). Global Knowledge Index 
+https://www.undp.org/sites/g/files/zskgke326/files/2022 -01/GKI%20Report%202021%20 -
+%20CPs%203_Full%20 -%20EN.pdf  
+• UNDP (2021). Accelerating universal digital connectivity. Policy brief. UNDP Regional Bureau 
+for Asia and the Pacific . 
+https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/UNDP -
+RBAP -Accelerating -Universal -Digital -Connectivity -2021.pdf  
+ 
+Relevant Data Resources :  
+• UNDP – UN Women Cov id-19 Global Gender Response Tracker:  The COVID -19 Global 
+Gender Response Tracker monitors responses taken by governments worldwide to tackle 
+the pandemic, and highlights those that have integrated a gender lens. It captures two types 
+of government respons es: women’s participation in COVID -19 task forces and national policy 
+measures taken by governments. It analyzes which of the policy measures address women’s 
+economic and social security, including unpaid care work, the labour market and violence 
+against w omen.  https://data.undp.org/gendertracker/   
+  
+• UNDP Data Futures Platform : brings together data from the UN system and partners to 
+advance integrated development solutions in support of the 2030 Agenda. The platform 
+includes raw data sets, simulators and actionable insights, allowing users to both run their 
+own estimation and access relevant analyses to inform policies, programmes and advocacy 
+efforts.  https://data.undp.org/   
+  
+• Digital Development Compass:  exhaustive collection of a country’s digital indicators, 
+sourced from publicly available datasets that we have aggregated and ma de usable for the 
+first time. The DDC was first created as a tool for UNDP’s work in supporting inclusive, 
+whole -of-society digital transformation with partners.  
+https://data.undp.org/digitalcompass/    
+6 
+United Nations Development Programme    
+• UNDP Rising Up for SIDS data platform:  The data and metadata from more than 20 publicly 
+available statistical databases and research studies have been compiled and standardized 
+into a comprehensive data product. We have strived to curate the data in order to feature 
+reliable, accurate and comprehensive information across the many sectors of development 
+most relevant to SIDS. The data can be sorted by dataset, category, and subcategory, and 
+then visualized as a choropleth map, a global view, bar chart, and time series.  
+https://data.undp.org/sids/portfolio  
+ 
+• Digital Inclusion Navigator: The Navigator is a one -stop shop of curated, high -quality 
+information, real -world case studies, leading best practices, and other evidence -based 
+content from trusted sources developed together with UNDP, WEF and BCG . 
+https://www.edisonalliance.org/navigator  
+ 
+ 
+ 

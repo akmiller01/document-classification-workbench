@@ -1,0 +1,327 @@
+1 
+ Input from the Government of the Republic of Poland t o the Global Digital Compact  
+ 
+Introduction  
+The Government of the Republic of Poland express es its deepest appreciation to the U nited Nations  
+Secretary -General  (UN SG), H.E. Mr. António Guterres  for preparing the SG’s report „Our Common 
+Agenda”. This document presents a set of guiding recommendations to develop the joint programme 
+and respond to current and future challenges.  The Polish Government is fully commi tted to continuing 
+our active involvement in the UN Internet Governance Forum  and other related initiatives.  
+The visible aspect of Poland’s engagement in this process is the co -organization of the first fully virtual 
+IGF in 2020 and the hosting of the UN IGF 2021 in Katowice  under the overarching theme „Internet 
+United”, held also for the first time  in a fully hybrid mode . This event  held  betw een 6 and 10 December 
+2021 gathered more than 10 ,000 people from 175 countries worldwide , with almost 200 ministers and 
+other high -level guests . For 5 days, we talked about the most important issues in the digital space: 
+from the regulation of platforms, t he role of digitization in a pandemic , and the impact on global 
+economic development, to cyber security and users' rights online. Throughout the entire week ,  
+39 remote local hubs from countries ranging from Côte d'Ivoire, the Democratic Republic of Congo,  
+Bolivia, Colombia, Haiti , and Venezuela to Malaysia and India participated. We also had a very good 
+outreach, including 50,000 social interactions with the hashtag #IGF2021 and a  reach of 5 million 
+people, and more than 2 0,000 views of online sessions.  
+Yet the most tangible output is the Katowice IGF Messages , a 7 -pager document that summarises 
+conclusions from over 300 sessions, presenting a positive vision for the future of the Internet, which 
+combines fundamental values such as human rights, access , and openness, as w ell as economic 
+considerations.  
+Based on this outcome paper and on actions already undertaken by the Polish Government, please 
+find below Poland’s  input to the Global Digital Compact  (GDC) . On a general ground,  we have a  unique  
+chance to change the old paradigm of information society as a set of users being sources of data in 
+favour of a new paradigm of knowledge society as interactive actors having the ability to empower 
+their creativity, possibility to commercialise the result s of their work. The GDC could play a  vital role in 
+defining the scope of actions regarding the upcoming WSIS+20 review process, including the updated 
+IGF multistakeholder model. Poland stands ready to work closely with all stakeholders, in  particular 
+the co -facilitators from Rwanda and Sweden, on shaping and implementing the GDC for the benefit of 
+the global digital community. We will be more than happy to share our experience and present our 
+feedback regar ding the below -mentioned input.  
+1. E-skills, and c onnect ing all people to the Internet, including all schools  
+The current state of play:  
+By building the digital competences of citizens and thus bridging the digital divide and other digital 
+inequalities , every country is contributing to the dev elopment of digital democracy, as well as the 
+digital economy. Therefore, the Polish Government focuses its actions on th ree main pillars: 1. digital 
+2 
+ education  of the youngest, 2. re -skilling of the adults, taking into account the needs of the business ,  
+3. support for elderly people, who are often digitally excluded.  
+In the context of training and the acquisition of new skills, we should also bear in mind the reference 
+to new human -machine relationships, illustrated by the exponentially increasing use of  generative 
+artificial intelligence networks used among others in large -scale language models (LLMs). IT training 
+emerges from the area of being able to operate or program a specific device or business process. 
+It should enable interaction with these syste ms in the process of creating added value.  
+In addition, the Polish Government invest s in the construction of high -speed  fiber -optic  
+telecommunication networks to eliminate white gaps in Internet access, so that citizens can work, 
+communicate or use numerous public e -services without problems. Poland is currently a construction 
+site for modern telecommunications networks – broadband investments amount to more than 
+100,000 km of new internet  networks.  
+Key commitments and pledges:  
+Poland’s  main goal is to provide universal  access to ultra -fast internet, develop digital competences 
+for schoolchildren , and support digital education based on modern technologies so that they can 
+navigate safely in  virtual reality and understand and better interpret the content they encounter there. 
+We focus on e -inclusion, understood not only to encourage the use of the Internet, the acquisition of 
+digital competences , and the removal of digital barriers but more b roadly as a form of mobilization 
+and empowerment aimed at removing various forms of exclusion. All of these activities are part of the  
+recently adopted , by resolution of the Council of Ministers on February 21, 2023, the Digital 
+Competence s Development Pro gram until 2030. Present ed below are Poland’s other impor tant 
+activities in these areas.  
+1. Development of digital education – we have  taken numerous measures to level the playing 
+field and to implement solutions aimed at democratising access to new technologies used in 
+the education process. We have done that in different areas :  
+➢ infrastructure – exampl es: 1. National Education Network (OSE), which enables schools to 
+access the internet with a symmetrical bandwidth of at least 100 Mbps along with 
+advanced cyber security services – more than 90% (over 20 000 schools ) already 
+connected . OSE also received internat ional recognition, being awarded the prestigious 
+WSIS Prize 2018 ; 2. 100,000 classrooms in schools equipped with LAN connection (by Q3 
+2025);  
+➢ equipment – examples: future  planning that  every fourth -grader  shall  receive their  own 
+laptop  – at least 735,000 additional portable computers with the necessary software  are 
+expected  to be supplied to schools for use by pupils  (by Q3 2025). In addition, at least 
+465,000 additional portable computers are to be supplied for  teachers ’ usage (by Q3 
+2023); 2. 100 ,000 classrooms in vocational schools and general education institutions 
+equipped with IT tools to enable remote teaching (by Q3 2025) ; 3. Laboratories of the 
+Future – they aim  to support all primary schools in building future competences among 
+pupils in t he so -called STEAM subjects (science, technology, engineering, arts , and 
+mathematics) – as a result, 99% of local government primary schools in Poland have been 
+equipped with modern equipment, including 3D printers, VR goggles, robots, 
+3 
+ microcontrollers, mo dern recording studios and technical equipment of all kinds – from 
+September 2022, these schools are being visited by teams of Mobile Future Laboratories 
+to support the process of using these solutions in each region.  
+2. Connecting all households with high -speed internet – since 2015 the population coverage of 
+services of at least 30 Mb/s has grown from 53 to 76%, especially thanks to public interventions 
+which consider up to 2.2 million households.  
+3. Supporting the elderly and persons with disabilities – examples: 1. as part of the Farmer’s 
+Wives’ Associations  programme, we have donated computer equipment, workshops , and 
+training to improve the digital competences of more than 100 Farmer’s Wives’ Associations  
+across Poland ; 2. The Digital Senior Clubs – aimed at equipping with workstations to improve 
+the digital competences of seniors; 3. we have adopted an amendment to the law on web 
+accessibility of websites  and mobile applications  to ensure that websites and applications o f 
+public institutions could also be used more effectively by people with disabilities.  
+2. Avoid Internet fragmentation  
+The current state of play:  
+Poland strongly advocates for an open, undivided,  free, global , secure , and resilient Internet. As the 
+host country of the UN IGF 2021, we chose “Internet United” for its overarching theme . It reflects the 
+positive vision of the Internet as a meeting point, a modern virtual agora, where people can exchange 
+their views and experien ce. We also very much support the Internet as a digital space that enables  
+a global online debate , which can be described by the IGF model – as multistakeholder, collaborative, 
+equitable , and inclusive. To sum up, Poland opts for an inclusive and affordable Internet for all, where 
+everyone is welcome and nobody is excluded . Moreover, unrestricted access to the open Internet is 
+key for bridging the digital divide, as well as fostering democracy and human rights.  One must also n ot 
+forget that the Internet is a place where generations meet and exchange their valuable knowledge and 
+expertise. Young people have a special role to play here . 
+Key commitments and pledges:  
+A dedicated youth track  proposed by Poland for the UN IGF 2021  was very successful and delivered 
+interesting outcomes.  We strongly believe that voices originating from the community of young users 
+are crucial in every debate on Internet -related issues, especially Internet govern ance. As present  users 
+of this ecosystem , they will soon become leaders taking responsibility for the digital environment and 
+shaping its future frameworks. Therefore, we underline the importance of initiatives involving young 
+people, especially through th e Youth IGFs. Moreover, we highlight the necessity to bring young 
+representatives to the table, for instance by establish ing a global network of Youth Digital 
+Ombudspersons, as stated in the Katowice UN IGF 2021 Messages.  
+3. Protect data  
+The current state of play:  
+The data -based economy is changing the existing development principles. This is a great opportunity 
+for many companies and the economy, as these new solutions and services are being developed and 
+4 
+ implemented recently. It is much easier to build up on e's position in a new, just emerging industry. 
+This means that society in this new field can stop being just a consumer of what others invent and 
+rather become a set of creators of new solutions. Poland supports the preservation of cultural heritage 
+throug h i.a. making digital copies and digitally remastering cultural media. Poland  also support s the 
+development of the project  that would enable sharing of non-personal data in a trusted and 
+interoperable environment.  In addition, we are against introducing the right of ownership of non -
+personal data  and instead opt for protecting rights of access to data, trade secrets, intellectual 
+property, as wel l as privacy and personal data.  
+Key commitments and pledges:  
+The Polish Government  has been  implementing a project called KRONIK@ - the National Repository of 
+Objects of Science and Culture, to collect and make available in one place the resources of Poland's 
+national heritage in the fields of science, culture , and administration. The repository and the platform  
+(kronika.gov.pl) integrat ing existing collections and introduc ing uniform standards for managing digital 
+data, make it possible to protect valuable resources from destruction or loss and to ensure their 
+security. The resource archive space  offered is free of charge for all institutions offering cultural and 
+scientific data. The portal has been designed and reasonably modified to meet the needs of people 
+with disabilities.  
+Another project worth mentioning is called National Data Storage.  It aims to create a modern 
+architecture  for storing and sharing data as well as  for efficient processing of large volumes of data in 
+HPC, Big  Data , and artificial intelligence models . The project strives to achieve open, modular, 
+extensible, decentralised , and scalable data  storage, with a range of  access interfaces and integrated 
+services (including mechanisms to facilitate efficient  storing and access to  data ). 
+4. Apply & respect human rights online  
+The current state of play:  
+We believe that human rights  must be protected both offline, as well as online.  Poland considers 
+respecting human rights online as a key issue in developing digital democracy. The issue of respect for 
+internat ional law and human rights was one of Poland's priorities during the two -year non -permanent 
+membership of the U N Security Council (2018 -2019).  We also believe tha t it relates to the design of 
+national ICT systems and application software in a manner that ensures respect for human rights.  They 
+should also be consistent with the terms of use and the method of enforcing these rules on users .  
+Key commitments and pledges:  
+At the end of December 2022, the Polish Council of Ministers adopted the "Position of the Republic of 
+Poland on the application of international law in cyberspace". In this document , Poland fully confirm s 
+that international human rights law applies to cyberspace. We particularly state that freedom of 
+expression and the right to privacy re quire special protection in cyberspace. With this in mind, Poland 
+agrees that protecting international human rights law concerning  cyberspace requires action for an 
+open and secure Internet. We believe that respect for sovereignty in cyberspace cannot be a n excuse 
+to violate international human rights law. In addition, effective protection of human rights requires 
+that the state refrains itself from unjustified interference with the rights and freedoms exercised on 
+5 
+ the Internet, and takes positive action in  certain circumstances to ensure effective realisation and 
+protection of human rights on the Internet.  
+5. Accountability for discrimination and misleading content  
+The current state of play:  
+Poland emphasis es issues related to ensuring cybersecurity and combatting cybercrime. Particularly, 
+we focus on increasing general public knowledge and awareness of the scope of cybersecurity. Another 
+important area is protecting children online. Poland is actively involve d in negotiations on the CSAM 
+Regulation - Proposal for a Regulation of the European Parliament and of the Council laying down rules 
+to prevent and combat child sexual abuse. We also set up a variety of public initiatives, aimed at 
+increasing the digital s afety of pupils, enhancing responsible pupil activity in the digital environment, 
+and promoting principles of digital hygiene and  the safe use of digital technologies.  We engage in 
+securing critical infrastructure, as well as increasing digital skills in c ybersecurity. Last but not least, 
+we concentrate our efforts on monitoring and combatting disinformation and misinformation  in 
+various forms and through different means  while ensuring that freedom of speech is duly protected  
+With the Russian aggression against Ukraine , the number of misleading content has drastically 
+increased. The  Polish Government  acts towards identifying and eliminating this dangerous situation.  
+Key commitments and pledges:  
+By implementing the Republic of Poland's Cyber Se curity Strategy for the years 2019 -2024, Poland has 
+strived to build a strong position in the area of cybersecurity. The main objective of the Strategy is to 
+increase the level of resilience to cyber threats and the level of information protection in the p ublic, 
+military , and private sectors. We enhance the competences of public administration and national 
+cybersecurity systems, for example by organising a series of training dedicated to operators of 
+essential services under the Cyber Security Cooperation Programme ( PWCyber ), as well as supporting 
+local governments under the #CyberSafeSamorząd campaign of dedicated staff training. Poland has 
+also created the  Cybersecurity Fund, which offers competitive salaries for qualified cybersecurity 
+professionals in government. In addition, we have launched numerous initiatives to enhance a cyber -
+secure  society. Th is include s: 1. education and information, including e -learning ( examples: The Cyber 
+Lessons project, Safe in the Network project, “e-Pole can do”, the knowledge base on the gov.pl portal), 
+2. research & development (example: #CyberMadeinPoland, the biggest IT -sec cluster in the CEE 
+region gathering over 40  innovative cybersecurity companies and engaged in the export of innovative 
+Polish technologies, education of the market, regulatory and certiﬁcation issues), 3. parental support  
+activit ies (example: the mProtection application addressed to parents , which  facilitates the setting of 
+rules, regarding Internet and app use, and gives access to information about child's activity on the 
+device ). More over, when it comes to countering disinformation , the NASK Research Institute, monitor s 
+disinformation activity on the Internet and reduc es the impact of disinformation ( for example: since 
+the beginning of the Russian aggression against Ukraine, the NASK has deemed around 1600 online 
+profiles suspicious, and 88% of these accounts shared messages that  were considered disinformation).  
+Aside from that, the Polish government works on providing society with supporting tools that will help 
+to identify  possible disinformation content . The Strategic Programme INFOSTRATEG  funds several  
+6 
+ competing projects that aim to build AI-based tools to detect and flag  such content . The systems 
+should be able to track multiple popular systems of communication and information dissemination.   
+6. Promote regulation of artificial intelligence  
+The current state of play:  
+AI will have a key impact on the industry, climate , environment, and society. Poland underlines that 
+the human -centric approach should be at the core of developing AI, not the other way around. 
+We believe that human oversight of AI systems and the protection of human autonomy should be the 
+guiding principl e for each type of trustworthy AI.  This rule should apply not only to the design of AI 
+systems but also to their entire life cycle. We are already successful in building such standards – the 
+EU Ethical Framework for Trustworthy Artificial Intelligence ('Tr ustworthy AI'). We also take an active 
+part in the work of the OECD and the Global Partnership on AI. As part of the ethics by design for smart 
+solutions, in the field of sustainability, there is a need to make revisions to the UN Agenda 2030 SDG 
+to enable a cohesion of values, principles , and policy actions worked out in the Global Code of Ethics 
+on Artificial Intelligence  approved by Member States of UNESCO . Any usage of AI in the aims of the UN 
+Agenda 2030 SDG needs to have in the loop the dignity of every human , the well -being of society , and 
+the prevention of harm, including the psycho -physical integrity of people. On the other hand, we must 
+not forget about the benefits of AI for the modern digital economy and society. Therefore, we should 
+bear i n mind that the profits brought about by AI technology should reach all citizens alike and not 
+only those clustered in developed and densely populated areas. One of the key issues is the 
+redefinition of education programs  and improving digital skills by im plementing AI systems. Another 
+very important factor is the cybersecurity of AI, which  is critical to its success. It is also connected with 
+the fact that citizens and the business community need to trust in this techno logy (cybersecurity by 
+design).  
+Key c ommitments and pledges:  
+In July 2020 Poland adopted its “Artificial Intelligence Development Policy for the year 2020 and 
+beyond”. It defines actions and goals for Poland in the short term (until 2023), medium term (till 2027) , 
+and long term (after 2027). It aims to use AI research and development to increase innovation and 
+productivity of the economy built on data, as well as to support citizens in the processes of 
+transformation of the work environment and improvement of compe tences, taking into account the 
+protection of human dignity, the autonomy of individuals, and ensuring conditions for fair competition. 
+We focus our activities towards AI on six key areas: 1. society ( i.e. creating new professions, raising 
+competences, ado pting friendly legislation on R&D, developing new economic models, removing 
+obstacles , and strengthening legal readiness for market changes),  2. innovative companies 
+(implementation of simple robotic solutions in enterprises generating savings and producti on 
+efficiency, fostering cooperation between private companies and the public sector in the field of 
+research and pilot projects, supporting the establishment of Polish AI companies), 3. science 
+(popularizing the use of AI as a tool to support research wor k in all fields of science; providing adequate 
+support to students interested in studying AI; adapting academic teaching methods to the needs of AI 
+development), 4. education (incorporating theoretical and practical knowledge on the functioning of 
+AI into the curriculum at all stages of education (from primary school to universities); ensuring 
+availability of educational tools), 5. public sector (access to public data to allow Polish companies to 
+7 
+ build new AI solutions; improving the use of AI -based solutio ns by central and local government), 
+6. international cooperation (strengthening cooperation on global and European levels; attracting 
+international talent and innovative companies to invest in Poland). This Strategy perfectly 
+complements AI initiatives at  the international level – the European Union, the OECD , UNESCO , or the 
+Council of Europe. Moreover, in cooperation with selected universities, we are implementing a  project 
+– Academy for Innovative Applications of Digital Technologies (AI Tech). It aims  to create a  model for 
+the systemic education of high -level specialists in AI, machine learning , and cybersecurity.  
+7. Digital commons as a global public good  
+The current state of play:  
+Poland fully supports and contributes to the creation of digital public commons. We believe that open 
+data is a source of real benefit  and time savings  for citizens and the administration . Citizens, including 
+entrepreneurs, can use public data resour ces to pursue their own goals and to develop their businesses 
+or research. Our continuous actions towards the further opening of public data have resulted in making 
+visible progress in the European data opening ranking. In 2017, Poland was ranked 23rd in E urope. 
+Now, we came 3rd.  Poland also supports the preservation of cultural heritage through i.e. making 
+digital copies and digital ly remastering cultural media.  
+ 
+Key commitments and pledges:  
+The Polish Government is currently implementing the Data opening program  for the years 2021 -2027. 
+It covers key issues in data sharing and its management. Apart from public institutions, it can also be 
+addressed to other entities, particularly local government units or private entities. The implementation 
+of the Programme will contribute, inter alia, t o an increase in the supply and improvement in the 
+quality of data available in the dane.gov.pl portal, which are necessary for  the development of 
+innovative services, applications , and other products, including those for new technologies. We are 
+increasin gly talking about opening up data in the media, on the Open Data Facebook profile , and at 
+numerous events , including the annual international conference titled: ‘ The future is data ’. 
+Moreover, the Polish Government is currently working towards adopting a P olicy on open access to 
+publicly funded research data. These efforts are accompanied by extensive mapping of the Polish open 
+science ecosystem and consultations  with leading experts in this field.  
+8. Other  
+Development of e -services for the benefit of society : 
+The current state of play:  
+Poland has been working on several  e-government projects to simplify the contact of citizens and 
+companies with public administration. T he biggest challenge is to design public services in a way that 
+is as intuitive as possible and that everyone, regardless of their level of digital competence s and 
+disability -related barriers will be able to use it. We have been working on allowing all traditional 
+personal documents such as plastic ID cards, d riving licenses, and school and student cards to be 
+respected in Poland on an equal level with documents being available in an application. The successful 
+8 
+ development of these digital solutions will allow citizens to save time and access public administration 
+services without any limitations. Moreover, digital services have facilitated the process of granting the 
+Polish personal identification number (PESEL) to around 1,5 million  Ukrainian  citizens who arrived in 
+Poland because of the war , allowing them to accommodate more easily in Poland  and to communicate 
+with our public administration.  
+Key commitments and pledges:  
+Poland has implemented Gov.pl Gateway & Electronic Public Administration Platform (ePUAP) – 
+a uniform and transparent information system containing all e -government services. Thanks to this 
+solution, one can submit a request to obtain a copy of one’s marriage certifi cate , register the birth of 
+a child, apply for an ID card , or report it was stolen or damaged. We also offer a wide range of services 
+for drivers. For example, one can  check one’s  penalty points or see the entire history of a vehicle. 
+To access e -services, one need s to confirm identity  either with an e -ID issued by a bank or by setting 
+up a Trusted Profile, a free tool provided by the Polish administration (nearly 12,5 million  Polish citizens 
+set up their Trusted Profiles so far, as well a s about  600,000 Ukrainian citizens achieved their Trusted 
+Profile, too). Moreover, we have provided a free application for mobile devices called mCitizen, which 
+offers the possibility to store personal identification documents, such as driving licences, o n 
+smartphones. The popularity of the mCitizen app is growing. To date, w e have 9.5 million of its 
+recorded downloads , and nearly half a million Ukrainian citizens have already installed the mCitizen  
+too. 
+In terms of higher education , Poland develops from 2011 the System called POL-on - the System of 
+Information on Science and Higher Education – currently  its second version POL -on 2.0. It is  the 
+broadest repository of data on Polish science and higher education. The data gathered in the System 
+are used predominantly to shape evidence -based science and higher education policies. It is a valuable 
+source of information for analysts, candidates for studies, scientists , and entrepreneurs.  
+By using data from POL -on Poland has also implemented the Polish Graduate Tracking System – ELA. 
+ELA allows us to verify the time of job search, earnings , and the unemployment rate of graduates  in 
+individual fields of study, create rankings, and infographics , and track PhDs’ educational history.  
+ 
+Efforts to enable connectiv ity to those in need : 
+The current state of play:  
+On the 24th of February 2022 , the Russian Federation carried out a military aggression against Ukraine. 
+Poland , alongside other European States and NATO , has condemned the Russian Federation for 
+violating the noble principles, purposes , and objectives enshrined in the Charter of the United Nations 
+and the Universal Declaration of Human Rights, as well as in the Declaration of Principles adopted by 
+the World Summit on the Information Society.  Poland has recognis ed the significant losses in terms of 
+telecommunic ation infrastructure  Ukraine has encountered due to  Russian aggression. This resulted  
+in millions of people  being deprived of access to information and communication technologies.  
+Key commitments and pledge s:  
+In terms of support of telecommunications/digitalization, Poland provided Ukraine with the donation 
+of Starlink Units and radio stations that has a direct impact on Ukraine’s  capacities in the cont ext of 
+9 
+ access to the Internet. For purposes of re -estab lishing IT capacities, Poland has provided Ukraine with 
+the dona tion of Data Centres equipment . We believe such efforts are  a strong signal of solidarity with 
+the Ukrainian citizens. They also help the i nternational community to prioritise underserved regi ons, 
+countries , and populations, including those affected by aggressive and hostile actions.  

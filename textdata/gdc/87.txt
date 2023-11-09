@@ -1,0 +1,516 @@
+Global Digital 
+Compact  
+ICC Business Su rvey  
+Consolidated Report  
+April 2023  
+April  2023  | International Chamber of Commerce Business  Survey  on the Global Digital Compact  | 2 
+  
+ Table of contents  
+Background ...................................................................................................................................................................... 2  
+Executive Summary  ....................................................................................................................................................... 3  
+1. Scope of the Global Digital Compact  ................................................................................................................. 6  
+2. Recommendations and best practices  ............................................................................................................. 11 
+3. Other considerations and next steps ................................................................................................................ 13 
+Annex  ................................................................................................................................................................................ 14 
+Background 
+In September 2021, UN Secretary -General Antonio Guterres launched a report entitled ‘’Our 
+Common Agenda’’1, outlining his vision on the future of global cooperation in the next 25 years in 
+twelve  commitments. One of his key proposals is for a Global Digital Compact (GDC) to outline 
+shared principles for ‘’an open, free and secure digital future for all."  
+The Compact is to be developed through a multistakeholder and multilateral process and agreed 
+during the Summit of the Future in September 2024. Leading up to the Summit, the Office of the UN Secretary- General’s Envoy on Technology has been  coordinating a public consultation
+2 to 
+collect input from all stakeholders for consideration for the GDC.  
+The private sector has a crucial role to play in ensuring the GDC is developed based on well-rounded perspectives and on the expertise, experience, and evidence of global business.  
+In October 2022, the International Chamber of Commerce (ICC) contributed policy perspectives 
+and recommendations
+3 to this consultation on behalf of our global business network.  In early 2023, 
+ICC launched a survey  across its  membership with the aim of further strengthen ing this initial 
+written submission  through collecting and collating concrete business evidence, case studies and 
+good practices.  
+This report presents the  consolidated analysis of the responses received, providing an additional 
+layer of expert input to the consultation process run by the UN Secretary- General’s Envoy on 
+Technology.  
+1 The United Nations Secretary -General’s Our Common Agenda . 
+2 UN Secretary General Envoy on Technology c onsultation for the Global Digital Compact . 
+3 International Chamber of Commerce submission  t o the Global Digital Compact consultation . 
+April  2023  | International Chamber of Commerce Business  Survey  on the Global Digital Compact  | 3 
+  
+ Executive Summary  
+The International Chamber of Commerce (ICC)  conducted a survey for the consideration of the  
+development of the GDC . The survey  ran over a period of five week s, from 1 5 February to 17 March 
+2023 , using an online questionnaire which was distributed to the diverse  global business network of 
+ICC.  
+Structured in two main sections, the survey featured a series of questions on  the scope of the 
+Compact, as well as the role of the private sector in contributing to its elaboration. Respondents 
+reflected on  the issues put forward for consideration  in the multistakeholder consultation on the 
+GDC and  shared their views on additional topics for consideration. They also shared their opinions 
+on the next steps of the  GDC . 
+Overview of respondents  
+The responses received from the ICC b usiness network covered businesses and business 
+associations (36%), c hambers of commerce (8%), c onsulting firms (32%), l aw firms (18%), and ICC 
+national chapters (6%) , bringing a wide range of private sector  perspectives on the  GDC . 
+Figure 1: Categories of organisations  participating in the  survey  
+In addition, survey respondents represent a very  diverse pool of industry sectors, with most 
+responses from consultancy and legal services (17% each), information technology (14%), activities 
+of membership associations (12%), education and research (8%)  and banking and financial services 
+(5%) . Traditional sectors such as agriculture , manufacturing  as well pharmaceutical,  and 
+automotive  indust ries were also represented.   
+
+April  2023  | International Chamber of Commerce Business  Survey  on the Global Digital Compact  | 4 
+  
+ Figure 2: Industry sectors represented  in the survey  
+Survey respondents covered all regions of the globe, with 43.4% of responses coming from the 
+Asia -Pacific  region, 18.2% from the  Africa n region,  13.1% from Europe,  12.1% from  South America,  
+8.1% from North America  and 5.1% from the Middle East . Zooming in to the country per country 
+contributions, the survey saw a sizeable number  of submissions from India  (12%) , followed by the 
+United States of America  (7%) , Nigeria , Germany,  and Sweden  (5% each) . Mexico , Colombia, 
+Croatia ( 4% each ), Argentina , Brazil,  and Pakistan  (3% each)  were also among the most 
+represented. 
+F
+igure 3 : Distribution of  respondents by  country of origin4 
+Survey responses were analysed  to assess recommendations, best practices, case studies and 
+expertise of how business views the development of the G DC. 
+4 Please also refer to Figu re 5 of the Annex , offering an alt er native visual presentation of the respondents per region.  
+
+April  2023  | International Chamber of Commerce Business  Survey  on the Global Digital Compact  | 5 
+  
+ Main results  & findings  
+Respondents showed strong  support for the GDC to address connectivity  and significant
+support for it to tackle data governance , human rights online  and Internet fragmenta tion.
+There was little support for the GDC to discuss accountability criteria for discrimination and
+misleading content , the  regulation of AI, and digital commons.
+Partici pants showed overwhelming support for the GDC to recognise and promote the
+multistakeholder model for Internet governance and called for the support of the InternetGovernance Forum  (IGF) .
+Survey contributions called for continued engagement with the private sector throughoutthe entire process of elaboration of the GDC, including through roundtables and sharing of
+existing policy resources and best practices,  to provide experience, evidence,  and expertise
+on the individual topics to be included in the GDC
+.
+April  2023  | International Chamber of Commerce Business  Survey  on the Global Digital Compact  | 6 
+  
+ 1. Scope of the Global Digital Compact
+Within  his "Our Common Agenda" report, the UN Secretary -General noted that the GDC could 
+address seven  possible issues, including:  
+Connect all people to the Internet, including all schools;
+Avoid Internet fragmentation ;
+Protect data ;
+Apply human rights online ;
+Introduce accountability criteria for discrimination and misleading content ;
+Promote regulation of artificial intelligence ; and
+Digital commons as a global public good .
+In order to establish the priority issues for the private sector, the survey asked resp ondents to rank 
+these seven topics in order of their preference.  The below table represents the final ranking of the 
+topics from most to least preferred . 
+Figure 4 : Ranking  of possible GDC topics suggested by the UN SG’s Our Common Agenda report  
+Overall , ‘’Connect all people to the Internet, including all schools’’  was chosen as the most 
+prominent issue , with  almost half of respondents ( 49.5%) ranking it as their first  priority, 15.4 % as 
+second priority, and 9.9% as third. “ Protect data’’  came in  as a  seco nd priority with 30.8%  of 
+respondents placing it second, while 8.8% chose the topic as first priority  and 26. 4% placed it third . 
+‘’Apply human rights online ’’ received the most even distribution of rankings,  with  an equal 14. 3% of 
+respondents placing it as their first and as their next to last choice . 15.4 % of survey participants 
+placed it as their second preference, and 9.9% as their third . ‘’Avoid Internet fragmentation’’  came 
+in as the overall fourth priority choice with 16.5%  of respondents ranking it at this position , with  
+38.5% of participants ranking it higher and 45.1% lower . 
+‘’Introducing accountability criteria for discrimination and misleading content’’  was chosen as fifth  
+in the order of priorities, with only 5.5% of respondents seeing it as the top priority, and most seeing 
+it as their fourth  (20.9%) , fifth (25.3%) or sixt h (18.7% ) priority . “Digital commons as a global public 
+good’’  was placed next to last in the order of priorities, with a third of respondents ranking it as 
+their least preferred option. Lastly ‘’Promote regulation of artificial intelligence ’’ was chosen as the 
+topic of least priority, with only 1.1% of respondents marking it as their top preference.  
+
+April  2023  | International Chamber of Commerce Business  Survey  on the Global Digital Compact  | 7 
+  
+ The survey  also offered the option for respondents to reflect on the formu lation of these suggested 
+topics and offer alternative focus or conceptualisation of the underlying issue.5 
+Connect all people to the Internet, including all schools  
+Nearly two -thirds of respondents ( 63.2% ) felt that this topic is well formulated, while  26.53% 
+suggested another formulation . A small fraction of respondents ( 4.08% ) noted that this topic 
+should not be addressed by the Compact  at all.  Out of the  proposals to reformulat e, the most 
+recurring theme s suggested : 
+Maximising I nternet access for all;
+Ensuring connectivity for all: people, businesses and society ;
+Connect all people to the Internet, including all schools and households ;
+Connect all people to the Internet  with data security in place ; and
+Connecting all people to be added to the global UN agenda to remove the digital divide .
+56% of the reformulation suggestions included Internet  access for all people , quality Internet and 
+learning  (literacy and skilling)  to bridge the digital divide  as central component s to delivering 
+connectivity.  
+Avoid Internet  fragmentation  
+Similarly,  almost two- thirds of respondents (62.24%)  perceived this topic as well formulated, with  
+17.35% offering alternative  formulations.  Again, a few ( 4.08% ) felt that the topic should not be 
+addressed by the Compact at all. P roposals of  reformulations, most notably, included : 
+Call for harmonisation in global approaches to Internet governance that promote free flow s
+of
+ data, encryption, and rights to freedom of expression and privacy online;
+Endorse principles to help protect an open, int erconnected,  and interoperable Internet ;
+Equal access to the Internet ;
+Protect the reliability of the Internet .
+Out of the  responses to reformulate, 42% of the responses characterised the Internet as  an 
+intero perable network of networks,  which  is universal  and accessible . 
+5 The question ‘’Are these issues the right ones to consider? Are they properly formulated?’’, provided five answer options:  
+1. This issue i s well formulated and should be addressed  
+2. The topic is important,  but I would like to suggest another formulation  
+3. The topic should not be addressed by the Compact at all  
+4. I have no opinion  
+5. Other  
+The respondents were directed to justify their chosen response, by answering ‘’How would you reformulate this topic’’ and 
+‘’Why do you think the Compact should not address this topic’’ if  their chosen answer corresponded to answers 2 and 3,  
+respectively.  
+The ‘’Other’’ option response was selected by a 0 -1% range of  respondents and was hence not referenced in the analysis of 
+this survey.  
+April  2023  | International Chamber of Commerce Business  Survey  on the Global Digital Compact  | 8 
+  
+ Protect data  
+Over three -quarters  of respondents ( 76.53 %) opined that this issue is well formulated and should be 
+addressed by the Compact as such , with  15.31% of respondents noting that the topic is important, 
+but suggesting  another formulation , and a mere  3.06% stating that this topic should not be 
+addressed by the C ompact at all. Out of the suggestions for  reformulation, we note the following 
+recurring  proposals: 
+Facilitating trust in international data flows;
+Oppose restrictions on data flows;
+Encourage collaboration on the interoperability of privacy and security frameworks t o
+p
+romote the flow of data and explicitly oppose restrictions on data flows, while upholding
+privacy standards ;
+H
+armoni sing and simplifying the data protection and security approach across the globe .
+54% of the suggestions for reformulation called for  privacy and security standards and facilitating 
+the flow of cross border data .  
+Apply human rights online  
+Slightly over two- thirds (68.37%) of respondents indicated that the issue is well formulated, with 
+some ( 16.33% ) proposals for reformulation. Merely 2.04% thought that the topic should not be 
+addressed by the Compact. With regards to the suggested reformulations, the majority of 
+respondents highlighted:  
+The importance of transparent, multistakeholder dialogues to advance the goals outline d
+in
+ the Secretary General’s Roadmap on Digital Cooperation ( section on Digital Huma n
+Rig
+hts)6;
+Addressing protection gaps, discouraging Internet shutdowns, and providing moredetailed guidance on the application of human rights standards in the digital age ;
+Particular emphasis must be placed  on safeguarding the rights of vulnerable groups,
+specifically childre n; and
+Provide online access to everyone to ensure their participation in t he human rights issue
+online, and offline.
+35% of those proposing reformulations mentioned human rights standards, detailed guidance, 
+multistakeholderism and transparency  as core component s of applying human rights online.  
+Introduce accountability criteria  for discrimination and misleading content  
+Almost three -fourths ( 72.45% ) of respondents found this topic well- formulated with  11.22% 
+suggesting a dditional considerations. 6.12% stated that the topic should not be addressed by the 
+Compact  at all.  
+Suggestions for  reformulations put forward the following recurring considerations:  
+Consider ongoing efforts and investments to strengthen transparency and reporting aroun
+d
+h
+ow they address discriminatory and misleading content online, and to not duplicate existing
+and ongoing workstreams for co- regulation and self -regulation ;
+Focus to introduce accountability for discrimination and misleading content ; and
+Confirm accountability criteria for discrimination and misleading content .
+36% of those proposing reformulations underlined the need to recognis e existing business efforts to 
+strengthen transparency to address discriminatory and misleading content.  
+Those opposing the GDC addressing this issue stressed that given the extremely divergent landscape among UN member states (institutions, independence of regulators, etc .), a one- size-
+fits-all approach in this area could end up being misused to harm freedom  of expression and 
+6 The United Nation’s Secretary General’s Roadmap for Digital Cooperation . Summary on Digital Human Rights . 
+April  2023  | International Chamber of Commerce Business  Survey  on the Global Digital Compact  | 9 
+  
+ human rights online . They also noted that if the GDC has an effective focus on ‘applying human 
+rights online’ then it can address the key gaps, including accountability.  
+Promote regulation of artificial intelligence  
+About two -thirds ( 68.37%) of respondents stated  that the issue is well formulated, while 14.29 % 
+indicated the need to suggest another reformulation. 5.1% felt that the topic should not be 
+addressed by the Compact  at all.   
+Suggestions to reformulate the theme recommended the following:  
+Guideline policies should be created instead of regulating AI through statutory rules;
+Promote ethical safeguards of artificial intelligence ;
+Focus on responsible and risk -based use of AI ;
+Promote human -centred  AI;
+Develop commonly shared principles built on empathy, self -rule, duty, justice, equity,  and
+hum
+an rights; and
+Consider necessary and proportionate risk -based approaches to AI which enable (not
+hinder) a revolutionary technology that holds tremendous promise to accelerate progre ss
+o
+n the UN SDGs .
+31% of the received reformulations explicitly highlighted the need for a proportionate approach 
+through guideli nes or principles  for the development of AI.  
+Those opposing the inclusion of this topic  in the GDC  expressed how simply promoting regulation is 
+sometimes not particularly meaningful, and other times counterproductive, as p remature , and 
+overly expansive regulatory activity could have unforeseen consequences that would stunt the 
+growth of these emerging technologies and the benefits consumers could enjoy from their continued development.  They also noted how existing policy initiatives, in particular the 
+Organization for Economic Co- operation and Development ( OECD ) Principles on Artificial 
+Intelligence
+7, already offer an effective and globally respected framework for the promotion of AI 
+that is innovative and trustworthy.  They see the role of the UN rather in  addressing  some of the 
+issues essential to AI’s challenges such as  human rights, dignity and autonomy, inclusive growth, 
+and sustainable development.  
+Digital commons as public good  
+Responses received to this topic indicated the need for further information and explanation on what the concept is meant to cover. They noted how the concept remains unclear and that there is no definition of digital commons in Our Common Agenda. Therefore,  a considerable number  of 
+respondents (15.31%) noted that they have no opin ion of the topic. The  8.16% of responders 
+suggesting alternative formulations focused on privacy and legal safeguards: 
+The ability to access and use the digital commons securely as a global public good, followingprocedures;
+Digital commons as public good,  with the consideration of and subject to appropriate
+privacy and legal safeguards.
+Procedures, safeguards, cooperation , and appropriate and innovative privacy work  were 
+highlighted across over 40% of the received reformulation proposals.  
+Multistakeholder Internet governance  
+A critical outcome of the survey was the  overwhelming support for the  multistakeholder model and 
+the need for the  GDC to reinforce this approach . 91% of respondents highlighted the importance of 
+multistakeholderism as a critical facet of Internet governance, in ensuring the flexibility, legitimacy, 
+and credibility of decision -making. According to the contributions, multistakeholderism is a vehicle 
+7 The OECD Artificial Intelligence (AI) Principles  Overview . Please refer to the Annex  f or more  information on  the full list of  
+references. 
+April  2023  | International Chamber of Commerce Business  Survey  on the Global Digital Compact  | 10 
+  
+ that en sures a whole -of-society approach  to policymaking  and inclusive participation in open and 
+transparent discussions. Furthermore, the collected input drew attention to the diverse and global 
+nature of the Internet , highlighting the multistakeholder model as the most democratic and 
+equitable framework of collaboration to ensure the Internet’ s stability, innovation,  and inclusive 
+development. Leveraging the pluralistic and democratic nature of multistakeholderism should 
+move forward to allow  governments, businesses, academia, civil society,  and the technical 
+community  to collaborate and establish transparent , human- centred norms around the Internet.  
+Some recurring themes on the multistakeholder model for Internet governance stated:  
+Multistakeholder Internet governance includes the whole of society approach, inclusive
+participation in open, transparent discussion and decision -making, thus ensuring flexibility,
+legitimacy and creditability ;
+It is indispensable to enhance the multistakeholder Internet governance, acknowledgedsince the World Summit for the Information Society  to ensure cooperation with the relevan
+t
+a
+ctors of the digital economy, including the  private sector, civil society and internationa l
+o
+rganis ations;
+The multistakeh older model is necessary to prevent a monopolised approach to Internet
+governance, and ensure the application of common, aligned values from all stakeholders;
+The global digital ecosystem benefits when policymakers work in close cooperation withbusiness, civil society, academia, and the technical community. Given the rapid pace oftechnological change, governments need the perspectives provided by these stakeholdergroups to better understand what policies are commercially viable, technically feasible, andoffer adequate personal privacy protections. Such stakeholder inclusion can also lower therisk of unintended consequences and increase the legitimacy of policies that are adopted ;
+The UN has been at the forefront of establishing a multistakeholder approach as the norm  o
+f
+I
+nternet governance . As such, the GDC should reinforce this principle and actors should
+endeavou r to carry out multistakeholder processes for Internet governance, while not
+duplicating existing forums and instead leveraging and strengthening existing forums andworkstreams. The GDC can also serve as a centralis ed medium for workstreams related t
+o
+d
+igital development and inclusion .
+Other issues that the Compact could address  
+36% of survey respondents offered  additional issues for consideration  for the Compact, noting the 
+below recurring topics: 
+Internet governance and security in relation to circularit y (governance, human rights, labour
+environments and work, anti- corruption etc .) with a focus on uniting businesses for a better
+"Internet" world ;
+More emphasis on cybersecurity norms, in particular on incentivi sing prevention when it
+comes to cybersecurit y;
+Working with developing countries to enhance digitalis ation, educating on policies to protec t
+t
+his space ;
+Given how incredibly fast the digital landscape is changing, rather than rushing to one sizefits all, static, attempts to regulate an innovative sector, the GDC should  examine the merits
+and difficulties of digital dilemmas, such as the appropriate trade -offs between data
+commons and privacy, meaningful connectivity and the current global, open free ads- based
+Internet (the UN could consider the coun ter-factual of a closed, pay -for model of the I nterne
+t
+a
+nd how that route would have hampered the world's ability to access information and our
+collective right to freedom of expression online );
+In connection to the Sustainable Development Goals (SDGs) , sustainable development
+should be more clearly considered under the GDC, both in terms of how digitali sation
+enables sustainable development, but also how to address sustainability challenges arisingfrom digitalis ation such as increased energy consumption .
+April  2023  | International Chamber of Commerce Business  Survey  on the Global Digital Compact  | 11 
+  
+ 2. Recommendations  and best practices
+A. Connectivity  
+According to 96% of the responses received to the survey, the GDC  should reiterate all member 
+states’ shared commitment to bridging both the coverage and usage gaps and bringing 
+meaningful connectivity to all populations everywhere, with 80% of respondents strongly 
+supporting this call.  
+Similarly, 90% believe  that the C ompact should recognis e the efforts of all stakeholders and 
+encourage flexible and forward- looking policy and regulatory approaches that enable investments 
+across the entire digital value chain, and facilitate the effective management of spectrum , with 
+76% strongly supporting this.  Lastly, according to 94 % of respondents, the Compact should recognis e the efforts of all 
+stakeholders and encourage flexible and forward- looking policy and regulatory approaches that 
+are grounded in evidence and data , with 75% of respondents strongly supporting this. 
+Respondents also shared their current work and other initiatives they are aware of that are  
+current ly in place to help  deliver  meaningful connectivity to all. In particular, those included a 
+diverse range of  technolog y solutions and innovative business models that address the digital 
+divides through facilitating access, developing application s, services , and local relevant content , 
+and engaging in capacity building and digital skilling . They particularly highlighted  solutions to 
+enable  the digitalis ation of SMEs, bolster their economic growth, and  integration into global 
+markets  as well as initiatives to empower women  and facilitate their participation in business, 
+commerce,  and entrepreneurship, including by co- creating policy solutions together with 
+governments . 
+A common theme emerging from the various practices is the critical component of 
+multistakeholder collaboration . In particular, the contributions received  noted  that the very nature 
+of the global Internet necessitates an effective multistakeholder governance model to be at its core. This includes continued efforts by all stakeholders (individually  and collectively, including 
+private sector led, multistakeholder and intergovernmental) to address Internet -related issues and 
+the promotion of greater cooperation among organisations. Such cooperation should be guided by the objectives of information sharing, raising awareness and where appropriate, coherence among work programmes and collaboration.   
+B. Internet fragmentation
+91% of the  survey respondents believe the GDC  should reiterate all member states’ shared 
+commitment to keeping the Internet whole, ope n, interconnected,  and interoperable , with 82% of 
+respondents strongly s upporting this call. Respondents u nderscored the importance of an open, 
+interconnected,  and interoperable Internet for economic and societal well- being  and highlighted 
+the crucial importance of adhering to common technological standards and protocols, developed 
+through multistakeholder collaboration, to ensure the continued seamless functioning of the global, interconnected,  and interoperable network of networks that is the  Internet.  In this respect , 
+they referenced the work of  the International Organization for Standardization  (ISO), the 
+International Federation of the National Standardizing Associations ( ISA), the International 
+Electrotechnical Commission  (IEC), the National Institute of Standards and Technology ( NIST ), the 
+International Telecommunications Union ( ITU) and the Internet Society .  
+Respondents also cautioned against the possible negative consequences of policy and regulatory decisions that might cause the  fragmentation of t he Internet or its governance. In this respect they 
+April  2023  | International Chamber of Commerce Business  Survey  on the Global Digital Compact  | 12 
+  
+ referenced the joint letter8 by a coalition of civil society and industry stakeholders out principles for 
+an open, interconnected and interoperable internet.  
+C. Data governance
+According to 94 % of the respon ses received, the GDC should recognis e that establishing trust and 
+minimi sing disruptions in data flows are fundamental to reaping the benefits of digitaliz ation.  80% 
+of respondents strongly support this call.   
+Furthermore, 93% of respondents were in agreement that t he Compact should call for the removal 
+of unjustified obstacles to cross- border data flows, while continuing to address privacy, data 
+protection, the protection of intellectual property rights, and security.  82% strongly supported this.  
+Lastly,  94% of responses expressed that the GDC  should encourage global cooperation and 
+interoperability across policy and regulatory systems on data governance matters.   
+With regards to tangible examples of contribution to support data protection and privacy, 
+respondents indicated:  
+Providing education, awareness and insight on digital data protection and security, throughdifferent approaches like client or employee trainings
+;
+T
+ake part in national and international discussions, promoting knowledge sharing and bes t
+p
+ractices across different industry sectors ;
+W
+ork towards uplifting safeguards for children's privacy and raising digitally smart citizens.
+Similarly, focusing on the current developments to support data free flows with trust, respondents called for sharing information through  confe rences and trainings to stakeholders to bring insight  
+on data flows and practice of trust . 
+D. Artificial Intelligence
+With almost two- thirds of respondents (62%) stating that the GDC should not attempt to regulate 
+or call for processes to regulate Artificial Intelligence systems through the United Nations, a large majority of participants (90%) saw a role for the GDC to recognis e ongoing work on establishing 
+common  principles for trustworthy AI , and promote their further endorsement and uptake across 
+the globe.  
+In particular, respondents called for the recognition and promotion of the OECD AI Principles and  
+support of  the work of the OECD AI Governance Working Party and its development of user -
+friendly resources. 
+E. Multistakeholder Internet governance
+90% of respondents agreed that the  global Internet necessitates an effective multistakeholder 
+governance model to address Internet -related issues and the promotion of greater cooperation 
+among organisations.   
+In order to preserve the mu ltistakeholder model of the Internet, 90% of the surve y responses 
+underlined that the GDC  should signal a commitment of member states to support the Internet 
+Governance Forum  (IGF) .  
+In support of the multistakeholder model, respondents highlighted  current  business efforts. The 
+common theme that appeared as an enabler was the IGF,  with participants highlighting its 
+uniqueness  in bringing together  all actors of the global digital economy, to exchange knowledge, 
+information and best practices on key topics pertaining to the In ternet. 
+8 Global Partners Digital, An open, interconnected, and interoperable Internet ( Joint Letter ). 
+April  2023  | International Chamber of Commerce Business  Survey  on the Global Digital Compact  | 13 
+ 
+  
+  
+ 3. Other considerations and next steps  
+Role of the  private sector in the  process of developing the Global Digital Compact  
+The survey collected proposals on how the private sector can add further input to the process of 
+developing the GDC . The majority of  contributing businesses encourag ed roundtable discussions 
+between  policymakers and private sector experts to inform the consideration of the GDC. There is 
+evident ample ground and appetite to move such an approach forward , with ove r 78% of 
+respondents suggesting such an engagement .  
+Secondly, sharing of good practices and lessons learned was similarly highlighted as a concrete area of input from the private sector with 68.37% recurring suggestions, while direct engag ements 
+with nati onal governments to provide input ahead of the negotiation of the text of the G DC also 
+received significant attention, with 60.2% of respondents putting this suggestion forward.  
+Finally,  58.16% of suggestions stated that the private sector can also fulfil  an important supporting 
+role in highlighting existing policy guidelines, frameworks, and initiatives GDC could elevate . 
+Role of the Office of the UN Secretary -General's Envoy on Technology in the follow -up from the 
+Global Digital Compact  
+The survey sought  to source private sector input on how the UN Secretary -General's Envoy on 
+Technology can ensure the endorsement and global uptake of common principles within the G DC, 
+once adopted. Within the input  received, 62.24% of responses suggested that the Envoy becomes 
+a focal point and partner for the public and private sector input into UN policy discussions on digital issues. With a total of 42.86% of the contributions received, the respondents proposed that the Envoy unde rtakes a role as an interface between the UN system and other international / 
+regional policy fora. To that extent and under its  remit, the Office of the Envoy should aim for 
+interinstitutional alignment on digital policy issues within the UN system, highlighted by 39.8% of the submitted input. 38.78% of respondents proposed that the Envoy seeks more diverse  geographical 
+multistakeholder input on current and emerging issues pertaining to the global digital economy (i.e., reaching the Global South).  Lastly, the suggestion to tackle fragmentation of the policy space 
+through capacity -building initiatives and public -private sector cooperation was also a recurring 
+theme by 33.67% of the total number of responses.  
+Individual contributions also highlighted that the Office of the Envoy on Technology has a unique 
+opportunity to e nsure meaningful participation from the private sector and thereby help avoid 
+regulations that would hinder innovation or lead to unintended consequences that could 
+discourage  freedom of expression online . 
+ 
+      
+April 2023  | International Chamber of Commerce Business Survey on the Global Digital Compact  | 14 Annex  
+Figures  
+Figure 5: Distribution of respondents by country of origin  
+
+R
+epository of referenced policy resources  
+T
+his section provides a repository of referenced policy resources, reports, guidelines,  and initiatives for the benefit of the elaboration of the GDC , as provided 
+by the respondents that participated in the ICC GDC survey.  
+Resource Title  Link  
+References on cybersecurity  
+International Chamber of Commerce (ICC),  Policy 
+Primer on Cybersecurity  https://iccwbo.org/news -publications/policies -reports/icc -policy -primer -on-cybersecurity/  
+International Chamber of Commerce (ICC),  
+Cybersec urity Issue Brief #1  https://iccwbo.org/news -publications/policies -reports/icc -cybersecurity -issue -brief -1/ 
+International Chamber of Commerce (ICC),  
+Cybersec urity Issue Brief #2: Implementing norms and 
+rules for responsible state behaviour in cyberspace 
+and enhancing cooperation to counter cybercrime  https://iccwbo.org/news -publications/policies -reports/icc -cybersecurity -issue -brief -2-
+implementing -norms -and -rules -for-responsible -state -behaviour -in-cyberspace -and -enhancing -
+cooperation -to-counter -cybercrime/   
+International Chamber of Commerce (ICC),  Annex on 
+Cybersecurity Issue Brief #2 https://cms.iccwbo.org/content/uploads/sites/3/ 2023/01/2023 -icc-annex -icc-cybersecurity -
+issue -brief -2.pdf   
+References on connectivity  
+International Chamber of Commerce (ICC) , White 
+Paper on Delivering Universal Meaningful Connectivity  https://iccwbo.org/wp -content/uploads/sites/3/2022/05/2022 -icc-white -paper -delivering -
+connectivity.pdf  
+Global Partners Digital Joint Letter for an Open, 
+Interconnected and Interoperable Internet  https:/ /www.gp -digital.org/an -open -interconnected -and -interoperable -internet -joint -letter/  
+References on data governance  
+International Chamber of Commerce (ICC) , White 
+Paper on Trusted Government Access to Personal Data Held by the Private Sector  https:/ /iccwbo .org/publication/icc -white -paper -on-trusted -government -access -to-personal -
+data- held- by-the-private -sector/  
+International Chamber of Commerce (ICC),  Policy 
+primer on the Internet of everything  https://iccwbo.org/news -publications/policies -reports/icc -polic y-primer -on-the-internet -of-
+everything/  
+United Nations Economic Commission for Europe 
+(UNECE) , White Paper on Verifiable Credentials https://unece.org/sites/default/files/2022 -09/WhitePaper_Ve rifiableCredentials -CBT.pdf  
+April 2023 | International Chamber  of Commerce Business Survey on the Global Digital Compact | 15  
+Organization for Economic Co -opera tion and 
+Development (OECD) , Report on Digital Education 
+Outlook 2021  https://www.oecd -ilibrary.org/docserver/5jz44fnq066c -en.pdf  
+Organization for Economic Co -operation and 
+Development (OECD) , Declaration on Government 
+Access to Personal Data Held by Private Sector Entities  https://legalinstruments.oecd.org/en/instruments/OECD -LEGAL -0487  
+References on AI 
+Organization for Economic Co -operation and 
+Development (OECD) , Artificial Intelligence (AI) 
+Principles  https://oecd.ai/en/ai -principles  
+United Nations Educational, Scientific and Cultural 
+Organization (UNESCO) , Recommendations on AI 
+Ethics  https: //fr.unesco.org/about -us/legal -affairs/recommandation -lethique -lintelligence -artificielle  
+Nationa l Institute of Standards and Technology (NIST) , 
+Artificial Intelligence Risk Management Framework (AI 
+RMF 1.0)  https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.1 00-1.pdf  
+References on e -trade and e -commerce  
+International Chamber of Commerce (ICC) , Standards 
+Toolkit for Cross- border Paperless Trade  https://iccwbo.org/news -publications/policies -reports/standards -toolkit -for-cross -border -
+paperless- trade/  
+International Chamber of Commerce (ICC),  Trade in 
+the digital economy: A primer on global data flows for policy makers https://iccwbo.org/news -publications/policies -reports/trade -in-the-digital -economy -a-primer -on-
+global- data- flows -for-policymakers/#single -hero -document   
+Ministry of trade and industry, Singapore, The Digital 
+Economy Partnership Agreement  https://www.mti.g ov.sg/Trade/Dig ital-Economy -Agreements/The -Digital -Economy -Partnership -
+Agreement  
+World Trade Organisation (WTO) , eCommerce 
+negotiations on trade- related aspects of e -commerce  https://www.wto.org/english/tratop_e/ecom_e/joint_statement_e.htm  
+World Trade  Organisation (WTO) , Information 
+Technology Agreement (ITA)  https://www.wto.org/english/tratop_e/inftec _e/inftec_e.htm  
+References on other existing initiatives, guidelines and/or principles  
+Asian Development Bank (ADB) , Publication on Digital 
+Connectivity with Low Earth Orbit Satellite Opportunities  https://www.adb.org/publications/dig ital-connectivity -low-earth -orbit -satellite -opportunities  
+April 2023 | International Chamber  of Commerce Business Survey on the Global Digital Compact | 16  
+Declaration for the Future of Internet  https://www.state.gov/declaration -for-the-future -of-the-internet  
+European Union EU4Digital Ini tiative (EU4Digital)  https://eufordigital.eu  
+United Nations Educational, Scientific and Cultural 
+Organization (UNESCO ,) Responsible Innovation in 
+Technology for Children (RITEC)  https://www.unicef -irc.org/ritec  
+International Telecommunications Union (ITU), United  
+Nations Economic Commission for Europe (UNECE) 
+and UN -Habitat, The United for Smart Sustainable 
+Cities (U4SSC)  https://u4ssc.itu.int/  
+Trusted Cloud Principles  https://trustedcloudprinciples.com/principle s/ 
+April 2023 | International Chamber  of Commerce Business Survey on the Global Digital Compact | 17

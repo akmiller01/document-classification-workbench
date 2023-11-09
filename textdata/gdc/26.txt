@@ -1,0 +1,5840 @@
+O D C ' s
+c o n t r i b u t i o n
+t o
+t h e
+G l o b a l 
+D i g i t a l
+C o m p a c t
+-
+R e p o r t
+O p e n
+D a t a
+a n d
+t h e
+R i g h t
+t o
+P r i v a c y
+i n
+a 
+g l o b a l
+d i g i t a l
+s t r a t e g y
+A u t h o r :
+R e n a t o
+B e r r i n o
+M a l a c c o r t o
+V e r s i o n
+d a t e :
+3 0 - 0 3 - 2 0 2 3
+C o n t e n t
+I n t r o d u c t i o n / O v e r v i e w
+1
+D e s c r i p t i o n
+o f
+E n t i t y / O r g a n i z a t i o n
+2
+M e t h o d o l o g y / P r o c e s s
+3
+P r e l i m i n a r y
+i d e a s
+a n d
+d e ﬁ n i t i o n s
+4
+K e y
+p r i n c i p l e s
+6
+A c t i o n s / R e c o m m e n d a t i o n s
+8
+●
+D e m o c r a c y
+s t r e n g t h e n i n g
+8
+●
+T e c h n i c a l
+w o r k
+8
+●
+D a t a
+g o v e r n a n c e
+9
+●
+D a t a
+l i t e r a c y
+( l e a r n i n g
+a n d
+t r a i n i n g )
+9
+●
+C o l l a b o r a t i o n
+a n d
+e n g a g e m e n t
+( n e t w o r k
+b u i l d i n g )
+9
+●
+R e g u l a t o r y
+f r a m e w o r k
+9
+A d d i t i o n a l
+i d e a s
+1 0
+V a l u e
+1 0
+●
+D e m o c r a c y
+s t r e n g t h e n i n g
+1 0
+●
+D a t a
+g o v e r n a n c e
+1 1
+●
+C o l l a b o r a t i o n
+a n d
+e n g a g e m e n t
+( n e t w o r k
+b u i l d i n g )
+1 1
+●
+I n n o v a t i o n
+1 1
+A c t o r s
+1 1
+C h a l l e n g e s
+1 2
+●
+D e m o c r a c y
+s t r e n g t h e n i n g
+1 2
+●
+T e c h n i c a l
+w o r k
+1 2
+●
+D a t a
+g o v e r n a n c e
+1 2
+●
+D a t a
+l i t e r a c y
+( l e a r n i n g
+a n d
+t r a i n i n g )
+1 2
+●
+C o l l a b o r a t i o n
+a n d
+e n g a g e m e n t
+( n e t w o r k
+b u i l d i n g )
+1 2
+●
+R e g u l a t o r y
+f r a m e w o r k
+1 2
+
+F i n a l
+r e m a r k s
+1 3
+A c k n o w l e d g m e n t s
+1 3
+R e f e r e n c e s
+1 4
+I n t r o d u c t i o n / O v e r v i e w
+F o l l o w i n g
+t h e
+p o l i t i c a l
+d e c l a r a t i o n
+a d o p t e d
+a t
+t h e
+o c c a s i o n
+o f
+t h e
+U n i t e d
+N a t i o n s ’
+7 5 t h
+a n n i v e r s a r y
+i n
+S e p t e m b e r
+2 0 2 0 ,
+t h e
+S e c r e t a r y - G e n e r a l
+i n
+S e p t e m b e r
+2 0 2 1
+r e l e a s e d
+h i s
+r e p o r t
+O u r
+C o m m o n
+A g e n d a
+1
+.
+T h e
+C o m m o n
+A g e n d a
+p r o p o s e s
+a
+G l o b a l
+D i g i t a l
+C o m p a c t
+t o
+b e
+a g r e e d
+a t
+t h e
+S u m m i t
+o f
+t h e
+F u t u r e
+i n
+S e p t e m b e r
+2 0 2 4
+t h r o u g h
+a
+t e c h n o l o g y
+t r a c k
+i n v o l v i n g
+a l l
+s t a k e h o l d e r s :
+g o v e r n m e n t s ,
+t h e
+U n i t e d
+N a t i o n s
+s y s t e m ,
+t h e
+p r i v a t e
+s e c t o r
+( i n c l u d i n g
+t e c h
+c o m p a n i e s ) ,
+c i v i l
+s o c i e t y ,
+g r a s s - r o o t s
+o r g a n i z a t i o n s ,
+a c a d e m i a ,
+a n d
+i n d i v i d u a l s ,
+i n c l u d i n g
+y o u t h .
+T h e
+G l o b a l
+D i g i t a l
+C o m p a c t
+i s
+e x p e c t e d
+t o
+“ o u t l i n e
+s h a r e d
+p r i n c i p l e s
+f o r
+a n
+o p e n ,
+f r e e
+a n d
+s e c u r e
+d i g i t a l
+f u t u r e
+f o r
+a l l ” .
+T h e
+G l o b a l
+D i g i t a l
+C o m p a c t
+p r o p o s e s
+t h e
+f o l l o w i n g
+t h e m a t i c
+a x e s
+:
+●
+C o n n e c t
+a l l
+p e o p l e
+t o
+t h e
+i n t e r n e t ,
+i n c l u d i n g
+a l l
+s c h o o l s
+●
+A v o i d
+i n t e r n e t
+f r a g m e n t a t i o n
+●
+P r o t e c t
+d a t a
+●
+A p p l y
+h u m a n
+r i g h t s
+o n l i n e
+●
+I n t r o d u c e
+a c c o u n t a b i l i t y
+c r i t e r i a
+f o r
+d i s c r i m i n a t i o n
+a n d
+m i s l e a d i n g
+c o n t e n t
+●
+P r o m o t e
+r e g u l a t i o n
+o f
+a r t i ﬁ c i a l
+i n t e l l i g e n c e
+●
+D i g i t a l
+c o m m o n s
+a s
+a
+g l o b a l
+p u b l i c
+g o o d
+R e g a r d i n g
+t h e
+G l o b a l
+D i g i t a l
+C o m p a c t
+t o p i c s ,
+t h o s e
+t h a t
+w i l l
+b e
+l i n k e d
+t o
+o u r
+c o n t r i b u t i o n
+a r e :
+d a t a
+p r o t e c t i o n ;
+a p p l i c a t i o n
+o f
+h u m a n
+r i g h t s
+o n l i n e ;
+a n d
+d i g i t a l
+c o m m o n s
+a s
+a
+g l o b a l
+p u b l i c
+g o o d .
+D e s c r i p t i o n
+o f
+E n t i t y / O r g a n i z a t i o n
+T h e
+O p e n
+D a t a
+C h a r t e r
+( O D C )
+i s
+a
+c o l l a b o r a t i o n
+b e t w e e n
+o v e r
+1 7 0
+g o v e r n m e n t s
+a n d
+o r g a n i s a t i o n s
+w o r k i n g
+t o
+o p e n
+u p
+d a t a
+b a s e d
+o n
+a
+s h a r e d
+s e t
+o f
+p r i n c i p l e s
+2
+.
+W e
+p r o m o t e
+p o l i c i e s
+a n d
+p r a c t i c e s
+t h a t
+e n a b l e
+g o v e r n m e n t s
+a n d
+C S O s
+t o
+c o l l e c t ,
+s h a r e ,
+a n d
+u s e
+w e l l - g o v e r n e d
+d a t a ,
+t o
+r e s p o n d
+e ﬀ e c t i v e l y
+a n d
+a c c o u n t a b l y
+t o
+t h e
+f o l l o w i n g
+f o c u s
+a r e a s :
+a n t i - c o r r u p t i o n ,
+c l i m a t e
+a c t i o n
+a n d
+p a y
+e q u i t y .
+W e
+w a n t
+a
+w o r l d
+i n
+w h i c h
+g o v e r n m e n t s
+c o l l e c t ,
+s h a r e
+a n d
+u s e
+w e l l - g o v e r n e d
+d a t a ,
+t o
+r e s p o n d
+e ﬀ e c t i v e l y
+a n d
+a c c o u n t a b l y
+t o
+o u r
+m o s t
+p r e s s i n g
+s o c i a l ,
+e c o n o m i c ,
+a n d
+e n v i r o n m e n t a l
+c h a l l e n g e s .
+W e
+w a n t
+t h i s
+t o
+h a p p e n
+b y
+d e f a u l t
+u n l e s s
+i t
+w o u l d
+d e m o n s t r a b l y
+i n f r i n g e
+h u m a n
+r i g h t s .
+S p e c i ﬁ c a l l y ,
+w e
+w a n t :
+2
+h t t p s : / / o p e n d a t a c h a r t e r . n e t / p r i n c i p l e s /
+1
+h t t p s : / / w w w . u n . o r g / e n / c o n t e n t / c o m m o n - a g e n d a - r e p o r t / a s s e t s / p d f / C o m m o n _ A g e n d a _ R e p o r t _ E n 
+g l i s h . p d f
+2
+
+●
+p u b l i c
+o ﬃ c i a l s
+t o
+b a l a n c e
+t h e
+t r a d e o ﬀ s
+b e t w e e n
+a d v a n c i n g
+t r a n s p a r e n c y
+a n d
+a c c o u n t a b i l i t y
+u s i n g
+d a t a
+a n d
+p r o t e c t i n g
+t h e
+r i g h t s
+o f
+p e o p l e
+a n d
+c o m m u n i t i e s
+●
+c i t i z e n s
+t o
+b e
+a b l e
+t o
+e a s i l y
+s e e
+a n d
+i n ﬂ u e n c e
+w h a t
+t h e i r
+p u b l i c
+o ﬃ c i a l s
+d o ,
+a n d
+t o
+t r u s t
+t h e i r
+i n s t i t u t i o n s
+●
+p e o p l e
+t o
+b e
+a b l e
+t o
+u s e
+o p e n l y
+a v a i l a b l e
+d a t a
+a n d
+a c c o u n t a b l e
+a u t o m a t e d
+t o o l s
+t o
+a c c e s s
+e q u i t a b l e
+p u b l i c
+s e r v i c e s
+T h e
+O D C
+i s
+s e t t i n g
+u p
+a
+p a r t i c i p a t o r y
+p r o c e s s
+t o
+s e n d
+i n p u t s
+t o
+t h e
+G l o b a l
+D i g i t a l
+C o m p a c t .
+T h e
+O r g a n i z a t i o n
+i s
+w o r k i n g
+o n
+t h e
+d a t a
+r i g h t s
+a n d
+d i g i t a l
+r i g h t s
+a g e n d a ,
+w i t h
+a
+s t r o n g
+f o c u s
+o n
+a c c e s s
+t o
+p u b l i c
+i n f o r m a t i o n ,
+o p e n
+d a t a
+a n d
+d i a l o g u e
+w i t h
+t h e
+r i g h t
+t o
+p r i v a c y .
+I t
+i s
+d o i n g
+r e s e a r c h
+i n
+g o o d
+p r a c t i c e s
+a n d
+r e g u l a t o r y
+a d v a n c e s ,
+a n d
+g e n e r a t i n g
+r e s o u r c e s
+t o
+s u p p o r t
+t h e
+c o m m u n i t y .
+T h e
+O D C
+p r o m o t e s
+r e s e a r c h
+t o
+u n d e r s t a n d
+t h e
+b a l a n c e
+o f
+t h e s e
+r i g h t s
+i n
+s p e c i ﬁ c
+t h e m a t i c
+a x e s ,
+a n d
+s e e
+h o w
+t h e y
+d i a l o g u e
+i n
+s p e c i ﬁ c
+c a s e s .
+I n
+a d d i t i o n ,
+w e
+a n a l y z e
+g o o d
+p r a c t i c e s
+a n d
+l e s s o n s
+f r o m
+d i ﬀ e r e n t
+f o r m s
+o f
+d a t a
+p r o t e c t i o n
+r e g u l a t i o n ,
+w i t h
+a
+s p e c i ﬁ c
+f o c u s
+o n
+h o w
+t h i s
+a ﬀ e c t s
+o p e n
+d a t a ,
+t o
+g e n e r a t e
+p u b l i c
+p o l i c y
+r e c o m m e n d a t i o n s .
+M e t h o d o l o g y / P r o c e s s
+T h e
+O D C
+i s
+c o n t r i b u t i n g
+t o
+t h e
+G l o b a l
+D i g i t a l
+C o m p a c t
+c o n d u c t i n g
+a n
+a n a l y s i s
+a n d
+d e b a t e
+t o
+h e l p
+u n d e r s t a n d
+a c c e s s
+t o
+i n f o r m a t i o n
+a n d
+o p e n
+d a t a
+a s
+a
+f u n d a m e n t a l
+h u m a n
+r i g h t ,
+i n
+b a l a n c e
+w i t h
+t h e
+r i g h t
+t o
+p r i v a c y .
+I n
+o r d e r
+t o
+s h a r e
+o u r
+i n p u t ,
+w e
+a r e
+u s i n g
+a
+m i x e d
+m e t h o d o l o g i c a l
+a p p r o a c h .
+F i r s t
+o f
+a l l ,
+w e
+h a v e
+d o n e
+d e s k
+r e s e a r c h
+a b o u t
+n a t i o n a l
+a n d
+i n t e r n a t i o n a l
+r e g u l a t i o n s
+o n
+a c c e s s
+t o
+p u b l i c
+i n f o r m a t i o n ,
+o p e n
+d a t a
+a n d
+t h e
+r i g h t
+t o
+p r i v a c y .
+I n
+a d d i t i o n ,
+w e
+c o n s u l t e d
+p r i n c i p l e s
+a n d
+r e p o r t s
+p r o d u c e d
+f r o m
+d i ﬀ e r e n t
+o r g a n i z a t i o n s
+a n d
+s t a k e h o l d e r s .
+A s
+a
+s e c o n d
+s t e p ,
+w e
+h a v e
+i n v i t e d
+k e y
+s t a k e h o l d e r s
+o n
+t h e
+s u b j e c t
+o f
+O p e n
+D a t a
+a n d
+t h e
+R i g h t
+t o
+P r i v a c y
+t o
+i n f o r m
+t h e
+c o n t r i b u t i o n
+r e p o r t .
+W e
+c o n d u c t e d
+t w o
+c o n s u l t a t i o n
+s e s s i o n s
+v i a
+Z o o m .
+1 7
+o r g a n i z a t i o n s
+( s e e
+a c k n o w l e d g m e n t s
+)
+t h a t
+w o r k
+o n
+O p e n
+D a t a ,
+A c c e s s
+t o
+I n f o r m a t i o n ,
+D i g i t a l
+R i g h t s
+a n d
+o n
+R i g h t
+t o
+P r i v a c y
+j o i n e d
+t h e
+d i s c u s s i o n
+a n d
+s h a r e d
+t h e i r
+i d e a s .
+T h e
+s e s s i o n
+w a s
+s t r u c t u r e d
+i n
+t h e
+f o l l o w i n g
+s e c t i o n s :
+O p e n i n g
+r e m a r k s :
+c o n t e x t
+a n d
+o b j e c t i v e ;
+I n i t i a l
+i d e a s
+o n
+o p e n
+d a t a
+a n d
+p r i v a c y ;
+C o l l e c t i v e
+d i s c u s s i o n .
+F o r
+t h e
+c o l l e c t i v e
+d i s c u s s i o n ,
+w e
+w o r k e d
+t o g e t h e r
+i n
+a
+j a m b o a r d
+t r y i n g
+t o
+a n s w e r
+t h e
+f o l l o w i n g
+p r o p o s e d
+q u e s t i o n s :
+1 .
+W h y
+s h o u l d
+a c c e s s
+t o
+i n f o r m a t i o n
+a n d
+o p e n
+d a t a
+b e
+i n c l u d e d
+i n
+a
+g l o b a l
+d i g i t a l
+s t r a t e g y ?
+-
+T h i s
+q u e s t i o n
+l e d
+u s
+t o
+d i s c u s s
+t h e
+V A L U E
+o f
+t h e
+i n s t i t u t e s .
+2 .
+W h a t
+s h a r e d
+t o o l s
+o r
+p r i n c i p l e s
+d o
+y o u
+k n o w
+t o
+b a l a n c e
+o p e n n e s s
+a n d
+t h e
+r i g h t
+t o
+p r i v a c y ?
+-
+T h i s
+q u e s t i o n
+l e d
+u s
+t o
+e x p l o r e
+P R I N C I P L E S .
+3 .
+W h a t
+a r e
+t h e
+c h a l l e n g e s
+t o
+a c h i e v e
+t h i s
+b a l a n c e
+b e t w e e n
+o p e n n e s s
+a n d
+r e s p e c t
+f o r
+p r i v a c y ?
+-
+T h i s
+q u e s t i o n
+l e d
+u s
+t o
+u n d e r s t a n d
+t h e
+C H A L L E N G E S .
+4 .
+W h i c h
+a c t o r s
+s h o u l d
+n o t
+b e
+m i s s i n g
+i n
+t h e
+c o n v e r s a t i o n
+r e g a r d i n g
+t h e
+b a l a n c e
+o f
+O p e n
+D a t a
+a n d
+t h e
+R i g h t
+t o
+P r i v a c y ?
+-
+T h i s
+q u e s t i o n
+h e l p e d
+u s
+t o
+i d e n t i f y
+k e y
+A C T O R S .
+3
+
+5 .
+W h a t
+s p e c i ﬁ c
+a c t i o n s
+a n d / o r
+p o l i c i e s
+w o u l d
+w e
+n e e d
+t o
+g u a r a n t e e
+t h i s
+b a l a n c e
+w i t h o u t
+c o m p r o m i s i n g
+a n y
+o f
+t h e
+r i g h t s ?
+W h a t
+c a n
+a n d
+s h o u l d
+t h e
+i n t e r n a t i o n a l
+c o m m u n i t y
+d o
+a b o u t
+i t ?
+-
+T h i s
+q u e s t i o n
+h e l p e d
+u s
+t o
+c o m e
+a c r o s s
+A C T I O N S .
+A l t h o u g h
+i n
+t h e
+r e s e a r c h
+a n d
+c o n s u l t a t i o n
+w e
+h a v e
+w o r k e d
+m o r e
+b r o a d l y
+t o
+c o n t e x t u a l i z e
+a n d
+b e t t e r
+u n d e r s t a n d
+t h e
+b a l a n c e
+b e t w e e n
+t h e
+i n s t i t u t e s ,
+t h e
+c o n t r i b u t i o n
+t o
+t h e
+P a c t
+i s
+m a i n l y
+d i v i d e d
+i n t o :
+1 )
+P r i n c i p l e s ;
+2 )
+A c t i o n s
+●
+P r i n c i p l e s :
+c o r e
+p r i n c i p l e s
+t h a t
+a l l
+g o v e r n m e n t s
+a t
+t h e
+n a t i o n a l
+a n d
+s u b -
+n a t i o n a l
+l e v e l ,
+c o m p a n i e s ,
+c i v i l
+s o c i e t y
+o r g a n i z a t i o n s ,
+a n d
+o t h e r
+s t a k e h o l d e r s
+s h o u l d
+a d h e r e
+t o .
+●
+A c t i o n s :
+k e y
+c o m m i t m e n t s
+t o
+b r i n g
+a b o u t
+t h e s e
+s p e c i ﬁ c
+p r i n c i p l e s .
+T h e s e
+c a n
+t a k e
+t h e
+f o r m
+o f
+w h a t
+p a r t i c i p a n t s
+t h i n k
+“ s h o u l d ”
+b e
+d o n e ,
+a n d / o r
+b a s e d
+o n
+w h a t
+t h e i r
+o r g a n i z a t i o n
+h a s
+a l r e a d y
+c o m m i t t e d
+t o
+d o .
+T h e
+r e s u l t i n g
+d o c u m e n t ,
+p r i o r
+t o
+s u b m i s s i o n ,
+i s
+a l s o
+o p e n
+f o r
+p u b l i c
+c o n s u l t a t i o n
+i n
+a n
+o n l i n e
+p l a t f o r m
+3
+d u r i n g
+M a r c h
+2 0 2 3 .
+I n
+a d d i t i o n ,
+t h e
+d o c u m e n t
+w a s
+s h a r e d
+w i t h
+a l l
+t h e
+p a r t i c i p a n t s
+t h a t
+j o i n e d
+t h e
+s e s s i o n
+f o r
+a d d i t i o n a l
+c o m m e n t s
+o r
+v i e w s .
+F i n a l l y ,
+t h e
+c o n t r i b u t i o n
+t o
+t h e
+G l o b a l
+D i g i t a l
+C o m p a c t
+w i l l
+b e
+s e n t
+b e f o r e
+M a r c h
+3 1 ,
+2 0 2 3 .
+T h e
+U N
+w i l l
+p r e s e n t
+t h e
+c o n t r i b u t i o n s
+a t
+t h e
+S u m m i t
+o f
+t h e
+F u t u r e
+i n
+2 0 2 4 .
+P r e l i m i n a r y
+i d e a s
+a n d
+d e ﬁ n i t i o n s
+A c c e s s
+t o
+p u b l i c
+i n f o r m a t i o n
+i s
+i n t e r n a t i o n a l l y
+u n d e r s t o o d
+a s
+a
+f u n d a m e n t a l
+h u m a n
+r i g h t
+( f o r
+e x a m p l e ,
+t h e
+U n i t e d
+N a t i o n s
+H u m a n
+R i g h t s
+C o m m i t t e e
+r e c o g n i z e s
+i t
+i n
+i t s
+g e n e r a l
+c o m m e n t s
+o n
+a r t i c l e
+1 9
+o f
+t h e
+U n i v e r s a l
+D e c l a r a t i o n
+o f
+H u m a n
+R i g h t s
+w h e n
+a n a l y z i n g
+f r e e d o m
+o f
+e x p r e s s i o n
+4
+) .
+T h e
+f u n d a m e n t
+i s
+t h a t
+i t
+a l l o w s
+c i t i z e n s
+a n d
+i n t e r e s t e d
+p a r t i e s
+t o
+b e
+i n f o r m e d
+a n d
+e x e r c i s e
+o t h e r
+r i g h t s ,
+f u n c t i o n i n g
+a s
+a
+k e y
+r i g h t .
+T h e r e
+a r e
+r e g u l a t i o n s
+i n
+d i ﬀ e r e n t
+c o u n t r i e s
+a n d
+r e g i o n s
+t h a t
+h a v e
+c o n t e m p l a t e d
+a n d
+r e g u l a t e d
+i t
+f o r
+m a n y
+y e a r s .
+I n
+m a n y
+c a s e s ,
+i t
+i s
+e v e n
+i n c l u d e d
+i n
+t h e
+C o n s t i t u t i o n s ,
+a s
+i s
+t h e
+c a s e
+o f
+S p a i n
+o r
+P o r t u g a l .
+I n
+S w e d e n ,
+f o r
+e x a m p l e ,
+t h e
+r i g h t
+w a s
+r e c o g n i z e d
+f o r
+c e n t u r i e s ,
+b u t
+m o s t
+E u r o p e a n
+c o u n t r i e s
+h a v e
+r e g u l a t e d
+i t
+i n
+t h e
+l a s t
+5 0
+y e a r s
+5
+,
+w h i l e
+i n
+L a t i n
+A m e r i c a
+i t
+h a s
+b e e n
+l e g i s l a t e d
+a r o u n d
+3 0
+y e a r s
+a g o ,
+b u t
+h a s
+h a d
+a
+d e e p e r
+d e v e l o p m e n t
+i n
+t h e
+l a s t
+d e c a d e .
+A c c o r d i n g
+t o
+t h e
+O r g a n i z a t i o n
+o f
+A m e r i c a n
+S t a t e s
+( O A S ) ,
+t h e
+E c o n o m i c
+C o m m i s s i o n
+f o r
+L a t i n
+A m e r i c a
+a n d
+t h e
+C a r i b b e a n
+( E C L A C ) ,
+a n d
+v a r i o u s
+c o m p a r e d
+r e g u l a t i o n s ,
+t h e
+R i g h t
+o f
+A c c e s s
+t o
+P u b l i c
+I n f o r m a t i o n
+i s
+u n d e r s t o o d
+a s :
+"
+t h e
+a b i l i t y
+t o
+s e a r c h ,
+a c c e s s ,
+f r e e l y
+r e q u e s t ,
+r e c e i v e ,
+c o p y ,
+a n a l y z e ,
+r e p r o c e s s ,
+r e u s e
+a n d
+r e d i s t r i b u t e
+t h e
+i n f o r m a t i o n
+u n d e r
+t h e
+c u s t o d y
+o f
+t h e
+P u b l i c
+A u t h o r i t y
+. ”
+I n
+r e c e n t
+y e a r s ,
+w i t h
+t h e
+d e v e l o p m e n t
+o f
+I n f o r m a t i o n
+a n d
+C o m m u n i c a t i o n
+T e c h n o l o g i e s
+( I C T s )
+a n d
+d i g i t a l i z a t i o n ,
+t h e
+w a y
+i n
+w h i c h
+i n f o r m a t i o n
+i s
+p r o d u c e d ,
+p u b l i s h e d
+a n d
+s h a r e d
+h a s
+c h a n g e d ,
+b e c o m i n g
+m o s t l y
+d i g i t a l
+d a t a .
+T h e
+c h a n g e s
+r a n g e
+f r o m
+t h e
+w a y
+i n
+w h i c h
+d a t a
+i s
+p r o d u c e d ,
+p u b l i s h e d
+a n d
+s a f e g u a r d e d ,
+t o
+h o w
+c i t i z e n s
+a c c e s s
+a n d
+i n t e r a c t
+w i t h
+i t .
+I n
+t h i s
+c o n t e x t ,
+w e
+ﬁ n d
+t h e
+i m p o r t a n c e
+o f
+5
+h t t p s : / / r e s e a r c h . m y s o c i e t y . o r g / p u b l i c a t i o n s / i m p r o v i n g - o v e r s i g h t
+4
+h t t p s : / / w w w 2 . o h c h r . o r g / e n g l i s h / b o d i e s / h r c / d o c s / G C 3 4 . p d f
+3
+T h e
+p u b l i c
+c o n s u l t a t i o n
+w i l l
+b e
+h e l d
+i n 
+h t t p s : / / o d c . p u b p u b . o r g / p u b / g g t 0 p t u u / d r a f t ? a c c e s s = m 2 j 2 l p 0 c
+4
+
+O p e n
+D a t a
+6
+a s
+a
+s u p e r i o r
+i n s t a n c e
+i n
+t h e
+d i g i t a l
+e r a ,
+u n d e r s t a n d i n g
+i t
+a s
+d i g i t a l
+d a t a
+t h a t
+i s
+m a d e
+a v a i l a b l e
+w i t h
+t h e
+n e c e s s a r y
+t e c h n i c a l
+a n d
+l e g a l
+c h a r a c t e r i s t i c s
+s o
+t h a t
+i t
+c a n
+b e
+u s e d ,
+r e u s e d
+a n d
+r e d i s t r i b u t e d
+f r e e l y
+b y
+a n y o n e ,
+a n y t i m e ,
+a n y w h e r e
+.
+I t
+i s
+i m p o r t a n t
+t o
+m e n t i o n
+a t
+t h i s
+i n s t a n c e
+t h a t
+w h e r e
+t h e r e
+a r e
+n o
+r e g u l a t i o n s
+o n
+o p e n
+d a t a
+y e t ,
+t h e
+R i g h t
+o f
+A c c e s s
+t o
+I n f o r m a t i o n
+f r a m e w o r k
+i s
+w h a t
+s h a p e s
+t h e s e
+p o l i c i e s .
+T h e
+R i g h t
+o f
+A c c e s s
+t o
+P u b l i c
+I n f o r m a t i o n
+i s ,
+t o d a y ,
+i n t r i n s i c a l l y
+l i n k e d
+t o
+t h e
+c o n c e p t
+o f
+O p e n
+D a t a .
+V a r i o u s
+c o m p a r e d
+r e g u l a t i o n s
+a n d
+t h e
+I n t e r - A m e r i c a n
+M o d e l
+L a w
+2 . 0
+o n
+A c c e s s
+t o
+P u b l i c
+I n f o r m a t i o n
+7
+e s t a b l i s h
+t h a t
+a c c e s s
+t o
+i n f o r m a t i o n
+m u s t
+b e
+i n
+o p e n
+d a t a
+f o r m a t ,
+i n c o r p o r a t i n g
+i t
+a s
+t h e
+a p p r o p r i a t e
+w a y
+t o
+e x e r c i s e
+t h e
+r i g h t ,
+w i t h i n
+t h e
+f r a m e w o r k
+o f
+p r o a c t i v e
+t r a n s p a r e n c y
+.
+T h e s e
+r e g u l a t i o n s
+c o n t a i n
+p r o v i s i o n s
+t h a t
+r e g u l a t e
+t h e
+d u t y
+o f
+S t a t e s
+t o
+p u b l i s h
+c e r t a i n
+c a t e g o r i e s
+o f
+i n f o r m a t i o n
+w i t h o u t
+a
+r e q u e s t
+f o r
+i n f o r m a t i o n
+( w h a t
+i s
+k n o w n
+a s
+p a s s i v e
+t r a n s p a r e n c y
+) .
+A r t i c l e
+5
+o f
+t h e
+I n t e r - A m e r i c a n
+M o d e l
+L a w
+o n
+A c c e s s
+t o
+I n f o r m a t i o n
+e s t a b l i s h e s
+t h e
+o b l i g a t i o n
+t o
+“ p r o a c t i v e l y
+d i s s e m i n a t e
+t h e
+k e y
+I n f o r m a t i o n
+e s t a b l i s h e d
+i n
+t h i s
+L a w ,
+w i t h o u t
+a
+r e q u e s t
+f o r
+t h i s
+I n f o r m a t i o n ”
+.
+I n
+i t s
+s e c o n d
+p a r a g r a p h ,
+i t
+a l s o
+e s t a b l i s h e s
+t h a t
+"
+e v e r y
+o b l i g a t e d
+s u b j e c t
+m u s t
+a l l o w
+t h e
+w i d e s t
+a c c e s s
+t o
+I n f o r m a t i o n ,
+i n
+s u c h
+a
+w a y
+t h a t
+i t
+a l l o w s
+i t s
+i n t e r o p e r a b i l i t y
+i n
+a n
+o p e n
+d a t a
+f o r m a t ,
+a s
+w e l l
+a s
+d e t e r m i n e
+t h e
+s t r a t e g i e s
+f o r
+t h e
+i d e n t i ﬁ c a t i o n ,
+g e n e r a t i o n ,
+p u b l i c a t i o n
+o r g a n i z a t i o n
+a n d
+d i s s e m i n a t i o n
+o f
+t h a t
+I n f o r m a t i o n ,
+t h u s
+a l l o w i n g
+i t s
+e a s y
+r e u s e
+b y
+s o c i e t y
+. ”
+T h e
+m o d e l
+l a w
+a l s o
+e s t a b l i s h e s
+t h e
+m i n i m u m
+i n f o r m a t i o n
+t h a t
+m u s t
+b e
+p r o a c t i v e l y
+p u b l i s h e d
+( i n f o r m a t i o n
+o n
+t h e
+o b l i g a t e d
+s u b j e c t ,
+i n f o r m a t i o n
+o n
+o ﬃ c i a l s ,
+ﬁ n a n c i a l
+i n f o r m a t i o n ,
+c i t i z e n
+p a r t i c i p a t i o n
+m e c h a n i s m s ,
+a n d
+n e e d s
+o f
+s p e c i ﬁ c
+g r o u p s ) .
+I n
+a d d i t i o n ,
+i t
+e s t a b l i s h e s
+o b l i g a t i o n s ,
+p u b l i c a t i o n
+s c h e m e s ,
+a n d
+t h e
+o b l i g a t i o n
+t o
+g u a r a n t e e
+a n d
+p r o v i d e
+a p p l i c a n t s
+w i t h
+a c c e s s ,
+i n
+t h e
+e a s i e s t
+w a y
+p o s s i b l e ,
+t o
+a l l
+p r e v i o u s l y
+d i s c l o s e d
+d o c u m e n t s .
+P r o a c t i v e
+t r a n s p a r e n c y
+o b l i g a t i o n s
+a r e
+f o u n d
+i n
+m a n y
+l e g a l
+s y s t e m s
+a r o u n d
+t h e
+w o r l d ,
+a n d
+t h e
+i n c o r p o r a t i o n
+o f
+t h e
+c o n c e p t
+o f
+o p e n
+d a t a
+o f t e n
+o c c u r s
+i n
+t h e
+L a w
+o n
+A c c e s s
+t o
+I n f o r m a t i o n
+i t s e l f ,
+o r
+i n
+c o m p l e m e n t a r y
+r e g u l a t i o n s .
+T h e
+p r o a c t i v e
+p u b l i c a t i o n
+o f
+i n f o r m a t i o n
+i n
+o p e n
+d a t a
+f o r m a t
+a l l o w s
+i m p r o v e m e n t s
+i n
+v a r i o u s
+a s p e c t s .
+O n
+o n e
+h a n d ,
+i t
+a v o i d s
+t h e
+e x p e n s e
+o f
+r e s o u r c e s
+i n
+a n s w e r i n g
+r e q u e s t s
+f o r
+a c c e s s
+t o
+i n f o r m a t i o n ,
+w h e n
+i t
+i s
+i n f o r m a t i o n
+t h a t
+m u s t
+b e
+o p e n
+b y
+d e f a u l t ,
+a n d
+i t
+s a v e s
+t i m e
+f o r
+t h e
+c i t i z e n
+a s
+t h e y
+d o n ’ t
+n e e d
+t o
+m a k e
+t h e
+r e q u e s t .
+W o r k i n g
+o n
+o p e n
+d a t a
+i m p l i e s ,
+i n
+a d d i t i o n
+t o
+o p e n n e s s ,
+i m p r o v e m e n t s
+i n
+i n t e r n a l
+p r o c e s s e s ,
+s i n c e
+w o r k
+i s
+b e i n g
+d o n e
+o n
+t h e
+p r o d u c t i o n
+a n d
+n o r m a l i z a t i o n
+o f
+d a t a
+w i t h
+s t a n d a r d s ,
+u p d a t e
+p e r i o d s ,
+e t c .
+L i k e w i s e ,
+f r o m
+t h e
+o r g a n i z a t i o n ,
+a n d
+w i t h i n
+t h e
+f r a m e w o r k
+o f
+t h e
+C h a r t e r ,
+w e
+t a l k
+a b o u t
+t h e
+n e e d
+f o r
+d a t a
+t o
+b e
+o p e n
+w i t h
+a
+p u r p o s e :
+o p e n n e s s
+s t r e n g t h e n s
+c i t i z e n
+p a r t i c i p a t i o n ,
+p u b l i c
+p o l i c i e s ,
+p u b l i c
+m a n a g e m e n t
+a n d
+t h e r e f o r e
+d e m o c r a t i c
+g o v e r n a n c e .
+O p e n
+d a t a
+c o n t r i b u t e s
+t o
+i n n o v a t i o n
+a n d
+t o
+t a c k l i n g
+t h e
+b i g g e s t
+p u b l i c
+c h a l l e n g e s
+o f
+t h i s
+c e n t u r y .
+O p e n n e s s
+e m p o w e r s
+c i t i z e n s
+t o
+p a r t i c i p a t e
+b o t h
+i n
+d e c i s i o n - m a k i n g
+a n d
+i n
+t h e
+m o n i t o r i n g
+o f
+p u b l i c
+p o l i c i e s .
+D a t a
+i s
+a
+k e y
+p a r t
+o f
+t h e
+f a b r i c
+o f
+t o d a y ' s
+s o c i e t i e s
+a n d
+e c o n o m i e s .
+H o w
+w e
+a c c e s s ,
+u s e
+a n d
+r e g u l a t e
+d a t a
+i s
+m o r e
+i m p o r t a n t
+t h a n
+e v e r .
+U s e d
+e ﬀ e c t i v e l y ,
+o p e n
+d a t a
+m a k e s
+g o v e r n m e n t s
+m o r e
+e ﬃ c i e n t
+a n d
+t r a n s p a r e n t
+a n d
+e m p o w e r s
+c i t i z e n s
+t o
+p a r t i c i p a t e
+a n d
+b e
+p a r t
+o f
+p u b l i c
+a c c o u n t a b i l i t y .
+H o w e v e r ,
+t h i s
+p r o d u c t i o n
+a n d
+a v a i l a b i l i t y
+o f
+d a t a
+a n d
+i n f o r m a t i o n
+b r i n g s
+t o
+t h e
+t a b l e
+t h e
+n e e d
+t o
+d i s c u s s
+t h e
+r e s p o n s i b l e
+m a n a g e m e n t
+o f
+t h e
+d a t a
+a n d
+t h e
+p r o t e c t i o n
+o f
+p e r s o n a l
+a n d / o r
+s e n s i t i v e
+d a t a .
+7
+h t t p s : / / w w w . o a s . o r g / e s / s l a / d d i / d o c s / p u b l i c a c i o n _ L e y _ M o d e l o _ I n t e r a m e r i c a n a _ 2 _ 0 _ s o b r e _ A c c e s o 
+_ I n f o r m a c i o n _ P u b l i c a . p d f
+6
+h t t p s : / / o p e n d a t a c h a r t e r . n e t / p r i n c i p l e s /
+5
+
+I t
+i s
+i m p o r t a n t
+t o
+u n d e r s t a n d
+t h a t
+w h e n
+w e
+t a l k
+a b o u t
+t r a n s p a r e n c y
+a n d
+o p e n
+d a t a ,
+a s
+w e l l
+a s
+t h e
+p r o t e c t i o n
+o f
+p e r s o n a l
+d a t a
+a n d
+p r i v a c y ,
+w e
+a r e
+t a l k i n g
+a b o u t
+i s s u e s
+d i r e c t l y
+l i n k e d
+t o
+h u m a n
+r i g h t s .
+I n
+t h i s
+c a s e ,
+w h e n
+t a l k i n g
+a b o u t
+d a t a ,
+w e
+c a n
+c i r c u m s c r i b e
+i t
+t o
+t h e
+u n i v e r s e
+o f
+h u m a n
+r i g h t s
+a p p l i e d
+t o
+t h e
+d i g i t a l
+s p h e r e ,
+c o m m o n l y
+k n o w n
+a s
+d i g i t a l
+r i g h t s ,
+w h i c h
+i s
+p a r t
+o f
+o u r
+c u r r e n t
+d a i l y
+l i f e .
+T h e
+r i g h t
+t o
+p r i v a c y
+i s
+c o n t e m p l a t e d
+i n
+v a r i o u s
+i n t e r n a t i o n a l
+i n s t r u m e n t s
+8
+a n d
+i n
+t h e
+C o n s t i t u t i o n s
+o f
+n u m e r o u s
+c o u n t r i e s
+a r o u n d
+t h e
+w o r l d .
+I t
+i s
+a
+f u n d a m e n t a l
+h u m a n
+r i g h t ,
+a n d
+i n
+t h e
+d i g i t a l
+a g e ,
+i t
+t a k e s
+o n
+n e w
+d i m e n s i o n s .
+I t
+i s
+i n
+t h i s
+c o n t e x t
+o f
+m a s s i v e
+d a t a
+p r o d u c t i o n
+a n d
+c i r c u l a t i o n
+t h a t
+g r e a t
+a d v a n c e s
+h a v e
+b e e n
+n e c e s s a r y
+i n
+t e r m s
+o f
+p e r s o n a l
+d a t a
+p r o t e c t i o n
+r e g u l a t i o n
+i n
+r e c e n t
+y e a r s .
+T h e
+p e r s o n a l
+d a t a
+p r o t e c t i o n
+p r e v e n t s
+a n d
+d e f e n d s
+p e o p l e
+f r o m
+a r b i t r a r y
+o r
+i l l e g a l
+i n t e r f e r e n c e
+i n
+t h e i r
+p r i v a t e
+l i f e ,
+f a m i l y ,
+h o m e
+o r
+c o r r e s p o n d e n c e .
+V a r i o u s
+c o u n t r i e s
+h a v e
+h a d
+l e g i s l a t i o n
+o n
+t h i s
+t o p i c
+f o r
+y e a r s ,
+a n d
+m a n y
+r e g u l a t i o n s
+a r e
+i n
+t h e
+p r o c e s s
+o f
+b e i n g
+u p d a t e d
+t o
+b e
+a d a p t e d
+t o
+t h e
+r e a l i t i e s
+o f
+n e w
+d i g i t a l
+e n v i r o n m e n t s .
+S i n c e
+2 0 1 8 ,
+t h e
+t o p i c
+h a s
+b e c o m e
+s p e c i a l l y
+r e l e v a n t
+d u e
+t o
+t h e
+G e n e r a l
+D a t a
+P r o t e c t i o n
+R e g u l a t i o n
+( G D P R )
+o f
+t h e
+E U
+9
+.
+A
+p a r t i c u l a r i t y
+o f
+t h i s
+r e g u l a t i o n
+i s
+t h a t
+i t
+i n c o r p o r a t e s
+t h e
+r i g h t
+t h a t
+g r a n t s
+s u b j e c t s
+t h e
+p o s s i b i l i t y
+o f
+a c c e s s i n g
+a l l
+t h e
+d a t a
+s t o r e d
+a b o u t
+t h e m
+w i t h i n
+p u b l i c
+a n d
+p r i v a t e
+s e c t o r
+e n t i t i e s ,
+s i m i l a r
+t o
+t h e
+" H a b e a s
+D a t a "
+g u a r a n t e e
+a c t i o n ,
+i n c o r p o r a t e d
+i n
+v a r i o u s
+l e g a l
+s y s t e m s .
+T h e
+G D P R
+d e ﬁ n e s
+p e r s o n a l
+d a t a
+a s
+a n y
+i n f o r m a t i o n
+r e l a t i n g
+t o
+a n
+i d e n t i ﬁ e d
+o r
+i d e n t i ﬁ a b l e
+n a t u r a l
+p e r s o n
+( ‘ d a t a
+s u b j e c t ’ ) ;
+a n
+i d e n t i ﬁ a b l e
+n a t u r a l
+p e r s o n
+i s
+o n e
+w h o
+c a n
+b e
+i d e n t i ﬁ e d ,
+d i r e c t l y
+o r
+i n d i r e c t l y ,
+i n
+p a r t i c u l a r
+b y
+r e f e r e n c e
+t o
+a n
+i d e n t i ﬁ e r
+s u c h
+a s
+a
+n a m e ,
+a n
+i d e n t i ﬁ c a t i o n
+n u m b e r ,
+l o c a t i o n
+d a t a ,
+a n
+o n l i n e
+i d e n t i ﬁ e r
+o r
+t o
+o n e
+o r
+m o r e
+f a c t o r s
+s p e c i ﬁ c
+t o
+t h e
+p h y s i c a l ,
+p h y s i o l o g i c a l ,
+g e n e t i c ,
+m e n t a l ,
+e c o n o m i c ,
+c u l t u r a l
+o r
+s o c i a l
+i d e n t i t y
+o f
+t h a t
+n a t u r a l
+p e r s o n .
+D a t a
+p r o t e c t i o n
+r e f e r s
+t o
+t h e
+p r a c t i c e s ,
+s a f e g u a r d s ,
+a n d
+b i n d i n g
+r u l e s
+p u t
+i n
+p l a c e
+t o
+p r o t e c t
+y o u r
+p e r s o n a l
+i n f o r m a t i o n
+a n d
+e n s u r e
+t h a t
+y o u
+r e m a i n
+i n
+c o n t r o l
+o f
+i t .
+T h e
+r e g u l a t i o n
+i d e n t i ﬁ e s
+d i v e r s e
+p e r s o n a l
+d a t a
+r i g h t s
+:
+i n f o r m a t i o n ,
+a c c e s s ,
+r e c t i ﬁ c a t i o n ,
+r e s t r i c t
+p r o c e s s i n g ,
+e r a s u r e ,
+o b j e c t ,
+e x p l a n a t i o n ,
+d a t a
+p o r t a b i l i t y .
+T h e
+i m p o r t a n c e
+o f
+t h e
+r i g h t
+t o
+a c c e s s
+t o
+i n f o r m a t i o n
+a n d
+t h e
+r i g h t
+t o
+p e r s o n a l
+d a t a
+p r o t e c t i o n ,
+b o t h
+o f
+w h i c h
+a r e
+f u n d a m e n t a l
+h u m a n
+r i g h t s ,
+r a i s e s
+t h e
+n e e d
+t o
+s t r i k e
+a
+b a l a n c e
+t o
+b e
+a b l e
+t o
+e x e r c i s e
+b o t h
+i n
+a
+c o m p l e m e n t a r y
+m a n n e r ,
+t h a t
+e n s u r e s
+t h a t
+o n e
+o f
+t h e m
+d o e s
+n o t
+j e o p a r d i z e
+t h e
+g u a r a n t e e s
+e n s h r i n e d
+b y
+t h e
+o t h e r .
+T h e r e
+a r e
+d i ﬀ e r e n t
+p r o p o s a l s
+a n d
+t e c h n i q u e s
+t h a t
+a l l o w
+u s
+t o
+c o n t i n u e
+w o r k i n g
+o n
+o p e n
+d a t a
+f o r
+a
+m o r e
+d e m o c r a t i c
+a n d
+j u s t
+s o c i e t y ,
+r e s p e c t i n g
+t h e
+r i g h t
+t o
+p r i v a c y .
+W e
+e x p l o r e d
+s o m e
+i d e a s
+o n
+t h e
+c o n s u l t a t i o n
+s e s s i o n s ,
+e x p r e s s e d
+b e l o w .
+K e y
+p r i n c i p l e s
+D u r i n g
+t h e
+c o n s u l t a t i o n
+s e s s i o n s ,
+w e
+i d e n t i ﬁ e d
+d i ﬀ e r e n t
+p r i n c i p l e s ,
+b y
+c o l l e c t i v e l y
+a n s w e r i n g
+t h e
+q u e s t i o n :
+w h a t
+s h a r e d
+t o o l s
+o r
+p r i n c i p l e s
+d o
+y o u
+k n o w
+t o
+b a l a n c e
+o p e n n e s s
+a n d
+t h e
+r i g h t
+t o
+p r i v a c y ?
+W e
+u n d e r s t a n d
+p r i n c i p l e s
+a s
+c o r e
+p r a c t i c e s
+t h a t
+a l l
+g o v e r n m e n t s ,
+c o m p a n i e s ,
+c i v i l
+s o c i e t y
+o r g a n i z a t i o n s ,
+a n d
+o t h e r
+s t a k e h o l d e r s
+s h o u l d
+a d h e r e
+t o .
+B e l o w
+w e
+s h a r e
+t h e
+p r i n c i p l e s
+w e
+w o r k e d
+o n :
+9
+h t t p s : / / g d p r - i n f o . e u /
+8
+h t t p s : / / w w w . o h c h r . o r g / e n / s p e c i a l - p r o c e d u r e s / s r - p r i v a c y / i n t e r n a t i o n a l - s t a n d a r d s
+6
+
+●
+I n
+t e r m s
+o f
+o p e n
+d a t a ,
+O D C
+p r o p o s e s
+6
+p r i n c i p l e s
+1 0
+.
+T o
+t h e s e
+p r i n c i p l e s
+w e
+s h o u l d
+a d d
+t h e
+i d e a
+o f
+  o p e n i n g
+d a t a
+w i t h
+p u r p o s e .
+●
+I n c l u s i v e
+h u m a n
+r i g h t s
+i m p a c t
+a s s e s s m e n t s
+a n d
+p a r t i c i p a t o r y
+t e c h n o l o g y
+a s s e s s m e n t s .
+●
+T r u s t :
+t h a t
+d a t a
+i s
+a c c u r a t e
+a n d
+s t o r e d
+s e c u r e l y .
+T h e
+d a t a
+c o l l e c t i o n
+m u s t
+b e
+p r o p o r t i o n a l
+a n d
+n e c e s s a r y .
+T h i s
+e n s u r e s
+t h a t
+h u m a n
+r i g h t s
+a r e
+r e s p e c t e d
+a n d
+t h a t
+d a t a
+c o l l e c t i o n
+i s
+d o n e
+e t h i c a l l y
+a n d
+l e g a l l y .
+T h a t ’ s
+t h e
+n e c e s s a r y
+ﬁ r s t
+s t o p
+f o r
+i t
+t o
+b e
+r e u s e d
+a n d
+s h a r e d .
+T h e r e ’ s
+a
+n e e d
+t o
+c o u n t
+o n
+t r u s t
+m e d i a t o r s ,
+a n d
+n a t i o n a l
+c o m m i s s i o n s
+f o r
+r e g u l a t i o n
+o r
+t r u s t - b u i l d i n g .
+●
+N e c e s s a r y
+d i a l o g u e
+b e t w e e n
+O p e n
+b y
+d e f a u l t
+a n d
+P r i v a c y
+b y
+d e s i g n
+.
+B o t h
+o f
+t h e m
+c a n
+c o e x i s t
+i f
+w e
+m a k e
+o p e n i n g
+p l a n s
+i n
+a d v a n c e .
+●
+D i g i t a l l y / c u l t u r a l l y
+a p p r o p r i a t e
+c o n s e n t ,
+g r i e v a n c e
+a n d
+c o m p l a i n t
+m e c h a n i s m s .
+●
+R i s k
+a s s e s s m e n t
+t o o l s
+t h a t
+a l s o
+e n g a g e
+w i t h
+r i s k s
+a t
+c o l l e c t i v e
+l e v e l s .
+T h i s
+i s
+w h e r e
+n o n - P I I
+( P e r s o n a l
+I d e n t i f y i n g
+I n f o r m a t i o n )
+o p e n
+d a t a
+h a v e
+t o
+b e
+a s s e s s e d .
+U n d e r s t a n d i n g ,
+a c k n o w l e d g i n g
+a n d
+i d e n t i f y i n g
+c o l l e c t i v e
+r i s k / g r o u p
+r i s k / i n t e r s e c t i o n a l
+r i s k
+i s
+n e c e s s a r y .
+●
+P a r t i c i p a t o r y
+d e l i b e r a t i v e
+p r o c e s s e s
+t o
+e s t a b l i s h
+c o n t e x t u a l l y
+a p p r o p r i a t e
+r e g u l a t i o n
+( i n c l u d i n g
+t h e
+u s e
+o f
+e x i s t i n g
+t o o l k i t s
+f o r
+n o n - e x p e r t
+e n g a g e m e n t ) .
+●
+D a t a
+S o v e r e i g n t y
+t h a t
+g o e s
+b e y o n d
+a n
+i n d i v i d u a l ' s
+r i g h t s
+t o w a r d s
+t h e i r
+d a t a
+( P I I )
+t o
+a l s o
+i n c l u d e
+g r o u p s '
+c o l l e c t i v e
+r i g h t s
+t o w a r d s
+d a t a
+t h a t
+i s
+a b o u t
+t h e m
+o r
+a ﬀ e c t s
+t h e m .
+O n l y
+w i t h
+c o l l e c t i v e
+d i g i t a l
+s o v e r e i g n t y
+e n a b l e d
+c a n
+w e
+h a v e
+c o l l e c t i v e
+d e c i s i o n - m a k i n g
+a b o u t
+p u b l i s h i n g
+w i t h
+a
+p u r p o s e .
+●
+O t h e r
+p r i n c i p l e s
+s h a r e d
+b y
+t h e
+p a r t i c i p a n t s :
+S e c u r i t y
+b y
+D e s i g n
+( S b D )
+1 1
+.
+D a t a
+M i n i m i z a t i o n
+P r i n c i p l e
+1 2
+,
+P r i n c i p l e
+o f
+m a x i m u m
+p u b l i c i t y .
+●
+I n
+a d d i t i o n ,
+t h e
+p a r t i c i p a n t s
+s h a r e d
+d i ﬀ e r e n t
+p r i n c i p l e s
+t h a t
+a l r e a d y
+e x i s t
+a n d
+h a v e
+b e e n
+d e v e l o p e d
+b y
+d i ﬀ e r e n t
+o r g a n i z a t i o n s ,
+f o r
+e x a m p l e :
+F A I R
+p r i n c i p l e s
+1 3
+;
+C A R E
+p r i n c i p l e s
+1 4
+;
+I C O
+G u i d a n c e
+1 5
+;
+T h e
+F i v e
+S a f e s
+1 6
+;
+T h e
+O D I
+D a t a
+S p e c t r u m
+1 7
+;
+T h e
+p u b l i c
+i n t e r e s t
+t e s t
+1 8
+;
+T r u s t e d
+R e s e a r c h
+E n v i r o n m e n t s
+1 9
+;
+M y D a t a
+p r i n c i p l e s
+2 0
+;
+F o u n d a t i o n
+f o r
+P u b l i c
+C o d e
+[ g u i d e ]
+2 1
+;
+H u m a n
+R i g h t s
+C o u n c i l
+“ r e s o l u t i o n
+o n
+t h e
+p r o m o t i o n
+a n d
+p r o t e c t i o n
+o f
+h u m a n
+r i g h t s
+o n
+t h e
+i n t e r n e t ”
+2 2
+;
+T h e
+G l o b a l
+P r i n c i p l e s
+o n
+P r o t e c t i o n
+o f
+F r e e d o m
+o f
+E x p r e s s i o n
+a n d
+P r i v a c y
+2 3
+f r o m
+A r t i c l e
+1 9 ;
+2 3
+h t t p s : / / w w w . a r t i c l e 1 9 . o r g / d a t a / ﬁ l e s / m e d i a l i b r a r y / 3 8 6 5 7 / E x p r e s s i o n - a n d - P r i v a c y - P r i n c i p l e s - 1 . p d f
+2 2
+h t t p s : / / w w w . o h c h r . o r g / e n / s t o r i e s / 2 0 1 3 / 1 0 / r i g h t - p r i v a c y - d i g i t a l - a g e
+2 1
+h t t p s : / / p u b l i c c o d e . n e t /
+a n d
+h t t p s : / / g i t h u b . c o m / o p e n s t a t e
+2 0
+h t t p s : / / w w w . m y d a t a . o r g / p a r t i c i p a t e / d e c l a r a t i o n /
+1 9
+h t t p s : / / w w w . h d r u k . a c . u k / a c c e s s - t o - h e a l t h - d a t a / t r u s t e d - r e s e a r c h - e n v i r o n m e n t s /
+1 8
+h t t p s : / / i c o . o r g . u k / f o r - o r g a n i s a t i o n s / g u i d a n c e - i n d e x / f r e e d o m - o f - i n f o r m a t i o n - a n d - e n v i r o n m e n t a l - i n f 
+o r m a t i o n - r e g u l a t i o n s / t h e - p u b l i c - i n t e r e s t - t e s t /
+1 7
+h t t p s : / / w w w . t h e o d i . o r g / a b o u t - t h e - o d i / t h e - d a t a - s p e c t r u m /
+1 6
+h t t p s : / / b l o g . o n s . g o v . u k / 2 0 1 7 / 0 1 / 2 7 / t h e - ﬁ v e - s a f e s - d a t a - p r i v a c y - a t - o n s /
+1 5
+h t t p s : / / i c o . o r g . u k / a b o u t - t h e - i c o / i c o - a n d - s t a k e h o l d e r - c o n s u l t a t i o n s / i c o - c a l l - f o r - v i e w s - a n o n y m i s a t i o 
+n - p s e u d o n y m i s a t i o n - a n d - p r i v a c y - e n h a n c i n g - t e c h n o l o g i e s - g u i d a n c e /
+1 4
+h t t p s : / / w w w . g i d a - g l o b a l . o r g / c a r e
+1 3
+h t t p s : / / w w w . g o - f a i r . o r g / f a i r - p r i n c i p l e s /
+1 2
+h t t p s : / / i c o . o r g . u k / f o r - o r g a n i s a t i o n s / g u i d e - t o - d a t a - p r o t e c t i o n / g u i d e - t o - t h e - g e n e r a l - d a t a - p r o t e c t i o n 
+- r e g u l a t i o n - g d p r / p r i n c i p l e s / d a t a - m i n i m i s a t i o n /
+1 1
+h t t p s : / / j o i n u p . e c . e u r o p a . e u / c o l l e c t i o n / c o m m o n - a s s e s s m e n t - m e t h o d - s t a n d a r d s - a n d - s p e c i ﬁ c a t i o n s - 
+c a m s s / s o l u t i o n / e l a p / s e c u r i t y - d e s i g n
+1 0
+h t t p s : / / o p e n d a t a c h a r t e r . n e t / p r i n c i p l e s /
+7
+
+D a t a
+E t h i c s
+C a n v a s
+o f
+t h e
+O p e n
+D a t a
+I n s t i t u t e
+( O D I )
+2 4
+;
+t h e
+p r i n c i p l e s
+o f
+D a t a
+E t h i c s
+i n
+t h e
+P u b l i c
+S e c t o r
+o f
+t h e
+O E C D
+2 5
+;
+a n d
+t h e
+U K
+d a t a
+e t h i c s
+f r a m e w o r k
+2 6
+,
+N e c e s s a r y
+a n d
+P r o p o r t i o n a t e
+o f
+t h e
+E F F
+2 7
+.
+T h e
+O D I
+C a n v a s ,
+f o r
+e x a m p l e ,
+i s
+a
+v a l u a b l e
+t o o l
+t h a t
+g u i d e s
+u s
+i n
+d a t a
+c o l l e c t i o n ,
+u s e
+a n d
+p u b l i c a t i o n
+p r o c e s s e s ,
+p r o p o s i n g
+a
+s e r i e s
+o f
+i t e m s
+t o
+t h i n k
+a b o u t
+i n
+t h e
+d e v e l o p m e n t
+o f
+p r o j e c t s :
+i d e n t i f y
+d a t a
+s o u r c e s ,
+t h e i r
+l i m i t a t i o n s ,
+t h e
+p o s s i b i l i t i e s
+o f
+s h a r i n g
+t h i s
+d a t a
+o r
+n o t ,
+t h e
+e t h i c a l
+a n d
+l e g i s l a t i v e
+c o n t e x t ,
+i d e n t i f y i n g
+t h e
+r i g h t s
+l i n k e d
+t o
+t h e s e
+d a t a
+s o u r c e s ,
+t h e
+p o s i t i v e
+a n d
+n e g a t i v e
+e ﬀ e c t s
+t h a t
+i t
+c a n
+h a v e
+o n
+c i t i z e n s ,
+c o m m u n i c a t i o n ,
+a m o n g
+o t h e r
+p o i n t s .
+I t
+i s
+i m p o r t a n t
+t o
+h i g h l i g h t
+t h a t
+s o m e
+p a r t i c i p a n t s
+s h a r e
+t h e
+i d e a
+t h a t
+p r i n c i p l e s
+a l o n e
+a r e
+n o t
+e n o u g h
+2 8
+.
+T h i s
+i s
+w h y
+a
+c o m p r e h e n s i v e
+s t r a t e g y
+i s
+n e c e s s a r y ,
+w i t h
+c o n c r e t e
+a c t i o n s
+a n d
+p o l i c i e s ,
+a n d
+t a k i n g
+i n t o
+c o n s i d e r a t i o n
+c h a l l e n g e s
+a n d
+a c t o r s .
+A c t i o n s / R e c o m m e n d a t i o n s
+D u r i n g
+t h e
+c o n s u l t a t i o n
+s e s s i o n s ,
+w e
+i d e n t i ﬁ e d
+a c t i o n s
+a n d
+r e c o m m e n d a t i o n s ,
+b y
+c o l l e c t i v e l y
+a n s w e r i n g
+t h e
+q u e s t i o n s :
+W h a t
+s p e c i ﬁ c
+a c t i o n s
+a n d / o r
+p o l i c i e s
+w o u l d
+w e
+n e e d
+t o
+g u a r a n t e e
+t h i s
+b a l a n c e
+w i t h o u t
+c o m p r o m i s i n g
+a n y
+o f
+t h e
+r i g h t s ?
+W h a t
+c a n
+a n d
+s h o u l d
+t h e
+i n t e r n a t i o n a l
+c o m m u n i t y
+d o
+a b o u t
+i t ?
+W e
+u n d e r s t a n d
+a c t i o n s
+a s
+k e y
+c o m m i t m e n t s
+t o
+b r i n g
+a b o u t
+t h e s e
+s p e c i ﬁ c
+p r i n c i p l e s .
+T h e s e
+c a n
+t a k e
+t h e
+f o r m
+o f
+w h a t
+p a r t i c i p a n t s
+t h i n k
+“ s h o u l d ”
+b e
+d o n e ,
+a n d / o r
+b a s e d
+o n
+w h a t
+a n
+o r g a n i z a t i o n
+h a s
+a l r e a d y
+c o m m i t t e d
+t o
+d o .
+B e l o w
+w e
+s h a r e
+t h e
+a c t i o n s
+w e
+r e ﬂ e c t e d
+o n :
+●
+D e m o c r a c y
+s t r e n g t h e n i n g
+○
+D e v e l o p m e n t
+a n d
+r e s p e c t
+o f
+d i g i t a l
+s o v e r e i g n t y
+p r i n c i p l e s
+○
+E x p l o r i n g
+t r u s t e d
+r e s e a r c h
+e n v i r o n m e n t s
+a n d
+d a t a
+t r u s t s / i n t e r m e d i a r i e s .
+○
+I t
+i s
+n o t
+e n o u g h
+t o
+f o c u s
+o n
+d a t a
+p r o t e c t i o n ,
+w e
+n e e d
+t o
+l o o k
+b e y o n d
+t h e
+p r o t e c t i o n
+o f
+P r i v a c y
+a n d
+i t s
+i n c l u s i o n
+i n
+t h e
+d e s i g n
+o f
+a l l
+p o l i c i e s
+a n d
+p r o g r a m s .
+F o r
+t h i s ,
+H u m a n
+R i g h t s
+I m p a c t
+A s s e s s m e n t s
+( H R I A )
+a r e
+a n
+e x c e l l e n t
+t o o l
+t h a t
+c a n
+g u i d e
+p o l i c y -
+m a k i n g
+a t
+e v e r y
+l e v e l
+o f
+g o v e r n m e n t .
+○
+A
+s t a t e m e n t
+o r
+r e p o r t
+f r o m
+t h e
+R a p p o r t e u r s
+o n
+t h i s
+t o p i c
+w o u l d
+b e
+a
+n e c e s s a r y
+t o o l .
+○
+C o n t e x t
+m a t t e r s .
+T h e
+b a l a n c e
+b e t w e e n
+t h e s e
+r i g h t s
+v a r i e s
+a n d
+d i a l o g u e s
+i n
+d i ﬀ e r e n t
+w a y s
+a c c o r d i n g
+t o
+t h e
+t y p e s
+o f
+d a t a
+w e
+a r e
+w o r k i n g
+w i t h
+a n d
+s e c t o r i a l
+t o p i c s
+t h a t
+a r e
+a d d r e s s e d .
+●
+T e c h n i c a l
+w o r k
+○
+W o r k
+o n
+d a t a
+s t a n d a r d s
+a n d
+d a t a
+a s s u r a n c e .
+T h i s
+i s
+s p e c i ﬁ c a l l y
+i m p o r t a n t
+t o
+e n s u r e
+i n t e r o p e r a b i l i t y .
+T h e
+m o r e
+q u a l i t y
+d a t a s e t s
+y o u
+h a v e
+a c c e s s
+t o ,
+a n d
+t h e
+e a s i e r
+i t
+i s
+f o r
+2 8
+h t t p s : / / w w w . n a t u r e . c o m / a r t i c l e s / s 4 2 2 5 6 - 0 1 9 - 0 1 1 4 - 4
+2 7
+h t t p s : / / n e c e s s a r y a n d p r o p o r t i o n a t e . o r g / e s / 1 3 - p r i n c i p l e s /
+2 6
+h t t p s : / / a s s e t s . p u b l i s h i n g . s e r v i c e . g o v . u k / g o v e r n m e n t / u p l o a d s / s y s t e m / u p l o a d s / a t t a c h m e n t _ d a t a / ﬁ l 
+e / 9 2 3 1 0 8 / D a t a _ E t h i c s _ F r a m e w o r k _ 2 0 2 0 . p d f
+2 5
+h t t p s : / / w w w . o e c d . o r g / d i g i t a l / d i g i t a l - g o v e r n m e n t / g o o d - p r a c t i c e - p r i n c i p l e s - f o r - d a t a - e t h i c s - i n - t h e - p 
+u b l i c - s e c t o r . h t m
+2 4
+h t t p s : / / t h e o d i . o r g / w p - c o n t e n t / u p l o a d s / 2 0 1 9 / 0 7 / O D I - D a t a - E t h i c s - C a n v a s - 2 0 1 9 - 0 5 . p d f
+8
+
+t h e m
+t o
+t a l k
+t o
+e a c h
+o t h e r ,
+t h e
+m o r e
+p o t e n t i a l
+v a l u e
+y o u
+c a n
+g e t
+f r o m
+t h e m .
+C o m m o n l y - a g r e e d
+d a t a
+s t a n d a r d s
+p l a y
+a
+c r u c i a l
+r o l e
+i n
+m a k i n g
+t h i s
+h a p p e n .
+○
+D e ﬁ n e
+c l e a r
+o b j e c t i v e s
+i n
+t r a n s p a r e n c y
+a n d
+o p e n
+d a t a
+p o l i c i e s .
+I t
+i s
+k e y
+t o
+m a k e
+o p e n i n g
+p l a n s ,
+t a k i n g
+i n t o
+a c c o u n t
+c u r r e n t
+r e g u l a t i o n s ,
+d e m a n d ,
+r e s o u r c e s ,
+e t c .
+I n
+t h i s
+w a y ,
+w h e n
+p l a n n i n g ,
+r i s k s
+c a n
+b e
+i d e n t i ﬁ e d
+a n d
+i f
+t h e r e
+i s
+p e r s o n a l
+o r
+r e s e r v e d
+i n f o r m a t i o n ,
+i t
+c a n
+b e
+t r e a t e d
+t o
+a v o i d
+p u b l i s h i n g
+d a t a
+t h a t
+d o e s
+n o t
+c o r r e s p o n d ,
+a n d
+t o
+b e
+a b l e
+t o
+p u b l i s h
+t h e
+r e s t
+o f
+t h e
+i n f o r m a t i o n
+w i t h
+t h e
+n e c e s s a r y
+p r e c a u t i o n s .
+P l a n n i n g
+a h e a d
+i s
+i m p o r t a n t
+t o
+i d e n t i f y
+r i s k s ,
+p r e v e n t
+a n d
+m i t i g a t e
+t h e m .
+○
+A p p l y
+d a t a
+p r o t e c t i o n
+t e c h n i q u e s .
+R e g a r d i n g
+p e r s o n a l
+d a t a ,
+t h e r e
+a r e
+a n o n y m i z a t i o n
+g u i d e s
+t o
+b e
+a b l e
+t o
+o p e n
+d a t a
+p r o t e c t i n g
+p r i v a t e
+a n d / o r
+s e n s i t i v e
+i n f o r m a t i o n .
+○
+I n t e r s e c t i o n a l
+a n a l y s i s
+r e g a r d i n g
+n e e d s ,
+p r i o r i t i e s ,
+r i s k s
+o f
+g r o u p s
+a n d
+p o p u l a t i o n s
+i n
+a
+s i t u a t i o n
+o f
+g r e a t e r
+v u l n e r a b i l i t y .
+●
+D a t a
+g o v e r n a n c e
+○
+W o r k
+o n
+b e t t e r
+d a t a
+g o v e r n a n c e
+r e g u l a t i o n s .
+R e g u l a t o r s
+s h o u l d
+b e
+b e t t e r
+i n f o r m e d
+a b o u t
+d a t a
+a n d
+d a t a - e n a b l e d
+s y s t e m s .
+○
+C l a r i f y
+d e c i s i o n a l
+s t r u c t u r e s ,
+r o l e s ,
+a n d
+r e s p o n s i b i l i t i e s ,
+h o w
+t h e
+d e c i s i o n s
+a r e
+t a k e n
+a n d
+c o m m u n i c a t e .
+○
+E x p a n s i v e
+d a t a
+g o v e r n a n c e
+2 9
+f r a m e w o r k s
+t h a t
+i n c l u d e
+a l l
+s t a k e h o l d e r s .
+○
+N e e d
+o f
+c o n t r o l
+a u t h o r i t i e s / o v e r s i g h t
+b o d i e s
+w i t h
+h i e r a r c h i c a l
+e q u a l i t y .
+T h e s e
+a c t o r s
+m u s t
+b e
+i n d e p e n d e n t
+f r o m
+t h e
+S t a t e .
+R e g a r d i n g
+p u b l i c
+g o v e r n a n c e
+s t r u c t u r e s ,
+i t
+i s
+i m p o r t a n t
+t h a t
+t h e
+O v e r s i g h t
+B o d i e s
+f o r
+t h e
+a p p l i c a t i o n
+o f
+t h e
+l a w s
+o n
+a c c e s s
+t o
+p u b l i c
+i n f o r m a t i o n
+a n d
+p r o t e c t i o n
+o f
+p e r s o n a l
+d a t a ,
+w h e t h e r
+t h e y
+a r e
+u n d e r
+t h e
+s a m e
+o r b i t
+o r
+n o t ,
+w o r k
+i n
+s y n e r g i e s
+i n
+t h e
+s a f e g u a r d i n g
+o f
+b o t h
+r i g h t s
+t o
+g u a r a n t e e
+t h e m .
+○
+C o o r d i n a t i o n
+w i t h i n
+t h e
+U N
+i t s e l f
+o n
+w h o
+i s
+h a n d l i n g
+t h e
+t o p i c s
+( m u l t i p l e
+a g e n c i e s
+h a n d l i n g
+s i m i l a r
+i s s u e s
+d o e s
+n o t
+h e l p
+c o o r d i n a t i o n ) .
+●
+D a t a
+l i t e r a c y
+( l e a r n i n g
+a n d
+t r a i n i n g )
+○
+E s t a b l i s h
+r e l a t i o n a l
+m e c h a n i s m s
+t o
+f a c i l i t a t e
+c o l l a b o r a t i o n
+b e t w e e n
+i n d i v i d u a l s
+a n d
+o r g a n i z a t i o n s
+i n v o l v e d
+t h r o u g h
+c o m m u n i c a t i o n ,
+t r a i n i n g ,
+a n d
+c o o r d i n a t i o n .
+T h e r e ’ s
+a
+n e e d
+f o r
+d a t a
+l i t e r a c y
+i n i t i a t i v e s .
+C r e a t e
+a
+s h a r e d
+u n d e r s t a n d i n g
+a n d
+a
+s h a r e d
+v o c a b u l a r y ,
+h a v e
+a
+c l e a r
+a n s w e r
+w i t h
+e x a m p l e s
+o n
+t h e
+b e n e ﬁ t s
+s u c h
+a
+b a l a n c e
+c a n
+b r i n g .
+●
+C o l l a b o r a t i o n
+a n d
+e n g a g e m e n t
+( n e t w o r k
+b u i l d i n g )
+○
+C o m m u n i t y
+e n g a g e m e n t
+a n d
+p a r t i c i p a t o r y
+d a t a
+g o v e r n a n c e
+s t r u c t u r e s
+a n d
+p r o c e s s e s .
+G u i d e l i n e s
+f o r
+n a t i o n a l
+i m p l e m e n t a t i o n
+o f
+e m p o w e r i n g
+a n d
+p e o p l e - f o c u s e d
+d a t a
+r e g u l a t o r y
+f r a m e w o r k s .
+T h e r e ’ s
+a
+n e e d
+t o
+i n v o l v e
+t h e
+p u b l i c .
+W e
+s h o u l d
+d e v e l o p
+a n d
+i m p l e m e n t
+c i t i z e n
+a w a r e n e s s
+s t r a t e g i e s .
+A
+g o o d
+i d e a
+w o u l d
+b e
+t o
+c o o r d i n a t e
+e v e n t s
+t h a t
+b r i n g
+t o g e t h e r
+t h e
+c o m m u n i t i e s
+o f
+p r a c t i c e
+a n d
+a u t h o r i t i e s
+t h a t
+c a r r y
+o u t
+t h e s e
+a g e n d a s ,
+i n
+g e n e r a l
+t h e r e
+a r e
+c o n v e r s a t i o n s
+i n
+s i l o s .
+○
+W o r k
+o n
+p i l o t s
+t h a t
+c a n
+d e m o n s t r a t e
+t h e
+v a l u e
+o f
+d a t a
+u s e .
+●
+R e g u l a t o r y
+f r a m e w o r k
+○
+U s e r
+r i g h t s
+c l a r i t y
+a n d
+p o l i c i e s
+t h a t
+f o l l o w
+t h e s e .
+T h e r e ’ s
+a
+n e e d
+f o r
+i n f o r m a t i o n
+o n
+r i g h t s
+i n
+m o r e
+u s e r - f r i e n d l y
+f o r m a t s .
+○
+R e g u l a t o r y
+h a r m o n i z a t i o n
+a n d
+b a l a n c e .
+I t
+i s
+i m p o r t a n t
+t o
+u n d e r s t a n d
+t h e
+c u r r e n t
+r e g u l a t i o n s
+a n d
+h o w
+t h e y
+d i a l o g u e
+w i t h
+e a c h
+o t h e r ,
+b o t h
+l o c a l l y ,
+n a t i o n a l l y ,
+a n d
+i n t e r n a t i o n a l l y ,
+i n
+o r d e r
+t o
+m a k e
+e ﬀ e c t i v e
+a n d
+b a l a n c e d
+r i g h t s
+w i t h o u t
+d e t r i m e n t
+t o
+a n y
+o f
+t h e m .
+T h e
+l e g a l
+s y s t e m
+m u s t
+b e
+c o h e r e n t
+a n d
+h a r m o n i o u s .
+P a r t i c i p a n t s
+2 9
+h t t p s : / / t r a i n i n g . l m s . o p e n n o r t h . c a / c a t a l o g / i n f o / i d : 1 7 6
+9
+
+i d e n t i ﬁ e d
+a
+n e e d
+f o r
+d a t a
+p r o t e c t i o n
+l a w
+i n
+c o u n t r i e s
+t h a t
+d o
+n o t
+h a v e
+t h e m :
+t h e
+G l o b a l
+D i g i t a l
+C o m p a c t
+c a n
+r e c o m m e n d
+t h e
+a d o p t i o n
+o f
+t h e s e
+l a w s .
+D a t a
+P r o t e c t i o n
+l a w s
+a n d
+A c c e s s
+t o
+I n f o r m a t i o n
+l a w s
+( o r
+O p e n
+D a t a
+p o l i c i e s )
+m u s t
+d i a l o g u e
+w i t h
+e a c h
+o t h e r .
+T h e y
+s p e c i f y
+w h a t
+i n f o r m a t i o n
+i s
+p e r s o n a l
+a n d
+c o n ﬁ d e n t i a l ,
+a n d
+p r o v i d e
+a l t e r n a t i v e s
+f o r
+i t s
+p u b l i c a t i o n
+w i t h
+d i ﬀ e r e n t
+t e c h n i q u e s .
+A
+g o o d
+e x a m p l e
+i s
+t h e
+M o d e l
+L a w
+o n
+A c c e s s
+t o
+I n f o r m a t i o n
+2 . 0
+o f
+t h e
+O r g a n i z a t i o n
+o f
+A m e r i c a n
+S t a t e s
+3 0
+,
+w h i c h
+c o n t e m p l a t e s
+c o n ﬁ d e n t i a l
+i n f o r m a t i o n
+a n d
+p e r s o n a l
+d a t a ,
+a n d
+h o w
+i n f o r m a t i o n
+c a n
+b e
+p r o c e s s e d
+o r
+s h a r e d
+p a r t i a l l y
+w i t h
+c o n s e n t .
+T h e
+G D P R ,
+i n
+t h e
+s a m e
+w a y ,
+p o i n t s
+t h a t
+p u b l i c
+a c c e s s
+t o
+o ﬃ c i a l
+d o c u m e n t s
+m u s t
+b e
+r e c o n c i l e d
+w i t h
+t h e
+r i g h t
+t o
+t h e
+p r o t e c t i o n
+o f
+p e r s o n a l
+d a t a .
+A n o t h e r
+r e ﬂ e c t i o n
+b r i n g s
+t o
+t h e
+t a b l e
+t h a t
+w e
+c a n n o t
+" g u a r a n t e e "
+t h e
+b a l a n c e
+a n d
+s h o u l d n ' t
+a i m
+t o ,
+t h a t ' s
+s e t t i n g
+o u r s e l v e s
+u p
+f o r
+f a i l u r e .
+T h i s
+i s
+a
+d y n a m i c
+e n v i r o n m e n t
+a n d
+s h o u l d
+b e
+t r e a t e d
+a s
+s u c h .
+I t
+i s
+i m p o r t a n t
+t o
+b e
+a w a r e
+o f
+t h e
+c o n t e x t
+a n d
+a d a p t
+t h e
+s t r a t e g i e s
+t o
+i t .
+I t
+d o e s n ’ t
+m e a n
+t h a t
+w e
+a r e
+g o i n g
+t o
+l e a v e
+t h e
+w i n d o w
+o p e n
+t o
+f a i l u r e s
+t h a t
+h a r m s
+r i g h t s ,
+b u t
+w e
+h a v e
+t o
+b e
+a w a r e
+t h a t
+t h e
+c o n t e x t
+c h a n g e s
+e v e r y
+t i m e ,
+a n d
+t h a t
+o u r
+p r o c e s s
+a n d
+s t r a t e g i e s
+s h o u l d
+b e
+c o n s i d e r e d
+“ u n ﬁ n i s h e d ” ,
+s o
+t h a t
+w e
+c a n
+r e t h i n k
+a n d
+a d a p t
+t h e m
+t o
+w o r k
+b e t t e r
+a n d
+m o r e
+e ﬀ e c t i v e l y
+i n
+t h e
+h u m a n
+r i g h t s
+d e f e n s e .
+I n
+a d d i t i o n ,
+o t h e r
+p a r t i c i p a n t s
+s u g g e s t
+t h a t
+i t
+i s
+i m p o r t a n t
+t o
+t h i n k
+t h a t
+i n
+p a r a l l e l
+t o
+t h e s e
+t o p i c s ,
+w e
+h a v e
+t o
+c o n t i n u e
+r a i s i n g
+t h e
+i s s u e
+o f
+c o n n e c t i v i t y
+a n d
+d i g i t a l
+i n c l u s i o n .
+A d d i t i o n a l
+i d e a s
+A l t h o u g h
+t h e
+c o n t r i b u t i o n
+t o
+t h e
+P a c t
+i s
+m a i n l y
+d i v i d e d
+i n t o
+p r i n c i p l e s
+a n d
+a c t i o n s ,
+i n
+t h e
+r e s e a r c h
+a n d
+c o n s u l t a t i o n
+w e
+h a v e
+w o r k e d
+m o r e
+b r o a d l y
+t o
+c o n t e x t u a l i z e
+a n d
+b e t t e r
+u n d e r s t a n d
+t h e
+b a l a n c e
+b e t w e e n
+t h e
+i n s t i t u t e s .
+M o r e
+i d e a s
+o n
+t h e
+t o p i c s
+a r e
+s h a r e d
+i n
+t h i s
+s e c t i o n .
+V a l u e
+D u r i n g
+t h e
+c o n s u l t a t i o n
+s e s s i o n s ,
+w e
+r e ﬂ e c t e d
+o n
+t h e
+v a l u e
+o f
+t h e
+i n s t i t u t e s .
+b y
+c o l l e c t i v e l y
+a n s w e r i n g
+t h e
+q u e s t i o n :
+W h y
+s h o u l d
+a c c e s s
+t o
+i n f o r m a t i o n
+a n d
+o p e n
+d a t a
+b e
+i n c l u d e d
+i n
+a
+g l o b a l
+d i g i t a l
+s t r a t e g y ?
+B e l o w
+w e
+s h a r e
+t h e
+i d e a s
+w e
+w o r k e d
+o n :
+●
+D e m o c r a c y
+s t r e n g t h e n i n g
+○
+E n a b l e s
+t h e
+d e s i g n ,
+e v a l u a t i o n
+a n d
+m o n i t o r i n g
+o f
+p o l i c i e s ,
+I t
+e n s u r e s
+a c c o u n t a b i l i t y .
+A c c e s s
+t o
+p u b l i c
+i n f o r m a t i o n
+i s
+a
+f u n d a m e n t a l
+p i l l a r
+o f
+a
+d e m o c r a t i c
+s y s t e m .
+○
+T h e s e
+r i g h t s
+a r e
+p a r t
+o f
+t h e
+d i g i t a l
+e c o s y s t e m
+a n d
+a r e
+p a r t
+o f
+t h e
+d i ﬀ e r e n t
+d e m o c r a c i e s ,
+t h e r e f o r e
+i t
+r e q u i r e s
+g l o b a l
+p r o t e c t i o n
+w h e n
+d e v e l o p i n g
+o n
+t h e
+i n t e r n e t .
+○
+T h e y
+a r e
+k e y
+i n s t i t u t i o n a l
+a x e s
+t o
+e n a b l e
+t h e
+r i g h t
+t o
+k n o w .
+○
+T h e y
+n u r t u r e
+t r u s t
+b e t w e e n
+t h e
+s t a t e
+a n d
+c i t i z e n s .
+○
+I t
+h e l p s
+t o
+ﬁ g h t
+d i s i n f o r m a t i o n .
+○
+D a t a
+a v a i l a b i l i t y
+a n d
+a c c o u n t a b i l i t y
+a r e
+c r i t i c a l
+t o
+t h e
+s u c c e s s
+o f
+a
+d i g i t a l
+s t r a t e g y .
+A n y
+" g l o b a l
+d i g i t a l
+s t r a t e g y "
+s h o u l d
+b e
+r e l a t e d
+t o
+t h e
+" d a t a ﬁ c a t i o n "
+p r o c e s s
+o f
+s o c i e t y ,
+3 0
+h t t p s : / / w w w . o a s . o r g / e s / s l a / d d i / d o c s / p u b l i c a c i o n _ L e y _ M o d e l o _ I n t e r a m e r i c a n a _ 2 _ 0 _ s o b r e _ A c c e s o 
+_ I n f o r m a c i o n _ P u b l i c a . p d f
+1 0
+
+w h i c h
+i n c l u d e s
+p u b l i c
+o p e n
+d a t a .
+P u b l i c
+d a t a
+f e e d s
+t h i s
+p r o c e s s
+a n d
+t h e
+p u b l i c - p r i v a t e
+ﬂ o w ,
+w h i c h
+s u p p o r t s / d r i v e s / p r o m o t e s / e x p l o i t s
+t h e
+d a t a ﬁ c a t i o n
+p r o c e s s .
+○
+T h e s e
+r i g h t s
+h e l p
+t o
+l e v e l
+t h e
+p l a y i n g
+ﬁ e l d
+a l l o w i n g
+l e s s
+p o w e r f u l
+a c t o r s
+t o
+a l s o
+a c c e s s
+q u a l i t y
+d a t a .
+D i ﬀ e r e n t
+g r o u p s
+i n
+s o c i e t y
+s h o u l d
+h a v e
+a n
+e q u a l
+i n f o r m a t i o n
+p o s i t i o n
+a n d
+a c t i v e l y
+w o r k
+o n
+i m p r o v i n g
+t h e
+q u a l i t y
+o f
+t h i s
+i n f o r m a t i o n
+f o r
+t h e
+b e n e ﬁ t
+o f
+s o c i e t y .
+A
+p a r t i c u l a r
+a t t e n t i o n
+t o
+m a r g i n a l i z e d
+a n d
+v u l n e r a b l e
+c o m m u n i t i e s
+s u c h
+a s
+w o m e n ,
+l g t b q i
+p l u s
+g r o u p s ,
+r u r a l
+c o m m u n i t i e s
+a n d
+o t h e r
+g r o u p s
+s h o u l d
+b e
+p r i o r i t i z e d
+i n
+a
+l e v e l
+p l a y i n g
+ﬁ e l d
+s t r a t e g y
+p r o m o t e d
+b y
+t h e
+S t a t e .
+○
+I m p o r t a n t
+t o
+i n f o r m
+t h e
+d e c i s i o n - m a k i n g
+p r o c e s s e s .
+○
+T h e y
+a l l o w
+s t r e n g t h e n i n g
+c i v i l
+s o c i e t y
+i n
+d i s c u s s i o n s
+o f
+p u b l i c
+a ﬀ a i r s .
+○
+I t
+i s
+i m p o r t a n t
+t o
+u n d e r s t a n d
+t h e
+d i g i t a l
+c o m m o n s
+a s
+a
+p u b l i c
+g o o d .
+○
+T h e
+R i g h t
+t o
+a c c e s s
+i n f o r m a t i o n
+h a s
+a
+d i g i t a l
+w a y
+o f
+i m p l e m e n t i n g
+i t
+s o
+t o
+h a v e
+i t
+a s
+a
+p a r t
+o f
+a
+G l o b a l
+D i g i t a l
+S t r a t e g y
+i t
+i s
+a l s o
+a
+w a y
+t o
+h e l p
+g u a r a n t e e
+t h a t
+R i g h t .
+●
+D a t a
+g o v e r n a n c e
+○
+I t
+i s
+i m p o r t a n t
+b e c a u s e
+t h i s
+a n d
+o t h e r
+I n t e r n e t
+g o v e r n a n c e
+p r o c e s s e s
+( g l o b a l
+a n d
+n a t i o n a l )
+m u s t
+b e
+t r a n s p a r e n t
+a n d
+p a r t i c i p a t o r y .
+O p e n
+d a t a
+i s
+f u n d a m e n t a l
+t o
+s t r u c t u r e
+p u b l i c
+d a t a
+g o v e r n a n c e .
+●
+C o l l a b o r a t i o n
+a n d
+e n g a g e m e n t
+( n e t w o r k
+b u i l d i n g )
+○
+T o
+a c c e l e r a t e
+k n o w l e d g e
+t r a n s f e r .
+I t
+e n c o u r a g e s
+c o l l a b o r a t i o n
+a c r o s s
+m u l t i
+s e c t o r a l
+o r g a n i z a t i o n s
+a n d
+f a c i l i t a t e s
+n e w
+ﬁ n d i n g s .
+○
+U n d e r s t a n d i n g
+w h a t
+d a t a / i n f o r m a t i o n
+p e o p l e
+w a n t
+c a n
+h e l p
+i n f o r m
+d e s i g n .
+●
+I n n o v a t i o n
+○
+O p e n
+d a t a
+a l l o w s
+d a t a
+a n d
+i n f o r m a t i o n
+m a d e
+w i t h
+p u b l i c
+m o n e y
+t o
+r e v e r t
+t o
+s o c i e t y
+t o
+b e
+a b l e
+t o
+u s e
+i t
+a s
+b e s t
+a s
+i s
+c o n v e n i e n t .
+○
+I m p r o v e s
+t h e
+d e l i v e r y
+o f
+g o o d s
+a n d
+s e r v i c e s .
+A c t o r s
+D u r i n g
+t h e
+c o n s u l t a t i o n
+s e s s i o n s ,
+w e
+w o r k e d
+i d e n t i f y i n g
+k e y
+a c t o r s .
+b y
+c o l l e c t i v e l y
+a n s w e r i n g
+t h e
+q u e s t i o n :
+W h i c h
+a c t o r s
+s h o u l d
+n o t
+b e
+m i s s i n g
+i n
+t h e
+c o n v e r s a t i o n
+r e g a r d i n g
+t h e
+b a l a n c e
+o f
+O p e n
+D a t a
+a n d
+t h e
+R i g h t
+t o
+P r i v a c y ?
+B e l o w
+w e
+s h a r e
+a c t o r s
+w e
+a g r e e d
+o n :
+●
+C i v i l
+s o c i e t y / c o m m u n i t y
+g r o u p s .
+I t
+w o u l d
+b e
+i m p o r t a n t
+t o
+c o u n t
+w i t h
+t h e
+p a r t i c i p a t i o n
+o f
+o r g a n i z a t i o n s
+t h a t
+a r e
+f o c u s e d
+o n
+p a r t i c u l a r
+s e c t o r s
+( e . g .
+h e a l t h ,
+e d u c a t i o n ) ,
+n o t
+j u s t
+d a t a .
+●
+R e s e a r c h
+c o m m u n i t y
+a n d
+a c a d e m i c
+e x p e r t s
+a c r o s s
+t h e
+s o c i a l
+s c i e n c e s
+a n d
+h u m a n i t i e s .
+●
+P u b l i c
+s e c t o r
+o ﬃ c i a l s
+c o l l e c t i n g
+a n d
+s h a r i n g
+d a t a .
+I n
+p a r t i c u l a r :
+D a t a
+p r o t e c t i o n
+o ﬃ c e r s
+a n d
+I n f o r m a t i o n
+c o m m i s s i o n e r s ;
+S t a t i s t i c a l
+o ﬃ c e s ;
+O v e r s i g h t
+b o d i e s .
+●
+P r i v a t e
+s e c t o r ,
+s p e c i a l l y
+b i g
+t e c h s
+a n d
+s t a r t u p s .
+●
+D a t a
+j o u r n a l i s t s .
+●
+J u d g e s
+s p e c i a l i z e d
+i n
+h a b e a s
+d a t a
+a n d
+s i m i l a r
+p r o c e s s e s .
+●
+U N
+a g e n c i e s
+h a n d l i n g
+t h e
+a g e n d a
+3 1
+( e g .
+U N E S C O ,
+O C H C R ,
+U N
+s t a t s ,
+I T U
+a n d
+m o r e
+s e c t o r i a l
+c o n v e r s a t i o n s
+w i t h
+U N I C E F ,
+U N - H a b i t a t ,
+U N
+W o m e n ,
+W H O ,
+W F P ,
+U N D P ) .
+3 1
+T h e r e ’ s
+a
+m a p p i n g
+o f
+U N
+s t r a t e g i e s / p o l i c i e s
+i n
+d i g i t a l
+r i g h t s
+i n
+t h e
+ﬁ r s t
+c h a p t e r
+o f
+t h i s
+g u i d e : 
+h t t p s : / / u n h a b i t a t . o r g / m a i n s t r e a m i n g - h u m a n - r i g h t s - i n - t h e - d i g i t a l - t r a n s f o r m a t i o n - o f - c i t i e s - a - g u i d e - f o 
+r - l o c a l - g o v e r n e m e n t s
+1 1
+
+I n
+a d d i t i o n ,
+t h e
+p a r t i c i p a n t s
+r e ﬂ e c t
+t h a t
+i t ' s
+n o t
+e n o u g h
+t o
+j u s t
+p a s s i v e l y
+o p e n
+u p
+t h e
+c o n v e r s a t i o n .
+M a r g i n a l i z e d
+c o m m u n i t i e s
+d e s e r v e
+p r o a c t i v e
+e n g a g e m e n t .
+A n o t h e r
+i n t e r e s t i n g
+r e ﬂ e c t i o n
+m e n t i o n s
+t h a t
+t h e
+d i s c u s s i o n
+I t ' s
+a l s o
+a b o u t
+h o w
+t o
+b u i l d
+t h e
+u n d e r s t a n d i n g
+a n d
+t h e
+o p p o r t u n i t i e s
+s o
+p e o p l e
+c a n
+j o i n
+t h e
+c o n v e r s a t i o n .
+C h a l l e n g e s
+D u r i n g
+t h e
+c o n s u l t a t i o n
+s e s s i o n s ,
+w e
+w o r k e d
+t o
+u n d e r s t a n d
+t h e
+c h a l l e n g e s .
+b y
+c o l l e c t i v e l y
+a n s w e r i n g
+t h e
+q u e s t i o n :
+W h a t
+a r e
+t h e
+c h a l l e n g e s
+t o
+a c h i e v e
+t h i s
+b a l a n c e
+b e t w e e n
+o p e n n e s s
+a n d
+r e s p e c t
+f o r
+p r i v a c y ?
+B e l o w
+w e
+s h a r e
+t h e
+c h a l l e n g e s
+w e
+i d e n t i ﬁ e d :
+●
+D e m o c r a c y
+s t r e n g t h e n i n g
+○
+T h e
+t w o
+p o l e s
+t h a t
+g e n e r a t e
+t e n s i o n
+h a v e
+l e g i t i m a t e
+i n t e r e s t s
+( p r o t e c t i n g
+p r i v a c y
+/
+g e n e r a t i n g
+m o r e
+u s e f u l
+i n f o r m a t i o n ) .
+A
+ﬁ r s t
+c h a l l e n g e
+i s
+t o
+b e
+a w a r e
+o f
+t h a t .
+○
+C i t i z e n s '
+t r u s t
+i n
+g o v e r n m e n t s
+m a y
+d e t e r i o r a t e
+i f
+t h e i r
+i n f o r m a t i o n
+i s
+n o t
+u s e d
+a p p r o p r i a t e l y .
+●
+T e c h n i c a l
+w o r k
+○
+W o r k i n g
+w i t h
+s t a k e h o l d e r s '
+d i ﬀ e r e n t i a l
+i n t e r s e c t i o n a l
+r i s k
+a s s e s s m e n t s ,
+i . e .
+n o t
+a s s u m i n g
+t h a t
+a l l
+s t a k e h o l d e r s
+w i l l
+h a v e
+t h e
+s a m e
+r i s k
+p r o ﬁ l e s .
+P I I
+l e g i s l a t i o n
+t e n d s
+t o
+f a i l
+t o
+g r a s p
+t h i s
+d i ﬀ e r e n t i a l i t y ,
+e . g .
+a n o n y m o u s
+m o b i l i t y
+d a t a
+i s
+s t i l l
+a
+r i s k
+t o
+p e r s e c u t e d
+m i n o r i t i e s .
+○
+S o m e
+a c c o u n t a b i l i t y / t r a n s p a r e n c y
+d a t a
+( p u b l i c
+s e c t o r
+s a l a r i e s ,
+b e n e ﬁ c i a l
+o w n e r s h i p
+r e g i s t e r s )
+i n v o l v e
+d a t a
+a b o u t
+i n d i v i d u a l s .
+T h e r e ’ s
+a
+n e e d
+t o
+e x p l o r e
+h o w
+w e
+c a n
+w o r k
+a n d
+a c c e s s
+t h i s
+d a t a
+w i t h o u t
+c o m p r o m i s i n g
+p e r s o n a l
+d a t a
+p r o t e c t i o n .
+T h e r e
+a r e
+d i ﬀ e r e n t
+t e c h n i q u e s
+t h a t
+c a n
+h e l p
+u s .
+○
+T h e
+l a c k
+o f
+a n a l y s i s
+o f
+t h e
+i m p a c t
+o n
+r i g h t s
+w h e n
+i n n o v a t i o n
+p r o j e c t s
+o r
+t h e
+i n c o r p o r a t i o n
+o f
+t e c h n o l o g y
+i n
+t h e
+p u b l i c
+s e r v i c e
+a r e
+i m p l e m e n t e d .
+○
+D e p e n d i n g
+o n
+t h e
+c o n t e x t
+a n d
+t h e
+g r a n u l a r i t y
+o f
+t h e
+d a t a ,
+t h e r e
+a r e
+s i t u a t i o n s
+i n
+w h i c h
+i t s
+a n o n y m i z a t i o n
+b e c o m e s
+i m p o s s i b l e .
+T h e r e ’ s
+a
+n e e d
+t o
+ﬁ n d
+s o l u t i o n s
+f o r
+t h e s e
+c a s e s .
+●
+D a t a
+g o v e r n a n c e
+○
+F i n d i n g
+t h e
+r i g h t
+d a t a
+s t e w a r d s h i p
+m o d e l
+t h a t
+c a n
+h e l p
+b a l a n c e .
+○
+T h e r e
+m a y
+b e
+a
+D a t a
+P r o t e c t i o n
+O ﬃ c e r
+a n d
+a n
+I n f o r m a t i o n
+C o m m i s s i o n e r
+a t
+o n e
+d i g i t a l
+p o l i c y - m a k i n g
+d e p a r t m e n t
+i n
+g o v e r n m e n t s ;
+w e
+n e e d
+t o
+c r e a t e
+a
+t o o l
+t o
+m a k e
+t h e m
+c o l l a b o r a t e / d i s c u s s .
+O v e r s i g h t
+b o d i e s
+m u s t
+w o r k
+i n
+s y n e r g i e s .
+A n d
+m u s t
+b e
+i n d e p e n d e n t .
+●
+D a t a
+l i t e r a c y
+( l e a r n i n g
+a n d
+t r a i n i n g )
+○
+D a t a
+l i t e r a c y
+o f
+p e o p l e
+w h o s e
+d a t a
+a r e
+b e i n g
+u s e d .
+C o m m u n i t i e s
+i n
+s i l o s
+n o t
+s e n s i t i z e d
+t o
+e i t h e r
+o p e n n e s s
+o r
+p r i v a c y
+( o p e n
+o p t i m i s t s
+v s .
+p r i v a c y
+f a t a l i s t s ) .
+○
+J i g s a w
+i d e n t i ﬁ c a t i o n
+3 2
+.
+●
+C o l l a b o r a t i o n
+a n d
+e n g a g e m e n t
+( n e t w o r k
+b u i l d i n g )
+○
+I n d i v i d u a l i s t i c
+c o n c e p t i o n s
+o f
+d a t a
+c a n
+i g n o r e
+a )
+o t h e r
+p e o p l e ' s
+p r i v a c y
+a n d
+b )
+c o l l e c t i v e
+h a r m s / b e n e ﬁ t s .
+3 2
+h t t p s : / / w w w . i g i - g l o b a l . c o m / d i c t i o n a r y / j i g s a w - i d e n t i ﬁ c a t i o n / 7 4 7 2 2
+1 2
+
+●
+R e g u l a t o r y
+f r a m e w o r k
+○
+L a c k
+o f
+r e g u l a t o r y
+a l i g n m e n t
+a n d
+p u b l i c
+p o l i c i e s
+f o r
+o p e n n e s s
+a n d
+d a t a
+p r o t e c t i o n
+( a n d
+o t h e r
+r e l a t e d
+t o p i c s
+s u c h
+a s
+c y b e r s e c u r i t y
+a n d
+a r t i ﬁ c i a l
+i n t e l l i g e n c e ) .
+○
+M i s i n t e r p r e t a t i o n
+a n d
+a p p l i c a t i o n
+o f
+s t a n d a r d s
+a n d
+r e g u l a t i o n s
+o n
+t h e
+p r o t e c t i o n
+o f
+p e r s o n a l
+d a t a
+o r
+m a s s i v e
+c o p y
+p a s t e
+o f
+r e g u l a t i o n s
+f r o m
+o t h e r
+c o n t e x t s .
+C o n t e x t
+m a t t e r s .
+○
+P r i v a c y
+i s
+t o o
+e a s i l y
+u s e d
+a s
+a n
+e x c u s e
+n o t
+t o
+b e
+o p e n .
+T h e r e ’ s
+a
+m i s i n t e r p r e t a t i o n
+o f
+n o r m s .
+○
+T h e
+a b s e n c e
+o f
+r e g u l a t i o n
+o n
+t h e
+u s e
+o f
+p u b l i c
+d a t a
+( n o t
+o p e n )
+a s
+s o u r c e s
+f o r
+O S I N T
+3 3
+a n d
+t h e
+l i m i t s
+o f
+t h i s
+t y p e
+o f
+r e s e a r c h
+f o r
+S t a t e s .
+○
+G o v e r n m e n t
+a g e n c i e s
+t h a t
+h a v e
+d a t a
+d o
+n o t
+f e e l
+t h e
+n e e d
+t o
+s h a r e
+i t
+i f
+t h e r e
+i s
+n o
+r e g u l a t o r y
+f r a m e w o r k
+t o
+m a n d a t e
+i t .
+A n o t h e r
+i n t e r e s t i n g
+c o n t r i b u t i o n
+h i g h l i g h t s
+t h a t
+t h e r e
+i s
+n o
+s i l v e r
+b u l l e t
+o r
+o n e - s i z e - ﬁ t s - a l l
+m o d e l ,
+c o m m u n i t i e s
+m u s t
+b e
+a b l e
+t o
+d e ﬁ n e
+t h i s
+b a l a n c e
+f o r
+t h e m s e l v e s .
+A n o t h e r
+p a r t i c i p a n t
+s u g g e s t s
+t h a t
+i t
+i s
+i n t e r e s t i n g
+t o
+c o n s i d e r
+t h a t
+t h e
+m a i n
+c h a l l e n g e
+i s
+a b o u t
+p o w e r .
+T h e
+p o w e r f u l
+n e e d s
+g r e a t e r
+o p e n n e s s
+( s o
+w e
+h a v e
+a c c o u n t a b i l i t y )
+a n d
+t h e
+w e a k e s t
+n e e d
+m o r e
+p r i v a c y
+( t o
+a v o i d
+e x p l o i t a t i o n )
+T h e r e ’ s
+a n o t h e r
+c h a l l e n g e
+i d e n t i ﬁ e d
+t h a t
+h a s
+t o
+d o
+w i t h
+a p a t h y
+a n d
+l a c k
+o f
+i n t e r e s t
+f r o m
+c i t i z e n s h i p ,
+o f t e n
+g e n e r a t e d
+b y
+m i s t r u s t .
+F i n a l
+r e m a r k s
+I n
+t h i s
+r e p o r t ,
+a f t e r
+d o i n g
+r e s e a r c h
+a n d
+a
+c o n s u l t a t i o n
+p r o c e s s
+w i t h
+k e y
+a c t o r s ,
+w e
+p r o p o s e d
+c o r e
+p r i n c i p l e s
+a n d
+k e y
+c o m m i t m e n t s
+t h a t
+s h o u l d
+b e
+t a k e n
+i n t o
+c o n s i d e r a t i o n
+t o
+i n c o r p o r a t e
+O p e n
+D a t a
+a n d
+t h e
+R i g h t
+t o
+P r i v a c y
+i n
+a
+G l o b a l
+D i g i t a l
+S t r a t e g y .
+I n
+a d d i t i o n ,
+w e
+e x p l o r e d
+i d e a s
+o n
+t h e
+v a l u e
+o f
+A c c e s s
+t o
+I n f o r m a t i o n
+a n d
+O p e n
+D a t a .
+t h e
+a c t o r s
+t h a t
+s h o u l d
+n o t
+b e
+m i s s i n g
+i n
+t h e
+c o n v e r s a t i o n
+r e g a r d i n g
+t h e
+b a l a n c e
+o f
+O p e n
+D a t a
+a n d
+t h e
+R i g h t
+t o
+P r i v a c y ,
+a n d
+t h e
+c h a l l e n g e s
+w e
+a r e
+f a c i n g .
+F o r
+t h e
+r e a s o n s
+e x p l a i n e d
+a b o v e ,
+w e
+b e l i e v e
+t h a t
+O p e n
+D a t a
+a n d
+t h e
+R i g h t
+t o
+P r i v a c y
+a r e
+n o t
+o n l y
+c o m p l i m e n t a r y ,
+b u t
+m u s t
+b e
+u n d e r s t o o d
+i n
+h a r m o n y
+w h e n
+p r a c t i c e d ,
+i n
+o r d e r
+t o
+p r o t e c t
+f u n d a m e n t a l
+h u m a n
+r i g h t s .
+T h e r e
+a r e
+d i ﬀ e r e n t
+r e g u l a t i o n s ,
+g u i d e s
+a n d
+p r i n c i p l e s
+t h a t
+h e l p
+u s
+t o
+b a l a n c e
+t h i s
+s i t u a t i o n
+a n d
+p u s h
+u s
+t o
+a c h i e v e
+c o h e r e n c e
+i n
+t h e
+d e v e l o p m e n t
+o f
+p u b l i c
+p o l i c i e s .
+W e
+h o p e
+t h i s
+c o n t r i b u t i o n
+w i l l
+n u r t u r e
+t h e
+G l o b a l
+D i g i t a l
+C o m p a c t ,
+w i t h
+t h e
+o b j e c t i v e
+t o
+a c h i e v e
+a n
+o p e n ,
+f r e e
+a n d
+s e c u r e
+d i g i t a l
+f u t u r e
+f o r
+a l l .
+A s
+a
+f o l l o w - u p
+t o
+t h i s
+p r o j e c t
+w e
+w i l l
+d e ﬁ n i t e l y
+b e
+k e e p i n g
+t h i s
+c o n v e r s a t i o n
+a l i v e
+s o
+t h a t
+w e
+c a n
+d e e p e n
+t h e
+e x p l o r a t i o n
+o f
+d a t a
+r i g h t s
+t o
+ﬁ n d
+t h e
+r i g h t
+b a l a n c e .
+A c k n o w l e d g m e n t s
+T h e
+f o l l o w i n g
+c o l l a b o r a t o r s
+j o i n e d
+u s
+f o r
+t h e
+d i s c u s s i o n
+s e s s i o n s .
+W e
+t h a n k
+t h e m
+f o r
+t h e i r
+p a r t i c i p a t i o n ,
+i n s i g h t ,
+a n d
+r e v i e w
+o f
+t h i s
+r e p o r t .
+3 3
+h t t p s : / / o s i n t f r a m e w o r k . c o m /
+1 3
+
+●
+O p e n
+D a t a
+I n s t i t u t e :
+G a v i n
+F r e e g u a r d
+●
+M y D a t a
+G l o b a l :
+C h r i s t o p h e r
+W i l s o n
+a n d
+V i i v i
+L ä h t e e n o j a
+●
+O p e n
+N o r t h :
+T h o m a s
+L i n d e r
+a n d
+M a r i e
+P l a m o n d o n
+●
+I n t e r n a t i o n a l
+D e v e l o p m e n t
+R e s e a r c h
+C e n t r e :
+F e r n a n d o
+P e r i n i
+●
+G l o b a l
+D a t a
+B a r o m e t e r :
+S i l v a n a
+F u m e g a
+●
+C i t i e s
+C o a l i t i o n
+f o r
+D i g i t a l
+R i g h t s :
+F l o r e n c i a
+S e r a l e
+a n d
+M i l o u
+J e n s e n
+●
+T h e
+E n g i n e
+R o o m :
+L e s e d i
+B e w l a y
+●
+I A D B :
+E v e l y n
+M o l i n a
+B o l a n o s
+●
+S o c i a l
+T I C :
+J u a n
+C a s a n u e v a
+●
+H i p e r d e r e c h o :
+D i l m a r
+V i l l e n a
+●
+F u n d a c i ó n
+I n t e r n e t
+B o l i v i a :
+W i l f r e d o
+J o r d a n
+●
+A s s o c i a t i o n
+f o r
+P r o g r e s s i v e
+C o m m u n i c a t i o n :
+P a u l a
+M a r t i n s
+●
+T E D I C :
+E d u a r d o
+C a r r i l l o
+a n d
+M a r i c a r m e n
+S e q u e r a
+●
+F u n d a c i ó n
+K a r i s m a :
+P i l a r
+S a e n z
+a n d
+J u a n
+d e
+B r i g a r d
+●
+C e n t r o
+d e
+E s t u d i o s
+e n
+L i b e r t a d
+d e
+E x p r e s i ó n
+y
+A c c e s o
+a
+l a
+I n f o r m a c i ó n :
+R a m i r o
+Á l v a r e z
+U g a r t e
+a n d
+L i n a
+V a z q u e z
+●
+A r t i c l e
+1 9 :
+M a r t h a
+T u d o n
+●
+O p e n
+D a t a
+C h a r t e r :
+M e r c e d e s
+d e
+L o s
+S a n t o s
+a n d
+N a t a l i a
+C a r ﬁ .
+R e f e r e n c e s
+A r t i c l e
+1 9
+( 2 0 1 7 ) .
+T h e
+G l o b a l
+P r i n c i p l e s
+o n
+P r o t e c t i o n
+o f
+F r e e d o m
+o f
+E x p r e s s i o n
+a n d
+P r i v a c y .
+R e t r i e v e d
+f r o m :
+h t t p s : / / w w w . a r t i c l e 1 9 . o r g / d a t a / ﬁ l e s / m e d i a l i b r a r y / 3 8 6 5 7 / E x p r e s s i o n - a n d - P r i v a c y - P r i n c i p l e s - 1 . p d f
+E l e c t r o n i c
+F r o n t i e r
+F o u n d a t i o n
+( 2 0 1 3 ) .
+N e c e s s a r y
+a n d
+P r o p o r t i o n a t e .
+P r i n c i p l e s
+o n
+t h e
+a p p l i c a t i o n
+o f
+h u m a n
+r i g h t s
+t o
+c o m m u n i c a t i o n s
+s u r v e i l l a n c e .
+R e t r i e v e d
+f r o m :
+h t t p s : / / n e c e s s a r y a n d p r o p o r t i o n a t e . o r g / e s / 1 3 - p r i n c i p l e s /
+G l o b a l
+I n d i g e n o u s
+D a t a
+A l l i a n c e
+( 2 0 2 2 ) .
+C A R E
+p r i n c i p l e s
+f o r
+i n d i g e n o u s
+d a t a
+g o v e r n a n c e .
+R e t r i e v e d
+f r o m :
+h t t p s : / / w w w . g i d a - g l o b a l . o r g / c a r e
+G o
+F A I R
+( 2 0 1 6 ) .
+F A I R
+G u i d i n g
+P r i n c i p l e s
+f o r
+s c i e n t i ﬁ c
+d a t a
+m a n a g e m e n t
+a n d
+s t e w a r d s h i p .
+R e t r i e v e d
+f r o m :
+h t t p s : / / w w w . g o - f a i r . o r g / f a i r - p r i n c i p l e s /
+G o v e r n m e n t
+D i g i t a l
+S e r v i c e s
+U K
+( 2 0 2 0 ) .
+D a t a
+E t h i c s
+F r a m e w o r k .
+R e t r i e v e d
+f r o m :
+h t t p s : / / a s s e t s . p u b l i s h i n g . s e r v i c e . g o v . u k / g o v e r n m e n t / u p l o a d s / s y s t e m / u p l o a d s / a t t a c h m e n t _ d a t a / ﬁ l
+e / 9 2 3 1 0 8 / D a t a _ E t h i c s _ F r a m e w o r k _ 2 0 2 0 . p d f
+H e a l t h
+D a t a
+R e s e a r c h
+U K .
+T r u s t e d
+r e s e a r c h
+e n v i r o n m e n t s .
+R e t r i e v e d
+f r o m :
+h t t p s : / / w w w . h d r u k . a c . u k / a c c e s s - t o - h e a l t h - d a t a / t r u s t e d - r e s e a r c h - e n v i r o n m e n t s /
+I n f o r m a t i o n
+C o m m i s s i o n e r ' s
+O ﬃ c e
+U K .
+T h e
+p u b l i c
+i n t e r e s t
+t e s t .
+R e t r i e v e d
+f r o m :
+h t t p s : / / i c o . o r g . u k / f o r - o r g a n i s a t i o n s / g u i d a n c e - i n d e x / f r e e d o m - o f - i n f o r m a t i o n - a n d - e n v i r o n m e n t a l - i n f
+o r m a t i o n - r e g u l a t i o n s / t h e - p u b l i c - i n t e r e s t - t e s t /
+M y D a t a
+( 2 0 1 7 ) .
+D e c l a r a t i o n
+o f
+M y D a t a
+P r i n c i p l e s .
+R e t r i e v e d
+f r o m :
+h t t p s : / / w w w . m y d a t a . o r g / p a r t i c i p a t e / d e c l a r a t i o n /
+1 4
+
+M y
+S o c i e t y
+( 2 0 2 2 ) .
+I m p r o v i n g
+o v e r s i g h t
+o f
+A c c e s s
+t o
+I n f o r m a t i o n .
+L e a r n i n g
+f r o m
+d i ﬀ e r e n t
+a p p r o a c h e s
+a c r o s s
+E u r o p e .
+R e t r i e v e d
+f r o m :
+h t t p s : / / r e s e a r c h . m y s o c i e t y . o r g / h t m l / i m p r o v i n g - o v e r s i g h t / i m p r o v i n g - o v e r s i g h t . p d f
+O E C D .
+G o o d
+P r a c t i c e
+P r i n c i p l e s
+f o r
+D a t a
+E t h i c s
+i n
+t h e
+P u b l i c
+S e c t o r .
+R e t r i e v e d
+f r o m :
+h t t p s : / / w w w . o e c d . o r g / d i g i t a l / d i g i t a l - g o v e r n m e n t / g o o d - p r a c t i c e - p r i n c i p l e s - f o r - d a t a - e t h i c s - i n - t h e - p
+u b l i c - s e c t o r . h t m
+O ﬃ c e
+f o r
+N a t i o n a l
+S t a t i s t i c s
+U K
+( 2 0 1 7 ) .
+T h e
+‘ F i v e
+S a f e s ’
+–
+D a t a
+P r i v a c y
+a t
+O N S .
+R e t r i e v e d
+f r o m :
+h t t p s : / / b l o g . o n s . g o v . u k / 2 0 1 7 / 0 1 / 2 7 / t h e - ﬁ v e - s a f e s - d a t a - p r i v a c y - a t - o n s /
+O H C H R
+( 2 0 1 3 ) .
+T h e
+r i g h t
+t o
+p r i v a c y
+i n
+t h e
+d i g i t a l
+a g e .
+R e t r i e v e d
+f r o m :
+h t t p s : / / w w w . o h c h r . o r g / e n / s t o r i e s / 2 0 1 3 / 1 0 / r i g h t - p r i v a c y - d i g i t a l - a g e
+O p e n
+D a t a
+C h a r t e r
+( 2 0 1 5 ) .
+I n t e r n a t i o n a l
+O p e n
+D a t a
+C h a r t e r .
+R e t r i e v e d
+f r o m :
+h t t p s : / / o p e n d a t a c h a r t e r . n e t / w p - c o n t e n t / u p l o a d s / 2 0 1 5 / 1 0 / o p e n d a t a c h a r t e r - c h a r t e r _ F . p d f
+O p e n
+D a t a
+I n s t i t u t e .
+T h e
+D a t a
+S p e c t r u m .
+R e t r i e v e d
+f r o m :
+h t t p s : / / w w w . t h e o d i . o r g / a b o u t - t h e - o d i / t h e - d a t a - s p e c t r u m /
+O p e n
+D a t a
+I n s t i t u t e
+( 2 0 1 9 ) .
+D a t a
+E t h i c s
+C a n v a s .
+R e t r i e v e d
+f r o m :
+h t t p s : / / t h e o d i . o r g / w p - c o n t e n t / u p l o a d s / 2 0 1 9 / 0 7 / O D I - D a t a - E t h i c s - C a n v a s - 2 0 1 9 - 0 5 . p d f
+O r g a n i z a t i o n
+o f
+A m e r i c a n
+S t a t e s
+( O A S )
+( 2 0 2 0 ) .
+I n t e r - A m e r i c a n
+M o d e l
+L a w
+2 . 0
+o n
+A c c e s s
+t o
+I n f o r m a t i o n .
+R e t r i e v e d
+f r o m :
+h t t p s : / / w w w . o a s . o r g / e s / s l a / d d i / d o c s / p u b l i c a c i o n _ L e y _ M o d e l o _ I n t e r a m e r i c a n a _ 2 _ 0 _ s o b r e _ A c c e s o
+_ I n f o r m a c i o n _ P u b l i c a . p d f
+U N
+H a b i t a t
+( 2 0 2 2 ) .
+M a i n s t r e a m i n g
+h u m a n
+r i g h t s
+i n
+t h e
+d i g i t a l
+t r a n s f o r m a t i o n
+o f
+c i t i e s
+–
+A
+g u i d e
+f o r
+l o c a l
+g o v e r n m e n t s .
+R e t r i e v e d
+f r o m :
+h t t p s : / / u n h a b i t a t . o r g / m a i n s t r e a m i n g - h u m a n - r i g h t s - i n - t h e - d i g i t a l - t r a n s f o r m a t i o n - o f - c i t i e s - a - g u i d e - f o
+r - l o c a l - g o v e r n e m e n t s
+U n i t e d
+N a t i o n s
+H u m a n
+R i g h t s
+C o m m i t t e e
+( 2 0 1 1 ) .
+G e n e r a l
+c o m m e n t s
+o n
+a r t i c l e
+1 9
+o f
+t h e
+U n i v e r s a l
+D e c l a r a t i o n
+o f
+H u m a n
+R i g h t s .
+R e t r i e v e d
+f r o m :
+h t t p s : / / w w w 2 . o h c h r . o r g / e n g l i s h / b o d i e s / h r c / d o c s / G C 3 4 . p d f
+U n i t e d
+N a t i o n s .
+R e p o r t
+o f
+t h e
+S e c r e t a r y - G e n e r a l
+( 2 0 2 1 ) .
+O u r
+c o m m o n
+a g e n d a .
+R e t r i e v e d
+f r o m :
+h t t p s : / / w w w . u n . o r g / e n / c o n t e n t / c o m m o n - a g e n d a - r e p o r t / a s s e t s / p d f / C o m m o n _ A g e n d a _ R e p o r t _ E n
+g l i s h . p d f
+1 5

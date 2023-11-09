@@ -1,0 +1,1213 @@
+ 
+ 
+ SBU - 
+DELIBER
+ATIVE 
+PROCES 
+ 
+GLOBAL DIGITAL COMPACT  
+FREEDOM ONLINE COALITION SUBMISSION  
+ 
+TABLE OF CONTENTS  
+1. Connect all people to the internet, including all schools  4 
+2. Avoid internet fragmentation  9 
+3. Protect data  11 
+4. Apply human rights online  12 
+4. Accountability for discrimination and misleading content  15 
+6. Regulation of artificial intelligence  17 
+ 
+ 
+ 
+I. Details  
+Please select whether you are answering this survey for yourself or on behalf of an entity or 
+organization. Note: If you are providing information on behalf of an entity or organization, it will be 
+understood to represent a submission from the entire entity or organization and will be reflected on 
+the public site accordingly.  
+● Individual  
+● Entity/Organization  
+ 
+Name of entity/organization - Freedom Online Coalition  
+ 
+Type of entity/organization -  
+● Academia/research institution/think tank   
+● Civil society or non -governmental organization         
+● Government   
+● International, regional or multilateral organization      
+● Media    
+● Private sector/Corporation   
+● Technical community    
+● Other (please specify)          
+ 
+Description of entity/organization:  
+ 
+The Freedom Online Coalition (FOC)  is an intergovernmental coalition that was established at the 
+inaugural Freedom Online Conference in The Hague, the Netherlands, December 2011. Since its 
+inception, the FOC has been committed to advancing internet freedom – free expression, 
+association, a ssembly, and privacy online – worldwide. The FOC believes that the human rights 
+that people have offline must also be protected online, and commits to working together, and with 
+all stakeholders who share these views, to support Internet freedom and protec t human rights 
+online worldwide.  
+ 
+FOC member states are committed to work together diplomatically to voice concern over measures 
+to restrict Internet Freedom, support those individuals whose human rights online are curtailed, and 
+ensure Internet freedom an d issues related to digital technologies are on the international policy 
+agenda as a way to drive concrete solutions and outcomes.  
+ 
+ 
+2 
+  Since 2011, the Coalition membership has grown to include 361 Member States, spanning from 
+Africa to Asia, Europe, the Amer icas, and the Middle East.  
+ 
+The Coalition has an annually rotating Chair. Each year, in consultation with other FOC member 
+states and the FOC Advisory Network, the incoming FOC Chair develops a Program of Action 
+which outlines the FOC’s vision, priorities and activities for the respective year. In 2023, the FOC is 
+chaired by the United States.  
+ 
+Entity/organization website - https://freedomonlinecoalition.com/   
+ 
+Geographic Scope of Activity - 
+● Global  
+● Regional  
+● Country  
+ 
+Contact information for submission  
+● Name  - Zora Gouhary  
+● Title - Senior Programme Lead, Support Unit  
+● Email Address - zora@gp -digital.org  
+● Email address (confirm) - zora@gp -digital.org  
+ 
+II. Process of consultation/preparation  
+Describe the process you followed to collect, consult, and prepare your input.  
+ 
+Canada, Freedom Online Coalition (FOC) Chair 2022, commissioned the FOC sub -entities, i .e. 
+issue -based multistakeholder working groups, to prepare submissions for input into the GDC. FOC 
+sub-entities, including the Silicon Valley Working Group, the Task Force on Artificial Intelligence 
+and Human Rights, the Task Force on Digital Equality and  the Task Force on Internet Shutdowns, 
+held consultations and developed separate submissions on specific areas identified in the GDC 
+survey, and relevant to the sub -entities’ focus.   
+ 
+Each sub -entity is composed of a number of FOC member states and FOC Ad visory Network 
+members - an independent group of non -governmental stakeholders advising the FOC 
+governments on priority issues. In addition, some of the groups, such as the Task Force on 
+Internet Shutdowns, are open to external non -governmental consultees who offer their expertise on 
+the issues at hand.  
+ 
+Following these consultations, the completed separate submissions were finalised and shared with 
+Canada, FOC Chair 2022, and the FOC Support Unit, which acts as the Coalition’s secretariat. The 
+received submissions were then compiled into one final submiss ion to the GDC survey.  
+ 
+What is the approximate number of entities  that were engaged through process of 
+consultation/preparation of input?  
+0-25 
+26-50 
+51-100 
+More than 100 (please specify)  
+ 
+What is the approximate number of people  engaged through process of consultation/preparation of 
+input?  
+1-4 
+5-25 
+26-50 
+51-100 
+101-500 
+ 
+1 Currently, the FOC consists of thirty -six members: Argentina, Australia, Austria, Canada, Chile, Costa Rica, the Czech 
+Republic, Denmark, Estonia, Finland, France, Georgia, Germany, Ghana, Ireland, Italy, Japan, Kenya, Latvia, Lithuania, 
+Luxembourg, the R epublic of Maldives, Mexico, Moldova, Mongolia, the Netherlands, New Zealand, Norway, Poland, Slovakia, 
+Spain, Sweden, Switzerland, Tunisia, the United Kingdom and the United States.  
+ 
+3 
+  501-1000  
+More than 1000 (please specify)  
+ 
+III. Inputs to the Global Digital Compact  
+There are seven areas of the Global Digital Compact mentioned in the Secretary -General’s 
+Common Agenda  on which you are invited to submit inputs. In addition, if there are any additional 
+areas that you feel should also be included in the Global Compact, please submit them under the 
+category of “Other Areas” below.   
+ 
+For each area, we ask that you submit y our views and inputs, organized along the following two 
+aspects:  
+a)  Core principles that all governments, companies, civil society organisations and other 
+stakeholders should adhere to  
+b)  Key commitments, pledges, or actions that in your view should be t aken by different 
+stakeholders – governments, private sector, civil society, etc. - in order to realize the above -
+mentioned principles (please be as specific and action -oriented as possible.)  
+  
+While submissions in this form are limited to 2500 characters per text box, you may also submit 
+any additional inputs or elaboration (submission to be made in PDF format) via email to 
+digitalcompact@un.org. Please note, however, that while your submission will be made available 
+online subsequently, it will not be par t of automated data visualization results which is based on 
+this form.  
+ 
+Please select the areas on which you would like to submit inputs  
+A. Connect all people to the internet, including all schools  
+B. Avoid internet fragmentation  
+C. Protect data  
+D. Apply human rights online  
+E. Accountability for discrimination and misleading content  
+F. Regulation of artificial intelligence  
+G. Digital commons as a global public good  
+H. Other areas  
+ 
+For each area that you selected previously, we ask that you submit your views and inputs, 
+organized along the following two aspects:  
+i)  Core principles that all governments, companies, civil society organisations and other 
+stakeholders should adhere to; and  
+ii)  Key commitments, pledges, or actions that in your view should be taken by different 
+stakeholders – governments, private sector, civil society, etc.  
+ 
+ 
+ 
+  
+ 
+4 
+  1. Connect all people to the internet, including all schools  
+CORE PRINCIPLES  
+ 
+● Digital inclusion  to ensure that societies can participate meaningfully and equitably in all 
+aspects of society, both online and offline.2  
+ 
+● Digital inclusion includes reliable and meaningful connectivity  and access, bridging digital 
+divides worldwide.3  
+ 
+KEY COMMITMENTS , PLEDGES, AND ACTIONS  
+      
+This section refers to key commitments, pledges, and calls to action outlined in several FOC joint 
+statements and underpinning documents:  
+ 
+The Ottawa Agenda: Recommendations for Freedom Online4 
+ 
+● Advance digital inclusion internationally to promote a rules -based, democratic, and inclusive 
+world where human rights and fundamental freedoms are upheld in online and digital 
+contexts, with the goal of ensuring everyone can fully enjoy their human rights  online.  
+ 
+● Advocate for a global, free, open, interoperable, secure and reliable Internet, to resist Internet 
+fragmentation and promote accountable, inclusive, and responsive democratic societies, at 
+priority forums, including the United Nations, while wor king towards overcoming digital 
+divides, advocating for ubiquitous, secure, affordable, equitable, and high -quality connectivity.  
+ 
+● Support policies, initiatives, education and research that increase digital literacy and empower 
+individuals to think critica lly about the information they are consuming and sharing, effectively 
+advocating for risk mitigation and to taking steps to keep themselves and others safe while 
+navigating diverse online spaces.  
+ 
+● Collaborate with domestic and international initiatives an d partnerships that advocate for safe 
+and equitable online spaces for everyone, elevating traditionally excluded voices, such as 
+youth, women and girls, as well as persons or groups in a vulnerable situation, such as, 
+Indigenous Peoples, LGBTI persons, rac ial and ethnic minorities, persons belonging to 
+national or ethnic, religious and linguistic minorities, persons with disabilities, and older 
+persons, through the UN and other international fora, with specific focus on closing the 
+gender digital divide and  preventing and responding to the exposure of online gender -based 
+violence, harassment and abuse.  
+ 
+ 
+10th Anniversary Helsinki Declaration5 
+ 
+● We will redouble our efforts in working together for free, open, interoperable, secure, and 
+reliable Internet worldwide through promoting at the UN and other international fora initiatives 
+and partnerships for achieving universal access to the Internet by 2030.  
+ 
+Joint Statement on Digital Inclusion6  
+ 
+2 Cited directly from the Freedom Online Coalition, The Ottawa Agenda: Recommendations for Freedom Online , 2022.   
+3 Cited directly from the Freedom Online Coalition, Program of Action , 2022.   
+4 In 2022, the FOC adopted the Ottawa Agenda , which provides a set of recommendations for freedom online to reflect the 
+evolution of the Coalition’s vision and scope of work since its i nception in 2011. The recommendations were developed with 
+input from FOC Members, Advisory Network representatives, and external stakeholders through domestic consultations in 
+Canada and regional consultations held in North America, Latin America, Europe, Middle East & North Africa, Sub -Saharan 
+Africa, and the Asia -Pacific.  
+5 Freedom Online Coalition, 10th Anniversary Helsinki Declaration , 2021.  
+6 In 2020, the FOC adopted a joint statement  on digital inclusion, which recognizes t he importance of meaningful digital 
+inclusion in enabling people to exercise their human rights more fully, but also acknowledges that digital inclusion poses bo th 
+collateral opportunities and risks. The statement builds on a number of other commitments to  promote digital equality, with 
+initiatives to overcome various digital divides having been launched by a plethora of stakeholders, from civil society 
+organisations to the private sector; governments; and various UN organisations tasked with working toward s the SDGs.  
+ 
+5 
+   
+● The conduct and support of good quality, independent research, on supply and demand side 
+challenges affecting digital inclusion and digital divides. Research activities should investigate 
+existing and emerging issues related to digital access that may nega tively affect digital 
+inclusion by deterring Internet use, such as human rights violations and abuses relating to 
+privacy, online abuse, censorship, surveillance and other cybersecurity methods that limit 
+individuals’ ability to exercise their human rights  and fundamental freedoms. Governments 
+should also encourage more efforts by the private sector to publish independent, research 
+based reviews on their data sets, conducted within an ethical, privacy -protective framework.  
+ 
+● Civil society organizations shou ld be supported in their efforts to address barriers and 
+bottlenecks to digital access, cybersecurity risks, and on how to develop policy that drives 
+positive outcomes related to the improved access and use of digital technologies. Moreover, 
+all stakeholde rs should be encouraged to share best practices on issues pertaining to 
+bridging digital divides, especially in support of community networks, and enabling digital 
+inclusion, and governments should play a supportive role in facilitating this.  
+ 
+● Welcoming c ontributions, and leadership, by the private sector and civil society to promote 
+digital inclusion. Encourage the private sector to ensure that resources accrued for the 
+purpose of overcoming digital divides are used transparently for their intended purpos e in line 
+with the UN Guiding Principles on Business and Human Rights.  
+ 
+● Encouraging the availability of free Internet access points in public spaces, especially in 
+schools and libraries in economically underprivileged communities.  
+ 
+● Promoting open -source software, open access technologies, open data, and open learning 
+towards enabling meaningful access, as well as supporting the people who develop these 
+resources.  
+ 
+● Enacting digital policies which give special consideration to those who face particular 
+difficulties in reaping the benefits of digital inclusion. Governments should build into their 
+programs and policies safeguards to make sure these persons are able to benefit fully in the 
+push for digital inclusion. These may consist of, inter alia, creating safe and accessible 
+spaces, childcare facilities and specially trained support staff.  
+ 
+● Advancing, with the help of public -private partnerships, digital literacy and other technology 
+training in trusted and comfortable locations (libraries, community cente rs, places of worship, 
+schools, recreation centers, senior centers, etc.) which is tailored for different levels of 
+education and specific needs and supported.  
+ 
+● Facilitating, reinforcing, and developing multi -stakeholder models of Internet governance, 
+including growing capacity of civil society to participate in fora like the Internet Governance 
+Forum, expanding availability of independent Internet exchange points , ensuring ability of 
+private sector providers to connect and exchange data traffic directly with one another, and 
+similar inclusive models.  
+ 
+● Addressing underlying causes of digital exclusion (economic, social, political and cultural 
+contexts) because tec hnical solutions alone will not bridge digital divides; and support 
+initiatives at intergovernmental spaces that further digital inclusion.  
+ 
+Joint Statement on Defending Civic Space Online7 
+ 
+● The FOC calls on all governments to promote vibrant and resilient civic space, including 
+respect for human rights and fundamental freedoms, democracy , and the rule of law, 
+ 
+7 In this joint statement , the FOC expresses concern about shrinking civic and democratic spaces online as a result of state -
+sponsored obstruction of free expressio n, peaceful assembly, and free association. The FOC recognizes the Internet as an 
+invaluable tool for human rights defenders and civil society and notes that civic space online is integral to a vibrant civic  space 
+offline. It further recognizes that state -sponsored obstruction of these rights is a direct challenge to the FOC’s goal of protecting 
+and promoting both the exercise of human rights online and an open and interoperable Internet. The statement highlights that a 
+robust and protected civic space form s the cornerstone of accountable, inclusive, and responsive democratic societies.  
+ 
+6 
+  consistent with their obligations under the International Covenant for Civil and Political Rights 
+in particular, which is central to the maintenance and development of an open, interoperable, 
+reliable, and secure Internet.  
+ 
+● Bearing in mind States’ international obligations under international human rights law, the 
+FOC calls upon:  
+ 
+o (a) all stakeholders to work together to ensure that the Internet is designed and 
+governed in a manner that respects human rights and enables individuals to engage 
+in civic space;  
+ 
+o (b) governments, the private sector, international organizations, and civil society, to 
+work together toward a shared approach -firmly grounded in respect for international 
+human rights law -to evaluate, respond to, and remedy Sta te-sponsored efforts to 
+unduly restrict civic space, and business practices that inappropriately contribute to, 
+facilitate, or cause restriction.  
+ 
+● Governments should consult where possible with civil society in the development of laws and 
+policies, includ ing those on counter -terrorism, national security, cybercrime and cybersecurity, 
+as well those that impact encryption and anonymity online, to help ensure that these laws and 
+policies are consistent with States’ obligations under international human rights  law.  
+ 
+● The FOC calls on all governments to refrain from using counter -terrorism, national security, 
+cybercrime, cyber -security, anti -terrorism and anti -cybercrime measures and laws to unduly 
+limit the ability of human rights defenders to exercise their human righ ts. Any such legislation, 
+new or existing, should be evaluated against potential adverse effects on human rights.  
+ 
+● The FOC encourages governments to protect and promote civic space through laws and 
+policies that expand access to emerging technologies such  as blogs, private messaging apps, 
+and over -the-top services rather than restricting their use through overreaching regulation and 
+the imposition of high compliance burdens that inhibit access.  
+ 
+● The FOC recognizes the crucial role of the information and c ommunication technology 
+(ICT)sector to respect human rights. The FOC encourages companies to engage in multi -
+stakeholder initiatives and explore best practices in line with the UN Guiding Principles on 
+Business and Human Rights.  
+ 
+Joint Statement on Internet Censorship8  
+ 
+● The FOC calls on all governments to refrain from content restrictions on the Internet that 
+violate international human rights law and to create an enabling environment for free 
+expression and access to information online.  
+ 
+● States must not restrict, modera te, or manipulate online content, disrupt networks to deny 
+users access to information, or employ internet censorship technologies, contrary to their 
+international obligations. At the same time, states should play a constructive role in working 
+with ICT co mpanies to enhance transparency regarding their content moderation and 
+mediation processes, including those that are automated. Governments should also 
+encourage ICT companies to adopt fair remedial mechanisms in contentious cases.  
+ 
+● The FOC firmly believe s in the value of free and informed political debate, offline and online, 
+and its positive effects on long term political stability. The Coalition calls on governments, the 
+private sector, international organizations, civil society, and Internet stakeholde rs to work 
+ 
+8 In this joint statement , the FOC expresses deep concern about the growing trend of state -sponsored Internet censorship, 
+which challenges Coalition’s goals of protecting and promoting human rights online and protecting and extending an open and 
+interoperable Internet. To  address this trend, the FOC calls upon governments to refrain from content restrictions on the 
+Internet that violate international human rights law and to create an enabling environment for free expression and access to 
+information online. Furthermore, it  calls upon all stakeholders “to work together toward a shared approach – firmly grounded in 
+respect for international human rights law – that aims to evaluate, respond to, and if necessary, remedy state -sponsored efforts 
+to restrict, moderate, or manipula te online content, and that calls for greater transparency of private Internet companies’ 
+mediation, automation, and remedial policies.”  
+ 
+7 
+  together toward a shared approach - firmly grounded in respect for international human rights 
+law - that aims to evaluate, respond to, and if necessary, remedy state -sponsored efforts to 
+restrict, moderate, or manipulate online content, and that  calls for greater transparency of 
+private Internet companies’ mediation, automation, and remedial policies.  
+ 
+Contribution from t he FOC Task Force on Digital Equality  
+Please note that the views of the Task Force on Digital Equality do not necessarily reflect the 
+opinions of the full FOC membership.  
+ 
+Building on the FOC’s Joint Statement on Digital Inclusion , the Task Force on Digital Equality aims 
+to translate the statement’s recommendations into concrete action that has tangible, positive 
+outcomes for promoting digital equality. Task Force defines connectivity and access as ex tending 
+universal, open, secure, reliable, affordable, high -quality Internet access:  
+ 
+Connectivity and Access  
+Term  Definition  
+Universal  ● Exploring new regulatory models including community -level governance to 
+increase access.  
+● Supporting small -scale networks, community -owned and locally -owned 
+telecommunications infrastructure towards reaching last -mile coverage and 
+providing services that meet local needs.  
+● Expanding availability of independent Internet exchange points, ensuring  
+ability of private sector providers to connect and exchange data traffic directly 
+with one another, and similar inclusive models.  
+● Providing free Internet access points in public spaces, especially in schools 
+and libraries in economically underprivileged communities.  
+● Enabling equal access to information and content by supporting and upholding 
+strong net neutrality protections.  
+● Facilitating, reinforcing, and developing multi -stakeholder models of Internet 
+governance, including growing capacity of civil soc iety to participate in fora like 
+the Internet Governance Forum.  
+Open  ● Enabling and promoting the development and use of open -source software, 
+open access technologies, open data, and open learning towards enabling 
+meaningful access, as well as supporting the people who develop these 
+resources.  
+Secure  ● Providing secure public access points or those that lend electronic devices to 
+individuals or communities who need them.  
+● Developing and promoting policies and techniques that create secure spaces 
+online including cyber security, encryption, and data protection while 
+protecting against the misuse of such measures in a way that violates human 
+rights.  
+Affordable  ● Ensuring the cost of access to broadband and mobile ownership is affordable 
+including through avoiding levying high taxes on consumers and mobile 
+operators.  
+Reliable 
+and High -
+quality  
+ ● Expanding access to and building infrastructure for underserved areas and 
+populations.  
+● Working with internet service providers to ensure connectivity is reliable and of 
+high quality and data packages are affordable.  
+ 
+The Task Force on Digital Equality defines “digital equality” as digital inclusion that is equitable, 
+accessible, inclusive, safe, meaningful and human -rights respecting:  
+ 
+Digital Equality  
+Term  Definition  
+Equitable  ● Bridging the gender digital divide from a human rights perspective. This 
+includes addressing factors that result in the withdrawal of women, girls and 
+gender diverse individuals from digital and civic spaces such as gendered 
+disinformation and online gende r based violence, including sexual violence, 
+harassment and abuse.  
+ 
+8 
+  ● Addressing underlying causes of digital exclusion and discrimination 
+(economic, social, political and cultural contexts), including gendered causes.  
+● Ensuring that AI algorithms do not rein force harmful stereotypes and biases 
+that discriminate on the grounds of sex, age, disability, sexual orientation, 
+gender identity, race, ethnicity, origin, language, religion, or any other 
+grounds.  
+● Addressing supply and demand -side challenges affecting d igital inclusion and 
+digital divides, such as digital gender divides.  
+● Supporting research to understand drivers of digital exclusion.  This includes 
+encouraging more efforts by the private sector to publish independent, 
+research -based reviews on their dat a sets, conducted within an ethical, 
+privacy -protective framework.  
+● Encouraging the public and private sector to ensure that resources accrued 
+for the purpose of overcoming gender, age and other digital divides are used 
+equitably and transparently for thei r intended purpose.  
+● Embedding gender equality and non -discrimination in technology 
+development.  Supporting digital solutions that promote and advance equality 
+and non -discrimination.  
+● Applying accessibility standards for persons with disabilities in digit al and 
+technological solutions to ensure their equal access.  
+Inclusive  ● Building digital literacy with a focus on delivering programs to underserved 
+areas/populations, in the public education system, and offering skilling 
+programs that enable individuals to adapt to rapidly evolving technology.  
+● Emphasizing digital policies wh ich give special consideration to those who 
+face particular difficulties in accessing or reaping the benefits of digital 
+inclusion. This includes marginalised or vulnerable populations and persons 
+with disabilities.  
+Safe ● Acknowledge gaps in internet acce ss and digital skills as security concerns 
+since they are as factors that create differential vulnerabilities to cyber -
+attacks.  
+● Providing and supporting training in digital security and safety with an 
+emphasis on women, girls, persons with disabilities, s exual and gender 
+minorities, and persons that are marginalized or in vulnerable situations.  
+● Increasing accountability for discrimination, violence and misleading content 
+of internet service providers and other relevant technology partners.  
+● Protecting personal data and privacy.  
+● Addressing online gender -based violence as a serious threat to gender 
+equality and safety as well as democracy. Women and girls, and especially 
+those who face greater risk for multiple and intersecting forms of 
+discrim ination, are the primary targets of online violence and abuse, which 
+push them out of public participation.  
+Meaningful  ● Ensuring full and meaningful use and development of the internet that meets 
+the needs and interests of all, including persons with disabilities and persons 
+or groups that are marginalised or in vulnerable situations.  
+● Supporting the creation of content in local languages and ensuring content 
+represents a country’s diverse communities, meets local needs, and 
+preserves local knowledge.  
+Human 
+rights -
+respecting  ● Adopting human rights -based approaches to access is an important enabler 
+of digital inclusion that b oth encourages open dialogue online while providing 
+safeguards for vulnerable populations.  
+● Developing policies and systems that are rooted in international human rights 
+standards towards promoting and creating safe, secure, inclusive, and open 
+spaces onli ne and deterring actions that impact Internet use, such as human 
+rights violations, online abuse, censorship, surveillance and other methods 
+that limit individuals’ ability to exercise their human rights and fundamental 
+freedoms.  
+● Promote trustworthy and hu man-rights based artificial intelligence and 
+promote our digital commons as a global public good.  
+ 
+ 
+ 
+9 
+  2. Avoid internet fragmentation  
+CORE PRINCIPLES  
+ 
+● Free9, open, interoperable,  reliable, and secure Internet.10 
+ 
+KEY COMMITMENTS, PLEDGES, AND ACTIONS       
+ 
+Shutdowns and state -sponsored network disruptions may silence political opposition, limit peaceful 
+protests and prevent human rights defenders from documenting abuses. Moreover, arbitrary network 
+disruptions are  inconsistent with the targets of the Sustainable Development Goals, undermine the 
+economic benefits of the Internet and disrupt access to essential services such as health care.11 
+ 
+Blocking, filtering, or shutting down the Internet suppresses the right of  peaceful assembly and 
+freedoms of association and expression; eroding civic space; reinforcing a continued climate of 
+economic uncertainty; disrupting access to healthcare, emergency services, and financial services; 
+preventing payments for salaries, util ities, and education; and limiting the ability of journalists, human 
+rights defenders, and others to report on and document human rights violations or abuses that are 
+taking place during Internet shutdowns, or communications disruptions. 12 
+ 
+This section refers to key commitments, pledges, and calls to action outlined in several FOC joint 
+statements and underpinning documents:  
+ 
+Joint Statement on Freedom of Expression Online13  
+ 
+● All governments should immediately end Internet shutdowns and to refrain from content 
+restrictions or actions that restrict civic space online and offline, in violation of states’ 
+obligations under international human rights law. All governments should act in a manner that 
+ensures a free, open, interoperable, reliable a nd secure Internet, and fully respects human 
+rights including the freedom of expression.  
+ 
+The Ottawa Agenda: Recommendations for Freedom Online14 
+ 
+● Emphasize the need to overcome multiple, persistent digital divides, including the gender 
+digital divide, and push back against the fragmentation of the global Internet.  
+ 
+10th Anniversary Helsinki Declaration15 
+ 
+● We will redouble our efforts in working together for free, open, interopera ble, secure, and 
+reliable Internet worldwide through taking action in speaking out against and countering 
+Internet shutdowns, network disruptions and censorship that are inconsistent with 
+international human rights law.  
+ 
+Joint Statement on State Sponsored Network Disruptions16  
+ 
+● Publically commit to maintain or develop human rights -respecting legislation that details the 
+limited circumstances in which communication networks may be intentionally disrupted, 
+ 
+9 Please note that the use of the word “free” does not refer to free in cost.  
+10 Cited directly from the Freedom Online Coalition, The Ottawa Agenda: Recommendations for Freedom Online , 2022.   
+11 Freed om Online Coalition, Joint Statement on Freedom of Expression Online , 2021.   
+12 Freedom Online Coalition, Joint Statement o n Internet Shutdowns in Iran , 2022.  
+13 In 2021, the FOC issued a joint statement on Freedom of Expression Online. Finland presented the statement on behalf of 
+the FOC during the interactive dialogue on the annual report o f the Special Rapporteur on the promotion and protection of the 
+right to freedom of opinion and expression at the 47th session of the United Nations Human Rights Council.  
+14 In 2022, the FOC adopted the Ottawa Agenda, which provides a set of recommendation s for freedom online to reflect the 
+evolution of the Coalition’s vision and scope of work since its inception in 2011. The recommendations were developed with 
+input from FOC Members, Advisory Network representatives, and external stakeholders through domestic consultations in 
+Canada and regional consultations held in North America, Latin America, Europe, Middle East & Nort h Africa, Sub -Saharan 
+Africa, and the Asia -Pacific.  
+15 Freedom Online Coalition, FOC 10th Anniversary Helsinki Declaration , 2021 .  
+16 In 2017, the FOC issued a joint statement  expressing deep concern over the growing trend of intentional state -sponsored 
+disruptions of access to or dissemination of information online.   
+ 
+10 
+  consistent with Article 19 of the International Covenant on Civil and Politi cal Rights (ICCPR) 
+in this regard. The members of the Freedom Online Coalition are committed to respecting the 
+human rights and fundamental freedoms proclaimed in the Universal Declaration of Human 
+Rights and ICCPR, reaffirming that everyone has the right of peaceful assembly and to the 
+freedoms of association, opinion, and expression. This includes the right to hold opinions 
+without interference and the freedom to seek, receive and impart information and ideas of all 
+kinds, regardless of frontiers, either orally, in writing or in print, in the form of art, or through 
+any other media of one’s choice.  
+ 
+● Improve transparency in national governments’ regulatory, judicial, and law enforcement 
+agencies. Governments can demonstrate their commitment to promoting an d protecting 
+human rights online by taking steps to improve transparency regarding how and when 
+governmental agencies may conduct network disruptions.  
+ 
+● Include issues related to intentional network disruptions adversely affecting human rights in 
+diplomati c activities, such as bilateral and multilateral engagements and negotiations. 
+Governments can address the economic, social, and political risks of these sorts of network 
+disruptions in bilateral and multilateral engagements, encouraging partners to refrai n from 
+such intentional disruptions and developing effective, human rights -respecting laws, 
+legislation, and regulations designed to protect human rights online.  
+ 
+● Collaborate with Internet service providers (ISPs), mobile telephony operators, social media 
+companies, and other stakeholders to promote policies and practices in line with the United 
+Nations Guiding Principles on Business and Human Rights (UNGPs) regardi ng responses to 
+government requests to disrupt Internet and mobile network services in order to stifle human 
+rights. The FOC encourages governments to develop dialogues with Internet stakeholders to 
+discuss how to promote and protect human rights online, i ncluding issues around such 
+network disruptions.  
+ 
+● Issue public statements that highlight such instances of network disruptions and coordination; 
+coordinate through embassies in the countries where such network disruptions are taking 
+place to jointly urge governments to refrain from and cease such measures.  
+ 
+Joint Statement on Internet Shutdowns in Iran17 
+ 
+● Respect human rights obligations, including under articles 19, 21, 22 of the International 
+Covenant on Civil and Political Rights.  
+ 
+Joint Statement on Restrictions on Access to Social Media18  
+ 
+● Restrictions on content or links shared via social media sites are only permissible in 
+accordance with Inter national human rights law, in particular Article 19(3) of the International 
+Covenant on Civil and Political Rights. Such legal provisions should be established pursuant 
+to democratic processes, narrowly tailored, and enforced with appropriate transparency.  
+ 
+● The Freedom Online Coalition strongly condemns restrictions in violation of human rights law 
+of content shared via social media, and in particular the wholesale blocking of social media 
+sites, to restrict individuals from exercising their human rights on line. We also note with 
+concern efforts by states to use third -parties to impermissibly restrict access to content or 
+undermine the security and stability of social media sites. Equally troubling are instances 
+where national security or public order is evo ked as pretext to block social media.  
+ 
+● As stated in the Freedom Online Coalition’s “Tallinn Agenda”, we call upon governments 
+worldwide to promote transparency and independent, effective domestic oversight related to 
+electronic surveillance, use of conten t take -down notices, limitations or restrictions on online 
+content or user access and other similar measures, while committing ourselves to do the 
+same.  
+ 
+17 In 2022, the FOC issued a joint statement  condemning the measures undertaken to restrict access to the Internet in Iran.  
+18 In 2014, the FOC issued a joint statement  on restrictions on access to social media, where it expressed concern at the 
+blocking of social media sites and the use of third -parties to restrict access to content in violation of international law.  
+ 
+11 
+   
+3. Protect data  
+CORE PRINCIPLES  
+ 
+● Personal data should be protected by reasonable security safeguards against security and 
+privacy risks.19  
+ 
+● Governments should refrain from restricting transborder flows of personal data between their 
+own and another country where sufficient safeguards exist.20  
+ 
+KEY COMMITMENTS, PLEDGES, AND ACTIONS        
+ 
+This section refers to key commitments, pledges, and calls to action outlined in several FOC joint 
+statements and underpinning documents:  
+ 
+Joint Statement on Restrictive Data Localisation Laws21 
+ 
+● The Coalition recognizes that governments may decide that certain data they hold or are 
+responsible for must be stored on servers within their national borders, as one aspect of a 
+comprehensive, secure information management policy.  
+ 
+● The Freedom Online Co alition members support an open and interoperable Internet, as 
+reaffirmed in the “Tallinn Agenda,” as well as in the NETmundial Principles and the OECD 
+Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and 
+the Coalition  calls on all States to do the same.  
+ 
+● The Coalition invites companies, when required by laws or regulations to store data locally, to 
+conduct appropriate human rights due diligence consistent with the UN Guiding Principles on 
+Business and Human Rights.  
+ 
+Joint Statement on the Use and Export of Surveillance Technology22  
+ 
+● The Coalition notes that, as reflected in the UN Guiding Principles on Business and Human 
+Rights, companies, including those that market and provide surveillance technology, have 
+human right -related responsibilities. The Coalition recalls the expectation t hat such 
+companies uphold these responsibilities, including by implementing appropriate systems and 
+policies and conducting human rights due -diligence with regard to the provision of 
+surveillance technology and related services.  
+ 
+  
+ 
+19 Cited directly from the FOC’s 2015 joint statement  on restrictive data localisati on laws.  
+20 Cited  directly from the FOC’s 2015 joint statement  on restrictive dat a localisation laws.  
+21 In 2015, the FOC issued a joint statement  on restrictive  data localisation laws. It expresses concern regarding the use of 
+privacy and security considerations by authoritarian governments as a pretext to force Internet companies and service 
+providers to store user data on servers physically located within their  domestic borders.  
+22 In 2014, the FOC issued a joint statement  on the use and export of surveillance technology.  
+ 
+12 
+  4. Apply human rights online  
+CORE PRINCIPLES  
+ 
+● Commit to respect, protect, and fulfil human rights for all, both online and offline.23 
+ 
+● Strengthen internet infrastructure.24 
+ 
+● Reaffirm support for a free, open, interoperable, reliable and secure internet, noting that 
+strong cyber security and secure and stable communication are critical to maintaining 
+confidence and trust in the internet, and key to safeguarding human rights and realising the 
+internet’s economic, social and cultural benefits.25 
+ 
+● Support expanded connec tivity  to a free, open, interoperable, reliable, and secure  global 
+internet where the rights that all persons have offline are protected online, including the 
+freedom to seek, receive, and impart information and ideas.26 
+ 
+● Improve transparency and account ability.27  
+ 
+● Ensure robust, diverse, inclusive, and protected civic participation online and offline.28 
+ 
+● Commit to inclusive and open multi -stakeholder governance of digital technologies, including 
+the Internet, and to sustained dialogue with external stak eholders to share knowledge and 
+expertise.29 
+ 
+KEY COMMITMENTS, PLEDGES, AND ACTIONS   
+ 
+The Freedom Online Coalition believes that the human rights and fundamental freedoms that 
+individuals have offline must also be protected online. We are committed to working together to 
+support Internet freedom for individuals worldwide –including the freedoms of expression, association, 
+peaceful assembly, as well as privacy rights online.     
+ 
+This section refers to key commitments, pledges, and calls to action outlined in several FOC joint 
+statements and underpinning documents:  
+ 
+Tallinn Agenda30  
+   
+● States should collectively condemn – through diplomatic channels, public statements, and 
+other means — violations and abuses of human rights and fundamental freedoms online, as 
+they occur in different c ountries throughout the world.  
+ 
+● States should halt imprisonment, harassment, physical violence, censorship, hacking as well 
+as illicit filtering, blocking and monitoring of opposition voices and other repressive measures 
+used to restrict freedom of expres sion and organisation online in contravention of international 
+human rights obligations.  
+ 
+10th Anniversary Helsinki Declaration31 
+ 
+● States should unequivocally condemn the use of digital technologies for repressive and 
+authoritarian purposes, through actions such as internet shutdowns and  network disruptions 
+ 
+23 Cited directly from the Freedom Online Coalition, The Ottawa Agenda: Recommendations for Freedom Online , 2022.   
+24 Freedom Online Coalition, Joint Statement on State -Sponsored Network Disruptions , 2017.   
+25 Freedom Online Coalition, Tallinn Agenda , 2014.  
+26 Freedom Online Coalition , Task Force on Internet Shutdowns, Resources and Best Practices for Diplomatic Engagement on 
+Internet Shutdowns , 2022, (available only to FOC members).   
+27 Freedom Online Coalition, Joint Statement on State -Sponsored Network Disruptions , 2017.   
+28 Freedom Online Coalition, Joint Statement on Defending Civic Space Online , 2019.  
+29 Cited directly from the Freedom Online Coalition, The Ottawa Agenda: Recommendations for Freedom Online , 2022.   
+30 In 20 14, the Freedom Online Coalition issued the Tallinn Agenda . The FOC issued recent amendments to the Freedom  
+Online Coalition Stockholm Terms of Reference to include country -specific statements, 2022.    
+31 Freedom Online Coalition, 10th Anniversary Helsinki Declaration , 2021.  
+ 
+13 
+  inconsistent with international human rights law.   
+ 
+● States, the private sector, and civil society shall coordinate rights -respecting advocacy on 
+internet shutdowns and monitor ongoing technical, economic, legal, and human rights 
+conce rns regarding the use of internet shutdowns by states, especially in the context of 
+elections, protests, and ongoing health and humanitarian crises;32  
+ 
+The Ottawa Agenda: Recommendations for Freedom Online33 
+ 
+● States, the private sector, and civil society should adopt holistic and interoperable approaches 
+to countering internet fragmentation and work towards overcoming digital divides, advocating 
+for ubiquitous, secure, affordable, equitable, and high -quality co nnectivity, free from threats 
+such as censorship and State -sponsored internet shutdowns ensuring groups in vulnerable 
+circumstances or who are marginalized or disenfranchised or otherwise discriminated against 
+by the state or others, can fully realize thei r human rights online.   
+ 
+Joint Statement on State -Sponsored Networ k Disruptions34 
+ 
+● States, as well as the private sector, should work to improve and increase transparency. 
+States can demonstrate their commitment to promoting and protecting human rights online by 
+taking steps to improve  transparency in accordance with international human rights law.  
+ 
+● States should include internet shutdowns adversely affecting human rights in diplomatic 
+activities, such as bilateral and multilateral engagements and negotiations. States can 
+specifically address the economic, social, and political risks of these sorts of network 
+disruptions in bilateral and multilateral engagements, encouraging partners to refrain from 
+such intentional disruptions and developing effective, human rights -respecting laws, 
+legislation, and regulations designed to protect human rights online.   
+   
+● States, internet service providers (ISPs), mobile telephone operators, social media 
+companies, and civil society should collaborate to promote policies and practices in line with 
+the U nited Nations Guiding Principles on Business and Human Rights regarding responses to 
+government requests to disrupt internet and mobile network services in order to stifle human 
+rights. The FOC encourages States to develop dialogues with all stakeholders t o discuss how 
+to promote and protect human rights online, including issues such as internet shutdowns.   
+ 
+Resources and Best Practices for Diplomatic Engagement on Internet Shutdowns35 
+Please note that the views of the Task Force on Internet Shutdown (TFIS) do not necessarily 
+reflect the opinions of the full FOC membership.  
+ 
+The Freedom Online Coalition (FOC) Task Force on Internet Shutdowns (TFIS) drafted the 
+following key commitments. Launched in December 2021,  the FOC TFIS is a multinational and 
+multistakeholder coordination and response mechanism on internet shutdowns. Th e Task Force 
+works to improve coordination among like -minded countries, civil society, and the private sector to 
+anticipate and respond to internet shutdowns. Their  work, including this submission, builds on the 
+FOC’s 2017 Joint Statement and accompanying Good Practices for Governments on State 
+Sponsored Network Disruptions and the 2021 G7 Leaders’ Communique and Foreign and 
+Development Ministers Communique.  
+ 
+Internet shutdowns imposed by governments impact all people, especially those who may be in 
+vulner able situations, such as women. Internet shutdowns ramp up censorship, restrict free 
+ 
+32 Freedom Online Coalition, 10th Anniversary Helsinki Declaration , 2021.  
+33 In 2022, the FOC adopted the Ottawa Agenda, which provides a set of recommendations for freedom online to reflect the 
+evolution of the Coalition’s vision and scope of work since its inception in 2011. The recommendations were developed with 
+input from FOC Members, Advisory Network representatives, and external stakeholders through domestic consultations in 
+Canada and regional consultations held in North America, Latin America, Europe, Middle East & North Africa, Sub -Saharan 
+Africa, and the Asia -Pacific.  
+34  Freedom Online Coalition,  Joint Statement on State -Spons ored Network Disruptions , 2017.  
+35 Freedom Online Coalition, Task Force on Internet Shutdowns, Resources and Best Practices for Diplomatic Engagement on 
+Internet Shutdowns , 2022, (available only to FOC members).   
+ 
+14 
+  expression, and limit the dissemination and free flow of information, contributing to social and 
+political disorder, and violence and negatively affecting public safety. A ccording to Access Now 
+and the #KeepItOn coalition — composed of more than 300 organizations from 105 countries — in 
+2022 the internet was shut down 187 times in 35 countries. Combating internet shutdowns, 
+therefore, remains a key priority for the internat ional community and has been notably featured in 
+the UN Secretary -General’s Roadmap for Digital Cooperation ( A/74/821 ); and the former UN High 
+Commissioner for Human Rights’ Human Rights Council report on Internet Shutdowns 
+(A/HRC/ 50/55 ). Overall, internet shutdowns interfere with a range of fundamental human rights. As 
+such, internet shutdowns hinder international goals for an “open, free and secure digital future for 
+all” and to accelerate the r ealization of the 2030 Agenda as captured in the UN Declaration on the 
+Commemoration of the 75th Anniversary of the UN.  
+  
+● States should specifically condemn government use of internet shutdowns, network 
+restrictions, or other measures intended to disrupt individuals’ ability to access and 
+disseminate information and to communicate safely and securely. This includes arbitrary 
+interference with encryption and anonymity tools.   
+  
+● States, the private sector, and civil society shall share information on internet shutdowns 
+rapidly as they occur, and facilitate additional information -sharing between stakeholders.  
+ 
+● States, the priva te sector and civil society should support and implement the 
+recommendations in the UN Human Rights Council Report of the UN High Commissioner 
+for Human Rights, “Internet shutdowns: trends, causes, legal implications and impacts on 
+a range of human rights. ” 
+  
+● States should avoid shutting down, blocking, or throttling internet, telecommunication, 
+and/or mobile services. Doing so can violate a range of human rights, including freedoms 
+of expression and opinion, peaceful assembly, and association. These action s also disrupt 
+access to essential services such as healthcare and emergency services and harm the 
+economy.  
+ 
+    
+Joint Statement on Digital Inclusion36  
+ 
+● States and the private sector, in consultation with civil society, should ensure to safeguard 
+human rights and fundamental freedoms online, and to implement and share such best 
+practices on issues pertaining to internet shutdowns, bridging digital divides, especially in 
+support of community networks, and enabling  digital inclusion, and States should play a 
+supportive role in facilitating this.   
+ 
+● Civil society organizations should be supported in their efforts to address barriers and 
+bottlenecks to digital access, cybersecurity risks, and on how to develop policy that drives 
+positive outcomes related to the improved access and use of digital technologies.  
+ 
+Joint Statement on COVID -19 and Internet Freedom37 
+ 
+In response to the COVID -19 pandemic, we call upon governments worldwide:    
+ 
+● States should immediately end internet shutdowns, and ensure the broadest possible access 
+to online services by taking steps to bridge digital divides.  
+     
+ 
+36 In 2020, the FOC adopted a joint statement  on digit al inclusion, which recognizes the importance of meaningful digital 
+inclusion in enabling people to exercise their human rights more fully, but also acknowledges that digital inclusion poses bo th 
+collateral opportunities and risks. The statement builds on a number of other commitments to promote digital equality, with 
+initiatives to overcome various digital divides having been launched by a plethora of stakeholders, from civil society 
+organisations to the private sector; governments; and various UN organisa tions tasked with working towards the SDGs.  
+37 In 2020, the FOC issued a joint statement  on COVID -19 and Internet freedom. The statement expresses concern about the 
+human rights implications of certain measures introduced by governments in response to the COVID -19 crisis, such as the use 
+of arbitrary or unlawful surveillance practices, net work shutdowns, and censorship.  
+ 
+15 
+  ● To refrain from adopting or implementing laws and policies that may negatively affect the 
+enjoymen t of human rights, or that unreasonably restrict civic space online and offline, in 
+violation of states’ obligations under international human rights law.  
+ 
+● To promote an enabling environment for free expression and access to information online to 
+protect privacy and to refrain from content restrictions that violate international human rights 
+law.  
+ 
+● To take appropriate measures to counter violence, intimidation, threats and attacks against 
+individuals and groups, including human rights defenders, on the Int ernet and through digital 
+technologies  
+ 
+Joint Statement on the Human Rights Impact of Cybersecurity Laws, Practices, and Po licies  
+ 
+● States need to comply with their obligations under international human rights law when 
+considering, developing and applying national cybersecurity policies and legislation.  
+ 
+● States need to develop and implement c ybersecurity -related laws, policies and practices in a 
+manner consistent with international human rights law, and seek to minimise potential 
+negative impacts on vulnerable groups and civil society, including human rights defenders 
+and journalists. This inc ludes building, where appropriate, supporting processes and 
+frameworks for transparency, accountability, judicial or other forms of independent and 
+effective oversight, and redress towards building trust. It may also include embedding the 
+principles of leg itimacy, legality, necessity or proportionality into policy and practice.  
+ 
+● States should promote international cooperation on cyber issues that focuses on protecting 
+and upholding human rights in order to build mutual trust between all stakeholders.  
+  
+  
+ 
+16 
+  4. Accountability for discrimination and misleading content  
+CORE PRINCIPLES  
+ 
+● Advocate for a global, free38, open, interoperable, secure and reliable Internet.39 
+ 
+● Public access to factual and diverse information, which can make societies more resilient to 
+disinformation.40  
+ 
+● News and media ecosystem where there is access to information and plurality of media; free 
+and independent media has a sustainable future; and public service media and local news 
+outlets are able to thrive.41 
+ 
+KEY COMMITMENTS, PLEDGES, AND ACTIONS   
+ 
+This section refers to key commitments, pledges, and calls to action outlined in several FOC joint 
+statements and underpinning documents:  
+ 
+The Ottawa Agenda: Recommendations for Freedom Online  
+ 
+● Engage in dialogue and cooperation with the private sector to address risks relating to digital 
+transformation, such as disinformation, and  committing to developing rules of the road for 
+addressing information integrity online.  
+ 
+10th Anniversary Helsinki Declaration  
+ 
+● We will foster multi -stakeholder cooperation to address both hate speech, and disinformation 
+in a manner that respects human rights, democracy and the rule of law. 
+ 
+● We will redouble our efforts in working together for free, open, interoperable, secure, and 
+reliable Internet worldwide through addressing disinformation and other harmful content 
+online and ensuring that any measures are in accordance with internati onal law, including 
+international human rights law.  
+ 
+Joint Statement on the Spread of Disinformation Online42 
+ 
+The FOC calls on government s to:  
+ 
+● Abstain from conducting and sponsoring disinformation campaigns, and condemn such acts.  
+ 
+● Address disinformation while ensuring a free, open, interoperable, reliable and secure 
+Internet, and fully respecting human rights.  
+ 
+● Improve coordination and multi -stakeholder cooperation, including with the private sector and 
+civil society, to address disinformation in a manner that respects human rights, democracy 
+and the rule of law.  
+ 
+● Implement any measures, including legislation in troduced to address disinformation, in a 
+manner that complies with international human rights law and does not lead to restrictions on 
+freedom of opinion and expression inconsistent with Article 19 of the International Covenant 
+on Civil and Political Right s.  
+ 
+ 
+38 Please note that the use of the word “free” does not refer to free in cost.  
+39 Cited directly from the Freedom Online Coalition, The Ottawa Agenda: Recommendations for Freedom Online , 2022.   
+40 Freedom Online Coalition, Joint Statement on the Spread of Disinformation , 2020.  
+41 Freedom Online Coalition, Joint Statement on the Spread of Disinformation , 2020.  
+42 In 2020, the FOC issued a  joint statement  expressing deep concern about the growing scope and sophistication of 
+disinformation, which has been employed by state and non -state actors with political, ideological, commercial or other motives.  
+ 
+17 
+  ● Respect, protect and fulfill the right to freedom of expression, including freedom to seek, 
+receive and impart information regardless of frontiers, taking into account the important and 
+valuable guidance of human rights treaty bodies  
+ 
+● Refrain from di screditing criticism of their policies and stifling freedom of opinion and 
+expression under the guise of countering disinformation, including blocking access to the 
+Internet, intimidating journalists and interfering with their ability to operate freely.  
+ 
+● Support initiatives to empower individuals through online media and digital literacy education 
+to think critically about the information they are consuming and sharing, and take steps to 
+keep themselves and others safe online.  
+ 
+● Take active steps to addres s disinformation targeted at vulnerable groups, acknowledging, in 
+particular the specific targeting of and impact on women and persons belonging to minorities.  
+ 
+● Support international cooperation and partnerships to promote digital inclusion, including 
+universal and affordable access to the Internet for all.  
+ 
+The FOC urges social media platforms and the private sector to:  
+ 
+● Address disinformation in a manner that is guided by respect for human rights and the UN 
+Guiding Principles on Business and Human Rights.  
+ 
+● Increase transparency into the factors considered by algorithms to curate content feeds and 
+search query results, fo rmulate targeted advertising, and establish policies around political 
+advertising, so that researchers and civil society can identify related implications.  
+ 
+● Increase transparency around measures taken to address the problems algorithms can cause 
+in the co ntext of disinformation, including content take down, account deactivation and other 
+restrictions and algorithmic alterations. This may include building appropriate mechanisms for 
+reporting, designed in a multi -stakeholder process and without compromising effectiveness or 
+trade secrets.  
+ 
+● Promote users’ access to meaningful and timely appeal processes to any decisions taken in 
+regard to the removal of accounts or content.  
+ 
+● Respect the rule of law across the societies in which they operate, while ensuring n ot to 
+contribute to violations or abuses of human rights.  
+ 
+● Use independent and impartial fact -checking services to help identify and highlight 
+disinformation, and take measures to strengthen the provision of independent news sources 
+and content on their p latforms.  
+ 
+● Support research by working with governments, civil society and academia and, where 
+appropriate, enabling access to relevant data on reporting, appeal and approval processes, 
+while ensuring respect for international human rights law .  
+ 
+The FOC urges civil society and academia to:  
+ 
+● Continue research into the nature, scale and impact of online disinformation, as well as 
+strategic level analysis to inform public debate and government action.  
+ 
+● Adequately consider the impact of disinformation on women and marginalized groups who are 
+targeted by disinformation campaigns in this research.  
+ 
+● Engage with the private sector and governments to share findings and collaborate on 
+research, whilst ensuring appropriate privacy protections are in place.  
+ 
+ 
+18 
+  ● Actively participate in public debate and in  multi -stakeholder initiatives looking to address 
+disinformation and emphasize the necessity of evidence -based discussion.   
+ 
+19 
+  6. Regulation of artificial intelligence  
+CORE PRINCIPLES  
+ 
+● Promotion and protection of human rights, democracy, and the rule of law in the design, 
+development, procurement, and use of AI systems.43 
+ 
+● Transparency and accountability.44 
+ 
+● Work with the private sector, civil society, academia, and other relevant stakeholders.45 
+ 
+● Abide by obligations under international human rights law to ensure that human rights are 
+fully respected and protected.46 
+ 
+KEY COMMITMENTS, PLEDGES, AND ACTIONS        
+ 
+This section refers to key commitments, pledges, and calls to action outlined in several FOC joint 
+statements and underpinning docume nts:  
+ 
+Joint Statement on Artificial Intelligence and Human Rights47 
+ 
+● States should take action to oppose and refrain from the use of AI systems for repressive and 
+authoritarian purposes in violation of international human rights law.  
+ 
+● States should refrain from arbitrary or unlawful interference in the operations of online 
+platforms, including those using AI systems, and they should refrain from excessive use of 
+national security reasons as justification for cases of interference.48 
+ 
+● States should promote international multi -stakeholder engagement in the development of 
+relevant norms, rules, and standards for the design, development, procurement, use, 
+certification, and governance of AI systems that, at a minimum, are consistent with 
+international human rights law.  
+ 
+● States shall ensure that the design, development and use of AI systems in the public sector is 
+conducted in accordance with their international human rights obligations.  
+ 
+● States, and any private sector or civil society actors working with them or on their behalf, 
+should protect human rights when procuring, designing, developing and using AI systems in 
+the public sector, through the adoption of processes such as due diligence and independent 
+impact assessments, that are made transparent and participatory wherever possible.  
+ 
+● States shoul d encourage the private sector to observe principles and practices of responsible 
+business conduct (RBC) in the use of AI systems throughout their operations and supply and 
+ 
+43 Cited  directly from the 2020 FOC joint statement  on artificial intelligence (AI) and human rights.  
+44 Cited  directly from the 20 20 FOC joint statement  on artificial intelligence (AI) and human rights.  
+45 Cited  from the 2020 FOC joint statement  on artificial intelligence (AI) and human rights.  
+46 Cited  directly from the 2020 FOC joint statement  on artificial intelligence (AI) and human rights.  
+47 In 2020,  the FOC issued a joint statement  on artificial intelligence (AI) and huma n rights. The FOC called upon governments 
+to oppose and refrain from the use of AI systems for repressive and authoritarian purposes; to ensure the design, development  
+and use of AI systems in the public sector is conducted in accordance with international  human rights obligations; and to 
+promote, where appropriate, support efforts by the private sector, civil society, and all other relevant stakeholders to incr ease 
+transparency and accountability related to the use of AI systems.  
+48 Note from the Task Forc e on Artificial Intelligence: “States have a responsibility to ensure that any measures affecting online 
+platforms, including counter -terrorism and national security legislation, are consistent with international law, including 
+international human rights l aw. They should refrain from restrictions on the right to freedom of information, of opinion and 
+expression, and the right to peaceful assembly and association, including in relation to political dissent and the work of 
+journalists, civil society, and huma n rights defenders, except when such restrictions are in accordance with international law, 
+particularly international human rights law.”  
+ 
+ 
+20 
+  value chains, in a consistent manner and across all contexts.49 
+ 
+● States should consider how domestic legislation, regulation and policies can identify, prevent, 
+and mitigate risks to human rights posed by the design, development and use of AI systems, 
+and take action where appropriate.50 
+ 
+● States should promote and, where appro priate, support efforts by the private sector, civil 
+society, and all other relevant stakeholders to increase transparency and accountability 
+related to the use of AI systems on topics such as the following:  
+o user privacy, including the use of user data to refine AI systems, the sharing of data 
+collected through AI systems with third parties, and if reasonable, how to opt -out of 
+the collection, sharing, or use of user -generated data;  
+o the automated moderation of user generated content including, but not limit ed to, the 
+removal, downranking, flagging, and demonetization of content;  
+o recourse or appeal mechanisms, when content is removed as the result of an 
+automated decision;  
+o oversight mechanisms, such as human monitoring for potential human rights impact.  
+ 
+● States, as well as the private sector, should work towards increased transparency while 
+safeguarding privacy and intellectual property rights, in order to facilitate collaborative and 
+independent research into AI systems and their potential impacts on huma n rights.  
+ 
+● States should foster education about AI systems and possible impacts on human rights 
+among the public and stakeholders, including product developers and policy -makers.  
+ 
+10th Anniversary Helsinki Declaration  
+ 
+● The application of digital technologies that involve facial recognition and massive collection of 
+personal data have been used for political repression and economic exploitation. State and 
+non-state actors should immediately cease actions incompatible with international human 
+rights. We encourage the private sector  to promote and increase non -discrimination, 
+transparency, traceability, and accountability in the design, development, procurement, 
+dissemination and use of digital technologies, with appropriate protections for intellectual 
+property.  
+ 
+Contribution from the FOC Task Force on Artificial Intelligence  and Human Rights    
+Please note that the views of the Task Force on AI and Human Rights do not necessarily reflect 
+the opinions of the full FOC membership.  
+ 
+The Freedom Online Coalition’s Task Force on Artificial Intelligence and Human Rights drafted the 
+following key recommendations:  
+ 
+● The private sector should increase exchange among each other and with academia and 
+independent experts on how algorithms in search engines are designed, and should make 
+efforts to streamline their criteria in content moderat ion of search engines also abiding by 
+human rights principles; the private sector should increase transparency on the content 
+moderation mechanisms applied by search engines towards private consumers.  
+ 
+ 
+49 Note from the Task Force on Artificial Intelligence: “By incorporating RBC, companies are better equipped to manage  risks, 
+identify and resolve issues proactively, and adapt operations accordingly for long -term success. RBC activities of both states 
+and the private sector should be in line with international frameworks such as the UN Guiding Principles on Business and 
+Human Rights and the OECD Guidelines for Multinational Enterprises.”  
+50 Note from the Task Force on Artificial Intelligence: “These may include national AI and data strategies, human rights codes, 
+privacy laws, data protection measures, responsible business practices, and other measures that may protect the interests of 
+persons or groups facing multiple and intersecting forms of discrimination. National measures should take into consideration 
+such guidance provided by human rights treaty bodies and international initiatives, such as human -centered values identified in 
+the OECD Recommendation of the Council on Artificial Intelligence, which was also endorsed by the G20 AI Principles. States 
+should promote the meaningful inclusion of persons  or groups who can be disproportionately and negatively impacted, as well 
+as civil society and academia, in determining if and how AI systems should be used in different contexts (weighing potential 
+benefits against potential human rights impacts and devel oping adequate safeguards).”  
+ 
+21 
+  ● The private sector should develop mechanisms in order to avoid that new and emerging 
+technologies rely, throughout their entire life cycle, on datasets, algorithms -based 
+programming and machine learning processes that can reproduce and exacerbate existing 
+patterns of structural discriminat ion, marginalization, social inequalities, stereotypes and 
+biases.  
+ 
+● Civil society stakeholders should put efforts into raising awareness and increasing 
+understanding among the general public about the potential impact of AI technologies on 
+Human rights, an d support civil societies in strengthening their resilience in that regard. 
+Companies and governments should ensure that civil society and non -company 
+stakeholders are allowed relevant and updated information to carry out their public 
+awareness role.  
+ 
+ 
+Contribution from the FOC Silicon Valley Working Group51 
+Please note that the views of the Silicon Valley Working Group  do not necessarily reflect the 
+opinions of the full FOC membership.  
+ 
+The Freedom Online Coalition’s Task Force Silicon Valley Working Group drafted the following key 
+recommendations:   
+ 
+• We encourage companies operating in the technology sector and all comp anies working 
+with new and emerging digital technologies to undertake the following commitments. 
+Pledges, and actions under the UN Global Digital Compact:  
+ 
+• Act to apply and ensure compliance of their activities with the UN Guiding Principles on 
+Business and Human Rights (UNGPs), including by leveraging guidance available via the 
+B-Tech Project of the Office of the High Commissioner for Human Rights.  
+ 
+• Commit to enhancing co -literacy and participating in regular open dialogue and 
+consultation with the international community, including governments, academia, and civil 
+society organizations, on concerns around the implications of new and emerging digital 
+technol ogies and human rights.  
+ 
+• Act to provide access to governments, researchers and other relevant stakeholders to data 
+and algorithms that may be needed to successfully develop, implement and evaluate 
+recommended policies and regulatory actions.  
+• Act to uphold and expand enjoyment of human rights online by taking measures to counter 
+disinformation, enhance cybersecurity, develop trustworthy artificial intelligence (AI) and 
+expand digital inclusion.  
+ 
+• Act to ensure that private sector led regulatory  frameworks and technical standard -setting 
+processes integrate recognition of and compliance with international human rights 
+obligations.  
+ 
+ 
+ 
+ 
+  
+ 
+51 The Silicon Valley Working Group (SVWG) was launched in 2021 with the aim to build new forms of cooperation between the 
+FOC and the global tech sector, whose products or services potentially impact human rights.  
+ 
+22 
+  Any other comments on the Global Digital Compact?  
+ 
+Meaningful Multi -Stakeholder Engagement  
+“We the members of the Freedom Online Coalition underline the importance of multi -stakeholder 
+co-operation, including governments, international organizations, civil society, private sector, 
+academia, media, the technical community, and other relevant stakeholders, advocating for the 
+development and use of digital technologies in ways that protect and reinforce democracy, hu man 
+rights and the rule of law. We c ommit to inclusive and open multi -stakeholder governanc e of digital 
+technologies, including the Internet, and to sustained dialogue with external stakeholders to share 
+knowledge a nd expertise. ”52  
+ 
+ 
+From the Joint Statement of the FOC Presented at the 29th Session of the United Nations Human 
+Rights Council:  
+ 
+“The Coalition recognizes the need to actively engage with all relevant stakeholders, including 
+governments, businesses, civil society, academics and other experts, in protecting and promoting 
+human rights and fundamental freedoms online, and und erlines its commitment to continuously 
+work together in a multi -stakeholder process to further Internet freedom globally.”  
+ 
+  
+Would you like to be included on the email list for updates on future developments on the Global 
+Digital Compact? If so, please include the specific emails to be added.  
+No 
+Yes (supportunit@freedomonlinecoalition.com)   
+ 
+Would you like to submit additional documentation in support of the information you have provided 
+in this survey?  
+Yes  
+No 
+ 
+ 
+ 
+52 Cited dire ctly from the Freedom Online Coalition, The Ottawa Agenda: Recommendations for Freedom Online , 2022.   

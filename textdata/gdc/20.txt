@@ -1,0 +1,174 @@
+ 
+Shaping the Digital Global Compa ct – 2023-03-16  1/6 
+ 
+Shaping the Global Digital Compact  
+The International Electrotechnical Commission (IEC) is a global, non- profit membership organization that brings 
+together more than 170 countries and coordinates the work of over 30 000 experts. Through international 
+consensus, IEC has published more than 10 000 International Standards in many different areas of 
+electrotechnology, and it is operating four global conformity assessment systems.  
+The IEC contributes to achieving the 17 UN Sustainable Development Goals which align with the IEC  vision for a 
+safer and more efficient world as well as its three strategic themes, i.e. enabling a digital and all -electric society, 
+fostering a sustainable world, and leading on trust, inclusion, and collaboration.  
+IEC cooperates closely with the International Organization for Standardization (ISO) and the International 
+Telecommunication Union (ITU) under the umbrella of the World Standards Cooperation.  
+Why international standards  
+IEC International Standards are developed in a global, apolitical, voluntary, consensus -based institutional 
+framework that helps accelerate the implementation of policy goals and overcomes physical borders and national 
+geopolitical interests.  
+International standards are created by experts from all around the world, in an open process according to well 
+documented procedures that are robust and proven. They reflect an international consensus on how to achieve a given outcome repeatedly, consistently and safely.  
+International standards play a substantial role in promoting techni cal compatibility and are fundamental for quality, 
+safety, efficiency, sustainability  and risk management. They promote interoperability of products and services from 
+different vendors and encourage competition that makes products and systems more affordable.  
+International standards help level the playing field and are an important way to shape a society that 
+is fair for everyone.  
+Interaction of regulation/standards/conformity assessment  
+International standards of the IEC are always voluntary. They do not seek to establish, drive or motivate public 
+policy, regulations, or social and political agendas. However , they can provide valuable support to the 
+implementation of public policy through non- legislative actions such as codes of conducts or as references in laws.  
+For such legislative actions, regulators consider whether to reference parts of, or entire inter national standards and 
+how to make it clear that the implementation of the respective standard is one of the ways to comply with the law 
+referencing it. Regulators can also weigh how such compliance, including through conformity assessment, rests in a larg er regulatory framework that can promote digital access for all.  
+IEC International Standards represent global consensus on a solution to a particular issue. The core principles that guide their development process include openness, transparency, effectiveness, relevance, stakeholder engagement and consensus. Those principles also define good governance and policy -making practice.  
+A key benefit of international standards is that they facilitate trade. IEC International Standards are developed according to the principles agreed by the WTO Technical Barriers to Trade (TBT) Committee and contribute to the fulfilment of WTO obligations by eliminating unnecessary obstacles to international trade.  
+Using international standards in governance and regulation is als o more cost -efficient in terms of time, money and 
+expertise required than the development of national norms. With its broad geographical reach, the IEC covers nearly the entire world population.  
+  
+ 
+Shaping the Digital Global Compa ct – 2023-03-16  2/6 
+ IEC International Standards are developed in a multi -stakeholder environment which ensures that many different 
+views are represented. These standards already have broad relevance and acceptance, which offers a high level 
+of applicability for policy guidance or legislation.  
+International standards for the Global Di gital Compact  
+The IEC has developed thousands of standards that shape digital technologies and provide the foundation for a digital future for all. They build trust that digital equipment is safe to use and the data of individuals and 
+organizations is kept secure and private. They help limit inappropriate use of facial recognition and biometrics, help 
+eliminate the bias in AI systems, facilitate access to technologies by people with disabilities and protect critical 
+infrastructure and information technology from cyber -attacks. In short: they allow every country, including least 
+developed countries, to leverage these technologies safely and efficiently.  
+Many IEC technical committees develop standards which drive and enable digital transformation across a wi de 
+number of applications. In addition to electricity generation and the hardware that underpins digitalization, such as 
+computers, smart phones, routers, displays, fibre optic cables, connectors, microphones, semiconductors, sensor 
+technologies, etc., the IEC also covers industrial -process measurement, control and automation, smart 
+manufacturing, communication technologies and architectures, smart energy, OT cyber security, and together with 
+ISO: cloud and edge computing, augmented and virtual reality, IoT , digital twin, data management and interchange, 
+cyber security in IT, and more.  
+Building trust and security  
+Hundreds of cybersecurity standards enable individuals and organizations to keep digital information secure and 
+private. They also ensure the free and secure flow of data in the virtual world and make certain that security systems 
+in the physical world respond to commands as expected. Trustworthiness is a key concept in IEC International 
+Standards.  
+A biometric standard in development will limit inappropriate use of facial recognition in public settings.  
+Safety  
+IEC International Standards help ensure the safety and reliability of computer hardware including all types and 
+shapes of electronic displays, protecting children and adults when they are s pending “screen time”.  
+Many other standards underpin electricity access, battery technologies and the integration of renewable energy 
+into increasingly smart grids to ensure a reliable supply of power, without which equitable digital access is difficult.  
+The members of two of the IEC Conformity Assessment Systems verify the reliability, safety, security and efficiency of electronic components, devices and installations to ensure that manufacturer promises are kept and regulations 
+are complied with.  
+Interoperability  
+IEC International Standards allow governments and regulators to build systems and infrastructure that are 
+interoperable and easier to maintain and repair. This approach helps avoid island solutions due to proprietary 
+specifications and opens a global market of suppliers.  
+Together with conformity assessment, international standards allow countries to build a quality infrastructure where 
+users are safer, waste can be better managed, and the living environment is better protected.  
+Affordability  
+Standards help manufacturers apply tried and tested best practices, which can be repeated reliably time after time. 
+Therefore, production processes can become more streamlined and efficient, and products more consistent in their quality and safety. It also helps reduce cost by minimizing waste and cutting time spent on “trial and error”.  
+  
+ 
+Shaping the Digital Global Compa ct – 2023-03-16  3/6 
+ Accessibility  
+International standards provide the guidelines and methodologies that enable information techno logy products and 
+systems to be usable by everyone, including those with disabilities.  
+Efficiency  
+IEC International Standards are driving increased energy efficiency of systems and products that run on electricity. 
+More energy -efficient data centres and greener cloud computing is one benefit from that work.  
+Framing the use of AI  
+Standards for artificial intelligence (AI) set requirements for trustworthiness, robustness, resiliency, reliability, accuracy, safety, security and privacy. They also define methods to avoid unintended bias in AI systems.  
+IEC is engaged in its “AIwithTrust” initiative together with the Swiss Federal Department of Foreign Affairs and is a 
+founding member of OCEANIS (Open Community for Ethics in Autonomous and Intelligent Systems ), which aims 
+to address issues related to ethics and values, while facilitating innovation.  
+Who is the IEC?  
+The IEC is a global, not -for-profit membership organization that publishes international consensus standards and 
+leads four conformity assessment  systems whose members certify that devices, systems, installations and services 
+perform as required.  
+The IEC brings together 174 countries that cover most of the global population. Each member country has a single 
+vote 1 and commits to represent the inter ests of all public and private national stakeholders at the global level in the 
+IEC. Work on new standards is only started if at least five member countries agree to send experts. This helps 
+ensure that the standard is really needed and will be used. IEC w ork is funded through annual dues by member 
+countries and the sales of publications.  
+1 This is quite different from most standards development organizations and consortia, where corporations and 
+organizations pay to play, representing their own interests.   
+IEC International Standards reflect an international consensus of all member countries on how to achieve a given 
+outcome repeatedly, consistently and safely. Together with the IEC Conformity Assessment Systems, they 
+constitute a leading global multilater al agreement framework and allow countries around the world to achieve 
+quality infrastructure, adaptive capacity and increased climate resilience, while keeping humans and the living 
+environment safe and secure. They also promote interoperability of produc ts and services from different vendors 
+and encourage  
+competition that makes products and systems more affordable. International standards help level the playing field 
+and are an important way to shape a society that is fair for everyone.  
+IEC Internationa l Standards and conformity assessment services are developed by more than 30’000 experts from 
+around the world according to open and well documented procedures that are robust and proven.  
+IEC International Standards comply with the WTO TBT Agreement that aims to ensure that technical regulations, 
+standards and conformity assessment procedures are non- discriminatory and do not create unnecessary obstacles 
+to trade.  
+Under its global, apolitical, consensus -based institutional framework, the IEC also welcomes  and incorporates the 
+science and expertise of many other international and regional organizations to deliver the technical foundation for everything that generates or uses electricity, contains electronics or information and communication technology.  
+  
+  
+ 
+Shaping the Digital Global Compa ct – 2023-03-16  4/6 
+ How to engage with the IEC and IEC Members  
+The IEC is open to work with the WSIS community to help achieve the objectives for the Global Digital Compact.  
+Organizations who are interested in contributing to individual IEC International Standards can pursue t he following 
+options:  
+Existing standard  
+Identifying if a standard has been published or is in preparation:  
+− Published standards can be found on the IEC webstore along with a short abstract.  
+− The publication and work programme of all IEC technical committees can be found here 
+www.iec.ch/technical -committees -and-subcommittees#tclist .  
+− For further concerns or questions, the IEC Secretariat in Geneva is available at  info@iec.ch.  
+New standard  
+Commenting on a standard that is being developed:  
+− There is the possibility to comment via the Public commenting platform once the Committee Draft for 
+Vote (CDV) has been published.  
+− Reaching out to an IEC Member  in its respective country to share insights and comments  
+− For further concerns or questions, the IEC Secretariat in Geneva is available at  info@iec.ch.  
+ 
+Request to become an official liaison  
+Organizations that have the capacity to send experts can request a f ormal liaison directly via any IEC Technical 
+Committee (click on the TC number in the first row and then on Structure to find the contact info for the Technical 
+Officer ) or contact the IEC National Committee in the respective country or the IEC Secretariat  in Geneva 
+info@iec.ch.  
+Share needs or suggestions  
+Share suggestions for the development of a new standard or for the improvement of an existing standard with the 
+IEC Secretariat in Geneva at info@iec.ch.  
+Participation of developing countries  
+Active par ticipation in standardization offers a good way of influencing the relevance of the final standard and to 
+increase the ease with which it can be adopted and used nationally. But even without active participation, the use of IEC International Standards and acceptance of test certificates of the IEC Conformity Assessment Systems can 
+allow developing countries to put in place an effective quality infrastructure at very low cost.  
+The IEC offers developing countries a globally unique way to get involved in IEC standardization and conformity 
+assessment work, without the financial burden of membership. As part of the Affiliate Country Programme, developing countries can share their needs and comment on standards. The IEC provides them with mentoring 
+and learning programmes and the possibility to adopt up to 400 IEC International Standards for national use, free 
+of charge.  
+  
+ 
+Shaping the Digital Global Compa ct – 2023-03-16  5/6 
+ How standards help foster sustainability  
+The IEC is already extensively contributing to the many standards and conformity assessment schemes th at help 
+achieve the targets and indicators of the 17 UN Sustainable Development Goals.  
+High-level government policy goals are easier to realize with the adoption and reference to international standards. 
+They provide easy access to globally agreed, state- of-the-art solutions and allow to build energy efficiency directly 
+into products and systems.  
+Sustainability is directly linked to the energy challenge. A challenge that has been caused by the indiscriminate 
+(and not very efficient) use of fossil fuels. N o doubt, going forward the world needs much more energy in the form 
+of clean and sustainably produced electricity.  
+In an all -electric society, electrical energy and the more efficient use of electricity will be the next driver of the global 
+economy. Elect rification based on IEC International Standards for sustainable energy generation from solar, wind, 
+marine, hydro and green hydrogen will help provide the world with near unlimited amounts of clean electricity for 
+all. 
+  
+  
+ 
+Shaping the Digital Global Compa ct – 2023-03-16  6/6 
+  

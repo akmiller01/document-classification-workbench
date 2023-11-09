@@ -1,0 +1,211 @@
+ 
+ 
+Submission to the  Global Digital Compact  
+1. Thematic Area Input  
+The overarching goal of our submission is to advocate for an unsiloed approach to transnational 
+responsible artificial intelligence (RAI)1 governance, which has multidimensional overlaps with all the 
+other recommended thematic areas in the Common Agenda Report.  We are conscious of the need for 
+succinct and concrete inputs to best inform the content of and subsequent negotiations on the Glob al 
+Digital Compact (GDC). For ease of reference, the following specific action areas as per the Roadmap 
+format, inform our main contributions:  
+i. Apply human rights online.  
+ii. Protect data.  
+iii. Promote regulation of artificial intelligence . 
+iv. Digital commons as a glob al public good . 
+2. Preparation Process  
+The Data Economy Policy Hub (DepHUB) is the first independent think -tank founded by an indigenous 
+African woman in South Africa. We aim to influence and provide public interest recommendations for 
+evidence -driven holisti c inclusive digital transformation policy frameworks and contribute to the 
+formulation of agile governance strategies that leverage responsible artificial intelligence for sustainable 
+development (AI4SD) and data innovations in key growth -enhancing sectors , in sub Saharan -Africa 
+(SSA).  
+The DepHUB’s GDC submission is co -developed by various contributors, was formulated in consultation 
+with a community of multi -sectoral actors from across Africa, through a  series of online and open 
+stakeholder dialogues aimed  at formulating  multidisciplinary collective African voices, values, interests, 
+visions, concerns, expectations that  should become part of the increasingly  global discussion on RAI, 
+just public data value creation, and promotion of DPGs. The online dialogues took  place between 22nd 
+February  and  9th March 2023.  
+3. Recommended Core Principles  
+We recommend the advancement of the following four  core principles to support global RAI 
+governance2 that address collaborative global governance,  sustainable digital development, just public 
+data value creation3 , and human -centred multicultural  ethics and values:  
+i. Collaborative Transnational Governance:  Given our multidimensional global dependencies, R AI 
+development and deployment should involve a collaborative international governance model 
+that includes diverse stakeholders and incorporates sub -national, national, regional, and global 
+ 
+1 Responsible AI principles require fairness, transparency, privacy, human safety, and explanability throughout the AI value ch ain. 
+2 AI governance refers to the set of laws, policies, regulations, institutions, norms, and ethical guidelines that gov ern the 
+development, deployment, and use of AI. The purpose of AI governance is to ensure that AI is developed and used in a responsi ble, 
+transparent, and ethical manner, taking into consideration the potential social, economic, and ethical implications of  AI. 
+3 Just public data value creation denotes that data in itself has no value and existing exclusions and bias in data sets and da ta-driven 
+ecosystems inhibit who benefits from public interest data -driven decisions.  Just public data value creation emphas ises a human -
+centred approach to collecting, using, and sharing quality data for positive impact and data innovations that capture the 
+multidimensional aspects of data as a digital public good (DPG), protect data subject’s privacy, support the social contr act for data, 
+and mitigates existing multidimensional inequities that arise with datafication of socioeconomic and democratic activity.  
+ 
+ 
+considerations. This includes updating our individual and instituti onal capacities and 
+competencies, our norms, standards and governance frameworks, our efforts to safeguard 
+human dignity, and promote shared prosperity from the global digital economy.  
+Many low and middle  income countries (LMICs ), (most which are African) operate from relative 
+weakness at multilateral fora. There should be formal initiatives to address issues around 
+inclusion, coordination, financial assistance, and capacity -building on global RAI governance . 
+More needs to be done to ensure trust in enhanced multi -stakeholder collaboration with clear 
+action -oriented interventions. This is crucial to build truly global consensus for technical 
+standard -setting, capacity building, network development, and for addressing existing 
+inters ectional inequities and existential risk that can be exacerbated by the development and use 
+of AI, if there are no guardrails and risk mitigation interventions in place.  
+Global governance for RAI should be transversal, developed collaboratively, and in con sultation 
+with diverse stakeholders, including civil society, industry, government, and international 
+organizations, particularly from LMICs. This promotes legitimacy, inclusivity, transparency, and 
+accountability in the development and implementation of t echnical standards, regulation, policy, 
+and legislation that shape global AI governance. Meaningful participation4 ensures that RAI 
+governance initiatives are informed by contextually relevant needs and priorities, are 
+accountable to the public, reduce mu ltidimensional inequities, build trust in supranational 
+organisations, and support the principles of reformed multilateralism for the common interest.  
+Leveraging RAI governance to promote digital commons as global public goods should focus on 
+investments o n building multi -level technical capacity, institutions, infrastructure, innovation 
+ecosystems and skills in LMICs to ensure their AI ecosystems and communities are empowered 
+to leverage the benefits of RAI for their own development. This includes building  human capital 
+by promoting access to AI -related education and training, as well as supporting the development 
+of local AI ecosystems to enhance contextually relevant innovations and entrepreneurship 
+throughout the AI value chain.  
+ii. Sustainable Digital Devel opment:  Global RAI governance should support the sustainable 
+development goals (SDGs), including reducing poverty, promoting economic growth, ensuring 
+environmental sustainability, and improving access to basic services such as healthcare and 
+education. Co llective action and agile governance is  required at the global stage to develop 
+common visions, values and renewed objectives for sustainable digital development (SDD).  
+Significant funding, capacity building, and institutional reform is needed at all polic y levels to 
+ensure there are appropriate interventions that consider the multidimensional disruptions 
+between data -driven digitalisation and sustainability. Negative externalities of digitalisation are 
+often accelerants of existing inequities, market ineff iciencies, and unsustainable trends and must 
+be mitigated. Global cooperation is required to co -create and ensure coordinated proactive 
+interventions to mitigate these externalities —emission reduction and resource use, rewiring 
+production and consumption v alue chains, combatting climate misinformation, reducing digital 
+divides, and preventing rights  violation , to name a few.   
+With regards to AI, there is an emergent need to consider the relationship between algorithmic 
+systems, the sustainability of computi ng infrastructure, and arguments for climate and 
+ 
+4 Meaningful participation refers to the active and meaningful involvement of diverse stakeholders, particularly those from 
+developing countries, in the governance of transnational AI.  
+ 
+ 
+environmental justice. These issues must be addressed by the global community in order to 
+encourage and direct targeted investments that leverage digitalisation and frontier technologies 
+to facilitate new kn owledge commons, the circular  economy, agile governance, industrial  
+innovations, and an overall  just transition to a greener economy. The UN GDC must facilitate 
+global dialogues on RAI sustainability opportunities, impacts, and challenges of restructuring 
+economic, climate, and environmental activity  for co -creation of  scalable solutions that support 
+a just digital circular economy, with considerations  of various techno -social contexts along value 
+chains and ecosystems.  
+iii. Just Public Data Value Creation, Data Protection, and Privacy:  The data -driven digital revolution 
+presents an unprecedented opportunity for LMICs to harness digital resources that have 
+potential to accelerate development objectives. Consequently, improving access to and 
+discoverability of digital public goods (DPGs5) is crucial.  
+Data as a DPG is vital, as the amount of data produced continues to grow exponentially with the 
+data -driven d igitalisation of socioeconomic activity. Data is critical to understanding current 
+challenges, anticipating problems, building future resilience, and developing prospective 
+solutions for organisations, governments, businesses, and civil society.  Robust dat a governance 
+guides best practices for responsible, ethical  data innovations  particularly in the context of 
+leveraging interdependent data -driven digital technologies such as AI and machine learning 
+(ML). A robust data governance framework is also an impo rtant component of enabling better 
+quality and more granular data to achieve development goals, and ensure people’s digital rights 
+are protected through  policy tools and frameworks that ensure just public data value creation  
+and RAI.  
+iv. Human Cantered , Multi cultural RAI Ethics, and Values: Development of  AI technologies should 
+adhere to human -centered ethical principles, including transparency, accountability, fairness, 
+safety, and respect for human dignity and rights. They should be developed and deployed in  a 
+manner that maximizes the benefits to society while minimizing the risks and potential harms, 
+particularly with regard to issues such as privacy, security, and bias.  
+Human -centered RAI ethics should prioritize the well -being and interests of human being s and 
+their respective responsibilities as stewards of the earth. It also requires ensuring that AI systems 
+do not reinforce existing biases or discriminate against certain groups of people, who face 
+intersectional systemic marginalisation.  
+Multicultural e thics for AI acknowledges that different cultures may have different values and 
+norms that need to be taken into account in the development and deployment of AI systems. 
+This involves recognizing and respecting cultural diversity and understanding the pote ntial 
+impact of AI on different cultures, socioeconomic realities, and communities beyond the current 
+dominant normative framework of values, technical standards, and governance frameworks that 
+shape global dialogues  
+4. Key Actions and Commitments  
+We recommen d the following concrete action items in the GDC:  
+ 
+5 DPGs include not only open -source software, but open -source: content, artificial intelligence (AI)  models, standards, and data.  
+ 
+ 
+i. Create a World Data and RAI Governance Institution, a representative multilateral 
+structure that is reflective of contemporary geopolitical realities is required to address 
+threats from frontier and emergin g technologies, growing wealth asymmetries, the 
+disruptive role of non -state actors, and intensifying geopolitical competition. Significant 
+efforts are needed to improve the coherence and consistency of various interdependent 
+global systems to alter the ar chitecture for global sustainable digital development, 
+equitable economic growth, and shared prosperity from the data -driven digital 
+economy.  
+ii. Create a Global RAI Governance Inclusive Framework  to facilitate the dialogue and 
+governance on norms, technical standard -setting and legal frameworks for co -defining 
+key RAI governance frameworks for digital sustainability in collaboration with  standard 
+setting entities, member states and private actors.   
+Formal action -oriented inclusive frameworks are required to ensure meaningful 
+participation from diverse stakeholders for a truly global consensus on AI governance 
+that is trustworthy, human rights -based, promotes peace, and supports sustainable 
+economic development in a manner that reflects global interdependencies, various 
+socioeconomic realities, and the rich diversity of our modern interdependent global 
+society.  
+Create funding mechanisms, technical capacity building, and varied edu cation 
+programmes to strengthen capacity, skills and reflexivity needed to advance digital 
+sustainability with the flexibility for signatories of the Inclusive Framework to contribute 
+to global RAI governance that supports mechanisms to adapt RAI best prac tices to their 
+contextual realities.  
+iii. Support  RAI for Sustainable Digital Development . Encourage  strong commitment and 
+strong alliances across state and non -state actors to enhance an unsiloed approach  to, 
+stimulate demand, technical standard setting and re sponsible investments  in green 
+digital infrastructures, products  and services, and innovations  that are contextually 
+relevant to various socioeconomic realities.  
+As part of the  Coalition for Digital Environmental Sustainability (CODES) , the DepHUB 
+support s the CODES GDC Submission6 to reorient resources towards applied digital 
+innovations for sustainable development , and advance sustainable development to the 
+forefront of a just digital transition.  
+iv. Promote Sustainable Open Source Innovations and Just Digital Public Goods . Utilize data 
+for advancing the common good, globally. Develop a public good framework for various 
+data, including climate and environmental data to  leverage sustainability assessments 
+and global stock -taking.  Leverage existing  netwo rks and technical standards to ensure  
+DPGs are open and accessible to all, with no barriers to entry and can be adapted to 
+various innovation ecosystems. Leveraging DPGs for local innovation ecosystems should  
+be transparent, accountable, and their code s hould be publicly available for inspection 
+and use to support data interoperability and RAI technologies developed as DPGs. 
+Harmonise technical standards to utilise quality data for advancing a DPG framework. 
+Specify guidelines and actions needed for just public data value creation, sustainable 
+digital development, promoting DPGs, and to inform institutional updates within 
+ 
+6 https://www.sparkblue.org/codes -gdc-submission  
+ 
+ 
+interdisciplinary mandates with cross -cutting policies, research agendas, and legislative 
+frameworks at local, national , and global leve ls. 
+v. Develop  Financing Mechanisms to Advance Sustainable RAI Solutions . Developing 
+financing mechanisms to advance sustainable RAI solutions requires a coordinated effort 
+amongst different stakeholders and a commitment to promoting sustainability and RAI 
+practices. As part of the Global RAI Governance Inclusive Framework, a  decentralized, 
+innovative financing mechanisms like crowdfunding, micropayments or payments for 
+ecosystem services can be developed through the new recommended World Data and 
+RAI Governan ce Institution . This can  facilitate harmonization, adoption, and monitoring 
+of financial reporting standards that promote sustainable investments  for a just green -
+digital twin transition.  
+Establish funding opportunities, such as grants, loans, and venture capital, that prioritize 
+sustainable RAI initiatives to incentivize investment in RAI initiatives that promote 
+sustainability and RAI practices.  Leverage existing funding mechanisms, such as public -
+private partnerships, impact investing, and crowdfunding, to support sustainable RAI 
+initiatives to increase the resources available for sustainable RAI and broaden the range 
+of stakeholders involved in financing RAI initiatives. Monitor and evaluate the impact of 
+financing mechanisms on the development and deplo yment of sustainable RAI solutions 
+to identify best practices and areas for improvement to ensure that sustainable RAI 
+financing mechanisms are achieving their intended goals.  
+ 
+  
+5. Signatories  
+Maha Jouini on behalf of the African Center for AI and Digital Technology ( ACAIT). Nouakchott  
+Mauritania .  
+Angella Ndaka on behalf of The Centre for African Epistemic Justice(CAEJ). Nairobi, Kenya.  
+Michael Zimba representing African Union High -Level Panel on Emerging Technologies (APET)  
+ 
+ 

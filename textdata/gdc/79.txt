@@ -1,0 +1,192 @@
+  
+ 
+ 
+ 
+Amazon Input  
+Global Digital Compact  Public Consultation  
+April 2023  
+ 
+Amazon welcomes the opportunity to provide input into the UN’s Global Digital Compact (GDC) 
+public consultation.  
+ 
+Amazon supports the UN Secretary General’s vision for an inclusive, constructive GDC, which 
+presents an important opportunity to facilitate a multi -stakeholder framework for thoughtful 
+digital governance.  
+ 
+-------  
+Internet Governance  
+Amazon has long supp orted the multi -stakeholder model of internet governance, including 
+actively participating in and providing funding for the Internet Governance Forum (IGF).  
+Therefore, we recommend that the UN commit in the GDC  to preserve and strengthen the multi -
+stakeholder model, particularly by convincing Member States to ensure that UN policymaking 
+processes must be more diverse, equitable, and inclusive, and that existing fora tasked with 
+internet governance challenges, such as the IGF, are further stren gthened with appropriate 
+human resources and funding. Meaningful participation of interested and informed stakeholders 
+is essential to ensure that outcomes are both effective and accepted. It is particularly important 
+to ensure the meaningful participation  of stakeholders from the global South and other typically 
+under -represented groups in global public policymaking pertaining to the internet, including 
+women.  
+ 
+Avoid Internet Fragmentation  
+The GDC should promote policies that s upport an open, interconnected, and interoperable 
+internet.  
+ 
+Laws that fail to consider the architecture of the internet and place barriers to global connectivity 
+contribute towards a more fragmented internet. Such laws mainly focus on the deprivation of 
+rights such as pr ivacy, data protection and free expression, which undergirds many fragmentation 
+initiatives. Promoting these rights on a global basis can defend against the forces of 
+fragmentation.  
+ 
+Apply  Human Rights  Online  
+Amazon is committed to ensuring the people, workers, and communities that support our entire 
+value chain are treated with fundamental dignity and respect. We strive to ensure that the 
+products and services we provide are produced in a way that respects human rights.  
+While it is the duty of governments to protect human rights, Amazon recognizes our 
+responsibility to respect and uphold internationally recognized human rights through the ethical 
+treatment of our workforce and those within our value chain. Guided by the UN Guiding 
+Principles on Business and Human Rights, we commit to embedding respect for human rights 
+  
+ 
+ 
+throughout our business.  
+ 
+We ask that the GDC  renew the commitment of Member States to protecting human rights both 
+offline and online.  
+ 
+Protect Data  
+Amazon appreciates the UN’s interest in addressing digital trust and security online in the GDC . 
+ 
+Amazon builds privacy into our services from the ground up. Many core features of the customer 
+experience at Amazon depend on us using data responsibly and tr ansparently. Our customer -
+centric approach has led us to follow privacy -by-design principles since our founding. We disclose 
+in our privacy notice the types of data we collect and the limited circumstances in which we share 
+customer data with third parties . 
+ 
+We have a longstanding commitment at Amazon to preserve the trust of our customers and their 
+families, and we have strict measures and protocols in place to protect their security and privacy.  
+ 
+For example, we provide enriching digital experiences for kids, from easy -to-use controls to 
+thoughtfully curated kids content, all built with trust by design.  
+ 
+We believe protecting our customers' privacy is central to earning and keeping their trust. It's a 
+top priority across Amazon, especially for the Alexa a nd Devices teams that work on privacy and 
+security.  
+ 
+While privacy has been core to how we designed  Alexa since day one , our mission is to 
+continuously deliver incredibly delightful experiences for our customers while providing them 
+with control and transp arency, keeping their information safe, and using their information 
+responsibly to directly improve their experience. Every day, our teams are inventing to help solve 
+unique privacy challenges presented by voice -first technology and AI. We have teams dedic ated 
+to reviewing new devices and features to ensure that privacy is thoughtfully built into the product 
+and experience. Our scientists and engineers invest in research and new machine learning 
+techniques to further improve our technologies for privacy. We  challenge ourselves to think 
+about new ways to give customers greater transparency and control over their Alexa experience.  
+ 
+Additionally, at Amazon Web Services , customer trust is the top priority. We deliver services to 
+millions of active customers, inc luding enterprises, educational institutions, and government 
+agencies in  over 245 countries  and territories globally . Our customers include financial services 
+providers, healthcare providers, and governmental agencies, who trust us with some of their 
+most sensitive information.   
+ 
+Organizations access state of the art, secure cloud services to innovate with speed and agility, 
+and the international free flow of data is critical to accelerating this digital transformation. 
+Enabling trusted cross -border data fl ows will promote digital inclusion and democratize access to 
+  
+ 
+ 
+digital technologies. Cloud  technologies and cross -border data flows have made it easier for 
+people to access online services, including for education, healthcare and financial services. 
+Business es in developing countries can also reach new markets and access the best technologies 
+through cross -border data flows, fueling economic development and bridging digital divides.  
+ 
+Trusted cross -border data flows can also promote innovation by enabling res earchers, 
+entrepreneurs, and innovators to collaborate and share information across borders. This can lead 
+to new breakthroughs in science, technology, and medicine, as well as new products and services 
+that can improve people's lives and address global ch allenges such as climate change and 
+sustainable development.  
+ 
+The GDC should promote policies and regulatory approaches that enable trusted cross -border 
+data flows that will help to fully unlock the potential of trusted cross -border data flows for 
+economi c development and social good. Some examples include risk -based approaches to 
+cybersecurity and strong, interoperable data protection frameworks. We recommend that the UN 
+build on and complement best practices found in existing international frameworks suc h as 
+principles that reinforce a shared commitment to promoting interoperability, high standard 
+digital trade agreements, and regional frameworks (e.g. APEC Cross Border Privacy Rules System).  
+ 
+Artificial Intelligence  
+Artificial intelligence (AI) is one of the most transformational technologies of our generation and 
+provides huge opportunities to be a force for good and drive economic growth. It can help 
+scientists cure terminal diseases, engineers build inconceivable structures, and farmers yield 
+more cr ops. AI allows us to make sense of our world as never before —and build products and 
+services to address some of our most challenging problems, like climate change and responding 
+to humanitarian disasters.  
+ 
+While the benefits of AI are already plain to see and improving our lives each day, unlocking 
+AI’s full potential will require building greater confidence among consumers. That means earning 
+public trust that AI will be used responsibly and in a manner that is consistent with the rule of 
+law, human rights , and the values of equity, privacy, and fairness.  
+ 
+Understanding the important need for public trust, Amazon Web Services  works closely with 
+policymakers around the world as they assess whether existing consumer protections remain fit -
+for-purpose in an AI  era. An important baseline for any regulation must be to differentiate 
+between high -risk AI applications and those that pose low -to-no risk. The great majority of AI 
+applications fall in the latter category, and their widespread adoption provides opportun ities for 
+immense productivity gains and, ultimately, improvements in human well -being. If we are to 
+inspire public confidence in the overwhelmingly good, businesses must demonstrate they can 
+confidently mitigate the potential risks of high -risk AI. The pu blic should be confident that these 
+sorts of high -risk systems are safe, fair, appropriately transparent, privacy protective, and subject 
+to appropriate oversight.  
+ 
+  
+ 
+ 
+We are committed to developing fair and accurate AI services and providing customers with t he 
+tools and guidance needed to build applications responsibly. We recognize that responsible AI is 
+the shared responsibility of all organizations that develop and deploy AI systems.  We also 
+strongly support the development of international AI standards (such as the International 
+Standards Organization/ISO) as  a means of controlling for AI risks, and of ensuring 
+interoperability between regulatory approaches. The development of these standards should 
+follow an open, multistakeholder approach as much as po ssible.  
+ 
+As an active member of multi -stakeholder organizations such as the  OECD AI  working groups, 
+the Partnership on AI , and the Responsible AI Insti tute, we partner with all stakeholders, 
+including governments, in developing risk -based approaches to AI governance.  
+  
+As the U N considers AI in its development of its GDC , it should endorse and amplify the work 
+done previously by the multi -stakeholder community, in particular the OECD’s AI Principles1 and 
+the U.S. National Institute of Standards and Technology AI Risk Management Framework .2 
+ 
+Connect All People to the Internet  
+As a co mpany of inventors, we are well aware of the wondrous power of internet connectivity. 
+Basic education, economic opportunity, and adequate healthcare increasingly rely on access to 
+affordable, reliable broadband.  
+ 
+That’s why we are  investing more than $10 billion to develop Project Kuiper , an advanced, low -
+Earth orbit satellite broadband network that will provide fast, affordable broadband to unserved 
+and underserved communities  around the world. We are excited about the benefits it will 
+provide consumers, small businesses, local governments, educators, and rural and other 
+traditionally disadvantaged communities.  
+ 
+Project Kuiper will help close the digital divide by delivering affordable broadband with  speed and 
+latency on par with traditional fiber networks  to a wide range of customers  in places that 
+currently lack  reliable connectivity.   
+ 
+Amazon remains committed to working with all interested partners that share our commitment 
+to bridging the  digital divide .  Through strong commitments from both the private and public 
+sectors, we believe we can achieve this goal.  
+ 
+Therefore, we ask that the GDC  reaffirm the UN’s commitment to global connectivity, as well as 
+promote policies that reduce access costs, are non -discriminatory, technology -neutral, and 
+supportive of innovative business models and the development and deployment of a wide range 
+of technologies, standards, a nd system architectures.   
+ 
+ 
+                                                           
+1 OECD AI Principles  
+2 AI Risk Management Framework  
+  
+ 
+ 
+------  
+Amazon looks forward to further engaging with the UN in its development of the GDC  and related 
+activities, including the Summit for the Future.  

@@ -1,0 +1,536 @@
+Submission to the Development of the Global Digital Compact 
+from Stakeholders of the Caribbean Internet Governance 
+Forum  
+I. Introduction  
+The Caribbean Telecommunications Union (CTU) Secretariat reached out to stakeholders of the 
+Caribbean Internet Governance Forum (CIGF) and the Small Island Developing States Internet 
+Governance Forum (SIDS IGF) to coordinate a joint input to development of  the Digital Global 
+Compact of the United Nations (UN). Collaboration was undertaken through a shared document 
+in the cloud and via Zoom video conferencing. Caribbean stakeholders from the Governmental, 
+private sector, academia and civil society stakeholde r groups actively participated in the joint 
+process so this document represents a collective Caribbean input. While Caribbean nations do 
+provide a SIDS perspective, this submission is not however representative of the views of SIDS 
+from other world regions .  
+ 
+II. Thematic Areas  
+Stakeholders were asked to comment on the thematic areas provided by the UN and to add 
+others they deemed pertinent to the Caribbean. As requested by the UN, these thematic areas 
+were then assessed based on the existing work completed o r in progress and finally the needs 
+to be addressed.  
+ 
+In considering this, stakeholders were asked to reference the  Caribbean Internet Governance 
+Policy Framework  (CIGPF) which was developed by the CIGF over several years. The CIGPF seeks 
+to support, guide and harmonise Internet governance activities across the Caribbean. In 
+additi on, the  Digital Agenda  for Latin America and the Caribbean  (eLAC 2024) adopted in 
+November 2022 by the Eighth Ministerial Conference on the Information Society in Latin 
+America and the Caribbean was also referenced.  
+ 
+Caribbean priority areas in Internet governance identified b y the CIGPF are:  
+● Infrastructure for broadband connectivity  
+● Internet technical infrastructure  
+● Legal & regulatory frameworks and enforcement  
+● Internet content  
+● Public awareness and capacity building  
+● Research.  
+Whereas eLAC 2024 identified 4 main pillars as follows:  
+● Infrastructure, connectivity and the development of skills and competencies  
+● Digital economy, entrepreneurship, innovation and sustainability  
+● Inclusion and the digital transformation of the State  
+● Forging new partnerships re trade integration , the regional digital market and 
+cooperation.  
+eLAC 2024 also includes 10 specific targets for broadband penetration, service accessibility, 
+digital skills and planning.   
+ 
+Finally, other references relevant to SIDS were also noted as worthy of consideration in 
+formulating our inputs to the GDC viz. the Pacific Regional e -Commerce Strategy and Roadmap 
+(https://www.forumsec.org/wp -content/uploads/2021/02/Regional -Ecommerce -Strategy -
+Roadmap.pdf ) and the ongoing Enhancement of Governance and Enabling Environment in the 
+ICT sector (EGEE -ICT) in the Eastern Africa, Souther n Africa, and the Indian Ocean region 
+(https://www.comesa.int/egee -ict-programme/ ). 
+ 
+Using data from these references, initiatives relevant to the UN’s GDC call were identified and 
+feedback prov ided in alignment with the UN’s thematic areas, while also including proposals not 
+necessarily so exactly classified. It is important to note however, that these thematic areas are 
+not mutually exclusive and overlap will occur. Following are the thematic a reas ultimately 
+proposed and commented upon by Caribbean stakeholders:  
+ 
+1. Connect all people to the internet, including all schools   
+2. Avoid internet fragmentation   
+3. Protect data   
+4. Apply human rights online   
+5. Introduce accountability criteria for discriminati on and misleading content   
+6. Promote regulation of artificial intelligence  (ethical behavior of solutions?)  
+7. Digital commons as a global public good  
+8. Sustainable internet consumption/production  
+9. Collaboration and Multistakeholder Participation  
+10. Openness and I nteroperability  
+11. Develop a Culture of Cybersecurity  
+12. Embrace Universal Acceptance  
+ 
+  III. GDC Input from Caribbean Stakeholders   
+ 
+The following table summarises and collates the feedback provided by Caribbean stakeholders 
+from the Government, private sector, academia and civil society stakeholder groups for input to 
+the GDC development process.  
+ 
+ 
+Thematic Area   Existing Efforts   Needs   
+Connect all people to 
+the Internet, 
+including schools   
+ 
+  Internet Exchange Points 
+(IXP) are being 
+implemented within 
+the Caribbean to 
+expand access to 
+and improve the 
+quality of service 
+provided.  
+  
+IXPs exist in 18 countries 
+within the 
+Caribbean .  Adequate infrastructure, designed to 
+be resilient, to withstand the 
+environmental hazards and natural 
+disasters experienced in the 
+region.  
+Foster the growth and development of 
+all IXPs, IXP services and facilities 
+in the regi on. 
+The necessary devices to provide 
+meaningful connectivity via both 
+wired and wireless modes.  
+Capacity building to enh ance digital 
+skills needed to use these devices 
+while also raising awareness of and 
+protecting the vulnerable and 
+disadvantaged in society, who are 
+a large but silent percentage of the 
+population.  
+Note: The considerations account for 
+connecting buildings a nd people 
+given the specific inclusion of 
+schools, a subset of all people.  
+National and regional 
+education platforms 
+which require 
+internet access be 
+made available at 
+schools.  Enhancing the skilled labour force to 
+provide the quality of service 
+needed to ensure meaningful 
+connectivity by providing capacity 
+building in planning,  designing and 
+implementing network 
+infrastructure    
+Educating all potential users on safety 
+measures needed to protect 
+themselves and children online.  
+Thematic Area   Existing Efforts   Needs   
+Digital infrastructure to provide safe 
+learning environments.  
+  National and regional 
+universal service 
+funds ( USFs)   Encourage use of the funds to provide 
+equitable access to the have nots. 
+Encourage the implementation of 
+USFs where they don’t exist.  
+Encourage detailed data collection on 
+existing digital divides regionally to 
+better inform policy and allocate 
+resources from USFs  
+Thematic Area   Existing Efforts   Needs   
+Avoid Internet 
+Fragmentation    Collaboration on a regional level on 
+decisions on issues like regulation.  
+Facilitate measures which prevent 
+differences of language from 
+becoming/continuing to be break 
+points.  
+Lobby for our Caribbean values in 
+international fora.  
+Raise awareness of what is now 
+considered "other" and how it 
+could be useful/interesting for us  
+Existing efforts 
+regarding openness 
+and interoperability:  
+ 
+Caribbean Open 
+Institute (COI)  
+ 
+CARICOM Single ICT 
+Space  
+ 
+Caribbean Open Data 
+Conference  Regulatory framework  
+Should  support  openness and 
+interoperability. This includes 
+policies and regulations that 
+promote open data, open 
+standards, and open APIs, and that 
+encourage the use of open source 
+software.  
+ 
+Awareness  
+Greater awareness of the benefits of 
+openness and interoperability, 
+both among policymakers and the 
+general public. This includes 
+understanding the potential of 
+open data, open source software, 
+and open standards to drive 
+innovation and economic growth.  
+ 
+Investment in Capacity -building  
+There needs to be investment in the 
+skills and knowledge necessary to 
+promote openness and 
+interoperability. This includes 
+training programs for government 
+officials, educators, and 
+entrepreneurs to help them 
+understand how t o work with 
+open standards and technologies.  
+ 
+ 
+Infrastructure Investment  
+Investment in infrastructure is 
+necessary to support openness 
+and interoperability. This includes 
+the development of robust data 
+exchange platforms, the 
+Thematic Area   Existing Efforts   Needs   
+deployment of high -speed inter net 
+connectivity, and the provision of 
+the necessary hardware and 
+software tools to enable open 
+collaboration and innovation.  
+Protect Data   Data Protection Policies 
+and Legislation are 
+being drafted and 
+enacted by various 
+governments within 
+the Caribbean 
+region.  
+At least 10 Caribbean 
+territories with 
+modernised data 
+protection legislation 
+at present  
+  
+  Data protection requires a 
+combination of skilled workers to 
+create risk mitigating 
+environments, awareness of safety 
+practices and the enforcement of 
+laws when there are breaches. 
+Digital security is key to users 
+being confident in their use of 
+technology. Providing 
+cybersecurity requires 
+collaboration, beginning with the 
+creator of the technology, ending 
+not with the user, but the eventual 
+owner of the technology, who 
+possesses the produced data.  
+Capacity building is required to raise 
+awareness on data and its uses 
+both good and bad.  
+ 
+  
+Policy requirements not modelled 
+solely around the existing 
+European models or General Data 
+Protection Regulation (GDPR) 
+compliance.  
+Thematic Area   Existing Efforts   Needs   
+Apply human rights 
+online   
+    Policy requirements not modelled 
+solely on the existing European 
+models  
+Consistency with current human rights 
+standards and individual 
+responsibilities and obligations is 
+needed.  
+Public awareness -raising to inform 
+users of their rights online and the 
+responsibilities of users to 
+maintain equal rights.   
+Introduce 
+accountability 
+criteria for 
+discrimination and 
+misleading content   
+  The Caribbean 
+Broadcasting Union 
+has implemented a 
+Social Media Policy 
+Framework for the 
+Caribbean currently 
+used by two of 
+fifteen media bodies 
+within the region.   Internet co ntent provides a challenge 
+for information management with 
+regional content on popular 
+platforms being less visible unless 
+a tailored experience is curated. 
+The misuse of hashtags to bring 
+attention to unrelated content for 
+‘views’ presents a challenge for  
+any user attempting to source 
+information. While platforms allow 
+reporting of misleading content, 
+the use of misleading hashtags is 
+allowed due to the platform’s 
+position of creators tailoring their 
+viewing audience. This has led to, 
+for example, videos o f Carnival in 
+Canada being tagged with 
+#TrinidadandTobago.  
+Thematic Area   Existing Efforts   Needs   
+The creation and popularity of 
+‘memes’ has led to the mass 
+creation of false images under the 
+guise of being jokes that contain 
+false information believed by many 
+to be true. To mitigate this, all 
+satire content should be clearly 
+labelled as such in all me dia 
+formats.  
+This will require regional cooperation 
+due to the cross -border nature of 
+the Internet by both public and 
+private sectors in the content they 
+produce for mass consumption.  
+Promote regulation of 
+artificial 
+intelligence     Promote understanding of how this 
+regulation will impact having a 
+free and open Internet given 
+concerns these two needs are in 
+opposition.  
+ 
+Protection of data generated and 
+collected by artificial intelligen ce. 
+Digital commons as a 
+global public good   The Digital Library of the 
+Caribbean  is a 
+collection of 
+resources on or 
+about the Caribbean. 
+Partners include 
+regional and 
+international 
+libraries as well as 
+private collectors.  Raise awareness of what digital 
+commons are and are not, along 
+with the value in shared 
+knowledge.  
+ 
+To benefit fr om them they need to be 
+accessible, without breaching data 
+protection laws.   
+ 
+Free access and sustainable resource 
+management will be integral in 
+maintaining these digital 
+commons.  
+Thematic Area   Existing Efforts   Needs   
+The grouping of the Caribbean as Latin 
+America and the Caribbean needs 
+to be revised when there are as 
+many as two Caribbean nations 
+included in the dataset. The 
+assumption of findings in these 
+situations is often inaccurate for 
+the Caribbean.  
+Support nee ds to be given to the 
+Caribbean nations to gather and 
+update datasets to provide its own 
+regional statistics that will have 
+merit when placed with that of 
+Latin America.    
+Thematic Area   Existing Efforts   Needs   
+Digital Transformation 
+and Digital 
+Economy   
+  E-commerce platforms 
+are available to 
+multiple islands to 
+allow commerce 
+between islands.  Digital technologies are impacting all 
+economic activities, transforming 
+processes, business models, 
+products and value chains. To 
+maximize the impact of these 
+technologies on the economy, it is 
+necessary to boost their adoption 
+in the productive fabric, f ocusing 
+on small and medium -sized 
+companies and promoting 
+technology -based 
+entrepreneurship  
+The transformation of processes will 
+include the necessary changes to 
+how information is distributed to 
+the public as Internet content. This 
+will need to be guided  by policies 
+which determine accountability for 
+and classify harmful or misleading 
+content.  
+Legislation and regulation will need to 
+be reviewed and may require 
+amendments.  
+Thematic Area   Existing Efforts   Needs   
+E-governments are 
+becoming more 
+sustainable with 
+government services 
+being entirely or 
+partially online.  
+  Fostering a regional digital market 
+strategy, which reduces barriers to 
+digital trade, must be part of the 
+strategies of subregional 
+integration mec hanisms, through a 
+greater integration of digital 
+infrastructure, normative 
+harmonization, free flow of data, 
+and facilitation of commerce and 
+best logistics services, among 
+others.  
+Ensure that e -gover nment services are 
+accessible to all  
+Collaboration and 
+Multistak eholder 
+participation  Caribbean 
+Telecommunications Union  
+ 
+Caribbean Internet 
+Governance Forum  
+ 
+Caribbean Network 
+Operators Group 
+(CaribNOG)  
+ 
+The Caribbean Open 
+Institute  
+ 
+CANTO   Limited resources  
+Caribbean countries face resource 
+constraints, including limited 
+funding, technical expertise, and 
+infrastructure. Collaborative efforts 
+that bring together governments, 
+private sector, civil society, 
+academia, and international 
+partners can pool resources , 
+expertise, and best practices to 
+address common challenges and 
+optimize the utilization of available 
+resources.  
+ 
+Capacity Building  
+This is needed to enhance the skills 
+and knowledge of stakeholders in 
+areas such as digital technologies, 
+cybersecurity, da ta management, 
+and policy development. 
+Multistakeholder participation in 
+capacity building initiatives can help 
+build a skilled workforce, promote 
+knowledge sharing, and foster 
+innovation in the region.  
+ 
+Coordination and Harmonization  
+The Caribbean region consists of many 
+small island states, each with its 
+own unique challenges and 
+opportunities. Collaborative efforts 
+and multistakeholder participation 
+can help in coordinating and 
+harmonizing efforts across 
+countries to avoid duplication of 
+efforts, streaml ine processes, and 
+promote regional cooperation and 
+integration.  
+ 
+Policy and Regulatory Frameworks  
+Developing and implementing 
+effective policy and regulatory 
+frameworks for digital 
+infrastructure and services require 
+Thematic Area   Existing Efforts   Needs   
+collaboration and multistakeholder 
+participation. Involving relevant 
+stakeholders in policy discussions, 
+consultations, and decision -maki ng 
+processes can help ensure that 
+policies and regulations are 
+inclusive, transparent, and aligned 
+with the needs of different sectors 
+and communities.  
+Thematic Area   Existing Efforts   Needs   
+Develop a Culture of 
+Cybersecurity  CARICOM Cybersecurity 
+and Cybercrime Action Plan 
+- CARICOM IMPACS (March 
+2016)  Adoption of Regional Cybersecurity 
+Strategy   
+Given the marked increase in cyber 
+incidents, a culture of cybersecurity 
+is sine qua non for a free and 
+secure digital future.  
+SIDS , given their inherent constraints 
+such as small populations, limited 
+resources (financial and human) are 
+particularly vulnerable. Noting that 
+the shortage of cybersecurity 
+personnel globally would be 
+exacerbated in the SIDS context.  
+Consideration should be given to how 
+the particular vulnerabilities 
+associated with small size/island 
+states could be translated into 
+strengths in the context of 
+cybersecurity  
+Build capacity among end users to 
+mitigate the risks to themselves 
+and others.  
+Thematic Area   Existing Efforts   Needs   
+Sustainable internet 
+consumption/production  
+  Due to the large amount of energy the 
+Internet increasingly consumes in 
+data centres, cloud deployments 
+etc., consideration needs to be 
+given to the environmental impact. 
+Key areas of consideration are the 
+conservation of natural resources, 
+reduction in to xic materials and the 
+emission of waste and pollutants 
+and other environmental 
+protection areas.  
+There is need for public awareness of 
+the potential environmental risks 
+posed by current, emerging and 
+future technology - especially for 
+SIDS. This includes the issue of 
+Radio Frequency (RF) radiation 
+exposure standards and limits – 
+Safety/Awareness/ 
+Publ ications/Regulations.  
+ 
+  
+ 
+ 
+Collated by the Caribbean Telecommunications Union (CTU) Secretariat.  
+ 
+ 
+ 
+28th April 2023.  
+ 
+https://input.un.org/EFM/se/3995D1A472EC463708DB480DD61A87357E   

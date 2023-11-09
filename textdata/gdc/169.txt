@@ -1,0 +1,621 @@
+ 
+ 
+Office of the United Nations High Commissioner for Human Rights  
+Submission to the Global Digital Compact  
+ April 2023  
+I. Introduction  
+Digital technology is increasingly intertwined with and influencing all aspects of our lives and 
+societies. As such, it s development and use urgently requires governance frameworks that will 
+benefit humanity.  
+As we approach the 75th anniversary of the Universal Declaration of Human Rights, the Global Digital 
+Compact provides the opportunity to reaffirm the relevance of th e universality of rights for shaping 
+the principles of our digital future and in providing concrete guidance on the commitments needed.  
+UN Human Rights1 envision s a future where digital technology and innovation are fundamental 
+resources for reaching the Sustainable Development Goals and the realization of the full range of 
+human rights for all .  As affirmed by the UN, Member States and international and regional human 
+mechanisms, people are entitled to the same human rights online and offline .  
+But to fulfil this vision, human rights must be placed at the centre of the development of digital and 
+carefully crafted governance frameworks  to harness its power , while avoid ing its potential pitfalls.  
+It is crucial that the challenges and opportunit ies of the digital future unite, rather than divide. 
+Finding global common ground for addressing the risks posed by digital technologies while 
+harnessing the opportunities they offer is a complex tax. There is a risk of fragmented responses and 
+solutions b eing developed that may weaken already -established human rights norms and standards.  
+The Global Digital Compact offers an opportunity to reaffirm these norms as they apply in digital 
+space and place them at the centre of innovation and governance efforts t hat will be determinant 
+for our digital future.  
+The universality of the human rights framework  
+The human rights framework offers a bedrock  for navigating  responsible  governance in this field. 
+Through this framework, the complex challenges for the digital world can be analysed , and 
+responses developed that place individuals , groups  and their well -being at their core.  
+A key attribute of the hum an rights framework is th at it has been agreed across countries and 
+regions, and States are already legally bound by these standards. As reflected in the UN Charter, the 
+Universal Declaration of Human Rights and in international human rights treaties, human rights are 
+ 
+1 The Office of the United Nations High Commissioner for Human Rights (OHCHR), is mandated by the UN 
+General Assembly through resolution 48/141 to promote and protect the enjoyment and full realization, by all 
+people, of all human rights. The Charter of the United Nations, the Universal Declaration of Human Rights, 
+and international human rights treaties and law  establish those rights.  
+
+universal an d constitute a framework for governance, including digital governance, that places the 
+well-being of people at the centre.  
+The necessity to engage a wide range of stakeholders, including the private sector  
+The human rights framework also provides a useful  foundation for the multistakeholder approach 
+that is essential to the Global Digital Compact  and must be protected going forward . To ensure its 
+effectiveness, relevance and legitimacy, the Global Digital Compact should be strongly grounded in 
+an inclusive , transparent and democratic multistakeholder process , building on and strengthening 
+existing intergovernmental and regional groups documents, as well as civil society and academic 
+statements.  
+The private sector holds a strong stake in shaping our digital  future in a responsible and rights -
+respecting manner, and it is essential to engage with the myriad of companies now relaying on 
+digital technologies for their everyday business as well as those privileged global few that develop 
+and deploy avant -garde  technologies. The United Nations Guiding Principles on Business and Human 
+Rights (UNGPs) offer a principled and pragmatic framework and approach for promoting and 
+ensuring business responsibility and accountability for human rights. In the digital era, where  
+companies take on an ever more central role, the UNGPs are essential to addressing both the 
+responsibilities of businesses in this space and States’ obligations to protect against human rights 
+harms from businesses2. Their authority and legitimacy stems from having  been unanimously 
+endorsed  by the Human Rights Council and provide a common standard broadly accepted by 
+businesses , while also providing for solid stakeholder engagement on company practices with civil 
+society, potentially affected people  and relevant other experts.  
+ Elevating human rights in the Global Digital Compact as on overarching framework  
+UN Human Rights believes it is fundamental that  the Global Digital Compact incorporate s existing 
+legal obligations and commitments and focus on the actions needed to achieve them, as this is the 
+most solid foundation for quick action in a rapidly evolving field. This would also help avoid 
+reopening issues in a manner that could lead to retrogression, rather than progress  and ensure a 
+rights -respec ting an inclusive digital ecosystem . Grounding the Global Digital Compact in an existing 
+legally binding framework would also facilitate consultations between  Member States  on its content .  
+Human rights law, standards and principles provide guidance on all  the thematic areas currently 
+listed in the call for submissions to the Global Digital Compact. As such, UN Human Rights 
+recommends that human rights not be listed only as a separate thematic area, but instead be 
+recognized as an overarching  framework that needs to be integrated across all  of the areas the 
+Global Digital Compact seeks to cover.  
+There is a vast array of principles, commitments, statements and calls in the digital sphere, which 
+provide a robust framework grounded in human rights.  
+UN Human Rights welcomes a strengthening and harmonization of the existing sets of principles, 
+commitm ents, statements and calls in the digital sphere from various intergovernmental and 
+ 
+2 Since 2019, the UN Human Rights B -Tech Project has sought to respond to the human rights challenges relating 
+to the technology sector. Using the lens of the UNGPs, the B -Tech Project provides further clarity and guidance 
+on the respective roles and responsibilities of States and technology c ompanies to ensure respect for human 
+rights in the development, deployment, and use of digital technologies  
+regional groups, other multistakeholder process, as well as civil society and academic statements .  
+ 
+II. Thematic areas  
+Connectivity  
+Core principles  
+• Access to information and communication technology , and the universal and affordable 
+access to the Internet is a precondition for the exercise of rights online and  offline  is 
+included in  the Sustainable Development Goals (SDG 9.C), reinforcing States’ human rights 
+obligations to work towards universal and accessible Internet.  (A/HRC/RES/47/16 ; 
+A/HRC/44/24)  
+ 
+• The Internet enables individuals to seek, receive and impart information and ideas  of all 
+kinds. By vastly expanding the capacity of individuals to enjoy their right to freedom of 
+opinion and expression, which is an “enabler” of other human rights, the In ternet boots 
+economic, social and political developmen t. 
+ 
+•  Efforts to close the dig ital divide, among and within countries , need to be rooted in an 
+understanding that digital divides reflect and amplify existing social, cultural and economic 
+inequalities. Approaches developed to close the digital divide need to consider historic 
+discrimination and marginalization of certain groups, including women and girls, pe rsons 
+with disabilities, elderly persons , LGBTIQ persons, youth, and others.   
+ 
+•  Particular attention should also be pai d to addressing the specific information and 
+communications technology challe nges facing children, youth, persons with disabilities, 
+older persons, indigenous peoples, refugees and internally displaced persons, migrants and 
+remote and rural communities. (A /HRC/35/9)  
+ 
+• Gender disparities in access to and use of information and communication technology often 
+reflect the discrimination faced by women in society more broadly, and have the effect of 
+further limiting access to technologies and the opportunities pr ovided by them . 
+(A/HRC/35/9)  
+ 
+• Human rights should serve as the framework for bridging the gender digital divide. 
+International human rights norms and principles, especially equality, non -discrimination, 
+inclusion, participation and the provision of effect ive remedies, should guide any action 
+taken I response to issues of access, use and misuse of ICTs . (A/HRC/35/9)  
+ 
+• Given their indiscriminate and disproportionate impact on human rights, States should 
+refrain from all forms of internet shutdowns. Shutdowns  are powerful markers of 
+deteriorating human rights situations, tending to occur in particular contexts, including 
+during periods of conflict or moments of political significance. The inability to document or 
+report human rights violations and abuses durin g such periods can contribute to further 
+violence and atrocities . Shutdowns can have a tremendous impact on the economy and have 
+shown to contribute to reversing economic progress made.  (A/HRC/RES/47/16; 
+A/HRC/50/55)  
+ 
+• In addition to refraining from unnecessary and disproportionate restrictions on digital 
+access, States also have a duty to ensure a free and open Internet . (A/HRC/32/38)  
+ 
+• The commitment to  Internet connectivity must be joined by commitment to refrain from  
+Internet shutdowns  (A/HRC/50/55 ); progress on universal and affordable access to the 
+Internet will not be meaningfully made without preventing and mitigating the harmful 
+effects of shutdowns.  
+ 
+• Bridge the global inequalities when it comes to access to the internet and connectivity. 
+Addre ssing this global inequality requires investment in communications infrastructure and 
+establishment of partnerships between financing agencies, States and the 
+telecommunications industry.   (A/HRC/50/55)  
+ 
+Key commitments  
+• Apply a comprehensive human rights -based approach in providing and expanding access to 
+ICTs.  
+ 
+• Adopt and implement ICT policies and strategies that include specific attention to gender 
+considerations and address access to, affordability of and participation in ICTs for all women. 
+(A/HRC/35/9)  
+ 
+• Refrain from the full range of Internet shutdowns. In particular, avoid impos ing blanket 
+shutdowns as they inherently impose unacceptable consequences for human rights 
+(A/HRC/50/55)   
+ 
+• States must not disrupt the Internet or telecommunications , as that is an inherently 
+disproportionate restri ction of access to information. (A/HRC/26/28 ) 
+ 
+• Rather than banning, blocking  or criminalizing the use of encryption or circumvention tools, 
+or particular communication channels such as virtual private networks (VPN), provide access 
+to such tools. (A/RES/76/ ; A/HRC/50/55)  
+ 
+• Companies should take all possible lawful measures to preve nt shutdowns that they have 
+been asked to implement, and, to the greatest extent possible, prevent or mitigate  possible 
+adverse human rights impacts. (A/HRC/50/55)  
+ 
+• Companies should enable  full disclosure of information about the interferences and 
+disrupti ons and undertake due diligence to assess and act upon the human rights risks. 
+(A/HRC/50/55)  
+ 
+• Development agencies and donors should include references to human rights standards 
+when supporting the development of legal and institutional frameworks. They sh ould also 
+ensure that risks of internet shutdowns are considered in their design and implementation 
+of cooperation programmes related to Internet connectivity. (A/HRC/50/55)  
+ 
+Internet governance   
+Core principles  
+• The global and open nature of the  Internet is a driving force in accelerating progress towards 
+development in its various forms. (A/HRC/RES/20/8 , A/HRC/RES/ 26/13 ) 
+ 
+• The international management of the Internet should  be multilateral, transparent and  
+democratic, with the full  involvement of governments , the private  sector, civil society and 
+international organizations. It shou ld ensure an equitable distribution of resources , facilitate 
+access for all and ensure a stable and secure functioning of the  Internet, taking into accou nt 
+multili ngualism. (WSIS:  Geneva  Declaration of Principles, 
+https://www.itu.int/net/wsis/docs/geneva/official/dop.html  ) 
+ 
+• The development and management of the Internet and related public policy issues should 
+involve all stakeholders and relevant intergovernmental and international organizations. 
+(WSIS Geneva Declaration of Principles, 
+https://www.itu.int/net/wsis/docs/geneva/official/dop.html  ) 
+ 
+• The future of the Internet can only be guaranteed through a collaborative process. T he 
+multistakeholder governance of the Internet facilitates the participation of a broad 
+community of stakeholders in shaping the evolution and use of the Internet.  
+ 
+• Robust human rights and governance frameworks to enhance trust in technology and data 
+use, while ensuring inclusion, is key for digital governance. (A/74/821)  
+ 
+• In order to realize the benefits of increased Internet connectivity, it is important that all 
+actors, including Member States, the UN system, private sector and other stakeholders, 
+promo te open -source software, open AI models, open standards and open content that 
+adhere to privacy and other applicable international and domestic laws, standards and best 
+practices and do no harm. (SG’s Roadmap for Digital Cooperation, A/74/821)  
+ 
+Key commitm ents  
+• Preserve and strengthen the multistakeholder model of Internet governance, recognising 
+that the decentralized, open, and inclusive model of Internet governance has contributed to 
+the resilience of the Internet.  
+ 
+• Ensure legislative, policymaking and other relevant norm -setting processes concerning rights 
+and restrictions on the Internet in order to provide the private sector, civil society, th e 
+technical community and academia meaningful opportunities for input and participation . 
+(A/HRC/32/38)  
+ 
+• Maintain or increase human rights participation at all levels of (internet) governance, 
+including the setting of technical standards. (A/HRC/32/38)  
+ 
+• Ensure that Internet governance frameworks and reform efforts are sensitive to the needs of 
+women, sexual minorities and other vulnerable communities. (A/HRC/32/38)  
+ 
+Technical s tandard -setting   
+Core principles  
+• Human rights respecting standard -setting processes  for new and emerging technologies  
+must ensure principles of transparency, openness and inclusiveness.  
+ 
+• Key information about technica l standard -setting processes should be made available to 
+enable the public to understand the processes, key problems associated with specific 
+proposals and adopted standards, the reasoning behind the chosen approaches, and the 
+interests at play. Access to such information  also provides an opportunity for public 
+oversight and accountability.  
+ 
+• Meaningful and effective multistakeholder participation, including those affected by the 
+technology and the underpinning standards, is key  to developing sustainable and  effective 
+technical standards.  
+ 
+Key commitments  
+• Refrain from and prevent the development of standards that could foreseeably facilitate 
+human rights violations and abuses.  
+ 
+• Conduct meaningful consultations with all stakeholders in order to gain a compreh ensive 
+picture of the issues at stake and possible solutions.  States and companies should conduct 
+human rights due diligence regarding their participation in standard -setting processes and 
+the resulting standards, including carrying out adequate human righ ts impact assessments 
+and meaningful engagements with potentially affected stakeholders.  
+ 
+• Ensure that national, recognized standard -setting processes are open, transpar ent and 
+inclusive.  
+ 
+• Ensure that civil society organizations have the capacity , access, and resources to 
+meaningfully and independently participate in standard -setting processes.  
+ 
+• Standard -setting organizations should review their operations to assess how they affect the 
+enjoy ment of human rights, identify possible shortcoming and take meaningful action to 
+improve the integration of human rights into their practices, in line with the UN Guiding 
+Principles on Business and Human Rights.  
+ 
+Cybersecurity  
+Core principles   
+• “Internat ional law , which includes international human rights law, and in particular the 
+Charter of the United Nations,  is applicable and essential for maintaining peace and stability 
+and promoting an open, secure, stable, accessible and peaceful information and 
+communications technology environment ” (United Nations Group of Governmental Experts 
+on Developments in the Field of Information and Telecommunications in the Context of 
+International Security , A/68/98) . 
+• “Cybercrime ” must be construed in a narrow sense  as cy ber-dependent crimes,  and not  be 
+used to target the exercise of rights  (OHCHR submission to the 1st session of the Ad Hoc 
+Committee  elaborating the Convention on Countering the Use of Information and 
+Communications Technologies for Criminal Purposes , OHCHR_17_Jan.pdf (unodc.org) )  
+• Encryption is a key enabler of privacy and security online and is essential for safeguarding 
+rights, including the rights to freedom of opinion and expression, freedom of association and 
+peaceful assembly, security, health and non -discrimination . (A/HRC/RE S/47/16; 
+A/HRC/51/17 , General Assembly resolution 75/176, and Human Rights Council resolutions 
+39/6, 44/12, 45/18 and 48/4 ) 
+• Everyone should have  the right to encryption and online anonymity . (A/HRC/RES/47/16 ) 
+Key commitments   
+• Any approach to cybersecurity and cybercrime should be grounded in human rights law and 
+crafted to reduce the risk of exploiting regulation for arbitrary restrictions on rights.  
+• Ensuring cybersecurity require coordinated efforts including law enforcement, judiciary, the 
+private sector, technical community, academia and civil society . 
+• Tools that enable cybersecurity  should be promoted and guaranteed . (A/HRC/51/17, 
+General Assembly resolution 75/176, and Human Rights Council resolutions 39/6, 44/12, 
+45/18 and 48/4 )  
+Online content  
+Core principles  
+• Regulation and p olicies on content governance should be in line with international human 
+rights standards , including as set out in the International Covenant on Civil and Political 
+Rights  
+• The starting point for any regulation of online content is the right to freedom of expression 
+and the free flow and availability of information . Any restriction must meet  the clearly 
+defined criteria under international human rights law: legitimate aim, legality, necessity a nd 
+proportionality.   
+• “Human rights and freedom of expression standards, developed over time, provide suitable 
+guidance for challenges raised by disinformation, establishing normative signposts for a well -
+informed citizenry to engage in democratic processe s. By creating the conditions for human 
+rights, pluralism and tolerance to flourish, States can help reduce the risks associated with 
+disinformation” . (A/77/287, para. 20)  
+• “The human right to freedom of expression is not limited to favourably received 
+information, but covers ideas and information that may “shock, offend or disturb”, 
+irrespective of the truth or falsehood of the content” (Human Rights Committee, General 
+Comment 34, para 49), also quoted in the report of the Secretary -General on disinformatio n. 
+A/77/287, para 13)  
+• Content governance frameworks must be transparent and accountable and protect freedom 
+of expression and protecting the most vulnerable . 
+• “The UN supports more speech, not less, as the key means to address hate speech ” (UN 
+Strategy and plan of Action on Hate Speech) . 
+• “Rather than prohibiting hate speech as such, international law prohibits the incitement to 
+discrimination, hostility and violence ” (UN Strategy and Plan of Action on Hate Speech) . 
+Key commitments  
+• Amend regulation and policies on online content to bring them in line with international 
+human rights law . 
+ 
+• Member States and businesses, including cross -industry initiatives, should advocat e 
+transparent and accountable content governance frameworks that protect freedom of 
+expression, avoid incentives for overly restrictive moderation practices and protect the most 
+vulnerable . (WSIS 2015, para.52)  
+ 
+• “Guarantee a free, viable and plural media l andscape, providing strong protections for 
+journalists, human rights defenders and whistle -blowers, and consider supporting 
+transparent self -regulatory mechanisms by media that promote and protect the highest 
+standards of professionalism . (A/77/287 para 60  h) 
+ 
+• “Discourage public officials from disseminating disinformation through measures such as 
+professional codes of conduct, and adopt measures aimed at holding them accountable for 
+expressions amounting to advocacy of national, racial or religious hatred t hat constitute 
+incitement to discrimination, hostility or violence, as prohibited under international human 
+rights law, in line with the United Nations Strategy and Plan of Action on Hate Speech. Public 
+officials should never denigrate, intimidate or threa ten the media” . (A/77/287 para 60 i)  
+ 
+• “The right to non -discrimination requires that States Parties ensure that all children have 
+equal and effective access to the digital environment in ways that are meaningful for them. 
+States Parties should take all mea sures necessary to overcome digital exclusion. That 
+includes providing free and safe access for children in dedicated public locations and 
+investing in policies and programmes that support all children’s affordable access to, and 
+knowledgeable use of, digi tal technologies in educational settings, communities and homes” 
+(Committee on the Rights of the Child, General Comment 25, para 9).  
+ 
+• “The best interest of the child is a dynamic concept that requires an assessment appropriate 
+to the specific context. The digital environment was not originally designed for children, yet 
+it plays a significant role in children’s lives. States parties shou ld ensure that, in all actions 
+regarding the provision, regulation, design, management and use of the digital environment, 
+the best interests of every child is a primary consideration” (Committee on the Rights of the 
+Child, General Comment 25, para 12) . 
+ 
+• “States Parties should require the business sector to undertake child rights due diligence, in 
+particular to carry out child rights impact assessments and disclose them to the public, with 
+special consideration given to the differentiated and, at times, sev ere impacts of the digital 
+environment on children” (Committee on the Rights of the Child, General Comment 25, para 
+38). 
+ 
+• “States Parties should ensure that children have access to information in the digital 
+environment and that the exercise of that right is restricted only when it is provided by law 
+and is necessary for the purposes stipulated in article 13 of the Convention” (Committee on 
+the Rights of the Chi ld, General Comment 25, para 50 ). 
+  
+• “To be effective in countering disinformation, responses need to be multifaceted and 
+context -specific and should be grounded in respect for the right to freedom of expression ”. 
+(A/77/287, para.57)  
+ 
+• “Countering disinformation requires lasting investment in building societal resilience  and 
+media and info rmation literacy, thereby empowering individuals to identify , critically  analyse 
+and counter disinformation, with a view to enabling their full and effective participation in 
+public affairs . (A/77/287, para 58)  
+ 
+• Technology enterprises should “publicly disc lose information on their content moderation 
+policies and practices, to embed human rights impact assessments in their efforts  to 
+respond to disinformation and to provide researchers with access to data in a manner that 
+respects user privacy” . (A/77/287 pa ra 60 g)  
+Privacy and data protection  
+Core principles    
+• The right to privacy is central to the enjoyment and exercise of human rights online and 
+offline . It serves as one of the foundations of a democratic society and plays a key role for 
+the realization of a broad  spectrum of human rights , ranging from freedom of expression, 
+freedom of association and peaceful assembly and the prohibition of discrimination and 
+more . (A/RES/75/176; A/HRC/RES /47/16; A(HRC(39/29); A/HRC/23/40, A/HRC/29/32, 
+A/HRC/31/66, A/72/135 ) 
+• The devices  used by  and confidentiality of every person’s digital communication and 
+information  are inviolable . 
+• Everyone should have access to safe, secure and privacy -protective digital technologies, 
+products and services . 
+• Privacy s hould be protected by law and subject to clear enforcement, accountability and 
+remedy . 
+• Regulation and p olicies must ensure the protection of personal data . 
+• People should have greater agency over their personal data, and the tools to manage and 
+control it. Adequate resources to research, develop options, and implement solut ions should 
+be made available.  
+Key commitments   
+• Adopt and effectively enforce, through independent, impartial and well -resourced 
+authorities, data privacy legislation for the public and pr ivate sectors that complies with 
+international human rights law, including safeguards, oversight and remedies to effectively 
+protect the right to privacy . (A/HRC/51/17)  
+• Promote and protect strong encryption and avoid all direct, or indirect, general and 
+indiscriminate restrictions on the use of encryption, such as prohibitions, criminalization, the 
+imposition of weak encryption standards. Interference with encryption of private 
+communications of individuals should only be carried out when authorized by an 
+independent judicial body and on a case -by-case basis, targeting individuals if strictly 
+necessary for the investigation of serious crimes, or the prevention of serious crimes or 
+serious threats to public safety or national security . (A/HRC/ 51/17 ) 
+• Ensure th at any interference with the right to privacy, including hacking, restrictions to 
+access and use of encryption technology and surveillance of the public complies with 
+international human rights law, including the principles of legality, legitimate objectiv e, 
+necessity, proportionality and non -discrimination, and does not impair the essence of that 
+right . (A/HRC/48/31; A/HRC/ 51/17 ; A/HRC/27/37; A/HRC/39/29 ) 
+• Conduct human rights due diligence systematically, including regular comprehensive human 
+rights impact  assessments, when designing, developing, purchasing, deploying and operating 
+surveillance systems . (A/HRC/51/17)  
+• Implement moratoriums on the domestic and transnational sale and use of surveillance 
+systems, such as hacking tools and biometric systems that  can be used for the identification 
+or classification of individuals in public places, until adequate safeguards to protect human 
+rights are in place. Such safeguards should include domestic and export control measures . 
+(A/HRC/51/17)  
+• Adopt adequate legal frameworks to govern the collection, analysis and sharing of social 
+media intelligence that clearly define permissible grounds, prerequisites, authorization 
+procedures and adequate oversight mechanisms . (A/HRC/51/17)  
+• Avoid general privacy -intrusive m onitoring of public spaces and ensure that all public 
+surveillance measures are strictly necessary and proportionate for achieving legitimate 
+objectives, limiting their location and time, as well as the duration of data storage, the 
+purpose of data use and  access to data . (A/HRC/ 51/17)  
+• Biometric recognition systems should only be used in public spaces to prevent or investigate 
+serious crime or serious public safety threats and if all requirements under international 
+human rights law are complied with . (A/HR C/51/17)  
+• Establish well -tailored export control regimes applicable to surveillance technologies. States 
+should require transparent human rights impact assessments that take into account the 
+capacities of the technologies at issue and the situation in the r ecipient State, including 
+compliance with international human rights law, adherence to the rule of law, the existence 
+and effective enforcement of applicable laws regulating surveillance activities and the 
+existence of independent oversight mechanisms . (A/HRC/51/17)  
+ 
+Automated systems ( “Artificial intelligence”)  
+Core principles  
+• The international human rights framework applies to the development, use and regulation 
+of automated  systems . (A/HRC/48/31)  
+• States have a duty to protect human rights, including agai nst harm by companies developing 
+and/or using AI . (A/HRC/48/31)  
+• “As stated in the Secretary -General’s Call to Action for Human Rights, advances in artificial 
+intelligence -related technologies, such as facial recognition software and digital 
+identification,  must not be used to erode human rights, deepen inequality or exacerbate 
+existing discrimination” . (SG Digital Roadmap, para 57)  
+• The design and use of automated systems  should be subject to transparency, human 
+oversight, accountability and risk management . (A/HRC/ 48/31)  
+• Companies developing and/or deploying AI technologies have a responsibility to respect 
+human rights and identify, address  and mitigate adverse impacts stemming from or being 
+linked to their business activities . (A/HRC/48/31)  
+• The regulation of automated systems  should involve prohibition of certain AI systems if they 
+pose risks to human rights that cannot be sufficiently miti gated . (A/HRC/48/31)  
+• Regulation of automated systems  must provide for effective safeguards and redress 
+mechanisms . (A/HRC/48/31)  
+Key commitments  
+• “Taking into account the diversity of AI applications, systems and uses, regulation should be 
+specific enough t o address sector -specific issues and to tailor responses to the risks involved. 
+The higher the risk for human rights, the stricter the legal requirements for the use of AI 
+technology should be, Accordingly, sectors where the stakes for individuals are part icularly 
+high, such as law enforcement, national security, criminal justice, social protection, 
+employment, health care, education and the financial sector, should have priority. " 
+(A/HRC/48/31)  
+• “A risk -proportionate approach to legislation and regulation w ill require the prohibition of 
+certain AI technologies, applications or use cases, where they would create potential or 
+actual impacts that are not justified under international human rights law, including those 
+that fail the necessity and proportionality tests.  (…) Uses of AI that  inherently conflict with 
+the prohibition of discrimination should not be allowed. (…) Mandatory involvement of 
+human supervision and decision -making should be prescribed when adverse impacts are 
+likely to occur. Given that it can  take time before risks can be assessed and addressed, States 
+should also impose moratorium on the use of potentially high -risk technology, such as 
+remote real -time facial recognition, until it is ensured that their use cannot violate human 
+rights ”. (A/HRC /48/31)  
+• “The development and systematic deployment of methodologies to make AI systems more 
+explainable – often referred to as algorithmic transparency – is of utmost importance for 
+ensuring adequate rights protections. This is most essential when AI is us ed to determine 
+critical issues within judicial processes or relating to social services that are essential for the 
+realization of economic, social and cultural rights. Researchers have already developed a 
+range of approaches that further that goal, and in creased investments in this area are 
+essential. States should also take steps to ensure that intellectual property protections do 
+not prevent meaningful scrutiny of AI systems that have human rights impacts. Procurement 
+rules should be updated to reflect t he need for transparency, including auditability of AI 
+systems. In particular, States should avoid using AI systems that can have material adverse 
+human rights impacts but cannot be subject to meaningful auditing.” (A/HRC/48/31)  
+• “The spectrum of risks aris ing from AI systems suggests a need for adequate independent, 
+impartial oversight over the development, deployment and use of AI systems. Oversight can 
+be carried out by a combination of administrative, judicial, quasi -judicial and/or 
+parliamentary oversig ht bodies. (…) Moreover, cross -sectoral regulators dedicated to 
+overseeing the use of AI can help to set fundamental standards and ensure policy and 
+enforcement coherence. ” (A/HRC/48/31)  
+States should:  
+(a) Fully recognize the need to protect and reinforce all human rights in the development, 
+use and governance of AI as a central objective, and ensure equal respect for and 
+enforcement of all human rights online and offline;  
+ (b) Ensure that the use of AI is in compliance with all human rights and that any interference 
+with the right to privacy or other human rights through the use of AI is provided for by law, 
+pursues a legitimate aim, complies with the principles of necessit y and proportionality and 
+does not impair the essence of the rights in question;  
+(c) Expressly ban AI applications that cannot be operated in compliance with international 
+human rights law and impose moratoriums on the sale and use of AI systems that carry  a 
+high risk for adverse impact on human rights, unless and until adequate safeguards to 
+protect human rights are in place;  
+(d) Impose a moratorium on the use of remote biometric recognition technologies in public 
+spaces, at least until the authorities res ponsible can demonstrate compliance with privacy 
+and data protection standards and the absence of significant accuracy issues and 
+discriminatory impacts, and in line with recommendations set out in A/HRC/44/24;  
+(e) Adopt and effectively enforce, through in dependent, impartial authorities, data privacy 
+legislation for the public and private sectors as an essential prerequisite for the protection of 
+the right to privacy in the context of AI;  
+(f) Adopt legislative and regulatory frameworks that adequately prev ent and mitigate the 
+multifaceted adverse human rights impacts linked to the use of AI by the public and private 
+sectors  (A/HRC/48/31) ; 
+(g) Ensure that victims of human rights violations and abuses linked to the use of AI systems 
+have access to effective r emedi es; 
+(i) Enhance efforts to combat discrimination linked to the use of AI systems by States and 
+business enterprises, including by conducting, requiring and supporting systematic 
+assessments and monitoring of the outputs of AI systems and the impacts o f their 
+deployment;  
+(j) Ensure that public -private partnerships in the provision and use of AI technologies are 
+transparent and subject to independent human rights oversight, and do not result in 
+abdication of government accountability for human rights.  
+States and business enterprises should:  
+(a) Systematically and on an ongoing basis conduct human rights due diligence throughout 
+the life cycle of the AI systems they design, develop, deploy, sell, obtain or operate. A key 
+element of their human rights due d iligence should be regular, comprehensive human rights 
+impact assessments;  
+(b) Dramatically increase the transparency of their use of AI, including by adequately 
+informing the public and affected individuals and enabling independent and external 
+auditing o f automated systems. The more likely and serious the potential or actual human 
+rights impacts linked to the use of AI are, the more transparency is needed;  
+(c) Ensure participation of all relevant stakeholders in decisions on the development, 
+deployment an d use of AI, in particular affected individuals and groups;  
+(d) Advance the explainability of AI -based decisions, including by funding and conducting 
+research towards that goal.  
+ 
+Business enterprises should:  
+(a) Make all efforts to meet their responsibility to respect all human rights, including through 
+the full operationalization of the Guiding Principles on Business and Human Rights;  
+(b) Enhance their efforts to combat discrimination linked to their developm ent, sale or 
+operation of AI systems, including by conducting systematic assessments and monitoring of 
+the outputs of AI systems and of the impacts of their deployment;  
+(c) Take decisive steps in order to ensure the diversity of the workforce responsible f or the 
+development of AI;  
+(d) Provide for or cooperate in remediation through legitimate processes where they have 
+caused or contributed to adverse human rights impacts, including through effective 
+operational -level grievance mechanisms . (A/HRC/48/31)  
+ 
+Policy, regulatory and legislative processes with an emphasis on private sector  responsibility  
+Core principles:  
+• In order to create an environment in which the human rights of all are respected, States 
+need to design technology sector policies, regulations an d legislation that are coherent and 
+fully in line with the human rights framework and the UN Guiding Principles on Business and 
+Human rights . (A/HRC/50/56)  
+• Under the corporate responsibility to respect human rights, companies have the 
+responsibility to pre vent, mitigate and address human rights harms to people from business 
+activities.3 Companies developing and deploying digital technologies need to identify, 
+address and mitigate adverse impacts stemming from or being linked to the use of their 
+digital products and services, commonly referred to as the “end -use”.  (A/HRC/50/56)  
+• When human rights harms result from the use of technologies, affected stakeholders need 
+to have access to remedial mechanisms. (A/HRC/50/56)  
+• Technology companies need to commit to respect for human rights through their policies 
+and practices, and carry out  human rights due diligence during the development, as well as 
+before and during deployment of digital technologies as an on -going manner  (A/HRC/50/56)  
+• Businesses, including technology companies, and governments need to work together to 
+address gaps in the  coverage of different remediation mechanisms. States need to design 
+technology sector policies that are coherent and regulations that are fully in line with the 
+UNGPs in order to create an environment in which human rights are protected.  
+(A/HRC/50/56)  
+Key commitments:  
+States should : 
+• Review existing laws and policies with regard to their applicability for protecting human 
+rights potentially affected by new technologies;  
+• Adopt an appropriate smart mix of policy and regulatory measures aligned with the UN 
+Guiding Principles on Business and Human Rights and developed through an inclusive 
+consultative process involving civil society, technology companies and other relevant 
+stakeholders;  
+• Use public procurement of digital technologies as a tool to scale up commit ment to and 
+implementation of respect for human rights among businesses;  
+• Adopt appropriate measures mandating effective human rights due diligence by technology 
+companies;  
+• Adopt appropriate regulatory and policy frameworks for investors to promote rights -
+respecting investment in the technology sector;  
+• Strengthen or build multilateral alliances to promote the business respect for human rights 
+in the technology sector;  
+• Provide resources for dedicated independent bodies to tackle human rights issues in the 
+technology sector, such as national human rights institutions and data protection 
+authorities;  
+• Consider the creation of funding mechanisms to support civil society engagement on the 
+human rights impacts of emerging technologies;  
+• Review barriers in access to j udicial remedy in cases involving harm by technology 
+companies and take effective measures to address such barriers;  
+ 
+ 3 See also http s://www.ohchr.org/sites/default/files/Documents/Issues/Business/B -Tech/key -
+characteristics -business -respect.pdf .  
+• Strengthen the oversight and enforcement capacity of administrative regulatory bodies 
+relevant to the technology sector to enable more effe ctive measures to protect against 
+human rights risks related to it;  
+• Take effective measures to ensure that human rights are protected in situations in which 
+States contract with, partner with, license from or support technology companies . 
+ 
+Technology compa nies should:  
+• Ensure executive and governance oversight in managing human rights -related risks, 
+including by reviewing and addressing business -model -related risks;  
+• In line with their corporate responsibility to respect human rights, make a policy 
+commitment  to respect human rights and conduct robust human rights due diligence across 
+their activities and business relationships to identify, prevent, mitigate, and account for how 
+they address actual and potential human rights harms, including with regard to hum an rights 
+risks arising from their business models.  
+• To assess their human rights impacts accurately and understand the concerns of potentially 
+affected stakeholders, human rights due diligence processes should meaningfully involve 
+affected stakeholders and  external experts.  
+•  In order to  provide for accessible means for affected stakeholders to share their complaints 
+with technology companies, they need to have operational grievance mechanisms in place 
+or participate in such mechanisms  through industry -wide or multi stakeholder settings . 
+• Where harm has occurred connected with their activities, technology companies need to 
+contribute to providing remedy to affected people .  States need to adopt a smart mix of 
+voluntary and mandatory measures that foster an environment in which human rights a re 
+protected. Where appropriate, self - and co -regulatory approaches can avoid heavy -handed 
+interventions, in particular when they ensure broad stakeholder participation. Social Media 
+Councils, for example, can be established to enable industry -wide complai nt mechanism s 
+and the promotion of remedies for violations. (A/HRC/38/35, para 58)  
+States and technologies companies  
+• Both technology companies and Governments alike need to redouble their efforts and work 
+together across national boundaries to overcome di sjointed approaches, to address gaps in 
+the coverage of different remediation mechanisms, to promote greater coherence and 
+interoperability of different regimes and processes (including in a cross -border context) and 
+to address flaws in background regimes that may be exacerbating barriers to remedy.  
+ 
+ 
+ 
+ 
+ 
+ 

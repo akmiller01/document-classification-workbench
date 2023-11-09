@@ -1,0 +1,385 @@
+   
+ 
+   
+ AUSTRALIAN INTERNET GOVERNANCE COMMUNITY INPUT TO THE 
+GLOBAL DIGITAL COMPACT  
+We, the undersigned members of the Australian internet governance community,  believe that 
+digital technologies and the online environment provide  unprecedented opportunities for 
+sustainable economic growth and social wellbeing  globally . However, we also acknowledge 
+that  they have given  rise to complex risks and profound challenges  that cannot be solved by 
+any single government or entity . 
+We consider  a holistic approach driven by the need to put people first should be the key 
+motivator in devising a strategy that maximise s the benefits whilst minimising the harms that 
+the digital world offers. Key values that guide this  process  must include human rights, 
+international law, inclusiveness, transparency and sustainability.  
+We urge the ongoing process es supporting the development of the Global Digital Compact  
+(GDC) , including the work of the multistakeholder technology track and the parallel 
+intergovernmental process , to commit to and implement in practice  the highest standards of 
+inclusivity, transparency and openness in progressing its work.  
+Key considerations  
+We propose the following broad principles  be considered  in developing a Global Digital 
+Compact that provides for an ‘open, free and secure digital future for all’1: 
+ 
+Connectivity  
+Core Principles:  
+We support a shared commitment to improving connectivity , bridging the digital divide, 
+promoting social inclusion and overall prosperity. Th ese are  social, economic and political 
+issue s, incorporat ing a range of challenges  from  enabling  affordable and accessible 
+infrastructure , to developing  digital skills and appropriate applications and services . These 
+challenges can only be  resolved by a collectiv e commitment  that draws on the expertise of 
+multistakeholder collaboration . 
+Key Commitments : 
+We encourage cooperation  and collaboration across the technical, government and private 
+sectors  to address the challenges impeding connectivity.  We urge the GDC to draw on 
+multistakeholder  expertise and to recognise  the need for  joint commitment s and 
+collaborative initiatives  that promote the deployment and development of digital 
+infrastructure  and skills . At the same time, the GDC should encourage  forward -looking , 
+cohesive , evidence -based policy and regulatory frameworks that support the deliver y of 
+practical , affordable  and sustainable outcomes.   
+ 
+ 
+1 Our common Agenda - Report of the UN Secretary General, paragraph 93, September 2021.  
+   
+ 
+   
+ Avoid internet fragmentation  
+Core Principles:  
+The Internet is a complex and robust ecosystem and its remarkable success over the past 
+twenty years  is centred in its design as an open, interconnected, globally interoperable 
+network of networks  combined with the multistakeholder model of governance.   
+Realising the full social and economic benefits of the internet is dependent on balancing a 
+diverse range of government, technical and civil society interests . However, recent, technical, 
+legislative and policy developments  at the national and regional lev el are risking its 
+fragmentation and threatening to undermine the internet’s true utility as a global 
+interconnected network of networks , putting at risk its associated social and economic 
+benefits.    
+A fragmented internet is unlikely to deliver more than a small proportion  of the utility which 
+the current  global internet is already delivering  and on which we can continue to build into 
+the future.   Therefore, m inimising the risks of fragmentation, protecting and safeguarding 
+both the internet’s  design  and its multistakeholder governance arrangements  is essential to 
+fulfill ing its potential, including as an important tool to achieving the Sustainable 
+Development Goals ( SDG’s ). 
+Key Commitments:    
+We encourage  the GDC to emphasise the importance of all stakeholders (eg;  governments, 
+technical community, civil society),  working  together to find consensus and  cultivate  a 
+shared vision for the future of the internet  where  its social and economic benefits are realise d. 
+We propose  that the GDC reaffirm its commitment to promot ing and sustain ing an internet 
+that is open, free,  secure and globally  interoperable, and is  governed by multistakeholder 
+processes. We also encourage the GDC to promote the use  of toolkits such as the ISOC 
+Impact Assessment Toolkit and their F.A.S.T approach to assessing fragmentation risks  and 
+enabling users to identif y whether a proposal, development or trend could benefit or threaten 
+the operations of the  Internet . 
+  
+Data protection  
+Core Principles :  
+The growth in the generation and use of  data, fuelled by technological developments ha s 
+enabled the development of multiple businesses, products and services . However, t he way 
+data is collected and used (or not use d), presents both opportunities and risks. A key risk is 
+the lack of trust that can dissuade users from participating in the digital economy . Its 
+immense power and value, if harnessed appropriately can help to meet the SD Gs and inform 
+evidence -based decision making . 
+Data protection is more than just protection against the collection and misuse of our data . It 
+also includes protection against manipulation, disadvantage, and discrimination.  Going 
+   
+ 
+   
+ forward, w e support and call for a concerted effort to building m ultistakeholder partnerships  
+to work together to maximis e data use while minimis ing its potential for  misu se.   
+Key Commitments : 
+We propose a multistakeholder collaboration that  addresses the lack of trust , ensures 
+openness  and transparency in the collection  and use  of data  and institutes appropriate 
+safeguards to minimise the misuse of data.  
+ 
+Application of human rights online  
+Core Principles:  
+Digital technologies provide unparallel ed opportunities for the promotion , advancement and 
+defence of human rights . However , they also provide the means to suppress, limit and violate 
+rights, for example, through surveillance, censorship  and online harassment,  algorithmic bias 
+and automated decision -making systems . If we , as a global community , are to subscribe to a 
+human centric digital ecosystem, we must ensure that h uman rights whether online o r offline 
+are protected and safeguarded.  
+Key Commitments:  
+Rights online must be afforded the same protections as those offline, in accordance  with the 
+rule of law and international human rights legal obligations.  There must be consistency and 
+certainty i n application  and compliance must be mandated.  
+ 
+Accountability criteria for disinformation and misleading content   
+Core Principles:  
+Misinformation and disinformation whether offline or online, threaten to undermine the overall 
+wellbeing of our societies and economies. While advancements in digital technologies and 
+information ecosystems offer new opportunities to share and consume info rmation, they also 
+have the capacity to create and perpetuate content that can polarise and undermine trust , 
+resulting in social fragmentation.  Attempts to address these challenges are varied. These 
+can include direct and narrow measures targeted at conte nt or broader more systemic 
+approaches aimed at improving the technical operations of digital ecosystems.  
+Interventions must also recognise and protect the value of free speech and information. This 
+is a multifaceted problem,  and we believe the collective  expertise of diverse stakeholders is 
+critical to addressing these challenges holistically.  
+Key commitments : 
+We encourage the GDC to  support a collective commitment to addressing disinformation 
+and misleading content. The GDC should  draw on multistakeholder expertise and  discourage 
+duplication of effort by  consider ing existing initiatives such as the World Wide Web 
+Consortium’s Credible Web Community Group work2, the Internet IEEE's dataport repositories 
+ 
+2 https://credweb.org  
+   
+ 
+   
+ of Fake News3 and specific symposium s such as 24th International Conference on 
+Information and Communications  Security (ICICS 2022)4. 
+ 
+Regulation of AI  
+Core Principles:  
+Artificial Intelligence  is rapidly evolving, transforming societies and economies. As the use of 
+AI applications increase s, so too do concerns related to human values, fairness, privacy, 
+safety and accountability. Collaborative multistakeholder expertise must be actively 
+encouraged and facilitated in order to progress the transformative benefits of AI while 
+mitigating the risks.  
+The Future of Life Institute ’s open  letter calling for a six month pause in the development of AI 
+syste ms highlights the growing nervousness in many quarters of the potential  dangers of the  
+rapid and  unregulated growth of AI systems. The letter5 states : “AI labs and independent 
+experts should use this pause to jointly develop and implement a set of shared safety 
+protocols for advanced AI design and development that are rigorously audited and overseen 
+by independent outside experts .”  
+We believe that AI should operate on human -centred values and be used for purposes that 
+are beneficial to society. T he regulation and use of AI systems should ensure reliability and 
+safe use , and  be transparent, accountable  and contestable regarding its purpose, use and 
+design . It should also  provide for privacy and security of data.   
+Key Commitments:  
+The GDC should endorse the need for all stakeholders to work together to shape the 
+development and beneficial use of AI technologies based on the above principles.  The GDC 
+should support and not duplicate the ongoing work streams  on AI, including in the OECD, EU,  
+and the IGF’s Policy Network on AI 6(PNAI ) and instead  promote their cohesive collaboration  in 
+order to min imise duplication . 
+ 
+Digital commons   
+Core Principles : 
+Technology development has created unprecedented opportunities, fostering collaboration, 
+connection and development. However , its potential for harm (e .g.: cybersecurity, lack of trust 
+and accountability, the lack of equitable access to informat ion or knowledge resources), 
+appear to be increasingly overshadowing its benefits. Regulation is struggling to keep pace 
+with technology developments, complex ethical and social questions continue to challenge, 
+and vested interests seek to dominate discuss ions seeking solutions. To address these 
+complexities, a collaboration that draws on a varied knowledge base is critical to developing 
+ 
+3 https://ieee -data port.org/keywords/fake -news  
+4 https://www.ieee -security.org/Calendar/cfps/cfp -ICICS2022.html  
+5 https://futureoflife.org/open -letter/pause -giant -ai-experiments / 
+6 Policy Network on Artificial Intelligence (PNAI) | Internet Governance Forum (intgovforum.org)  
+   
+ 
+   
+ solutions that are broad based and forward looking. A multistakeholder collaboration will also 
+help to progress consensus -based  outcomes that have considered a range of perspectives.  
+Key Commitments : 
+The GDC should  support a human centric approach to digital transformation and encourage 
+and actively support multistakeholder collaboration in shaping all aspects of digital policy. 
+The digital commons is a shared resource and a global good that must benefit all humanit y 
+and not be stifled or segmented by technological, legal -political or societal measures. Digital 
+policies should promote trust and accountability, encourage innovation and foster access 
+based on open , community developed standards.  
+ 
+Other areas  
+Multistakeholder cooperation  
+Core Principles:  
+Technological developments bring both benefits and challenges , and t he rapid pace of 
+change  requires  increasingly agile  and flexible responses.  
+The UN7 has pledged to “improve digital cooperation”  given we live in an age of ‘digital 
+interdependence’8. Improving digital cooperation requires a collaborative approach that  
+draws on the varied expertise of the multistakeholder community.  Paragraph 93 of the ‘Our 
+Common Agenda ’ report also recognise s the value of mu ltistakeholder collaboration  by 
+calling for a multistakeholder digital technology track to develop the GDC  which will outline 
+‘shared principles for an open free and secure digital future for all’9.    
+Digital technologies have been recognised as a critical tool in achieving  the SDGs. The 17 
+SDGs are broad ranging, united by the overarching goal10 to ensure ‘peace and prosperity for 
+people and the planet, now and for the future’. However, the depth , range and complex 
+interlinkages of the SDGs  makes this an almost unachievable goal without inclusive 
+collaboration across all stakeholder groups (government, private sector, the technical 
+community, academics, civil society).   
+Complex d igital  issues cannot properly be addressed in silos. Effective , practical  and fit for 
+purpose  solutions are best develop ed via multistakeholder processes, draw ing on the 
+expertise of a range of relevant stakeholders . These processes should provide for open and 
+inclusive bottom -up participation, and transparent, consensus -based decision -making.  
+Multistakeholder p rocesses  allow ideas and proposals to be debated on their merits  and to 
+consider a diverse range  of perspectives. This increa ses the  legitimacy and credibility of 
+outcomes , generat ing greater  support  and commitment  to implementation , and reduc es the 
+risk of  unintended consequences . 
+ 
+7 UNGA Resolution:  A/RES/75/1  
+8 The Age of Digital Interdependence: Report of the UN Secretary General’s High Level Panel on Digital Cooperation (2019)  
+9 Our common Agenda - Report of the UN Secretary General, paragraph 9 3, September 2021  
+10 2030 Agenda for Sustainable Development  
+   
+ 
+   
+ This multistakeholder approach has driven innovation and continual improvement to the 
+internet.  The Internet Engineering Task Force  develops open standards that enhance the 
+operation of the internet collaboratively through multistakeholder , transparent processes. The 
+Internet Corporation for Assigned Names and Numbers , which coordinates the internet’s 
+unique identifiers, develops policy via multistakeholder processes . Key outcomes include the 
+transition of stewardship of the Internet Assigned Numbers Authority . 
+The UN itself  encourages multistakeholder collabora tion and has had significant success in 
+this regard . This include s outcomes related to the World Summit on the Information Society 
+(WSIS), such as the WSIS multistakeholder forums and the Internet Governance Forum . 
+We recognise  the multistakeholder  approach is not without its challenges . The  existing  
+processes and institutions will need to continually evolve and be strengthened  if they are to  
+respond effectively to current policy issues , such as abusive online content , or AI and 
+emerging digital issues. However, it remains  a proven m ethod  for responding to the complex 
+and dynamic policy and technical challenges that will continue to arise in the  digital world .  
+Key Commitments:  
+Reaffirming commitment to  the multistakeholder approach  and multistakeholder principles 
+will encourage and  strengthen  the trust environment that is essential to developing  and 
+implementing  pragmatic policy.  This will also strengthen commitment to evolv ing 
+multistakeholder  processes  so they are efficient , effective and produce  outcomes that are fit 
+for purpose .  
+Challenges will continue to emerge  as a result of ongoing  technolog ical development and it 
+is important to recognise that no single stakeholder group will hold  all the solutions.  
+Multistakeholder participation  should be  encouraged and provided for within the multilateral 
+systems and the international structures that seek to regulate  the fast -changing digital age.   
+We encourage recognition of the multis takeholder approach and support strengthening 
+multistakeholder participation  within existing work streams  and forums . This will  minimis e the 
+potential for duplication and encoura ge greater cooperation , collaboration  and sharing of 
+expertise .   
+We also enc ourage inclusive  multistakeholder  consideration of how to innovate and adapt 
+existing multistakeholder  processes  to address  new and  emerging challeng es and develop 
+effective solutions.  
+ 
+Internet Governance Forum (IGF)  
+Core Principles:  
+The IGF is a key WSIS outcome and a pioneering example of multistakeholder collaboration.  
+As a global multistakeholder platform that facilitates discussion  and information sharing , it 
+has the potential to  develop innovative solutions to a variety of digital policy issues.  
+Since its inception, the IGF has evolved into a network of structures that now  includes 
+Dynamic Coalitions, Best Practice Forums, Policy Networks and National, Regional and Youth 
+   
+ 
+   
+ IGFs . These various streams target different audiences and together with its capacity building 
+focus reach es a broad spectrum of stakeholders . Its non -binding, non -decision making  
+format facilitates discussion of issues in a space that is not contentious and not necessarily 
+influenced by geopolitics and national sovereignty priorities . We believe that the IGF  can 
+improve digital cooperation by facilitating consideration of  a series of perspectives with  an 
+issues -based problem -solving approach .  
+Key Commitments:  
+We propose that the GDC recommit to  the IGF and encourage consideration of ways to 
+enhance  its value and efficiency  as both a discussion forum and a  key source of information 
+on digital policy issues . We not e the IGF has adapt ed and evolve d in response to changing 
+expectations . We believe this  flexibility  is one of its core strength s which will allow it to respond 
+quickly t o future digital challenges . 
+ 
+We note the WSIS +20 review will consider the IGF mandate. We support the continuation of 
+the IGF and its ongoing evolution and development as part of the internet ecosystem.  We 
+consider it an important resource to build capacity and contribute meaningfully to digital 
+policy discussions .  
+ 
+Signatures  
+The undersigned individuals and organisations have developed this contribution and are 
+broadly representative of diverse Australian internet communities, from civil society, 
+academia, business, the technical community and the government . 
+Asia Pacific Network Information Centre (APNIC)  
+.au Domain Administration  
+Internet Association of Au stralia  
+Internet Australia  
+Identity Digital Australia  
+Tech Policy Design Centre, Australian National University.  
+Klée Aiken  
+Donna Austin  
+Keith Besgrove, Chair, General Advisory Standing Committee, .au Domain Administration  
+Jordan Carter  
+Sabina Fernando  
+Caroline Greenway  
+   
+ 
+   
+ Cheryl Langdon -Orr  
+Holly Raiche  
+John Stanton CEO Communications Alliance Ltd  
+Annaliese Williams, Chair, NetThing  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

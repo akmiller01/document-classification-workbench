@@ -1,0 +1,89 @@
+Future Earth is a global network of scientists, researchers, and innovators collaborating for a more
+sustainable planet. Our mission is to advance research in support of transformations to global
+sustainability. Our vision is of a sustainable and equitable world for all, where societal decisions are
+informed by openly-accessible and shared knowledge.Contribution to the Global Digital Compact
+The Re-imagining Climate Governance in the Digital Age project, which was developed with input from
+expert consultations convened by Sustainability in the Digital Age, Future Earth, and ClimateWorks
+Foundation,
+The Coalition for Digital Environmental Sustainability's (CODES) Action Plan for a Sustainable Planet in
+the Digital Age, which was developed by United Nations Environment Programme, the United Nations
+Development Programme, the International Science Council, the German Environment Agency, the
+Kenya Ministry of Environment and Forestry, Future Earth, and Sustainability in the Digital Age, with
+input from over a 1,000 stakeholders,
+The Digital Disruptions for Sustainability Research, Innovation, and Action Agenda (the D^2S Agenda),
+which was launched in 2020 with input from over 250 individuals around the world, and
+Future Earth - a global network of scientists, researchers, and innovators collaborating for a more
+sustainable planet. This input reflects insights from: Process followed to collect, consult, and prepare input
+Core principles that all governments, companies, civil society organisations and
+other stakeholders should adhere to 
+Digital innovations such as unprecedented transparency, intelligent systems, mass collaboration, and
+mixed reality are rapidly transforming all aspects of society. These transformations present many
+opportunities to address environmental crises such as climate change, biodiversity loss, land
+degradation, food insecurity, pollution, planetary health, and more. However, there is a risk that issues
+around social inequalities, privacy concerns, poverty, and more, can be exacerbated if there is no effort
+to govern digital technologies in a safe and sustainable manner.  About Future Earth
+Focus Area: Digital Sustainability 
+1
+Key commitments, pledges, or actions that different stakeholders – governments,
+private sector, civil society, and others can adopt to realize the above-mentioned
+principlesPublic and private institutions, academia, and civil society must work together to align regulations,
+policies, and actions within the digital space with those of sustainable development in order to leverage
+digital technologies in a safe, just, and inclusive manner to accelerate transformations towards the
+Sustainable Development Goals (SDGs). 
+All actors must adopt agile governance mechanisms that foster co-learning and are built on inclusivity,
+trust, transparency, sharing of lessons learnt, and failing forward. 
+Existing open data policies and working groups (e.g. Belmont Forum Open Data Policy and Principles; 
+ FAIR Guiding Principles for Scientific Data Management and Stewardship; CARE Principles for
+Indigenous Data Governance; Committee on Data of the International Science Council) should continue
+to guide governments, companies, civil society, and other stakeholders in their commitments to
+enhance the transparency and sharing of data. 
+Governments and funders must incentivize (for example through tax concessions, subsidies, risks, and
+costs reduction) the design and development of sustainable digital solutions that focus on tackling
+present environmental and social crises and meeting the SDGs.
+Funders and researchers must prioritize and accelerate research to further identify and quantify the
+direct and indirect environmental and social impacts of digital technologies. In particular, potential
+impacts on human health, land and coastal ecosystems, food systems, species biodiversity, global
+warming, inequality and poverty, education, and climate change mitigation and adaptation - including
+regional variances, must be explored. 
+Scientific evidence, Indigenous knowledge systems, and other recognized forms of knowledge must
+inform the development of consistent standards for the environmentally and socially responsible use
+of digital tools. Standards should adopt the precautionary principle in the absence of such evidence. 
+Governments should regularly enforce, update, and ensure compliance of evidence-based standards,
+laws, and policies that provide regulations and guidelines on the sustainable and ethical design,
+production, procurement, adoption, and use of digital technologies.
+Civil society and academia should pursue transdisciplinary research with the goal of co-producing
+guidelines and frameworks that promote best practices in the sustainable and inclusive design,
+development, and adoption of digital solutions towards environmental sustainability.  
+Intermediaries must convene actors from digital innovation, finance, civil society, policy making, and
+sustainability and social scientific domains and create enabling conditions to help build trust, exchange
+knowledge, and experiment with digital solutions to make progress towards commonly identified
+environmental and societal goals. 
+2
+All actors should openly share lessons learnt across disciplines and sectors to help destigmatize failure
+and encourage failing forward. 
+Digital innovators, private sector actors, and others must ensure that local actors are central in the
+design and implementation of digital solutions, to ensure inclusive access to benefits as well as ethical
+data ownership. 
+Other comments on the Global Digital Compact
+Digital sustainability must be a central element in the Global Digital Compact (GDC). We urge Member
+states, the Office of the Secretary General’s Envoy on Technology, and other key actors to ensure that
+digital sustainability, in particular environmental sustainability, is considered as a key requirement in the
+development of principles for an open, free, and secure digital future for all. 
+We call for a specific thematic session at the GDC discussions at the Summit of the Future dedicated to the
+environment – including in particular the interrelated issues of climate change and biodiversity
+conservation – to ensure that environmental sustainability remains an essential consideration in the GDP
+process. Farther down the line, including a dedicated chapter on environment in the Global Digital
+Compact itself and ensuring that there is scope for identifying specific action points related to
+environmental sustainability will also be important.
+www.futureearth.org 
+Contact: jennifer.garard@futureearth.org 
+In collaboration with:Useful resources 
+Coalition for Digital Environmental Sustainability (CODES). 2022. Action Plan for a Sustainable Planet in
+the Digital Age. https://doi.org/10.5281/zenodo.6573509
+Luers, A., Garard, J., St. Clair, A. L., Gaffney, O., Hassenboehler, T., Langlois, L., . . . Luccioni, S. (2020).
+Leveraging digital disruptions for a climate-safe and Equitable World: The Dˆ2S Agenda:
+[Commentary]. IEEE Technology and Society Magazine, 39(2), 18-31.
+https://ieeexplore.ieee.org/document/9123469  
+Sustainability in the Digital Age, Future Earth, and ClimateWorks Foundation. 2022. Dynamic
+Philanthropy – A Framework for Supporting Transformative Climate Governance in the Digital Age.
+https://doi.org/10.5281/ zenodo.5764443

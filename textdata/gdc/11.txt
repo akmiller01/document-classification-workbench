@@ -1,0 +1,346 @@
+1Preventing Technology-Facilitated Gender-Based Violence (TF GBV)
+Responding to the 2030 Agenda and "Our Common Agenda" by proactively mitigating 
+technology-facilitated gender-based violence by enhancing product design, data privacy and 
+security, and legal frameworks to hold offenders accountable
+Digital inclusion is not possible without digital safety. That is, benefiting from digital products is not 
+possible without ensuring the safety and security of users. The prevalence of the internet and digital 
+products has presented a tremendous opportunity to create, build, and regulate a more equal future for 
+women and girls. Digital life provides vital spaces for women seeking expression and opportunity 
+including access to basic education and services and yet it is simultaneously a vector for perpetrators 
+and abusers (individuals, groups and collectives) targeting women and adolescent girls because of their 
+gender. Technology-facilitated gender-based violence (TF GBV) comprises a spectrum of behaviors, 
+including stalking, bullying, sexual harassment, defamation, hate speech, exploitation, and is associated 
+with mis and disinformation and violent extremism,  which are perpetrated online or using technology. TF 
+GBV not only reflects and further entrenches inequalities in the online world, it also increasingly interacts 
+with and influences the offline world. Despite often being perceived as a less serious and less harmful 
+form of GBV, TF GBV1 can have serious consequences on the health, life opportunities and right to 
+expression of women and girls and increasingly manifests in and is a feature of offline gender-based 
+violence. 
+UNFPA has defined TF GBV as “an act of violence perpetrated by one or more individuals that is 
+committed, assisted, aggravated and amplified in part or fully by the use of information and 
+communication technologies or digital media, against a person on the basis of their gender.”2 At scale, 
+this also means that women, girls, and LGBTQ communities can be targeted as groups. This inclusive 
+definition requires us to defend and ensure the rights of women and girls in all spaces, physical and 
+otherwise, including both digital and analog spaces where technology products are now commonplace. 
+The repetitive nature of TF GBV means that most women experience multiple types of abuse. In short: 
+the virtual is real . 
+TF GBV is a systemic problem which restricts women and girls’ right to expression and ability to freely 
+enjoy digital spaces and products. The prevalence of personally experiencing online violence against 
+women globally is at a staggering 38 per cent, according to The Economist Intelligence Unit (EIU)3--that’s 
+nearly 2 out of every 5 women. EUI also reported that 85 per cent of women and girls on the internet 
+have witnessed online violence being committed against other women.4 These numbers are even higher 
+among young women and girls: a study conducted by Plan International in 31 countries found that 58% 
+of young women and girls aged 15–25 years had experienced online harassment5--that’s nearly 3 out of 
+1 UNFPA, 2021 “Technology-facilitated Gender-based Violence: Making All Spaces Safe”
+2 UNFPA, 2021 “Technology-facilitated Gender-based Violence: Making All Spaces Safe”
+3 Economist Intelligence Unit (2021). Measuring the prevalence of online violence against women. Available at: https://onlineviolencewomen.eiu.com/
+4 Economist Intelligence Unit (2021). Measuring the prevalence of online violence against women. Available at: https://onlineviolencewomen.eiu.com/
+5 Plan International (2020). Free to Be Online? Girls’ and young women’s experiences of online harassment
+2every 5 young women. Further, women who experience intersecting forms of discrimination are at a 
+greater risk of being harassed, a study showing that women of color using Twitter are 34 per cent more 
+likely to be mentioned in an abusive tweet.6 Individual users and professionals alike who utilize official 
+complaint pathways to report online violence social media companies may receive no response or slow 
+responses, demonstrating a need for social media platforms to be better equipped to protect the rights 
+of women and girl users. In short, the rights of women and girls to express themselves are not ensured 
+in online spaces without additional effort.
+TF GBV often takes place on a continuum in which actions that start in the digital space may lead to 
+offline GBV perpetration and vice versa. For example, a survey in Malawi found that 54 per cent of 
+women experienced physical abuse exacerbated by online violence and that 34 per cent were physically 
+harmed or injured as a consequence of it.7 In other cases, sexualized forms of TF GBV, such as image-
+based abuse, have led to honour-related violence against women.8 Women who have online presence for 
+professional purposes or are activists and human rights defenders experience now TF GBV as a routine 
+part of their lives. The Inter-Parliamentary Union found that 42 per cent of women in politics have been 
+subjected to image-based abuse or defamation, and 44 per cent received online threats.9  Furthermore, 
+in a study with 901 journalists across 125 countries, UNESCO found that 73 per cent of them had been 
+subjected to online violence, and 20 per cent were attacked offline because of online threats and 
+abuse.10
+Legal and policy responses to TF GBV need further definition and embodiment of human rights, 
+addressing both punitive criminalization as well as transformative justice elements. Despite TF GBV 
+being the most systemic form of online violence, governments and organizations have been slow to 
+develop appropriate solutions. This is complicated by TF GBV often being experienced as a pattern 
+rather than a set of individual acts. Effectively this means that existing legal responses, which often 
+treat each communication as a separate offense, fall short of addressing the longer-term accumulation 
+of harm.11 Legal responses must be complemented with more holistic responses, including community-
+based, government and technology company responses that ensure women users’ right to expression 
+and safety, thereby enabling them to equitably experience joy and pleasure in digital spaces. Currently, 
+we lack survivor-centred policies and decision-making to define technology formats, infrastructure and 
+business models to support these goals. Instead, in some instances, TF GBV-related law and policy 
+enacted to protect survivors has been co-opted  by perpetrators as weapons to persecute and prosecute 
+feminist activists. Governments and technology companies have many opportunities to carefully take 
+actions to build a more safe and inclusive technology-driven world that can work in tandem with law that 
+is survivor-centred in content and in implementation.
+TF GBV is not only online but is also facilitated through the use of digital products and devices. The 
+rising use of and demand for interconnected devices or Internet of Things (IOT) devices offers benefits 
+6 Amnesty International, “Troll Patrol findings”, December 2018, available at https://decoders.amnesty.org/projects/troll-patrol/findings.
+7 Malanga, 2020. Tackling Genderbased Cyber Violence against Women and Girls in Malawi amidst the COVID-19 Pandemic. Available at: 
+https://africaninternetrights.org/sites/default/files/Donald_ Flywell-1.pdf
+8 GBV AoR Helpdesk (2021). Learning Series on Technology-Facilitated Gender-Based Violence. Learning Brief 1: Understanding technology-facilitated GBV.
+9 Inter-Parliamentary Union (2016). Sexism, harassment and violence against women parliamentarians
+10 J. Posetti, N. Shabbir, D. Maynard, K. Bontcheva and N. Aboulez (2021). The chilling: global trends in online violence against women journalists. UNESCO. 
+Available at: https://en.unesco.org/news/unesco-releases-pioneering-discussion-paper-online-violence-against-women-journalists 
+11 UNFPA, 2021 “Technology-facilitated Gender-based Violence: Making All Spaces Safe”
+3that greatly improve quality of life and increase efficiency of certain tasks. However, there is little 
+concerted decision-making and policymaking to address the amount of personal data collected and 
+stored by these devices and how these devices and the data they generate may be coopted for 
+malicious purposes. Smart chips are becoming common: smart TVs, wearables, voice assistants, 
+computerized personal assistants, and even ordinary household devices like washing machines, 
+toasters and refrigerators can now be connected to the internet. The setup and installation of these 
+gadgets often require more than necessary personal data from users. IOT devices might collect and 
+retain mass amounts of data and metadata on women and girls and share with a variety of parties, who 
+may be able to extract data on where these women and girls are, what they are doing or saying, and 
+perhaps even capture imagery and videos of them. Without inclusive threat modeling that considers IPV 
+survivors and other oppressed groups in the design process, IoT devices can also be weaponised 
+against women.12 Indeed, seemingly neutral design decisions can constrain, shape and facilitate 
+coercive and controlling behaviors in an intimate partnership characterized by violence.  It is critical to 
+ensure that the burgeoning IoT environment does not become a means through which gender-based 
+violence, and intimate partner violence in particular, proliferates without regulation or accountability to 
+users. 
+Sensors that track movement, location and activities create approximate triangulations of who a person 
+is, where they are and other vital data and statistics on them. These data are collected, shared, stored 
+and sometimes sold to 3rd parties who could have little oversight and policies regarding the use and 
+exploitation of personal data.13 Although the density of connected devices is predicted to rapidly 
+increase, we must remember this takes place within a greater context of the Gender Digital Divide where 
+even basic access to digital spaces and technology is gendered. The ability of this growing network of 
+IoT devices to create new pathways for TF GBV is likely to increase: a report by Cisco suggests that 
+Machine-to-Machine (M2M) devices and connections are growing faster than both the global population 
+and internet users, enabling widescale adoption of IoT devices. For example, in North America in 2023, 
+the average internet user now has 13 devices. However, the global average is 4 devices, with the Middle 
+East and Africa having the lowest average at 1.5 devices per user.14 This discrepancy is an opportunity to 
+proactively create and adopt survivor-centred IoT regulation and policy to ensure the rights of women 
+and girls as IoT devices become ubiquitous.  
+No matter the form it takes, TF GBV can have a devastating impact on women and girls by restricting 
+their right to freedom of expression. As a result, we are deprived of their participation  as equal subjects 
+in public life and civic spaces as well as their role as elected officials and public figures shaping 
+democratic societies. Girls and young women surveyed by Plan International and subjected to frequent 
+online violence reported that 19% started self-censoring and decreased posting about contentious 
+topics and 12% stopped using social media in full.15 This pattern is repeated in women journalists: 30% 
+of women journalists in a global survey responded to online violence by self-censoring their journalism 
+on social media, while 20% reported withdrawing from all online interaction.16 UNESCO’s The Chilling 
+12 J. Slupska and L Tanczer (2021) in Emerald international Handbook of Technology-facilitated Violence and Abuse, 663 - 688. 
+13 Your Data is shared and sold. What’s being done about it. Knowledge at Wharton Available at https://knowledge.wharton.upenn.edu/article/data-
+shared-sold-whats-done/
+14 Cisco Annual Internet Report (2018–2023) White Paper Available at https://www.cisco.com/c/en/us/solutions/executive-perspectives/annual-internet-
+report/index.html
+15 Plan International (2020). Free to Be Online? Girls’ and young women’s experiences of online harassment
+16 UNESCO (2021). The Chilling: Global trends in online violence against women journalists.
+4report documents how TF GBV intimately-experienced by women journalists, which negatively influences 
+their wellbeing and professional engagement, when taken in total, is an attack on democratic 
+deliberation and media freedom. TF GBV silences women and girls, depriving the world of women’s 
+voices, leadership and advocacy and indeed may lead to deplatforming. It damages relationships, leads 
+to offline physical violence and causes tremendous mental health distress and even post-traumatic 
+stress syndrome (PTSD). 
+The Global Digital Compact may serve as a vehicle to (1) raise awareness of the multiple and increasing 
+prevalence and forms of TF GBV17 and (2) mitigate the disproportionate risks to women of TF GBV which 
+is enabled and amplified through non-inclusive and unsafe tech design. Achieving true gender equality, 
+women’s empowerment and the realisation of women’s human rights requires harnessing the most 
+positive outcomes of technology adoption and use while minimizing the potential harms that can be 
+caused by widespread adoption and use of technology. 
+Globally, we have made progress toward SDG5 on Gender Equality, yet as digital spaces and products 
+become more widely adopted, this progress must be actively maintained or we risk backsliding in 
+women and girls human rights and democratic principles. To achieve both goals of awareness raising 
+and risk mitigation, attention on how technology products are actually used by people  in ways that 
+disproportionately and negatively impact women is required, including in intimate partnerships, in 
+communities, in online forums, by strangers, and more. Although there are many ways to address TF 
+GBV, sustainable progress toward ending TF GBV must begin from how technology is used in practice 
+while keeping societal impacts in mind. For example, if we take social media platforms as a technology, 
+it is essential to understand women’s realities on these platforms and how their lived experiences, 
+formed by how they and others use the technology, creates gendered impacts at micro, meso, and 
+macro levels, ultimately changing the face of democratic processes in the 21st century: 
+-Micro: TF GBV negatively impacts how individual citizens participate in, utilize, and benefit from 
+the internet. For example, women are 27 times more likely to face harassment online than men18 
+and 92% of women report that online violence negatively influences their wellbeing.19 
+-Meso: TF GBV negatively affects how women, especially young women, use digital spaces to 
+raise awareness and advocate for issues that are important to them.20 51 per cent of young 
+women hesitate to engage in online debates after witnessing or directly experiencing online 
+abuse21 and 38% of women journalists reported making themselves less visible in their workplace 
+as a result of TF GBV.22 
+-Macro: TF GBV negatively influences democratic leadership. Women public figures are targeted 
+to a much greater extent than their male counterparts, undermining how they are perceived by 
+the public through reputational damage campaigns. A survey on politically-active women in 
+17 UNFPA, 2021 “Technology-facilitated Gender-based Violence: Making All Spaces Safe”
+18 European Women’s Lobby, Her Net Her Rights – Mapping the state of online violence against women and girls in Europe (Brussels, 2017).
+19 Economist Intelligence Unit (2021). Measuring the prevalence of online violence against women. Available at: https://onlineviolencewomen.eiu.com/
+20 According to the Institut Public de Sondage d'Opinion Secteur, 41 per cent of French people have been at least targeted once by online violence, but this 
+number raises to 85 per cent for French women under 35.
+21 Dhanaraj Thakur and Asha Allen, “The impacts of online GBV and disinformation on women politicians in representative democracies”, prepared for the 
+Expert Group Meeting of the sixty-seventh session of the Commission on the Status of Women, 2022.
+22 UNESCO (2021). The Chilling: Global trends in online violence against women journalists.
+5Kenya found that 20 per cent of those surveyed had paused their social media activity in 
+response to online violence23 
+In order to solidify the progress made on SDG5 on Gender Equality in the 21st century, TF GBV must be 
+recognized and addressed for both existing technology products and proactively for those yet to come. 
+By focusing on how technology is used, a TF GBV perspective firmly advances gender equity by 
+addressing the causes of TF GBV and proactively works to transform gender norms and power relations 
+through product design, incorporation of data privacy, and legal frameworks to protect the rights of all 
+people in the digital age. These efforts must be nested within government and technology company 
+actions to envision, build, deploy, and regulate new digital spaces and technology products.
+We call on the Global Digital Compact to set the following principles for achieving and operationalizing  
+gender-transformative digital solutions in the funding, conceptualization, design, adoption, use, and 
+experienced outcomes of digital life for women, girls, and the LGBTQI+ community globally. 
+-Ensure  women, girls and LGBTQI+ members are included throughout product development, 
+deployment and maintenance processes, with particular attention to funding, ideation and 
+design stages,  to proactively understand and mitigate end user realities. 
+-Ensure that data privacy and security begins from the perspective of TF GBV survivors  and is 
+achieved through robust end user controls, safety-by-design, and corporate and government 
+encryption of data in transit (end to end encryption between devices) and at rest (while being 
+stored).
+-Ensure legal frameworks for accountability are constructed and implemented  to hold 
+companies and offenders of TF GBV accountable for the experiences of women, girls, and the 
+LGBTQI+ community.
+Building on the course set by the 2030 Agenda and its Sustainable Development Goals, in particular 
+SDGs 3, 5, and 9, the UN Secretary General’s “Our Common Agenda”, the Report of the Secretary-General 
+“Roadmap for Digital Cooperation”, the guiding principles of the International Conference on Population 
+and Development and the Global Partnership for Action on Online Gender-based Harassment and Abuse 
+we note the following core principles and actions that should be taken to allow us to collectively achieve 
+gender equity in digital technologies:
+1.Safety by Design: Ensuring survivor-centered product financing, ideation, development and 
+deployment
+23 National Democratic Institute, Tweets That Chill Report, 2019
+
+6The Global Digital Compact should work with Government and private technology companies to ensure 
+solutions, products and platforms are designed with gender equity in mind, including design pedagogies 
+that center (1) the voices of those who are directly impacted by design process outcomes, (2) the 
+impact on communities over designer intentions and (3) everyday people as experts on end user 
+experiences who collaborate with designers and developers.24 This mandates the participation of 
+women and marginalized populations in the financing/funding of tech development and includes 
+ideation, conceptualization, development, testing and scaling of products that have accessible safety 
+features and complaint mechanisms in their solutions and platforms. Governments and businesses 
+must ensure women’s active role in internal staffing across roles and levels of responsibility and in 
+decision-making processes. 
+Women and marginalized communities are not only a tremendous resource for ideation and 
+conceptualization of tech products but are able to provide functional specifications to meet their needs 
+as end users. Additionally, threat modeling25 and gender inclusive user testing are also critical processes 
+for identifying design concerns in the end user interface . For example, location trackers are useful to find 
+lost objects but have also been used to illegally stalk women. This viewpoint may be missed if the 
+perspectives of women, of which 1 in 3 are survivors, are not central to ideation and design processes. 
+Including women, girls and those disproportionately impacted by TF GBV in user testing is essential, and 
+user testing questions must explicitly ask about gendered dimensions or potential applications and uses 
+of tech products which may enable, assist, aggravate, and amplify gender-based violence. These 
+aspects may not otherwise be captured during user testing and not be accounted for in design. 
+Technological applications have unknown backend data collection practices that are hard to grasp for 
+end users, this is exacerbated when creating products for use in low literacy and low numeracy 
+environments. Relying on end users to identify data privacy concerns, and/or outline how technology 
+may be hacked and used for nefarious purposes, is not a burden that should lie with them.26 
+Governments and tech companies should include considerations of data privacy in the ideation phase, 
+reimaging new business models and policies that do not bring tech products to digitally-low literate 
+populations in exchange for  their data.
+Recommendations to achieve this goal may include: 
+-Development and application of technologies and digital platforms must be in partnership and 
+with the participation of women in all their diversity as well as organizations, frontline providers 
+and advocates, to ensure relevant and accessible safety features and complaint mechanisms.
+-Safety must be considered from inception and directly incorporated at the design stage. For 
+practical guidance and actionable recommendations, see the outcomes and recommendations 
+report “Tech Policy Design Lab: Online Gender-Based Violence and Abuse”, which builds on the 
+results from a series of workshops with relevant stakeholders, including survivors of TF GBV and 
+technology companies.27 Australia’s eSafety Commissioner has also developed actionable 
+recommendations and guidelines to operationalize Safety by Design across sectors. This 
+24 Costanza-Chock, Sasha (2020). Design Justice: Community-Led Practices to Build the World We Need. MIT Press.
+25 Threat modeling is the process of proactively identifying and addressing potential threats
+26 Blackman, Reid. 2022. Ethical Machines: Your concise guide to totally unbiased, transparent, and respectful AI. Harvard Business Review Press.
+27 World Wide Web Foundation. 2021. Tech Policy Design Lab: Online Gender-Based Violence and Abuse Outcomes & Recommendations. 
+7includes a set of principles which outline measures that providers can use to safeguard users 
+from online risks and harms; interactive assessment tools for businesses and technology 
+companies; checklists, model clauses and other resources for investors; and a pilot programme 
+to embed Safety by Design in university curricula across a range of disciplines.28 To complement 
+these existing resources, UNFPA will shortly publish “Guidance on the Safe and Ethical Use of 
+Technology for GBV and Harmful Practices Interventions.” This provides a tool for understanding 
+design, monitoring and use of technology. Basing principles of this guidance into the structure of 
+the Global Digital Compact will be fundamental to ensuring safety from the start. 
+2.Privacy by Default and Design: Ensuring robust data privacy and security to proactively mitigate 
+use of data for TF GBV
+The Global Digital Compact should work with Governments and business and technology to advance, 
+regulate, and standardize data collection practices, privacy, and security. Data collected and stored can 
+be weaponised to commit and amplify TF GBV including intimate partner violence, cyberstalking, sharing 
+of intimate images without consent, doxxing and impersonation. While data is highly valuable and 
+essential to the business model of companies, collection of personal data should be only for certain 
+cases when consent has been provided and there is a primary functional user driven reason. The 
+economic value of data incentivises technology companies to collect data, often unknown or poorly 
+understood by end users, resulting in a loss of data privacy, data security, and a sense of control over 
+how one’s information is being used by others. Businesses should be incentivized to re-imagine digital 
+futures with business models, design decisions and policies that serve women and girl users for 
+equitable experiences of technology. 
+The Global Digital Compact should advocate for technology to embed privacy into the underlying 
+specification or architecture of the IOT device and data gathering, through Privacy by Default and by 
+Design approaches. Women and girls and users in general should have products where privacy is the 
+default setting, or have the right to opt out of their data being collected or at the very least be able to 
+choose to store data collected locally on the device itself, such that the company does not store nor 
+transmit such data. Personal and personal-identifying information should be discouraged especially 
+when signing up on platforms to use IOT devices. Users can be given the option to opt in or consent to 
+have their data collected if needed for certain aspects of the functionality. 
+Data collection and data use for women-centered digital solutions need to adhere to ten data principles. 
+These principles should not be limited to personal data and must be applied to all data that is collected 
+on women and girls. The data principles, which complement safety by design29 approaches, include: 
+purpose limitation, data minimization, proper use of data, fairness and ownership, informed consent and 
+transparency, accuracy and data quality, security: integrity, confidentiality and availability, accountability, 
+and unconditional service.30
+28 eSafety Commissioner. 2022. Safety by Design. Available at: https://www.esafety.gov.au/industry/safety-by-design 
+29 A practice of proactively embedding safety and risk mitigation strategies into the design and development of products and services. The focus is on 
+minimizing risk by anticipating, detecting and eliminating harm before it occurs rather than safeguarding after an issue arises. Source: eSafety 
+Commissioner, https://www.esafety.gov.au/industry/safety-by-design 
+30 UNFPA, “Guidance on use of technology to address gender-based violence and harmful practices,” forthcoming.
+8While the interaction of women and girls with technology will and should continue to increase, data 
+protection and privacy should be a priority in ensuring women and girls are not further exposed to 
+harmful actors who mine personal data for malicious actions. Anchoring data collection in safe and 
+ethical principles as well as human rights-based approaches is central to ensure that efforts are made 
+to address the gap on gender-equity in digital solutions and women-centric design solutions.
+Recommendations to achieve this goal may include: 
+-Strengthen systems to support data security, including confidential information collected and 
+managed by State actors and data collected through location-based applications and platforms.
+-International agreements and a common right-based legislative framework to address cross-
+border TF GBV. 
+-Reduce privacy risks to women and girls by disconnecting the data subject from the data 
+collected. Methods such as differential privacy, synthetic data or homomorphic encryption, could 
+aid as part of a solution to ensure data collected cannot be traced back to the particular user.
+3.Effective Regulation: Implementation of law and policy to enforce accountability 
+The Global Digital Compact should advise Governments to develop law and policies to address TF GBV 
+which includes the recognition and integration of TF GBV across civil, criminal laws, regulations and 
+policies. This regulatory framework must be designed, implemented and enforced through consultative 
+mechanisms and serve to both regulate private technology companies and hold offenders to account.  
+Legal frameworks must adequately protect all women’s human rights online, including the right to life 
+free from violence, freedom of expression, access to information and the right to privacy and data 
+protection.
+Law and policy must be developed through consultative processes with women’s groups and 
+organizations as well as business and technology companies to ensure that it is effective, mitigated 
+unintended consequences and will not do harm. The specific harms caused by TF GBV must have 
+specific regulatory responses and accountability mechanisms. Further, regulation must comprise both 
+self-regulation, industry standards as well as laws to ensure that survivor-centered approaches can be 
+enforced. Moreover, do no harm approaches to capture unintended consequences, including the 
+weaponising of laws against women’s voices and ensuring that the right to freedom of expression is not 
+abused, is critical. 
+Recommendations to achieve this goal may include: 
+-Dedicated resources to develop, implement and enforce human rights-centred law, policies, 
+systems and processes which are designed to address TF GBV specifically.  In addition, any 
+regulatory framework developed to address TF GBV must be survivor-centred, trauma informed 
+and intersectional. 
+-Increased resources to ensure capacitated staff across Government, CSOs and technology to 
+ensure confidential data security and platform safety, including through law enforcement 
+mechanisms. 
+-Promote independent regulators to enforce, manage and support business and tech to ensure 
+expedient, practical and accessible remedies (including non-judicial support) as well as ensuring 
+due process mechanisms for survivors of TF GBV.
+9-Require transparency from business and tech relating to design processes and content 
+moderation ( in the case of platforms) as well as data security and privacy. 
+-Mandate and enforce laws and regulations that require and incentivize private technology 
+companies to proactively develop, maintain and implement policies to respond to and mitigate 
+the occurrence of TF GBV through a range of processes including: (1) visible, easily accessible, 
+plain-language complaint and abuse reporting mechanisms of harmful content, including in end 
+user local languages, (2) ensuring effective internal triaging and escalation of complaints; (3) 
+effective internal protocols for connecting with law enforcement and support services and 
+hotlines for illegal content; (4) assigning responsibilities to internal teams for implementing user 
+safety policies; (5) improving user consent through social contracts between users, services and 
+third parties at the time of registration;31 (6) require training of all staff to understand their role in 
+monitoring and removal of harmful content relating to TF GBV; and (7) provision of independent 
+audits and publish comprehensive annual transparency reports, including gender-disaggregated 
+data, relating to implementation of the policies.
+-Efforts to eradicate TF GBV through law and policy must not use gendered hate speech and 
+disinformation as a pretext to restrict freedom of expression beyond what is permitted under 
+international law. This requires a gender-sensitive interpretation of freedom of expression and 
+opinion. 
+-Consider the provision of incentives to private technology companies to encourage compliance 
+with and active promotion of the protection of women and girls using their services.
+This is a call for action: In order to ensure respect, protection and promotion of women’s human rights 
+in the digital age, it is essential to address the way in which the design, adoption and proliferation of 
+technologies intersect with existing gender inequalities. Gender equality and women’s human rights will 
+require integrated digital safety and security to protect privacy and prevent technology-facilitated 
+gender-based violence. 
+31 eSafety’s Safety by Design Assessment Tool. n.d. for items 2-5.  

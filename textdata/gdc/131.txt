@@ -1,0 +1,248 @@
+1 Input  from  the Internet  Governance  Coalition   
+for the Global  Digital  Compact   
+ 
+ Introduction  
+ The Internet  Governance  Coalition  respectfully  submits  this input  for the ongoing  
+consultation  on priorities  for the Global  Digital  Compact  (GDC).     
+The Internet  Governance  Coalition  (Coalition ) is an industry  group  representing  
+companies  from  across  the Internet  ecosystem.   Members  include  Amazon,  AT&T,  Inc., 
+Comcast  NBCUniversal,  Google  LLC,  Intelsat,  Meta,  Microsoft  Corporation,  NCTA  – The 
+Internet  & Television  Association,  The Walt  Disney  Company,  Twilio,  and Verizon  
+Communications.   The Coalition  advo cates  and supports  policies  that ensure  an open,  free, 
+global,  interoperable,  reliable,  and secure  Internet  as the underlying  foundation  for sustainable  
+economic  and social  development.  
+The Coalition  recognizes  the transformative  importance  of the global  drive  to achieve  the 
+Sustainable  Development  Goals , and the powerful  role that the Internet  and digital  
+communications  play in reaching  those  objectives.   We also acknowledge  that important  work  
+remains  to ensure  human  rights  principles  are woven  into the fabric  of the Sustainable  
+Development  Goals .  The Coalition  and its members  individually  are deeply  involved  as private  
+sector  participants  in the goal of achieving  universal  connectivity  and helping  to develop  
+evidence -based  public  policies  to facilitate  this shared  goal.  The Coalition  commends  the UN 
+for its work  on digital  cooperation  and for underscor ing the importance  of human  rights  in a 
+digital  world.   The Coalition  is pleased  to be a participant  in development  of the GDC  and 
+strongly  suppor ts a continued  global  commitment  to the multistakeholder  model  of Internet  
+governance .     
+We have  provided  input  below  on several  key issues  based  on the private  sector’s  role 
+throughout  the digital  ecosystem  and our experience  in global  Internet  governance  policymaking,  
+dating  back  to the historic  World  Summit  on the Information  Society  initia tive.  The policies  
+recommended  below  are important  to achieving  the Sustainable  Development  Goals.   
+The Value  of a Multistakeholder  Approach   
+A thriving  Internet  has depended  upon  a transparent  governance  structure  representative  
+of all stakeholders.   The existing  multistakeholder  model  for international  Internet  governance  –
+and reliance  on private  sector  investment  and innovation  – has enabled  the economic,  social,  and 
+political  developments  of today.   This decentralized  structure  has allowed  individuals  worldwide  
+to access  information  and services,  to connect  and communicate,  to share  knowledge  and ideas,  
+and to enjoy  greater  protection  of human  rights.   By offering  new possibilities  for entrepreneurial  
+creativity,  the Internet  has become  a powerful  engin e for technological  innovation,  economic  
+growth,  and the preservation  and promotion  of cultural  diversity,  especially  in the developing  
+world.  
+The Coalition  encourages  the wide  use of the existing  multistakeholder  approach  in both 
+the process  and the substance  of the GDC,  including  as a model  for the development  of global  
+2 and member  state policies  to promote  the open,  distributed,  and interconnected  nature  of the 
+Internet.   Given  the technical  complexity  of the Internet,  a broad  array of stakeholders , including  
+governments,  the private  sector,  the Internet  technical  community,  academia,  and civil society , 
+should  be included  through  an open  and collaborative  multistak eholder  approach .  The quality  of 
+Internet  governance  and other  policy decisions  increases  when  diverse  stakeholders  are 
+welcomed  and able to consistently  participate.    
+In addition,  there  can be particular  benefits  to regulators  and other  government  officials  
+in developing  countries  where  government s may face certain  capacity  constraints .  The 
+multistakeholder  system  can provide  additional  expertise  and even  find potential  consensus  on 
+policy  recommendations  when  ultimately  adopted.   This collaboration  in a multistakeholder  
+environment  could  allow  governments  to cover  a wider  scope  of issues  and act more  quickly.   To 
+that end, we also encourage  the GDC  to reference  or link to ongoing  multistake holder  initiatives  
+on related  issues  as to avoid  duplication  of efforts  and ensure  that stakeholders  have  the 
+bandwidth  to meaningfully  contribute.   
+The Private  Sector  as a Partner  in Achieving  Governmental  Connectivity  and New 
+Technologies  Goals  
+ Along  with the multistakeholder  framework,  the existing  reliance  on private  sector  
+investment  and innovation  has enabled  the economic,  social,  and political  developments  of 
+today.   The Internet  and digital  communications  drive  the global  economy.   An ITU study  shows 
+that “a 1 per cent increase  in fixed  broadband  penetration  increases  gross  domestic  product  
+(GDP)  in a country  by 0.08 per cent,  while  a 1 per cent increase  in mobile  broadband  penetration  
+increases  GDP  by 0.15 per cent. ”1  In developing  countries  and rural  areas,  the Internet  enables  
+electronic  commerce  and telehealth  services,  support  for small  and medium -sized  enterprises , 
+modernized  business  services,  distance  learning,  social  and political  engagement,  government  
+services  and public  safety  information,  as well as much  more.   National  plans  for bringing  
+Internet  connectivity  to every  citizen  normally  expect  most  of the investment  to come  from  the 
+private  sector,  creating  informal  or formal  public -private  partnerships.    
+The examples  in the Annex  of commitments  made  by Coalition  members  in the ITU’s 
+Partner2Connect  Digital  Coalition  demonstrate  the many  ways  in which  the private  sector  is a 
+vital collaborative  participant  in the digital  ecosystem.   These  companies  are actively  putting  
+resources  into all parts  of the digital  ecosystem,  often  as important  sources  of capital  that can 
+help make  national  connectivity  plans  a reality  and otherwise  advance  the Sustainable  
+Development  Goals.   
+  
+ 
+1 Global  Connectivity  Report  2022,  ITU Development  Sector,  at 3 (2022),  available  at https://www.itu.int/itu -
+d/reports/statistics/global -connectivity -report -2022/ .  
+3 Forward -looking  Approaches  to Regulatory  Policy  
+The Coalition  encourages  a focus  on non-duplicative  approaches  to regulation  and policy  
+that will attract  investment  and encourage  innovation , while  still preserving  trust and security .  A 
+facilitative  policy  and regulatory  environment  includes  protections  for freedom  of expression,  
+privacy,  access  to information,  and intellectual  property , and is supplemented  by public  and 
+private  sector  support  for digital  literacy  and digital  skills  initiatives.   This sets the stage  for 
+citizens  to capitalize  on the potential  for digital  technologies  to improve  their lives.   Industry  is 
+continuing  to develop  and find new applications  for transformative  technologies  and services,  
+including  higher -speed  and more  ubiquitous  Internet  connectivity , artificial  intelligence,  the 
+Internet  of Things,  content,  applications,  services,  and blockchain.   The policies  that 
+governments  adopt  will have a profound  effect  on the pace and path of innovation  of those  and 
+future  innovative  technologies  and services.   
+Policies  and regulations  that promote  trusted  cross -border  data flows  are particularly  
+critical  to ensuring  a global  and open  Internet,  fostering  productivity  and innovation  across all 
+sectors,  encouraging  competition,  making  progress  towards  the Sustainable  Development  Goals, 
+and bolstering  the enjoyment  of democracy  and human  rights.   The global  Internet  is 
+increasingly  at risk of fragmenting  and is under  threat  as a result  of national  restrictions  that seek 
+to control  citizens’  access  to information  and stifle  freedom  of expression , data localization  laws,  
+and restrictions  on international  data flows.   The GDC  should  commit  to fortifying  the global  
+approach  to Internet  governance  that promotes  free flows  of data,  encryption,  and rights  to 
+freedom  of expression  and privacy  online.   After  all, the global  Internet  is built on the principle  
+of openness,  and cross -border  data flows  are at the heart  of that founding  promise.   
+The GDC  should  not be seen as a venue  to produce  detailed  digital  regulations.   Instead,  
+it should  help to establish  forward -looking , interoperable  international  frameworks  for 
+approaches  to issues  where  appropriate,  thereby  creating  models  for processes  that will be 
+equally  useful  when  future  policy  issues  of global  importance  arise  and evolve.   The GDC  should  
+encourage  the interoperability  of frameworks  to promote  the free flow of data and oppose  
+protectionist  data localization  measures  and restrictions  on data flows.   Adoption  of detailed  
+rules  at a global  level  runs the risk of inadvertently  chilling  the benefits  of innovation  and 
+quickly  becoming  outdated.   Such  model  processes  should  include  methods  for robust  
+multistakeholder  engagement.   Global  policymaking  should  also underscore  the importance  of 
+collaboration  and interoperability.  
+In sum,  continued  innovation  and expansion  in global  connectivity  require  policies  that 
+promote  private  sector  investment,  and foster  the long-term growth  of the Internet  economy,  
+rather  than chilling  investment  and innovation  through  heavy  regulation,  resulting  in restrictive  
+access  to information  and services.   The Coalition  encourages  a forward -looking,  holistic,  
+balanced  approach  that enables  the development  of new technologies  and the expansion  of 
+universal  connectivity.  
+  
+4 Conclusion  
+Continued  growth  and innovation  of the Internet,  and its corollary  technologies,  are 
+vitally  important  to the sustainable  development  and public  welfare  contemplated  in the GDC  
+initiative.   Achieving  these  public  interest  benefits  and the Sustainable  Development  Goals  
+requires  an open,  free, global,  interoperable,  reliable,  and secure  Internet  – one that can deliver  
+on the promise  of inclusive  connectivity  for all.  The GDC  should  advance  pro-investment  and 
+pro-innovation  policies,  and the international  community  should  pursue  solutions  through  
+transparent,  inclusive , and collaborative  processes.   The Coalition  looks  forward  to further  
+engagement  on these  issues.  
+/s/ David A. Gross  
+Ambassador  David  A. Gross  
+Chair,  Internet  Governance  Coalition  
+dgross@wiley.law  
+April  30, 2023  
+ 
+i 
+ ANNEX:  Partner2Connect  Examples  
+Commitments  made  by members  of the Internet  Governance  Coalition  to the Partner2Connect  
+Digital  Coalition  launched  by the International  Telecommunication  Union  include  the following:  
+Amazon  
+In December  2020,  Amaz on committed  to investing  hundreds  of millions  of dollars  to provide  
+free cloud  computing  skills  training  to 29 million  people  by 2025 —reaching  people  from  all 
+walks  of life and all levels  of knowledge,  in more  than 200 countries  and territories.   On this 
+mission,  Amazon  has already  helped  over 6 million  people  gain cloud  skills,  and the latest  efforts  
+build  on the existing  commitment  by putting  skills  training  into the hands  of millions  of people.   
+We are providing  training  opportunities  through  existing  AWS-designed  programs  and launching  
+new ways  to increase  access.   Programs  range  from  self-paced  online  courses —designed  to help 
+individuals  update  their technical  skills —to intensive  reskilling  programs  that can lead to new 
+jobs in the technology  industry.  
+AT&T,  Inc. 
+AT&T has made the following commitments to the Partner2Connect initiative: (1) AT&T 
+pledges to equip  more than 3 million people  in 13 countries/jurisdictions  with digital skills 
+training  by 2025; (2) AT&T pledges to provide  1 million people in need  with digital resources 
+through AT&T Connected Learning ℠ by 2025; and (3) AT&T pledges to  support more than 
+6,000 women entrepreneurs  in 5 countries  by 2025, through both financial support and relevant 
+training.  
+In addition to these three ple dges, AT&T and the United States Telecommunication Training 
+Institute (USTTI) have made a joint pledge: AT&T and USTTI  commit to delivering a structured 
+network disaster recovery training program  to 20 regulators and telecom industry representatives , 
+with a focus on those from Least Developed Countries (LDCs), Landlocked Developing 
+Countries (LLDCs), and Small Island Developing States (SIDS).  
+Google  LLC  
+Google  pledges  to up-skill the work  force  globally  thru “Grow  with Google”  Program : 
+• UPSKILLING THE WORKF ORCE  
+• Google has contributed to the world’s economic and digitization of opportunities.   
+o One example is our commitment to provide over 500,000 scholarships for people 
+around the world to access / qualify for Google Career Certificates.  These are 
+training courses to help people earn job -ready skills in growing career fields.   
+o We have committed to providing 150,000 scholarships for these Certificates in 
+Europe, the Middle East, and Africa, with 50,000 of these are allocated to people 
+from underserved communities through Google.org.   
+o In the US, we are providing 130,000 scholarsh ips for the CareerCertificates.   
+o In the Asia Pacific, we ’re providing over 250,000 scholarships to women, youth and 
+mid-career professionals looking for new job opportunities or career switch.  This is 
+part of our broader ‘Grow with Google ’ program, imple mented together with 
+governmental, non -governmental, industry and community partners .   
+ 
+ii 
+ o Through this program, we have trained 94 million people around the world since 
+2015 in the skills they need to build their career, launch or grow their business.   
+o Of the 94 million people, it includes 20 million people in EMEA, 8 million in the US, 
+9 million in LATAM and 58 million in Asia Pacific.  
+Google  pledges  over $1 billion  to enhance  digital  transformations  globally : 
+• ENHANCING DIGITAL TRANSFORMATION  
+• Google believe s in helping the world grow through innovation and digital transformations.   
+o In Southeast Asia, we will provide $75 million in funding and in -kind support 
+through Google.org over the next 5 years to support nonprofits working to address 
+societal challenge s through digital transformation.  This includes $25 million in 
+funding and $50 million in in -kind product donations.   
+o A major part of this will be to equip 200,000 medium and small enterprises with skills 
+to grow their businesses, through a $4 million gr ant to The Asia Foundation ’s Go 
+Digital ASEAN.  
+o In Africa, we plan to invest $1 billion over the coming years in a range of initiatives, 
+from improving connectivity, to investing in startups.  
+Google  pledges  to enhance  device  affordability  globally :  
+• DEVICE AFFORDABILITY  
+• The Internet has done many things - including giving anyone with an Internet connection the 
+same access to information as PhD students.  Tools like Google Search and YouTube play an 
+important role in connecting people with relevant inf ormation.   
+o In addition, we believe another form of accessibility is affordability and global 
+accessibility of our products.  We strive to make our devices affordable in the markets 
+where we sell devices.   
+o We’ve introduced more affordable versions of our products, including for Pixel 
+phones and the Pixel Buds, where we’ve streamlined flagship devices to deliver 
+Google quality at competitive price points.  In 2011, we launched a new type of 
+computer: cloud -based, fast, simple, and secure - the Chromebook.  Chromebooks run 
+on open -source OS (ChromeOS), and any device manufacturer can develop 
+chromebooks at any price points, including cheaper than traditional laptops.   
+o Android is an open -source OS, meaning consumers have an option to purchase 
+Android devices from over 1,000 companies around the world with 24K different 
+device models to choose from, ranging from low cost devices to premier flagships 
+like the Pixel 6 Pro.   
+o And this goes beyond our traditional hardware and software.  Nest thermostats, our 
+produc ts can make other costs like heating and cooling more affordable.  In fact, on 
+average the Nest Learning Thermostat also saved 10% to 12% on heating and 15% on 
+cooling in addition to allowing users to reduce their carbon emissions.  All of these, 
+we believ e, have helped increase access to the Internet making it easier for consumers 
+to access digital content.  
+  
+ 
+iii 
+ Intelsat  
+Intelsat  pledges  to utilize  its Wi-Fi Internet  access  solutions  to connect  100 schools  in rural  and 
+remote  areas  in the context  of the GIGA  initiative  by 2025.   Connecting  schools  allows  children  
+to develop  digital  skills  and access  online  learning  content.   Schools  can also become  anchor  
+points  for surrounding  communities:  if you can connect  the school,  you can also connect  local  
+businesses  and services.   This creates  opportunities  for service  providers  to generate  revenue  
+from  paying  users,  making  connectivity  more  sustainable.  
+Intelsat  pledges  to sign a MoU  with the ITU through  which  it makes  available  up to $500K  of 
+airtime  as well as the necessary  equipment  to be utilized  in case of natural  or man-made  
+disasters.   When  a disaster  strikes,  and all the terrestrial  infrastructure  has been  destroyed  or 
+damaged,  satellite  becomes  the essential  tool for those  in affected  areas.  
+Intelsat  pledges  to produce  several  white  papers  which  will showcase  case studies  and best 
+practices  on the use of satellites  as a tool for digital  transformation,  connectivity  in hard-to-
+connect  areas,  as well as on policies  and practices  to advance  space  sustaina bility.  
+Microsoft  Corporation  
+Microsoft  pledged  to train and certify  10 million  people  from  underserved  communities  with in-
+demand  digital,  foundational  or technical  skills  by 2025.  Microsoft ’s Airband  Initiative  made  a 
+number  of joint pledges  on connectivity,  including  to collaborate  with Liquid  Intelligent  
+Technologies  to deliver  Internet  access  to 20 million  underserved  people  in Africa  by the end of 
+2025.  
+Verizon  Communications  
+Verizon  is dedicated  to economic,  environmental,  and social  advancement,  and has established  
+goals  to provide  10 million  youths  with digital  skills  training  by 2030,  1 million  small  businesses  
+with resources  to help them  thrive  in the digital  economy  by 2030,  and to prepare  500,000  
+individuals  for jobs of the future  by 2030.  
+The Walt  Disney  Company  
+The Walt  Disney  Company  will sustain  and expand  programmatic  investments  in children ’s 
+digital  wellness,  skills,  and inclusion  around  the world.   We currently  have initiatives  operating  
+in approximately  15 coun tries,  many  of which  serve  people  in multiple  countries.   More  
+information  can be found  in our CSR  Report .   
+ 

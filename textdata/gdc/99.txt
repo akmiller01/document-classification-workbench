@@ -1,0 +1,248 @@
+   
+ 
+Intel Corporation  
+Input to the Global Digital Compact  
+Intel Corporation (Intel) welcomes the opportunity to provide input to the Global Digital 
+Compact . 
+At Intel, our purpose is to build world -changing technology that improves the life of every person 
+on the planet. We strive every day to make a positive global impact and be good corporate 
+citizens. Increasingly central to every aspect of human existence, technology is transforming our 
+world at an accelerated pace. And at the heart of that technology: semiconductors. 
+Semiconductors are the foundation of all innovation as the world becomes more digital, from 
+powering our ability to work remotely, to staying connected with friends and family, to providing 
+enhanced healthcare and autono mous vehicles.  Intel’s more than 1 21,000 employees worldwide 
+are shaping the future with computing and connectivity technologies.  The transistor is the engine 
+that powers every Intel processor. To build a modern computer chip, our engineers place billions 
+of these tiny switches into an area no larger than a fingernail.  
+The world is becoming more digital and  computing more pervasive. Semiconductors are the 
+underlying technology powering the digitization of everything, which is being accelerated by four 
+superpowers: ubiquitous compute, cloud -to-edge infrastructure, pervasive connectivity, and 
+artificial intell igence (AI). Together these superpowers reinforce and amplify one another and  
+will exponentially increase the world’s need for computing by packing even more processing 
+capability onto ever -smaller microchips. We intend to lead the industry by harnessing t hese 
+superpowers for our customers’ growth and our own.  Our product offerings provided end -to-end 
+solutions, scaling from edge computing to 5G networks, Wi -Fi 6, the cloud, and the emerging 
+fields of AI and autonomous driving.  
+As part of our integrated dev ice manufacturer (IDM 2.0) strategy, Intel announced in 2021 and 
+2022 plans to invest $40 billion to build new factories and expand in the US and Malaysia, and as 
+much as 80 billion euros in the European Union for R&D and manufacturing expansion. We 
+believ e our IDM 2.0 strategy will enable us to deliver leading process technology and products to 
+meet growing demand, while providing superior capacity and supply resilience and an 
+advantageous cost structure.  
+Intel formed an alliance with 50 partners from For tune 500 companies, NGOs, and academia —
+including Dell, World Wide Technology, and African Mobile Networks — to build the N50 Project . 
+The project, part of the Intel RISE 2030 strategies and goals , aims to bring access to affordable 
+digital content, applications, and services to the next 3.9 billion people to provide health, social, 
+and financial benefits to marginalized  communities.  
+Intel CEO Pat Gelsinger has supported UN General Assembly “ High -Level Thematic Debate on 
+Digital Cooperation and Connectivity ” on 27 April 2021 and delivered a  speech .  
+                                                                                                                                                      
+ 
+Intel has also chaired the United Nations “Global Alliance for Information and Communication 
+Technologies (ICT) and Development ”. 
+Aligned with Intel ’s corporate purpose  and RISE 2030 strategies and goals , Intel has rolled out 
+“Intel Digital Readiness Programs ” globally in partnership with governments , academia, civil 
+society, and industry stakeholders as a shared -value  initiative to demystify and democratize 
+emerging technologies —including AI for Citizens, AI for Youth, AI for Future Workforce, AI for 
+Current Workforce, and Digital Readiness for Leaders —aimed at empowering citizens, students, 
+professionals, and leaders to participate in and benefit from a digital economy.  
+We believe that the achievement of the SDGs will be critical to creating a life of dignity and 
+opportunity for all, and we believe technology will play a key role in achieving  the SDGs. We use 
+the goals below to inform the ongoing development of our strategies, initiatives, and long -term 
+priorities, including our 2030 strategy and goals. Information communications technology (ICT) 
+can play an enabling role in the implementation  of all of the SDGs. Intel, Nethope, and the UN 
+Foundation developed an SDG ICT Playbook  that outlines technology trends, opportunities, and 
+innovative cas e studies that global leaders can reference as they develop their strategies and 
+actions to address the SDGs.  
+Connect all people to the internet  
+We need to bridge the digital divide, thereby creating a more accessible and inclusive future for 
+all. This requires us to not only connect people to the internet (deployment), but also providing 
+the tools and skills so they can effectively use the internet (adoption). Students need computers 
+both in schools and at home for their education and digital equa l opportunity. New UN 
+targets  include the connection of all households, schools, and digital skills by 2030.  According to 
+UNESCO, Half of the total number of learners – some 826 million students – kept out of the 
+classroom by the COVID -19 pandemic, do not  have access to a household computer and 43% 
+(706 million) have no internet at home.  
+Not only students but all household members can benefit from the computer at home. It will 
+provide the connection of all household members and people in world. Digital li teracy and ICT 
+skills are requirements for success in today’s knowledge economy and society. Integration of ICT 
+in Education is a key enabler for digital skill development and broadband demand creation. 
+Computers are essential for the realization of all SD Gs such as e -learning, e -health, e -commerce, 
+e-agriculture, remote work and meetings, digital skill development programs for young 
+generation on new ICT technologies like AI, programming, coding, and projects to empower 
+women, girls, and other applications . 
+Intel’s global broadband objectives are the same as that of most governments and consumers: 
+we want to enable high -speed and high -quality, widespread, affordable broadband in all 
+countries extending computing technology to connect and enrich the lives of  every person on 
+                                                                                                                                                      
+earth. High -speed and high -quality intelligent broadband networks can provide digital equity for 
+SDGs to close the gaps, for example in education, health.  
+Resolution 70/125 of the UN General Assembly and ITU Plenipotentiary 2022 Resolutio n 139 
+underline the importance of high -speed broadband connectivity to bridge the digital divide.  
+Schools and households need both high -speed broadband connectivity and computers. High -
+speed broadband networks are also very important for the successful imp lementation of AI and 
+other new applications such as video -based e -health (telemedicine), e -learning.  Therefore, it is 
+also important to prioritize high -speed broadband connectivity for the economic development 
+and digital equity. Intel is a leading suppl ier for 5G, Wi -Fi and other telecommunications 
+equipment and devices. Making high -quality broadband more widespread and affordable and 
+improving the cost and quality of data -rich applications will spur economic growth in many ways. 
+Intel actively supports UN efforts such as ITU and Broadband Commission for accelerating new 
+high -speed broadband technologies like 5G, Wi -Fi 6, G.fast (DSL), fiber that are key for school, 
+household connectivity and new digital services and skills.  
+Many ministers and other exec utives have also underlined the importance of high -speed 
+broadband connectivity and introduced their strategies and projects including rural areas during 
+ITU PP 22 Conference.  
+Actions on Connectivity  
+• Develop affordable national computer and broadband connectivity programs especially 
+for students, households (through subsidies and incentives including sound tax policies).    
+• Allocate enough licensed and unlicensed frequency spectrum for new high -speed 
+broadband wireless technologies (like 5G and Wi -Fi 6) and accelerate the implementation 
+of networks.  
+• Effectively use Universal Service Fund and other financing mechanisms (such as 
+development banks) for the high -speed broadband connectivity, computer progr ams for 
+schools, universities, students, and digital skill development programs.   
+• Connect all schools and classrooms with high -speed broadband technologies and 
+establish computer labs according to need of digital skill programs such as on AI and 
+coding.  
+• Promote market -based broadband policies for widespread, high -speed, high -quality, 
+affordable broadband.  
+• Benefit from the experience of other successful countries such as following Universal 
+Service Fund projects.  
+Internet Fragmentation  
+Governments and private sectors have invested trillions of US dollars for the existing and 
+emerging interconnected, interoperable Internet networks and services ( provided by open 
+                                                                                                                                                      
+standards and formats, standardized by the Internet Engineering Task Force - IETF) . IETF operates 
+under the auspices of the  Internet Society  as an international  non-profit organization. Internet 
+Society, IETF, ICANN have very important leading roles on the development and interoperability 
+of existing and future Internet for the wor ld’s economy and SDGs. We need to increase our 
+support to these organizations and their leading role on Internet to prevent the fragmentation.  
+Actions on Internet Fragmentation  
+All organizations and governments should continue to support the activities of ISOC, IETF, ICANN 
+and work together to prevent Internet fragmentation.  
+Protect data  
+The goal of Intel's data privacy policy approach is to enrich trust in technology through th e 
+responsible access and use of data to add value to society and consumers' lives. To accomplish 
+this goal, Intel encourages governments to focus on harmonized approaches to privacy 
+protection that will continue to foster information technology innovation and economic growth.  
+Intel’s security objective is in direct alignment with the goal of global governments: to promote 
+trust in technology by enabling governments, businesses, and individuals to better secure their 
+data, networks, and infrastructure. To ac complish this goal, we encourage governments to focus 
+on non -partisan approaches to security that will foster information technology innovation and 
+economic growth. Governments should promote policies that are globally scalable and flexible 
+enough to addre ss the evolving security landscape by focusing on robust and transparent security 
+solutions, encompassing the full stack. We believe they should develop risk -based, evidence -
+driven, design -neutral approaches to security policy and be informed by consensus -driven 
+processes. We also believe that Digital Trust – as a larger, evolving framework incorporating cyber 
+security - is a human right for all consumers of technologies, and should be promoted by raising 
+all users’ awareness of principles of security and b uilding trust in technology and the 
+organizations providing them.  
+At Intel, we believe in the enormous potential of Artificial Intelligence (AI) to improve people’s 
+lives. AI is also a technology that must prioritize effective data protection to mitigate h arms. Two 
+trends that are influencing AI and digital developments globally are: 1. Data analytics from the 
+edge to the cloud, and 2. Increased mechanisms for data collection and creation.  
+Actions on Protect Data  
+a) Data privacy policy:  
+1- Privacy legislation should promote innovation and free flow of data. Privacy legislation and 
+policy should not restrict the movement of data.  
+2- Privacy legislation should allow for flexibility rooted in a risk -based approach. Intel supports 
+the passage of privacy  legislation that addresses the challenges and risks raised by technologies. 
+                                                                                                                                                      
+Legislation should promote Privacy by Design and organizational accountability to weigh privacy 
+risks throughout the data lifecycle.  
+3- Security is essential to good privacy. As d igital devices connect to the internet, sharing data 
+among devices and the need to store data will grow. Robust security of networks and devices is 
+critical. Any privacy law must recognize the need to process data for network and information 
+security purpo ses. 
+4- To align consumer expectations, enforcement of data privacy legislation must be predictable 
+and consistent.   
+b) AI privacy policy  
+Success of innovation depends upon trust in emerging technologies, like AI and autonomous 
+driving.  
+1- New legislative  and regulatory initiatives should be comprehensive, technology neutral, and 
+support free flow of data: horizontal legislation can encompass both data uses and technologies 
+that fall outside existing sectoral laws and that are still unforeseen.  
+2- Organiza tions should embrace risk -based accountability approaches, putting in place technical 
+(privacy -by-design) or organizational measures (product development lifecycles and ethics 
+review boards) to minimize privacy risks in AI.  
+3- Automated decision making sho uld be fostered while augmenting with safeguards to protect 
+individuals: legitimate interest should be acknowledged as legal basis for AI data processing. 
+Industry and governments should work together on algorithm explainability and risk -based 
+degrees of h uman oversight to minimize potential adverse impacts for citizens from automated 
+decision -making.  
+4- Governments should promote access to data, such as, opening government data, supporting 
+reliable datasets available to all, fostering incentives for data s haring, investing in the 
+development of voluntary international standards, and promoting diversity in datasets.  
+5- Funding research in security is essential to protect privacy: in areas like homomorphic 
+encryption, access to personal data can be minimized and protection enhanced.  
+6- It takes data to protect data: to detect biases or cyber threats and to protect personal data, AI 
+needs to process personal data.  
+Regulation of Artificial Intelligence  
+Artificial Intelligence (AI) is driving a new wave of econom ic progress with the ability to solve 
+some of the world’s most difficult problems in healthcare, climate, and education. AI is projected 
+to add more than $15 trillion to global GDP by 2030. To realize the potential of AI, governments 
+need to create a publi c policy environment that fosters AI innovation, while also mitigating 
+                                                                                                                                                      
+negative societal consequences. The main drivers of public policy towards AI should be solving 
+large societal problems and fostering economic progress. Accordingly, public policy must s upport 
+industry efforts to bring AI benefits to the economy, to raise awareness and address citizens’ 
+concerns, and to identify needs for regulatory intervention. Oversight by regulators will be 
+essential for society to trust AI. At the same time, regulati ons should not create additional, 
+unnecessary barriers to the positive social impacts of AI.  
+Democratizing and demystifying AI as a technology, and closing the current digital skills gap, will 
+be key to realizing its full potential. At Intel, we believe in furthering “Digital Readiness” for all. 
+Digital Readiness comprises of the digital skills, t rust, and understanding of responsible usages of 
+emerging technologies including AI. Governments should prioritize building digital readiness and 
+educational programs on AI with public -private partnerships. These efforts should also 
+emphasize the importanc e and potential of AI to help achieve the 17 SDGs.  
+Intel Digital Readiness Programs aim to skill 30 million people in 30 countries in partnership with 
+30,000 institutions for current and future jobs by 2030. To date, we have reached 27 countries, 
+4 millio n people, and 23,000 institutions. With the AI for Youth program, we’ve provided AI 
+curriculum and resources to nearly 1 million middle and high school students and continue to 
+scale the program globally. Through AI for Future Workforce program, we are pro viding AI 
+educational content to community colleges and higher educational institutions to prepare 
+technical and non -technical students for the jobs of tomorrow. Through our AI for Citizens 
+program, we provide public awareness and understanding of AI for a ll, non -technical audiences.  
+We also organize “Intel® AI Global Impact Festival” annual Digital Readiness celebration for next -
+generation technologists and educators, with governments, academia, and communities, to 
+showcase AI innovation and impact, align ed with UN Sustainable Development Goals.  
+Actions on Artificial Intelligence  
+Remove barriers and create a legal and policy environment that supports AI  so that the 
+responsible development and use of AI is not inadvertently derailed. Promote risk-based 
+accountability approaches combined with flexible regulatory guidelines to allow organizations to 
+adopt the most appropriate internal processes and policies. Expand general legal principles to AI 
+to assess if existing laws and regulations that ma y prevent autonomy in certain tasks are still 
+justified.  
+Foster Innovation and Open Development: To better understand the impact of AI and explore 
+the broad diversity of AI implementations, public policy should encourage investment in AI R&D. 
+Governments s hould support the controlled testing of AI systems to help industry, academia, and 
+other stakeholders improve the technology.  
+ 
+                                                                                                                                                      
+Create New Human Employment Opportunities and Protect People’s Welfare: AI will change 
+the way people work. Public policy in support of adding skills to the workforce and promoting 
+employment across different sectors should enhance  employment opportunities  while also 
+protecting people’s welfare.  
+ 
+Implement AI Digital Skill programs for youth, citizens, and workforce . Integrate AI skills 
+programs across educational levels and establish AI labs equipped with the proper resources for 
+students to explore and bu ild AI.      
+ 
+Liberate Data Responsibly: AI is powered by access to data. While maintaining security and data 
+privacy, machine learning algorithms improve by absorbing more data over time; data acquisition 
+is imperative to achieving more enhanced model dev elopment and training. Keeping data moving 
+will help machine learning and deep learning reach its full potential.  
+ 
+Rethink Privacy: Privacy approaches like The Fair Information Practice Principles and Privacy by 
+Design have withstood the test of time and t he evolution of new technology. But with innovation, 
+we have had to “rethink” how we apply these models to new technology.  
+  
+Require Accountability for Ethical Design and Implementation: The social implications of 
+computing have grown and will continue to expand as more people have access to 
+implementations of AI. Public policy should work to identify and mitigate discrimination caused 
+by the use of AI and encourage designing in protections against these harms.  
+ 
+ 
+ 
+ 
+ 

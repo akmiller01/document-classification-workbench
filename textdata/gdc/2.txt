@@ -1,0 +1,3446 @@
+ 
+ 
+
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+2 Table of Contents  
+Acknowledgements  
+Authors  
+Abbreviations  
+Executive Summary  
+ 
+Part 1: Introduction  
+1.1 | Evolution of Global Digital Governance: A Brief Background  
+1.2 | Objective: Support the Building of a Global Digital Governance Architecture  
+1.3 | The Contemporary Setting: The Time is Now  
+ 
+Part 2: Mapping & Methodology  
+2.1 | Mapping Contemporary Global Governance Initiatives  
+2.2 | Determining Criteria: What Makes an Initiative?  
+2.3 | What the Mapping Reveals  
+ 
+Part 3: Sectoral  Initiatives: Key Findings  
+3.1 | A Comprehensive Analysis: Decoding Sectoral Trends  
+ 3.1.1 | Private -Sector led Initiatives  
+3.1.2 | Government -led Initiatives  
+3.1.3 | Civil Society and NGO -led Initiatives  
+3.1.4 | Multi -stakeholder Initiatives  
+3.2 | Overa rching Trends Across Sectors  
+ 
+Part 4: Next Steps: Preparing for an Inclusive Digital Future  
+4.1 | An Inclusive Approach to Norm -Setting  
+4.2 | Where Digital Rights Meet National Responsibilities  
+4.3 | A Case for Multi -stakeholderism as a Priority for Effectiveness  
+4.4 | Further Research via a Subsequent Practicum  
+ 
+Part 5: Conclusion  
+Appendix: List of Initiatives  
+Bibliography  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+3 Acknowledgements  
+ 
+We would like to thank Megan Roberts , Director of Policy Planning at the United Nations 
+Foundation, for posing a thought -provoking and critical prompt that initiated this practicum. We 
+are grateful for the crucial opportunity, insight, advantageous direction and introduction to a 
+network of invaluable experts that supported our work, from fou ndational research to final 
+report. Her guidance allowed us to create a report that reflected the pragmatic ways in which 
+digital governance initiatives can be effectively instilled.  
+ 
+The authors would like to express our deepest appreciation to our panel of expert, who provided 
+helpful feedback and crucial inputs: Yu Ping Chan , Senior Programme Officer in the Office of 
+the Secretary -General’s Envoy on Technology at the United Nations, Lani Cossette , Senior 
+Director and Chief of Staff of Microsoft’s United Nations office, Melike Yetken Krilla , Head of 
+International Organizations at Google, Sheetal Kumar , Head of Global Engagement and 
+Advocacy at Global Partners Digital, Stephanie Borg Psaila , Director for Digital Policy at 
+DiploFoundation, and Professor Pana yotis Yannakogeorgos , clinical associate professor and 
+program director for the NYU SPS Center for Global Affairs’ MS in Global Security, Conflict, and 
+Cybercrime (GSCC). Their invaluable commentary furthered our research and offered deep 
+insights into the  priorities and challenges across the digital governance landscape, with acute 
+awareness of needs within the private sector, governments, and civil societies.  
+ 
+Finally, we would also like to acknowledge –with much appreciation –the crucial role of Professor  
+Waheguru Pal S Sidhu , whose oversight, mentorship, and encouragement at every stage of 
+the practicum made this report possible.  
+ 
+ 
+ 
+ 
+      
+ 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+4 Authors  
+ 
+Sarah Collins -Fattedad  is a student at New York University’s Center for Global Affairs pursuing 
+a Mast er of Science in Global Affairs (MSGA) and specializing in International Development and 
+Humanitarian Assistance. After acquiring her undergraduate degree from the University of 
+Calgary (Canada) in International Relations, she undertook an internship at th e United Nations 
+Headquarters in New York. The internship blossomed into experience at three different offices 
+over the course of 16 months: i) Office of the Special Coordinator for Improving the UN’s 
+Response to Sexual Exploitation and Abuse, ii) Division  for Inclusive Social Development, iii) 
+Indigenous Peoples and Development Branch. Upon graduation, she hopes to return to a career 
+in inclusive international development focusing on marginalized persons, making sure no one is 
+left behind.  
+ 
+Michael DeVito  is a student at New York University’s Center for Global Affairs pursuing a  
+MSGA with a Peacebuilding concentration and a United Nations specialization. After receiving a 
+Bachelor of Arts from Hofstra University studying Anthropology with an Archaeology  
+concentration and minors in European Studies and Drama, Michael went on to serve as an  
+AmeriCorps Volunteer Tutoring and Mentoring at risk youth in Napa, California for one year, and 
+then to serve as a Peace Corps Volunteer as an English Language Facilitator in the Kingdom of 
+Tonga for two years. Since then, Michael has worked at PAX - Program of Academic Exchange, 
+Friends of Tonga, Inc, and Global Cities, a program of Bloomberg Philanthropies. Michael will 
+be graduating this May and plans to continue to work w ith international organizations in both 
+development and peacebuilding sectors.  
+ 
+Yasmin Góes  is a Brazilian Lawyer, who graduated from the University of Brasília (UnB). She  
+has specialized in Constitutional, International, and Public Law. Currently, she is a student at 
+New York University’s Center for Global Affairs pursuing a MSGA, focusing on International Law 
+and Human Rights. She has worked as a lawyer both in the private  and public sector in Brazil, 
+published books and articles in the law and international relations field, and has also 
+participated in leadership events in the U.S., Portugal, and China. While in her home country, 
+she advocated for human rights and worked c losely with Federal Public Defenders in Supreme 
+Court cases on social security, international law and extradition.  
+ 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+5 Mariam Khorenyan  is currently a student at New York University’s Center for Global Affairs 
+pursuing a MSGA with a concentration in Transnat ional Security and a specialization in Global 
+Risk. Mariam received her Bachelor of Arts in Justice, Law, and Criminology from American 
+University. While studying in Washington D.C., she interned at several federal and local 
+organizations including the Dep artment of Homeland Security, the Department of Justice and 
+the D.C. Public Defender’s Service. After acquiring her Bachelor’s degree, Mariam enlisted in 
+the Peace Corps as an English Education & Youth Development Volunteer in the Republic of 
+Georgia. In a ddition to her studies at NYU, she is a Peace Corps Coverdell Fellow, a USAID 
+Payne Fellow and serves as the president of the Student Association for Global Affairs. After 
+completing her program at the CGA, Mariam will enlist in the USAID Foreign Service a nd will 
+continue pursuing her interests in conflict resolution abroad.  
+ 
+Leila Milgrim  is the Senior Director of CNX Portfolio and Global Brand Solutions at Condé 
+Nast. Her role sits at the intersection of editorial and commercial, and she creates culturall y-
+relevant and groundbreaking global programs with touchpoints in all of Condé Nast's 32 
+markets. Leila has spent the last decade writing and innovating initiatives for publishers like 
+Condé Nast Traveler, SELF, and Rolling Stone. Her career has spanned ca tegories and 
+continents, and she values the meaningful perspective that her five years living in Italy brought 
+to her strategic acumen. Leila’s time abroad inspired her to utilize her understanding of effective 
+content marketing tactics in a way that harne sses influence. It led her to pursue her MSGA at 
+New York University’s Center for Global Affairs, with a concentration in International Relations 
+and Global Futures and a specialization in the United Nations. She holds a Bachelor of Science 
+from the Univer sity of Florida where she majored in Journalism with a concentration in 
+Entrepreneurship.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+6 Abbreviations   
+ 
+Artificial Intelligence (AI)  
+European Union (EU)  
+Internet Corporation for Assigned Names and Numbers (ICANN)  
+Institute of Electrical and Electronics Engineers (IEEE)  
+International Telecommunication Union (ITU)  
+Least Developed Countries (LDCs)  
+Non-Governmental Organizations (NGOs)  
+Organisation for Economic Co -operation and Development (OECD)  
+North Atlantic Treaty Organization (NATO)  
+United Nations (UN)  
+United Nations Foundation (UNF)  
+UN Sustainable Development Goals (SDGs)  
+United Nations Group of Governmental Experts (UN GGE)  
+The Digital Economy Partnership Agreement (DEPA)  
+The General Data Protection Regulation (GDPR)  
+The Internet Corporation for Assigned Names and Numbers (ICANN)  
+World Economic Forum (WEF)  
+ 
+  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+7 Executive Summary  
+ 
+Towards Building A Global Digital Governance Architecture is a comprehensive roadmap for 
+understanding existing initiatives that pertain to th e oversight of digital technologies with the 
+goal of guiding future global governance. The report, both reflective and forward -looking, is 
+rooted in a mapping of initiatives put forth by key sectors. These private sector, governmental, 
+civil society and mu lti-stakeholder -led initiatives are presented for consideration when assessing 
+the contemporary digital governance landscape. The mapping enables the articulation of the 
+possible policy trajectories of future global digital governance. How have they evolve d, and how 
+will they continue to evolve in a nebulous digital climate?  
+ 
+While discussion of a Global Digital Compact is timely, catalysts like COVID -19 have made this 
+conversation even more urgent than ever before. The pandemic forced the world to transit ion to 
+digital technologies to not only continue with daily activities, but to ensure that the economy 
+withstood the global crisis. The pre -existing need for access to virtual connectivity became even 
+more critical. In 2022, as the world slowly transitions  to a hybrid environment, the digital realm 
+will not recede, but will continue to be a larger part of our daily lives.  
+ 
+From the analysis of these four sectoral initiatives, the following underlying trends were evident. 
+The majority of the initiatives pro ved to be Western -centric, meaning the voices of Western 
+countries dominated those of the Global South and other underrepresented groups, though 
+China is becoming a key player on the world stage. Most initiatives are aspirational  at large 
+with less enforce able verbiage in their mission statements and imposable rules to follow. 
+Additionally, the majority of the initiatives follow a voluntary  compliance process and do not 
+have mandatory procedures for follow -through. There is also a highly notable focus on 
+increased digital accessibility,  since equitable digital practices are a global push within these 
+initiatives to address areas in need of capacity building and digital resources. Finally, the 
+sectors collectively pillar their initiatives around the recogniti on of digital rights as a human 
+right . As the digital realm rapidly evolves, the infringements of human rights increase. It is 
+essential that digital technologies are in accordance with human rights and compliant with 
+existing human rights laws.  
+ 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+8 Addition ally, several graphs showcase these findings. Graph 1 reveals that there is a notable 
+majority of multi -stakeholder initiatives among the four sectors covered. Graph 2 underlines that 
+the majority of initiatives are focused on digital governance and policy making. Graph 3 shows a 
+noticeable increase in the number of initiatives being established after 2008, and graph 4 shows 
+a noteworthy growth of initiatives at the turn of the 20th century. Graph 5 examines the initiatives 
+by their approval mechanism and accountability and notes most of the initiatives do not have a 
+clear approval mechanism in place. Graph 6 reveals that most initiatives are aspirational rather 
+than operational or e nforceable. Finally, graph 7 distinguishes the initiatives by the background 
+of their founding members and  finds that a majority of the initiatives are Western -led. 
+ 
+Given these trends, the report recommends the following next steps to better prepare for a n 
+inclusive digital future:  
+ 
+First , it is recommended that the Global South be given a more substantial voice at the 
+discussion table to balance what is currently an outlook monopolized by the West. 
+Representation from both local -level communities and mar ginalities –as well as the 
+embracement of people -centered practices (indigenous peoples, gender, socioeconomic status, 
+disabilities, race, and gender) –is critical to setting an inclusive agenda that encompass a wider 
+range of fields, such as child protectio n and safety on the Internet. This inclusive approach 
+would then require the establishment of shared responsibilities amongst other non -state actors 
+including the private and public sectors.  
+ 
+Second , we urge state and non -state actors to leverage their uni que characteristics, while 
+taking into account both the wants and needs of their diverse communities. Each stakeholder is 
+encouraged to hone in on the characteristics that distinguish them as leaders in the 
+technological realm.  
+ 
+Third , initiatives should b e practiced in a multilateral capacity to include smaller -scale 
+mechanisms and promote shared global values, like human rights. There must be a concerted 
+effort of, by, and for all stakeholders to monitor and evaluate data from developing countries to 
+establish better digital policy and investments in digital technologies. The mapping provided in 
+this report should not be a finality to the process and  needs to be updated regularly.  
+ 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+9 Fourth , there is a need to focus on mediating the levels of Internet fragm entation and 
+unprotected data. As the world becomes more digitized, human rights must also become 
+digitized to uphold society to accountability regarding content and criteria. All artificial 
+intelligence systems must be regulated, and discriminatory and mi sleading content managed.  
+ 
+Fifth , effective implementation of the initiatives must be a mutual priority as to not lose 
+momentum and keep up with the nebulous nature of emerging technologies. In tandem, while 
+respecting the delicate balance between access and security, and encouraging global, 
+multilateral, multi -stakeholder cooperation for a common goal must remain at the forefront.  
+ 
+Sixth , implementing Track 1.5 and 2 diplomacy practices will allow for multi -stakeholders to 
+collaborate, build trust, and di scuss the ways in which to best address emerging digital 
+technological strategies. This will also allow for a motivating environment that nudges the need 
+to keep global digital technologies at the top of the UN’s agenda. The UN might also be the 
+ideal impa rtial actor to push for more Track 1.5 and 2 dialogues amongst multi -stakeholder 
+participants.  
+ 
+Seventh , creating an interactive website to house the mapping of initiatives that is supervised 
+by a neutral party (such as a university  or think tank) will allow for a more productive approach 
+to maintaining and advancing the foundational mapping. This would als o increase accessibility 
+and transparency for those looking to make use of the mapping.  
+ 
+Eighth , it is highly recommended there be a successive practicum in joint partnership with 
+NYU’s Center for Global Affairs, the United Nations Foundation, and an exper t, multi -
+stakeholder panel to maintain progress in establishing a global digital governance architecture. 
+The importance of this work as the UN strives to create a Global Digital Compact is both crucial 
+and relevant.  
+ 
+  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+10 Part 1: Introduction  
+ 
+The digital la ndscape is as functional and fascinating as it is fickle. The perpetual creation of 
+new technologies in a society engrossed in invention and competition comes with both 
+beneficial impact and contemporary challenges. The Internet –a technology created to bri ng us 
+together –has the potential to exist either as our greatest divider or as the most powerful conduit 
+to connectedness. How sectors choose to collaborate will determine how effectively society is 
+able to successfully promote digital technologies as a gl obal public good while balancing the 
+security concerns they present.  
+ 
+1.1: Evolution of Global Digital Governance: A Brief Background  
+ 
+In 1963, the Institute of Electrical and Electronics Engineers (IEE) established an initiative with 
+the goal of fosteri ng technological innovation and excellence for the benefit of humanity. Five 
+decades later, the landscape of digital technologies became ripe with variegated initiatives, but 
+respective governance was falling short just as digital technologies were becomin g more central 
+to nearly all aspects of life. 2018 served as a bumper year that saw the United Nations begin its 
+work on digital cooperation, momentous progress in the European Union with the General Data 
+Protection Regulation law, and –in general –the need for multilateral and multi -stakeholder 
+cooperation in privacy, protection and access became evident.  
+ 
+In July 2018, UN Secretary -General António Guterres recognized the imminent importance of 
+sectoral cooperation, and appointed a High -Level Panel to asses s the economic impact of 
+digital technologies –from social to ethical to legal –in order to leverage  their benefits and avoid  
+their downfalls.1 The High -Level Panel called for cooperation and a global commitment to a safe 
+and inclusive future, statin g that the report will “form part of the building blocks of an inclusive 
+and interdependent digital world, with a fit -for-purpose new governance architecture .”2  
+ 
+The Secretary -General followed up with the Roadmap for Digital Cooperation which presented a 
+multi -year and multi -stakeholder action -oriented plan for tackling interconnectivity and security 
+ 
+1 United Nations. (2019) The Age of Digital Interdependence - Report of the UN Secretary -General's 
+High-level Panel on Digital Cooperation, pg 6.  
+2 United Nations. (2019) The Age of Digital Interdependence - Report of the UN Secretary -General's 
+High-level P anel on Digital Cooperation, pg 5.  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+11 worldwide.3 Amongst its ambitions are achieving universal connectivity by 2030 by promoting 
+digital public goods to unlock digital equity and establishing a framework for digital trust and 
+security in alignment with the UN’s Sustainable Development Goals. Subsequently, The Office 
+of the Secretary -General’s Envoy on Technology was established to “coordinate the 
+implementation of the Roadmap for Digital Cooperation and advance work towards the Global 
+Digital Compact proposed in the Common Agenda, in close consultation with Member States, 
+the technology industry, private companies, civil society, and other stakehol ders.”4 
+ 
+To build upon the Panel’s consensus of accountability across borders as well as the Roadmap 
+for Digital Cooperation , this report recommends cooperation and accountability across sectors 
+in order to effectively execute a digital governance strateg y that addresses the delicate balance 
+between security and access, as well as the impending challenges society faces as digital rights 
+become more entwined with human rights.  
+ 
+1.2: Objective: Support the Building of a Global Digital Governance Architecture  
+ 
+In his recent Our Common Agenda  report the Secretary -General proposed a Global Digital 
+Compact, building on his Roadmap for Digital Cooperation . He proposed that the Compact 
+could outline shared principles across a number of areas, including “reaffirming the fundamental 
+commitment to connecting the unconnected; avoiding fragmentation of the Internet; providing 
+people with options as to how their data is used; application of human rights online; and 
+promoting a trus tworthy Internet by introducing accountability criteria for discrimination and 
+misleading content.”5 And beyond the UN’s efforts to create a Global Digital Compact, a 
+resource on governance has proven to be a crucial necessity as the private sector, 
+gover nments and civil society prioritize cooperation.  
+ 
+To lay the foundation for future -oriented progress, the United Nations Foundation initiated a 
+practicum with New York University’s Center for Global Affairs with the objective to advance the 
+ 
+3 United Nations. (2020). Road map for digital cooperation: implementation of the  
+recommendations of the High -level Panel on Digital Cooperation: Report of the Secretary -General 
+(A/74/821). United Nations. https://dacces s-ods.un.org/tmp/9803106.18877411.html  
+4 Office of the Secretary -General’s Envoy on Technology. https://www.un.org/techenvoy/.  
+5 United Nations. (2021). Our Common Agenda: Report of the Secretary -General, pg 63.  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+12 current and exi sting state of knowledge about sectoral, multilateral and multi -stakeholder digital 
+technology governance initiatives.  
+ 
+Leveraging research, insights and perspectives of expert consultants facilitated a focused 
+mission. After narrowing in on the initiativ es spearheaded by three key actors –the private 
+sector, governments, civil society and NGOs –an integrated analysis allowed for a 
+comprehensive and inclusive look at the pros, cons and stakeholder priorities within existing 
+digital governance initiatives. A mapping structure allowed for a clear comparative analysis 
+across sectors, which further identified strengths and weaknesses, shedding light on gaps 
+where new governance initiatives could proactively embark on setting new and necessary 
+norms. It also made clear the need to add a fourth sector –multi -stakeholder –that takes into 
+account the power of combining sectoral forces. In order to create an effective digital global 
+governance framework, creators must take a judicious outlook in terms of what’s more 
+impo rtant: cooperation or effectiveness. The reality is that while, ideally, digital rights as human 
+rights imply alignment should exist across the sectors, responsible best practices agreed upon 
+by multiple stakeholders may not render the same results as a si ngle-sector decree.  
+ 
+1.3: The Contemporary Setting: The Time Is Now  
+ 
+First came email, then file -sharing, and in 1989, the creation of the World Wide Web 
+revolutionized what it means to be connected.6 It can be argued that this early progression of 
+technological advancement was a foreshadowing of the steady evolution of technologies in our 
+modern climate.  
+ 
+As of 2021, Earth is home to at least 7.8 billion people, but “an estimated 37 percent of the 
+world's population –or 2.9 billion people –have still n ever used the Internet.”7 But while the 
+numbers convey that most of the world is online, a deeper dive shows the discrepancies as to 
+where the majority of Internet users are based. An estimated 96 percent of those who have 
+never used the Internet live in developing countries. Though Internet penetration grew more 
+than 13 percent in the 46 UN -designated Least Developed Countries (LDCs), still, almost three 
+ 
+6 Roser, Max, et al. “Internet.” Our World in Data, July 2015. ourworldindata.org, 
+https://ourworldindata.org/internet.  
+7 “Press Release.” International Telecommunication U nion, 30 Nov. 2021, 
+https://www.itu.int:443/en/mediacentre/Pages/PR -2021 -11-29-FactsFigures.aspx.  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+13 quarters of the population have never connected to the Internet. “Women in LDCs are 
+particularly margi nalized, with roughly four out of every five still offline."8 
+ 
+The UN Secretary -General's Envoy on Technology Office’s priorities are aligned with the 
+Roadmap for Digital Cooperation key actions, including, but not limited to, affordability, equity 
+and in clusivity when it comes to digital technology access for all. By 2030, the Office aspires to 
+create universal and meaningful connectivity, pushing forward a shared goal set by the SDGs, 
+the UN Secretary -General's Roadmap for Digital Cooperation , and the In ternational 
+Telecommunication Union’s (ITU) Connect2030 Agenda. But while priorities are aligned, the 
+path forward is not without obstacles. Compounded by the issues that affect both the developing 
+world –like climate change and gender equality –and countrie s suffering economic disparities or 
+living under an oppressive regime, it becomes evident that Internet governance is about access 
+as much as it is about security. Moreover, in a contemporary setting where a range of societal 
+and economic issues, both glob ally and regionally, are exacerbated by the permeation of digital 
+technologies, tech exceptionalism –the concept that the world’s most complex social problems 
+can be solved with technological solutions –is no longer enough.9 Internet governance can no 
+longe r be siloed and must move toward a multi -stakeholder, multiplatform and multipurpose 
+solution that reflects the ubiquity of digital technologies.  
+ 
+  
+ 
+8 “Press Release.” International Telecommunication Union, 30 Nov. 2021, 
+https://www.itu.int:443/en/mediacentre/Pages/PR -2021 -11-29-FactsFigures.aspx.  
+9 John E . Katsos and Jason Miklian. Overcoming Tech Exceptionalism: How to Improve Societal Impact 
+by Technology Firms in Fragile and Conflict Settings. 9 Jan. 2019, globalpolicyjournal.com.  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+14  
+Part 2: Mapping & Methodology  
+ 
+The analysis of this report builds upon a comprehensive mapping exercise of the existing 
+private sector, governmental, civil society, and multi -stakeholder -led initiatives. This section 
+provides the context of the mapping exercise, the criteria used to sel ect the initiatives, and what 
+the mapping exercise reveals. The list of initiatives is included in the Appendix.  
+ 
+2.1: Mapping Contemporary Global Governance Initiatives  
+ 
+Given the broad and multilayered nature of the digital governance landscape as it exists today, 
+mapping was a necessary exercise to identify key trends, as well as assess any existing gaps. 
+Although this report includes many of the most recent, foundationa l digital governance 
+initiatives, new initiatives are being created at a rapid pace to reflect the ever -changing digital 
+environment. Hence, it is crucial to maintain an up -to-date list of the contemporary initiatives, as 
+the developing nature of global di gital trends often dictate the direction these new initiatives 
+take.  
+ 
+The UN, and other civil -society and governmental organizations, have carried out similar 
+mapping exercises in the past. A noteworthy example is the UN’s Mapping of International 
+Interne t Public Policy Issues, a 2015 paper that describes over 600 initiatives.10 Although the 
+UN’s paper serves as a useful tool in understanding the pre -2015 Internet policy landscape, the 
+research and analysis carried out in this report differs significantly from any other publicly 
+available resource. This report not only includes a comprehensive list of 99 contemporary 
+initiatives that are easily searchable and digestible for the average reader who may not be 
+familiar with the topic, but it also builds upon p resent -day trends that continuously influence the 
+global digital governance landscape. The comprehensive list of the initiatives mapped can be 
+found in the Appendix. Lastly, the UN refers to such digital projects and institutions as 
+mechanisms . Although “m echanisms” is a useful term, the authors of this report use the term 
+initiatives . 
+ 
+ 
+10 “Mapping of International Internet Public Policy Issues.” UN Commission  on Science and Technology 
+for Development, 2015. https://unctad.org/system/files/official -document/ecn162015crp2_en.pdf   
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+15 2.2: Determining Criteria: What Makes an Initiative?  
+ 
+In an attempt to view the current digital global governance landscape with a wide –yet 
+comprehensive –lens, the initiat ives outlined in this report were selected based on consistent 
+criteria and have been studied through a set of standardized categories.  
+ 
+The criteria requires that the initiatives have at least three members and/or signatories, hence 
+be multilateral in na ture. The initiatives must be established by one or more of the following 
+sectors: (i) private sector, (ii) government(s), (iii) civil society, (iv) multi -stakeholder. The four 
+sectors are defined as follows: (i) private sector  includes for -profit companie s (eg. Microsoft) 
+with national and/or global reach; (ii) government sector  encompasses three levels - federal, 
+state/provincial, and municipal. Further, this includes all regional state -level agreements (eg. 
+European Union) and the entire UN system (UN Se cretariat and all Agencies, Funds and 
+Programmes); (iii) civil society  includes non -for-profit and non -governmental organizations, 
+think tanks, and charitable foundations (eg.Charles Koch Institute, Hewlett Foundation); (iv) 
+multi -stakeholder sector  includ es a combination of government, private sector, and civil 
+society. While the majority of the multi -stakeholder initiatives include all three sectors, there are 
+instances where only two of the three sectors are represented (eg. government -private, civil 
+society-government, etc). For the purposes of this report, if there are two or more sectors 
+present in an initiative, it is categorized as multi -stakeholder.  
+ 
+Synchronically, the categories studied for each initiative, in addition to their title and date of 
+establishment, include the following:  
+ 
+● Mandate  refers to the mission of the initiative, as stated by its respective institution or 
+membership. The mandate is an essential component as it provides a clear objective 
+and justification for its creation.  
+ 
+● Focus  Area  includes the key issues the initiative aims to address. Focus areas can 
+range from privacy and cybersecurity to human rights and access. The focus area is 
+typically outlined in the initiative’s mandate. Clearly identifying focus areas is necessary 
+for a comprehensive analysis of key trends, therefore facilitating a roadmap for making 
+recommendations for the future of the digital governance landscape.  
+ 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+16 ● Members  is the list of states, companies, or institutions who are signatory to or have 
+declared supp ort for the initiative. It is important to note that advisors and individuals are 
+not considered to be members for the purposes of this report. Members are a core 
+component of assessing the initiative’s effectiveness, level of recognition, and degree of 
+support.  
+ 
+● Geographical Coverage  conveys the region of the world in which each initiative has 
+purview over. The mapping adheres to the UN’s designated regional divisions, with 
+selection options from: Global, Africa, Asia, North America, South America, Europe , 
+Oceania. Incorporating geographical coverage gives insight into regional trends – and in 
+this case, deficits – of digital governance initiatives.  
+ 
+● Approval Mechanism  showcases the processes with which the institution approves new 
+initiatives. For exampl e, if the OECD seeks to add a new phase to its Going Digital 
+Project, the approval mechanism refers to the process the organization will use to 
+approve this new initiative. Identifying the approval process is an essential component of 
+measuring the effecti veness of the institution, as well as assessing the difficulties of 
+making changes to the initiative. Approval mechanisms include  consensus, majority, 
+signatory, veto, and no objection.  
+ 
+● Accountability  refers to the initiative’s ability to enforce a decre e. Whereas some 
+initiatives are highly enforceable due to their penalty structure, others are voluntary and 
+therefore do not hold the power to obligate signatories to implement the initiatives. 
+Selection options for this category include  operational (initi ative is operational but has an 
+unclear nature of accountability), enforceable (initiative institutes penalties against 
+violations), and aspirational (initiative is completely voluntary with no penalties against 
+violators). Although this is the most subjec tive category in the mapping, identifying each 
+initiative’s degree of accountability is necessary in understanding its durability.  
+ 
+● Legacy  is the foundational documents and/or doctrines that were referenced or acted as 
+inspiration in the creation of this i nitiative. For example, the European Union’s General 
+Data Protection Regulation (GDPR) highlights the European Convention on Human 
+Rights (1950) and the European Data Protection Directive (1995) as historical backing 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+17 for its existence.11 Legacy is an important component of identifying key legislation that 
+may have influenced the wider digital governance landscape.  
+ 
+● Source  is the website link for each initiative. The source is included in the mapping for 
+ease of access and future referenc e.  
+ 
+● Gaps Identified  is a set of notes highlighting gaps in each initiative, as outlined by the 
+authors. The identification of existing gaps enhances the analysis of key trends and 
+recommendations provided in this report. These notes will further the conve rsation and 
+research allowing others, like the UN, to expand upon and address persistent gaps in 
+digital global governance.  
+ 
+Although funding was discussed as a possible category, it is not included in the final mapping. 
+Identifying and assessing the fundi ng sources for each initiative is a potential future research 
+opportunity, as the findings may help differentiate successful initiatives from those that fail.  
+ 
+2.3: What the Mapping Reveals  
+ 
+Through the mapping process, it was possible to identify 99 in itiatives, in which the majority 
+number (42 in total) were formed by multi -stakeholder.  
+ 
+The following graphs provide the visualization of our findings12 by sector, focus area of 
+initiatives, year and decade of creation, approval mechanism by the membersh ip, accountability 
+of members, and background of founding members.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 “What is GDPR, the EU’s new data protection law?” General Data Protection Regulation. 
+https://gdpr.eu/what -is-gdpr/  
+12 The word "unclear" used in the graphs reflected the lack of info rmation regarding features on 
+accountability and approval mechanisms through official websites and reports.  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+18  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Graph 1  
+ 
+ 
+Graph 1 notes the number of initiatives per sector (Civil Society, Government, Private Sector 
+and Multi -stakeholder). Among the four sectors mapped, multi -stakeholder initiatives are nearly 
+double those of civil society and the government sector initiatives, while private sector initiatives 
+are the fewest.  
+ 
+
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+19  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Graph 2  
+ 
+ 
+Graph 2 identifies the primary focus areas of the initiatives mapped. Over a third of all initiatives 
+surveyed are focused on Digital Governance and Policymaking, while Child Protection and 
+Transparency are the least focused on areas.  
+
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+20  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Graph 3  
+ 
+Graph 3 notes the number of initiatives established per year, starting with 1963. After 2008 a 
+significant increase in the number of initiatives being established is discernible.  
+ 
+ 
+ 
+ 
+
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+21  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Graph 4  
+ 
+Graph 4 notes the number of initiatives by decade. It shows that while there were no new 
+multilateral initiatives in  the 1970s and 1980s, there was a significant growth from the turn of the 
+20th Century, with 2018 -19 being a bumper year.  
+ 
+ 
+ 
+ 
+
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+22  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Graph 5  
+ 
+ 
+ 
+ 
+The Graphs 5 records how the initiatives are approved by their membership, and reveals that 
+most  of the initiatives do not have a clear approval mechanism, while only three are approved 
+by majority.  
+ 
+ 
+ 
+
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+23  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Graph 6  
+ 
+Graph 6 records the objective of the initiatives towards their members, and reveals that most 
+initiatives are aspirational in nature, while only eight are enforceable.  
+ 
+ 
+ 
+ 
+
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+24  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Graph 7  
+ 
+Graph 7 identifies whether the founding members of the initiatives have a Western or Non -
+Western background. It clearly shows that until now an overwhelming majority of the initiatives 
+are Western led .  
+ 
+  
+
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+25 Part 3: Sectoral Initiatives: Key Findings  
+ 
+The mapping, as aforementioned, is divided into four primary categories: i) private sector, ii) 
+government sector, iii) civil society/NGO, and iv) multi -stakeholder. The graphs as seen in Part 
+2 begin to illuminate trends prevalent in the mapping.  This se ction builds upon the information 
+within the graphs to provide an in -depth two -pronged analysis of all 99 initiatives.  
+ 
+3.1: A Comprehensive Analysis: Decoding Sectoral Trends  
+ 
+The first part of the analysis offers a breakdown of each individual sector’ s key findings, which 
+encompass a wide range of trends. From provision of expertise exhibited across private sector 
+initiatives to a focus on digital economy and trade in the government sector, trends are varied in 
+scope and depth. The purpose of individua lized sector analysis is two -fold. First, it exists to both 
+identify and highlight the unique prioritizations of each sector in regard to  digital governance (i.e. 
+what topics dominate and appear most frequently). Second, it also offers a roadmap to navigat e 
+the themes and areas of expertise that each stakeholder is uniquely positioned to provide in a 
+potential multi -stakeholder collaboration.  
+ 
+The second part of the sectoral analysis highlights the five key topics that are of priority across 
+the board. In our consultations, there was a clear desire to understand the areas of digital 
+governance that may be “quick wins.” Thus, the objective was to identify the shared 
+characteristics between the various sectors’ respective global governance initiatives in an e ffort 
+to improve the general understanding of overlapping topics and ideas.   
+  
+3.1.1 Private Sector  
+  
+● Multifaceted Cybersecurity:  “Strategic cyber security and stability”13 remains a constant 
+and integral theme of industry -led digital governance initiativ es. Two years in a row, 
+“cyber -attacks'' and “massive data fraud and threat” ranked among the top five global 
+risks. More than 80 percent of the experts consulted in the World Economic Forum’s 
+latest annual survey expected the risks of “cyber -attacks: thef t of data/money” and 
+ 
+13 “What We Do”, Cyber Peace Institute, https://cyberpeaceinstitute.org/what -we-do 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+26 “cyber -attacks: disruption of operations and infrastructure” to increase yearly.14 The 
+scope of threats is growing to encompass concepts of collective cyber defen se 
+(Cybersecurity Tech Accord), terrorism mobilized through digital techn ologies (Global 
+Internet Forum on Counter -Terrorism), to critical infrastructure protection (African 
+Technology Policy Studies Network). That said, it is clear that private sector -led 
+initiatives skew toward a larger membership base due to a “strength in n umbers” 
+mentality. When more members subscribe to cyber security protocols, the network of 
+protection increases to create a “robust cybersecurity ecosystem.”15 
+  
+● Provision of Expertise:  The privatization of the Internet and telecommunication industries 
+fostered the role of private companies and the private sector as technical experts. 
+Private companies are uniquely positioned to lend their expertise to advise and assist 
+public officials on the maintenance and extension of a free and open Internet, to keep 
+the “Internet as a place of limitless possibility.”16 There is a clear indication through the 
+analysis of initiatives mandates that the private sector seeks to contribute their technical  
+expertise to inform their respective governments on holistic digital governance, such as 
+the Cybersecurity Coalition, Institute of Electrical and Electronics Engineers (IEEE), and 
+Asia Internet Coalition. The emphasis on the protection of its consumers is  a central 
+node of private sector initiatives. As identified in the UN High -Level Panel on Digital 
+Cooperation, “…the role of the private sector in human rights is becoming increasingly 
+pronounced. As digital technologies and digital services reach scale s o quickly, 
+decisions taken by private companies are increasingly affecting millions of people across 
+national borders.”17 Thus, data protection, privacy standards, and protection of children 
+online are of particular concern for the private sector. The righ ts of children require acute 
+attention. Children go online at ever younger ages, and children under the age of 18 
+make up one -third of all Internet users.18   
+  
+ 
+14 “Global Findex Database 2017”, The World Bank, https://globalfin dex.worldbank.org  
+15 “Mission”, The Cybersecurity Coalition, https://www.cybersecuritycoalition.org/  
+16 “About”, InternetWorks, https://www.theinternet.works/about -2/ 
+17 United Nations. (2019) The Age of Digital Interdependence - Report of the UN Secretary -General's 
+High-level Panel on Digital Cooperation.  
+18 “The State of the World's Children 2017: Children in a Digital World”, UNICEF, 
+https://www.unicef.org/media/48601/file  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+27 ● Inherently Global:  The global permutation of companies, such as Microsoft, Google, 
+Snapchat, Me ta, and TikTok, has altered the regional implications of governance 
+initiatives. Due to the inherently global nature of these companies, their adoption of 
+governance principles has wider implications than the region in which their companies 
+are headquarter ed. In particular, the prevalence of tech giants, such as Google, 
+Microsoft, and Meta, as leaders in a wide variety of governance initiatives lends itself as 
+an incentive for smaller companies to join.  
+  
+● Western -Centrism:  Private sector initiatives often s eek to influence and inform future 
+national legislation and policy creation. A prevalent trend is that much of the foundational 
+legislation and policies originates in Western countries, more specifically: the United 
+States and the European Union. Internet Works , a freedom of speech online initiative, 
+anchors its mandate to Title 47, Section 230 of the United State Code enacted as a part 
+of the United States Communications Decency Act.19 Similarly, The Consumer 
+Technology Association  is global in scope with 1500 members but seeks to “educate 
+U.S. policymakers to ensure the innovation economy is protected from laws and 
+regulations that delay, restrict or ban the development of technologies in all sectors.”20 
+The emphasis on the U.S. or  European based legal structures has implications on the 
+formulation and activity of both Western -based companies and smaller companies 
+seeking to adopt interoperable business models.  
+ 
+3.1.2 Government  
+  
+● Cybersecurity/Cybercrime:  Cybersecurity and cyber crime are key issues identified in 
+government -led digital governance initiatives. In contrast to the private sector’s viewpoint 
+on the topic, the emphasis from governments is the creation of hard law. The General 
+Data Protection Regulation  (GDPR) was imple mented by the European Union (EU) in 
+2018. Since then, it’s become known as the “toughest privacy and security law” on 
+data.21 Government sector cybersecurity initiatives tackle a wide breadth of topics. The 
+impact of cyber incidents to disrupt or destroy critical infrastructure, as seen in Stuxnet, 
+has placed critical infrastructure protection at the forefront. Finally, artificial intelligence 
+ 
+19  InternetWorks, https://w ww.theinternet.works/about -2 
+20 The Consumer Technology Association, https://www.cta.tech/who -we-are 
+21 “What is GDPR”, The General Data Protection Regulation, https://gdpr.eu/what -is-gdpr/  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+28 (AI) is a central node that is widely identified to be harnessed as a tool for good, but also 
+the inherent risk pr evalent therein. The public sector –and, in particular, the UN – is more 
+likely to achieve noteworthy memberships from participants. However, as the 
+membership list grows, the more aspirational the missions become. This is because any 
+decree that is enforcea ble may become invasive to a member's sovereignty. Regardless 
+of how aspirational the government sector missions become, upholding accountability 
+within the government sector involving cyber security and cybercrime remains a 
+challenge. Therefore, the gover nment sector may aspire to have more concrete and 
+enforceable missions to ensure equitable digital practices.  
+ 
+● Digital Economy and Trade:  The digital economy presents a new challenge surrounding 
+taxation/tariffs, trade, and consumer protections. The develo pment of an inclusive digital 
+economy requires comprehensive strategies, national frameworks, and international 
+agreements. According to the World Bank’s Global Findex 2017 report, 69 percent of 
+adults have an account with a financial institution (up by se ven percentage points since 
+2014).22 Thus, over half a billion adults gained access to digital financial instruments in 
+three years. Still, much of the population is left behind in this new form of digital 
+economy, which remains central to this cluster of digital governance initiatives. An 
+initiative seeking to bolster the ease of digital trade is The Digital Economy Partnership 
+Agreement (DEPA). DEPA, established in 2020, “...is a first of its kind agreement that 
+establishes new approaches and collaboratio ns in digital trade issues…”23  
+ 
+● Societal Digital Transformation Strategy:  A key commonality in government -led digital 
+governance initiatives is the emphasis on a comprehensive “digital transformation” 
+strategy. This includes not only the positive implicat ions of digital transformation on 
+society, but the inherent risks associated with it. Interestingly, these society -wide digital 
+transformation strategies are tackled by a variety of government actors. It ranges from 
+the G20 Smart Cities Alliances, to The O CED Going Digital , to The African Digital 
+Transformation Strategy.  The emphasis on digital transformation can be seen in the  
+OCED Going Digital mandate where, “Since 2017, the project has supported policy 
+makers in the quest to better understand digital tr ansformation and the effects of digital 
+ 
+22 “Global Findex Database 2017”, The World Bank, https://globalfindex.worldbank.org  
+23 The Digital Economy Partnership Agreement (DEPA), https://www.mti.gov.sg/Improving -Trade/Digital -
+Economy -Agreements/The -Digital -Economy -Partnership -Agreement  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+29 technologies on our economies and societies, in an effort to shape a positive digital 
+future.”24 More broadly, there is an observable trend that identifies the goal of “building 
+back better”25 by using digital technologies steeped in democratic principles and values.  
+   
+● Great Variability in Spectrum of Mandate and Accountability Structure:  Where civil 
+society and the private sector appear more targeted toward a single specified challenge, 
+the government sector seeks to have comprehensive mandates. It could pertain to child 
+protection, online infrastructure issues, and cybersecurity. Future iterations of this report 
+may find it useful to dig deeper into the intentional ways in which mandates are worded, 
+as well as the trends and patterns that come from having either a comprehensive 
+mandate or a broad, non -specific mandate. In terms of account ability, the government 
+sector possesses the widest range of measures. As will be discussed further, many 
+initiatives are voluntary and aspirational, meaning there is no way to enforce adherence. 
+Although, through a variety of state structures, penalties c an be administered. For 
+example, the GDPR  has a two -tier penalty system. A lower tier of €10 million or for more 
+serious violations of a maximum of €20 million.26  
+ 
+3.1.3 Civil Society  
+ 
+● Greater Leniency Towards Implementation Strategies:  The great major ity of non -
+governmental organizations and think tanks focus on research and academia, as well as 
+establishing good practices, monitoring and evaluation of digital technologies capacities 
+with governments, multi -stakeholder and private sector. As a result, civil society 
+initiatives tend to provide solutions and policy analysis recommendations rather than 
+setting norms in the international arena.  
+  
+● Financial Dominance by Western Countries:  When it comes to the global nature of the 
+Internet and digital interde pendence, civil society initiatives followed suit. Many focus 
+their attention on global efforts to increase both local and regional governance initiatives. 
+A noteworthy finding is that though mandates are equipped with global aspirations, 
+ 
+24 The OECD Going Digital, https://www .oecd.org/digital/going -digital -project/  
+25 “2021 G7 Digital and Technology Ministerial Declaration” G7 Digital and Technology Ministers, 
+http://www.g8.utoronto.ca/ict/2021 -digital -tech-declaration.html  
+26 “What is GDPR, the EU’s New Data Protection Law”, GD PR, https://gdpr.eu/what -is-gdpr/  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+30 Western companies , foundations and charities tend to be the financial supporters, 
+partners or members of NGOs and think tanks. Financial support can promote the 
+advancement of digital cooperation within the Global South, but it can also be 
+counterintuitive to development, as the agenda setting may address different interests in 
+the region.  
+ 
+● Awareness Spreading Through Advocacy:  Civil society acts through soft -law initiatives to 
+promote a better understanding of technology and the respective responsibilities for 
+states, mult i-stakeholder, and private entities. The goal of these efforts are mainly to 
+spread awareness and advocate central issues that surround digital governance via 
+informative documents, such as white papers. Even if governance is a strategy to 
+facilitate advoc acy, the large fragmentation of initiatives –in addition to the amount of 
+production of documents –can be counterproductive. As discussed in the UN Secretary 
+General's High -Level Panel for Digital Cooperation report, governance in the context of 
+the overlap of numerous global initiatives had become "complex, but not necessarily 
+effective."27  
+ 
+● Education, Training and Research:  An important actor in the civil society sector is 
+academia, often participating through the establishment of think tanks. The role and  
+impact of academia in civil society has resulted in emphasis on digital education, training 
+and research. Here, education and training follow two patterns: First, the use of digital 
+technologies to provide education and training, utilizing its inherently connective nature 
+to overcome educational barriers. Second, the need to increase education and training 
+for digital literacy remains a priority for civil society actors. For example, the Internet 
+Society, as a part of an overarching mandate, “...supports e ducation in developing 
+countries specifically, and wherever the need exists” and “...promotes professional 
+development and builds community to foster participation.”28 The research component of 
+academia has led to the development of databases as well as th e desire to produce 
+repositories of knowledge to be used by decision makers. The latter also works to 
+enable evidence -based informed decisions. For example, George Washington 
+University’s Digital Trade and Data Governance Hub  aims “…to provide policymakers , 
+ 
+27 United Nations. (2019). "UN Secretary General's High -level Panel for Digital Cooperation". p. 23.  
+28 Internet Society, https://www.internetsociety.org/mission/  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+31 the press, and the public with a greater understanding of these complex digital trade and 
+data governance issues in order to improve trust and efficiency in our systems.”29 
+ 
+3.1.4 Multi -stakeholder  
+  
+● Cyber Capacity Building:  Multi -stakeholderism provid es a unique nexus between the 
+private sector, government, and civil society -led initiatives. Each sector comes equipped 
+with a unique set of skills, as well as a unique purview into various priorities in which to 
+build cyber capacity. According to the UN G roup of Governmental Experts (UN GGE) 
+2015 Report, cyber capacity building encompasses the following three features: i) a 
+means to secure the cyber ecosystem directly (i.e. through technical means or policies), 
+ii) a means to action or realize cyber norms and confidence building measures, iii) a 
+means to enable participation in cybersecurity discussions.30 Cyber capacity building 
+often results in a forum/discussion medium to address gaps and weaknesses in 
+particular areas of digital knowledge. These forums are often spearheaded by the private 
+sector, who possess the technical skills required, such as encryption or cyber awareness 
+strategies.  
+ 
+● Global Standardization as a Necessity:  As multi -stakeholder initiatives involve a diverse 
+group of participants, there is a trend on the importance of global standardization to 
+achieve interoperability. This includes technical standards such as the Domain Name 
+System (DNS) stewarded by the Int ernet Corporation for Assigned Names and Numbers 
+(ICANN). Digital participation among the private sector, governments and civil society 
+seeks to improve transparency and quality in the development of all digital technologies 
+and its operational counterpart s. While many best practices and standards exist, they 
+often address only narrow parts of a vast and diverse universe that ranges from talking 
+toys to industrial control systems.  As digital technologies and the Internet continue to 
+become an immutable par t of everyday life, there must be an undertaking to ensure all 
+present and future technological developments are unified in a global technical standard.  
+ 
+ 
+29 The Digital Trade and Data Governance Hub, https://datagovhub.elliott.gwu.edu/about/  
+30 “2015: Report of the Group of Governmental Experts on Development in the Field of Information and 
+Telecom munications in the Context of International Security”, UN Group of Governmental Experts, 
+https://documents -dds-ny.un.org/doc/UNDOC/GEN/N15/228/35/PDF/N1522835.pdf?OpenElement  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+32 ● Digital Rights as Human Rights:  Digital rights –also referred to as human rights online –is 
+a core tena nt throughout the multi -stakeholder initiatives. Notably, the multi -stakeholder 
+approach allows for multiple lenses in which to look at digital rights (as opposed to solely 
+through the consumer/customer perspective in the private sector). For example, the 
+Internet & Jurisdiction Policy Network seeks to develop standards and solutions to 
+“pressing legal challenges at the intersection of the global digital economy, human 
+rights, and security,”31 whereas the African Declaration on Internet Rights & Freedoms  
+seeks to uphold and promote human rights online through the specific context of multi -
+stakeholder social and economic development in Africa.32 The variability and diversity of 
+multi -stakeholder initiatives allows for unique perspectives, and thus, approaches  to the 
+realization of digital rights.  
+ 
+● Diverse in Focus and Scope, Accompanied by Targeted Goals:  Multi -stakeholder 
+initiatives have a robust and diverse membership roster due to the inherent variability of 
+stakeholders. The mandates and objectives for mu lti-stakeholder initiatives were able to 
+expand into less -traditional digital governance foci. While not diminishing from specificity 
+and targeted goals, greater diversity in mission statements and mandate focus was more 
+evident compared to that of the pri vate, government and civil society sectors. For 
+example, the Open Smart Register Platform (Open SRP), focusing on the healthcare 
+industry, calls on “data -driven decision making within the health care system, however, it 
+is an open -source, mobile -first plat form, built to enable data -driven decision making at all 
+levels of the health system. It was designed to address the problem with existing 
+technology solutions that are fragmented, unscalable, functionally limited, and not 
+interoperable with national -level information systems .”33   
+ 
+3.2 Overarching Trends Across All Sectors  
+ 
+Each sector –private, government, civil society, and multi -stakeholder –presents a unique and 
+valuable offering of digital governance prioritization and perspective. Still, within the diverse 
+mandates and objectives of separate sectors, governance initiative s demonstrate pervasive 
+trends. The commonalities found therein are as follows: i) Western -centrism, ii) aspirational, not 
+ 
+31 The Internet & Jurisdiction Policy Network, https://www.internetjurisdiction.ne t/about/mission  
+32 The African Declaration on Internet Rights and Freedoms, https://africaninternetrights.org/en/about  
+33 Open Smart Register Platform (Open SRP) https://smartregister.org/about/   
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+33 enforceable, iii) continuation of voluntary agreement, iv) increased focus on digital accessibility, 
+and v) promotion of digital righ ts.    
+ 
+● Western -Centrism:  Through the analysis of all initiatives, it is observable that the United 
+States and Europe are the major protagonists in global digital governance. These 
+countries, defined herein as “Western,” are often responsible for setting n orms, leading 
+the initiatives, and operationalizing new parameters worldwide. There is a clear 
+discrepancy in leadership opportunities for and participation of developing countries that 
+are engaged in the international arena.  
+ 
+While this report addresses the Western -centrism –primarily with the US and EU acting 
+as thought leaders and key enforcers of global digital governance policies –it should be 
+noted that China is a key player in the global digital governance landscape. Since 2015, 
+the country has been i mplementing Made in China 2025, a national strategy to secure a 
+"position in the global powerhouse in high -tech industries" by reducing the dependence 
+on technology from the West and investing in its own innovation mechanisms with the 
+goal to increase the competitiveness of Chinese companies by 2025.34 Additionally, in 
+2014, China launched (and still hosts) the World Internet Conference, a state -funded 
+event that attracts global tech leaders such as from Apple to participate in discussions 
+about global digi tal governance policies. In 2019, 600 companies participated.35  
+ 
+● Aspirational, Not Enforceable:  The majority of initiatives –53 out of 99 –are aspirational. 
+Still, there is a clear goal of transcending the collective information sharing and the use 
+of volun tary international forums. The unified objective is to find an actionable digital 
+governance structure to hold all participants accountable. A positive finding, this trend 
+sees that governments in particular are also becoming less willing to accept a lenie nt 
+regulatory approach. As discussed in the UN High -Level Panel for Digital Cooperation, 
+ 
+34 "China Innovation Project: A Guide to Understanding China's Next Wave of Innovation". Harvard 
+University Newsletter.  https://projects.iq.harvard.edu/innovation/made -china -2025 -explained   
+35 Yujie Xue  and Minghe Hu . "China’s s tate-run World Internet Conference sees ‘quietest’ year ever amid 
+coronavirus pandemic". South Morning China Post . Nov 24, 2020. 
+https://www.scmp.com/tech/policy/article/3111154/chinas -state -run-world -internet -conference -sees -
+quietest -year-ever-amid   
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+34 for example, in the United Kingdom, legislators are exploring how existing legal 
+principles, such as "duty of care" could be applied to social media firms.36 
+ 
+● Continua tion of Voluntary Agreement:  The aspirational nature of the majority of initiatives 
+can likely be attributed to the overarching voluntary nature of most regional and/or 
+international agreements. This signatory tendency is not unique solely to digital 
+gover nance, but rather is a much larger conversation about international law and 
+accountability. With the increasing omnipresence of digital technologies, the challenge 
+will increasingly surround the incorporation of actors who do not freely subscribe to the 
+proposed principles, values and standards.  
+ 
+● Increased Focus on Digital Accessibility:  Positively noted, it is a universal feature across 
+all sector initiatives as to the importance of increasing and promoting digital accessibility.  
+As Tim Berners -Lee, Director of World Wide Web Consortium and inventor of the World 
+Wide Web once stated, “T he power of the Web is in its universality. Access by everyone 
+regardless of disability is an essential aspect.”37 Accessibility –or lack thereof –may take 
+many forms, albeit through physical disability and unadaptable technology, or through 
+the lack of tech nology or Internet infrastructure. Thus, it is important to remain cognizant 
+of the variability of causes surrounding inaccessibility.  
+ 
+● Digital Rights as Human Rights:  Many of the documents that codify human rights were 
+written well before the digital age.  This includes the Universal Declaration on Human 
+Rights; the International Covenant on Economic, Social and Cultural Rights and the 
+International Covenant on Civil and Political Rights; the Convention on the Elimination of 
+all Forms of Discrimination agai nst Women; and the Convention on the Rights of the 
+Child. That said, in many cases, it is not clear how human rights laws and treaties 
+implemented in the pre -digital era should be applied in the digital age. There is an urgent 
+need, as demonstrated in many  of the mission statements of digital governance 
+initiatives, to examine how human rights frameworks and conventions should pilot digital 
+cooperation and technology.  The discussion largely surrounds uncertainty of 
+ 
+36 United Nations. (2019). The Age of Digital Interdependence: Report of the UN  
+Secretary -General’s High -level Panel on D igital Cooperation.  
+37 “Accessibility”, World Wide Web Consortium, 
+https://www.w3.org/WAI/EO/Drafts/4betaW3org/accessibility -new-w3c200908131a  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+35 establishing a new human rights framework  targeting digital technologies or  finding the 
+appropriate way in which to extend pre -existing human rights into the digital space.  This 
+is a new frontier of human rights application that requires inclusive multi -stakeholder 
+participation to identify the norms and shared values to be applied to digital 
+technologies, including issues like privacy, freedom of speech and security.  
+ 
+  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+36 Part 4: Next Steps: Preparing for an Inclusive Digital Future  
+ 
+Based on an analysis of the sectoral initiatives, and the key f indings noted in the previous 
+section, this section proposes a series of recommendations to facilitate pathway s to prepare for 
+a more cooperative and inclusive digital future.  
+ 
+4.1 An Inclusive Approach to Norm -Setting  
+ 
+The US and EU maintain a primary leadership role in the digital technologies field, thus 
+perpetuating a Western -centric approach to norm -setting. Within this approach, China’s World 
+Internet Conference notwithstanding, the visibility of Global South led initiatives can be 
+undermined and d eemed irrelevant. Historically, this is due to the power, and investment 
+imbalance in non -Western states relative to that in Western states.   Regional arrangements in 
+non-Western areas, especially through civil society organizations, have been protagonist s in 
+addressing the challenges and fast -paced nature of digital technologies.38 For example, over the 
+last ten years, Brazilian think tank Instituto Igarapé shaped new approaches on how 
+governments can use digital technologies, as it “developed new technol ogies used by 
+governments such as CopCast, a body -worn camera tested in Brazil, South Africa and the US. 
+Other tools include the CrimeRadar, the ISPGeo and the Paraty Violence Prevention 
+Observatory. Instituto Igarapé is also involved in developing a range  of innovative civic apps to 
+support marginalized communities, including the Child Security Index and OKA.39 
+ 
+On a micro -level, the discussion of a Western -centric approach also needs to address the 
+marginalization of certain groups of people in the process of overcoming the digital divide. The 
+consultation with local level and marginalized communities is essentia l to provide universal 
+accessibility, truly inclusive collaboration, with human rights at the center.  
+ 
+Recommendations  
+ 
+ 
+38  "New Technologies". Igarapé Institute. https://i garape.org.br/en/congrats -igarape/   
+39 OKA is "a Compass of Public Services is an Android and iOS mobile phone app for migrants, refugees 
+and asylum seekers, as well as internally displaced persons in Brazil". https://igarape.org.br/en/oka/   
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+37 ● To improve participation and inclusion from the Global South and to put forth their own 
+initiatives to the forefront of the discussio n, it is recommended that South America, 
+Africa, Middle East, and Asia initiatives be able to participate equally in the global digital 
+governance discussions. In other words, we recommend improving participation in global 
+digital technologies through faci litating discussions with the Global South to enhance 
+regional initiatives and bring them to the decision -making process. This can also be 
+possible through local and regional grass -roots organizations. In this way, it is possible 
+to understand the nuances of each region and how a Western -centric approach may not 
+fulfill the needs when it comes to rights, trends, and accessibility.  
+● On a micro -level, the inclusive approach should be accompanied by group 
+representation from marginalized communities (women, LGB TQ+ people, indigenous 
+peoples, people with disabilities) when working through discussions with the wider global 
+leaders. It is proposed that this effort would enforce inclusivity amongst stakeholders 
+when discussing the implementation of sensitive issues revolving around digital 
+technologies.  
+ 
+4.2 Where Digital Rights Meet National Responsibilities  
+ 
+The conversation regarding digital rights is more timely, and important, than ever before. From 
+freedom of expression to access to the Internet, digital rights encompasses various levels of 
+digital responsibilities for states. The debate is not homogenous and often follows national 
+regulations. However, globalization enabled the debate to transcend countries' geographical 
+borders. Finding commonalities are necessary to promote a minimum set of digital 
+responsibilities for all the countries, such as child pr otection protocols for Internet  use. The 
+commonalities will be important to open the states' debate on how digital technologies can 
+affect future generations.  
+ 
+In our consultations, as "digital technologies increasingly cut across areas in which policies a re 
+shaped by separate institutions,"40 the discussions about digital rights cannot fall under the 
+premise of tech exceptionalism, or tech fragmentation. The Internet  is interconnected with all the 
+other sectors, so the states should address the connectivit y, and openness of digital 
+technologies in the discussions as a common topic transcending different fields.    
+ 
+40 United Nations. (2019). "UN Secretary General's High -level Panel for Digital Cooperation". p. 23.  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+38  
+Recommendations:  
+ 
+● Observed throughout our research was the askew application of human rights in the 
+digital space. As aforementioned, the major ity of human rights declarations and treaties 
+were established in a pre -digital era. Therefore, it is recommended that a full survey of 
+human rights declarations and treaties be conducted to gain a greater understanding of 
+the true applicability of human r ights in the post -COVID -19 digital era. The private 
+sector, governments, and civil society should be actively involved leveraging their unique 
+expertise and perspective on how to apply existing human rights instruments to ensure 
+full realization of digital  rights.  
+● To ensure long term sustainability for human rights, it is proposed that there be a global 
+standard that is agreed upon by all states. This would supersede states’ private 
+regulations and laws. With this base global standard, future generations a re protected 
+from the vast changes and implementations of the Internet. This would also challenge 
+the fact that technology evolves and changes on a daily basis, as the global standard 
+would not be affected.  
+ 
+4.3 A Case for Multi -stakeholderism as a Priori ty to Effectiveness  
+  
+Meaningful digital cooperation requires that multi -stakeholderism, despite its challenges, be 
+implemented and strengthened. Given the wide spectrum of issues, each stakeholder will be 
+required to leverage their unique position in digi tal governance; some initiatives may be led by 
+the private sector or civil society rather than government or international organizations.  A multi -
+stakeholder digital governance approach should seek to increase interaction and coordination 
+between the publ ic sector and private entities to help mold approaches to economic, cultural 
+and geographic contexts. Further, as identified in The Report of the Secretary -General , 
+Roadmap for Digital Cooperation , special considerations must be taken, given that “...globa l 
+discussions and processes are often not inclusive enough. This situation is exacerbated by the 
+lack of a common entry point into the global digital architecture, which makes it especially hard 
+for developing countries, small and medium -sized enterprises,  marginalized groups and other 
+stakeholders with limited budgets and expertise to make their voices heard.”41  This must be 
+ 
+41 United Nations. (2020). Report of the Secretary -General: Road map for digital cooperation.  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+39 considered and acted on to increase the validity and effectiveness of true multi -stakeholder 
+participation.  
+The UN is a custodian of  global peace and security, human rights and development in the 21st 
+century. The collaborative nature of the UN uniquely positions the organization to highlight 
+issues emerging in the digital age. In the consultations that supported this research, concerns 
+about the UN’s state -centric structure were addressed. The UN has begun to engage the private 
+sector and tech community much more directly. Here, it is important to highlight the  
+establishment of Microsoft’s UN Affairs Office, which seeks to “ deepen our [Microsoft’s] 
+support for the UN's mission and work by advancing gl obal multi -stakeholder  action on key 
+technology, environmental, humanitarian, development, and security goals, as well as by 
+helping advance the UN Sustainable Development Goals (SDGs) .”42 However, working with 
+stakeholders, such as the private sector and civil society, is still not an inherent feature of the 
+UN.  Therefore, more should be done to promote effective and consistent multi -stakeholder 
+participation.  
+The UN retains a unique role and convening power to bring stakeholders together to continue 
+mean ingful discussions on global digital governance. As identified in the High -Level Panel on 
+Digital Cooperation, the UN has the opportunity to i) be a convener, ii) provide space for 
+debating values and norms, iii) standard -setting, iv) multi -stakeholder or bilateral initiatives on 
+specific issues, v) develop the capacity of member states, vi) ranking, mapping and measuring, 
+vii) arbitration and dispute resolution.  
+Recommendations:  
+● The UN could initiate, possibly with academic or private -sector partners, Trac k 1.5 and 
+Track 2 meetings with all relevant stakeholders. These meetings should target a 
+consensus of principles and values in preparation for the Summit of the Future and the 
+subsequent Global Digital Compact.  
+● In our consultations, a universal uncertainty arose surrounding the role of each 
+stakeholder in the multi -stakeholder approach. Therefore, we recommend for there to be 
+additional Track 1.5 meetings to bring forward the leaders in the private sector, 
+ 
+42 “Microsoft at the UN” Microsoft Office of UN Affairs, https://www.microsoft.com/en -us/united -nations  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+40 govern ment, and civil society to begin discussions surrounding the equitable 
+implementation of a multi -stakeholder approach to global digital governance.    
+4.4 Further Research via a Subsequent Practicum  
+Considering the ubiquitous nature of digital in the futur e, further research is needed. First, the 
+mapping in this report considered initiatives established until April 2022. As a natural 
+consequence of the rapid development of emerging technologies, it is very likely that new 
+initiatives will emerge to cope wit h and combat possible consequences of innovation.  
+Second, the initiatives analyzed are focused at a multilateral scale, in which only initiatives with 
+three or more governments, private sector, and civil society actors were considered. Even if the 
+common trend relates to global approach, local and national initiatives may be positively 
+impacting the accessibility of digital technologies and promotion of human rights.  
+Third, there is no official data or evidence on the number of initiatives established wor ldwide. 
+The lack of reliable data can reflect on assumptions on digital policy and global economy 
+investments in digital technologies, affecting analysis -trend, and initiatives responses. 
+Moreover, it also affects more heavily developing countries, as a re flection of low capacity and 
+investments to map and collect data.  
+Recommendations:  
+● To increase productivity and accessibility, it is recommended to build an interactive 
+website, possibly at a university or think -tank, to house the mapping. Here, the mappin g 
+may be easily updated that translates directly to a user interface that is easy to use for 
+all. An example of a potential outcome can be found in the  Digital Trade & Data 
+Governance Hub.  
+● Finally, we strongly recommend a subsequent practicum that can pick  up the proverbial 
+baton and move towards an expansion of global digital governance initiatives, conduct 
+further analysis, evaluate the effectiveness of initiatives and ultimately stay abreast of 
+the developments of the Global Digital Compact.  
+ 
+  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+41 Part 5: Conclusion  
+ 
+Digital technologies are an increasingly inextricable feature of contemporary society. The 
+connectivity it provides has boundless potential to fuel positive change, but –in contrast –it also 
+maintains the potential to exacerbate existing fault li nes and worsen economic and other 
+inequalities (as seen through the digital divide). On the eve of the COVID -19 pandemic, close to 
+87 percent of individuals in developed countries used the Internet, compared with only 19 
+percent in the least developed coun tries.43 Accessibility to digital technologies, reliable Internet, 
+and coherent digital governance policies proved to be a defining feature of the COVID -19 
+pandemic survival and recovery. What was unveiled during the COVID -19 pandemic was the 
+irrefutable n eed for a comprehensive, equitable, universal digital access, connectivity, as well as 
+stable governance to bring the remaining 2.9 billion people online.44 Today, online violations can 
+lead to real -world violations; the Internet cannot continue as an ungo verned or detrimentally 
+fragmented  space. It must embody an inclusive multi -stakeholder approach to governance in 
+order to keep up with the rapid evolution of emerging technologies.  
+ 
+The dynamic nature of digital technologies has proven to be a challenge for the global 
+community, including national governments, private entities, and civil society. The speed and 
+scale of change of emerging technologies is only increasing. Therefore, the swiftness, 
+responsiveness and scope of digital global governance must i mprove to meet the moment. 
+More fruitful forms of cooperation, collaboration and discussion are required to ensure that 
+digital governance becomes an effective, implementable feature of the digital age. Most 
+pressingly, those who advise on the future of gl obal digital governance must take into account 
+the reality that digital rights are intertwined with human rights. In a digital -first era, global digital 
+governance must lead with the knowledge that technologies are created for universal 
+connectedness. It i s our hope that the approach to its governance encompasses shared values 
+and principles rooted in egalitarianism to ensure an equitable digital future for all.   
+ 
+43 International Telecommunications Unions (ITU), Measuring D igital Development. Facts and figures 
+2019 (Geneva, 2019).  
+44 United Nations. “Achieving Universal Meaningful Digital Connectivity: Setting a Baseline and Targets 
+for 2030. United Nations Office of the Secretary -General’s Envoy on Technology and Intenationa l 
+Telecommunications Union. https://www.itu.int/itu -d/meetings/statistics/wp -
+content/u ploads/sites/8/2022/04/UniversalMeaningfulDigitalConnectivityTargets2030_BackgroundPaper.p
+df 
+ 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+42  
+Appendix: List of Initiatives  
+ 
+Private Sector -Led Initiatives (TOTAL: 10)  
+ 
+1. Initiative Name:  Digital Services Coalition  
+○ Date Established: 2019  
+○ Mandate: To bring innovation and agility to government IT contracting. By 
+working together, we can accelerate the government’s ability to implement 
+services that focus on good usability, reliable technology, and accessibility for 
+all—while also benefiting the individuals and firms that are part of the community.  
+○ Focus Area:  Digital Cooperation and Tech Innovation  
+○ Members: 28 members including Agilesix, All Women Leadership, and 
+Wheelhouse Group  
+○ Geographical Coverage: Global  
+○ Approval Mechanism:  Majority  
+○ Accountability: Unclear  
+○ Legacy: Digital Services Playbook  
+○ Source:  https://digitalservicescoalition.org/#/  
+○ Gaps Identified: Private expertise to assist Public sector efficiency  
+○ Note s: N/A 
+ 
+2. Initiative Name: CyberSecurity Tech Accord  
+○ Date Established: 2018  
+○ Mandate:  To promote a safer online world by fostering collaboration among 
+global technology companies committed to protecting their customers and users 
+and helping them defend agains t malicious threats. By combining the resources 
+and expertise of the global technology industry, the Cybersecurity Tech Accord 
+creates a starting point for dialogue, discovery and decisive action.  
+○ Focus Area: Cybersecurity  
+○ Members: 150 members including De ll, Meta, and Microsoft  
+○ Geographical Coverage: Global  
+○ Approval Mechanism:  Signatory  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+43 ○ Accountability: Unclear  
+○ Legacy: N/A 
+○ Source: https://cybertechaccord.org/  
+○ Gaps Identified:  Lack of coordination  
+○ Notes: N/A 
+ 
+3. Initiative Name: Global Internet Forum to Counter Terrorism (GIFCT)  
+○ Date Established: 2017  
+○ Mandate:  To prevent terrorists and violent extremists from exploiting digital 
+platforms. Founded by Facebook, Microsoft, Twitter, and YouTube in 2017, the 
+Forum was established to foster technical collaboration among member 
+companies, advance relevant research, an d share knowledge with smaller 
+platforms.  
+○ Focus Area:  Cybersecurity  
+○ Members: 18 Members including Zoom, Airbnb, and Amazon  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Signatory  
+○ Accountability: Operational  
+○ Legacy: Christchurch Call to Action & UN Gu iding Principles on Business and 
+Human Rights  
+○ Source:  https://gifct.org/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+4. Initiative Name: CyberSecurity Coalition  
+○ Date Established:  2016  
+○ Mandate:  To bring together leading companies to help policymakers develop 
+consensus -driven policy solutions that: Promote a vibrant and robust 
+cybersecurity ecosystem, support the development and adoption of cybersecurity 
+innovations, and encourage organizations of all sizes to take steps to improve 
+their cybersecurity.  
+○ Focus Area: Cybersec urity 
+○ Members: 21 Members including Google, Microsoft, and Microsoft  
+○ Geographical Coverage: Global  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+44 ○ Approval Mechanism: Signatory  
+○ Accountability:  Aspirational  
+○ Legacy: NIST  
+○ Source: https://www.cybersecuritycoalition.org/  
+○ Gaps Identified: The CyberSecurity Coalition bridges the gap between 
+technology companies’  expertise and policymakers.  
+○ Notes: N/A 
+ 
+5. Initiative Name: Consumer Technology Association  
+○ Date Established: 2015  
+○ Mandate: To ensure the innovation economy is protected from laws and 
+regulations that delay, restrict, or ban the development of technologies in all our 
+sectors.  
+○ Focus Area: Tech Innovation and Policy Making  
+○ Members: 1500 Members including Alibaba Group, Google, and Logitech  
+○ Geographical Coverage: Global  
+○ Approval Mechanis m: Signatory  
+○ Accountability:  Enforceable  
+○ Legacy: N/A 
+○ Source: https://www.cta.tech/  
+○ Gaps Identified: Advocating for tech companies to influence legislation  
+○ Notes: Members must pay membership fees.  
+ 
+6. Initiative Name: ICT Coalition for Children Online  
+○ Date Established: 2012  
+○ Mandate:  To help younger internet users across Europe to make the most of the 
+online world and deal with any potential challenges and risks. With the internet 
+now one of the most important sources of information, education and 
+entertainme nt for many people, it is vital that industry, government, schools and 
+other relevant organizations work together to help children and young people use 
+the internet in a safe and responsible way.  
+○ Focus Area: Child Safety  
+○ Members: 14 Members including Disne y, T-Mobile, Google, and TikTok  
+○ Geographical Coverage: Global  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+45 ○ Approval Mechanism:  Signatory   
+○ Accountability: Aspirational  
+○ Legacy: The Principles for the Safer Use of Connected Devices and Online 
+Services by Children and Young People in the EU  
+○ Source: https://www.ictcoalition.eu/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+7. Initiative Name: Asia Internet Coalition  
+○ Date Established: 2010  
+○ Mandate: To promote the understanding and resolution of Internet policy issues 
+in the Asia Pacific region. Asia Internet Coalition’s mission is to represent the 
+Internet industry and participate and promote stakeholder dialogue between the 
+public and private sectors, sharing best practices and ideas on Internet 
+technology and the digita l economy.  
+○ Focus Area: Policy Making and Digital Cooperation  
+○ Members:  17 Members including Google, Apple and Twitter  
+○ Geographical Coverage: Asia  
+○ Approval Mechanism: Unclear  
+○ Accountability: Unclear  
+○ Legacy: N/A 
+○ Source: https://aicasia.org/  
+○ Gaps Identified: Lack of awareness in Internet policy issues in Asia Pacific  
+○ Notes: N/A 
+ 
+8. Initiative Name:  The Tech Coalition  
+○ Date Established: 2005  
+○ Mandate:  To drive critical advances in technology and the adoption of best 
+practices fo r keeping children safe online. We convene and align the global tech 
+industry, pool their knowledge and expertise, to help our members better prevent, 
+detect, report, and remove online child sexual abuse content.  
+○ Focus Area: Child Safety  
+○ Members: 26 Membe rs including Google, Microsoft, and Meta  
+○ Geographical Coverage:  Global  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+46 ○ Approval Mechanism: Unclear  
+○ Accountability:  Aspirational  
+○ Legacy: N/A 
+○ Source: https://www.technologycoalition.org/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+9. Initiative Name:  Internet Works  
+○ Date  Established: 1996  
+○ Mandate:  To ensure our diverse collection of users is represented in important 
+policy conversations and preserve the Internet as a place of limitless possibility.  
+○ Focus Area:  Digital Rights  
+○ Members: 21 Members including Etsy, Glassdoor, and Reddit  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Operational  
+○ Legacy:  Section 230  
+○ Source: https://www.theinternet.works/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+10. Initiative Name:  Institute of Electrical and Electronics Engineers  
+○ Date Established: 1963  
+○ Mandate:  To foster technological innovation and excellence for the benefit of 
+humanity. IEEE will be essential to the global technical community and to 
+technical professionals everywhere, and b e universally recognized for the 
+contributions of technology and of technical professionals in improving global 
+conditions.  
+○ Focus Area:  Technology for Good  
+○ Members:  409,000 Undisclosed Members  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Signatory  
+○ Accountability:  Operational  
+○ Legacy: N/A 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+47 ○ Source: https://www.ieee.org/  
+○ Gaps Identified: N/A 
+○ Notes: Members must pay membership fees.  
+ 
+Government -Led Initiatives (TOTAL: 24)  
+ 
+1. Initiative Name:  The Declaration for the Future of the Internet  
+○ Date Established: 2022  
+○ Mandate: To advance a positive vision for the Internet and digital technologies. It 
+reclaims the promise of the Internet in the face of the global opportunities and 
+challenges presented by the 21st century. It also reaffirms and recommits its 
+partners to a single global Internet – one that is truly open and fosters 
+competition, privacy, and respect for human rights.  
+○ Focus Area: Policy Making  
+○ Members: 60 members including Canada,  United States, and Ukraine  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Signatory  
+○ Accountability: Aspirational  
+○ Legacy:  N/A 
+○ Source: https://www.state.gov/declaration -for-the-future -of-the-
+internet#:~:text=Today%2C%20the%20United%20States%20with,the%20Interne
+t%20and%20digital%20technologies . 
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+2. Initiative Name:  G7 Digital and Technology Ministers  
+○ Date Established: 2021  
+○ Mandate:  To place the needs of open, democratic societies at the centre of the 
+technology debate and to work together towards a trusted, values -driven digital 
+ecosystem. The G7 be lieves that such ecosystems must enhance prosperity in a 
+way that is sustainable, inclusive and human -centric and has affirmed its 
+opposition to measures which may undermine these democratic values, such as 
+government -imposed Internet shutdowns and network  restrictions.  
+○ Focus Area:  Digital Cooperation and Digital Access  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+48 ○ Members: G-7 Member States  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Consensus  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source: https://www.gov.uk/government/publications/g7 -digital -and-technology -
+ministerial -declaration   
+○ Gaps Identified: The mandate is housed within the UK government's official 
+website, it does not have a dedicated page.  
+○ Notes: This mandate does not seem to have an enforceable structure.  
+ 
+3. Initiative Name: UNESCO Recommendations on the Ethics of Artificial Intelligence  
+○ Date Established: 2021  
+○ Mandate: To address  ethical  issues  related  to  the  domain  of  Artificial 
+Intelligence (AI) to the extent that they are within the United Nations Educational, 
+Scientific, and Cultural Organization’s (UNESCO) mandate.  
+○ Focus Area: AI and Technology for Good  
+○ Mem bers: UN Member States  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Signatory  
+○ Accountability: Aspirational  
+○ Legacy: The   General   Conference   of   the   United   Nations Educational,   
+Scientific   and   Cultural Organization (UNESCO)  
+○ Source: https: //unesdoc.unesco.org/ark:/48223/pf0000377897  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+4. Initiative Name: Digital Cooperation Organization (DCO)  
+○ Date Established: 2020  
+○ Mandate:  To drive greater collaboration and cooperation across 
+entrepreneurship, innovation, busin ess growth and employment in a shared 
+digital economy. By promoting common interests and collaborative digital 
+transformation, the DCO's mission is to enable members to empower women, 
+youth and entrepreneurs to accelerate growth across the digital economy,  and 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+49 achieve greater prosperity by promoting common interests and collaborative 
+digital transformation.  
+○ Focus Area: Digital Economy  
+○ Members: 8 members including Bahrain, Jordan, and Rwanda  
+○ Geographical Coverage: Africa  
+○ Approval Mechanism: Unclear  
+○ Accounta bility: Operational  
+○ Legacy: N/A 
+○ Source: https://dco.org/  
+○ Gaps Identified: The website states that DCO has partners within the following 
+fields: private companies, international organisations, NGOs academia, funds, 
+and civil societies. The website is, howev er, unclear which organizations and 
+where they are located.  
+○ Notes: N/A 
+ 
+5. Initiative Name:  Digital Economy Partnership Agreement (DEPA)  
+○ Date Established: 2020  
+○ Mandate:  To establish new approaches and collaborations in digital trade issues, 
+promote interoperability between different regimes, and address new issues 
+brought about by digitalisation.  
+○ Focus Area: Digital Economy, Data Protection, AI, and Digital Inclusion  
+○ Mem bers: Singapore, Chile, and New Zealand  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Majority  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source: https://www.mti.gov.sg/Improving -Trade/Digital -Economy -
+Agreements/The -Digital -Economy -Partnership -Agreement   
+○ Gaps Identified: DEPA does not have its own website - it is housed in 
+Singapore’s Ministry of Trade and Industry site.  
+○ Notes: China applied to become a member of DEPA.  
+ 
+6. Initiative Name: Digital Transformation Strategy for Africa  
+○ Date Established: 2020  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+50 ○ Mandate: To harness digital technologies and innovation to transform African 
+societies and economies to promote Africa's integratio n, generate inclusive 
+economic growth, stimulate job creation, break the digital divide, and eradicate 
+poverty for the continent’s socio -economic development and ensure Africa’s 
+ownership of modern tools of digital management.  
+○ Focus Area: Digital Inclusion , Digital Access, and Digital Economy  
+○ Members: African Union Members States  
+○ Geographical Coverage: Africa  
+○ Approval Mechanism: Signatory  
+○ Accountability: Aspirational  
+○ Legacy: Policy and Regulatory Initiative for Digital Africa, the Programme for 
+Infrastructu re Development in Africa, the African Continental Free Trade Area, 
+and the African Union Financial Institutions  
+○ Source: https://au.int/sites/default/files/documents/38507 -doc-dts-english.pdf  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+7. Initiative Name: Global Partners hip on Artificial Intelligence (GPAI)  
+○ Date Established: 2020  
+○ Mandate: To bridge the gap between theory and practice on AI by supporting 
+cutting -edge research and applied activities on AI -related priorities. GPAI brings 
+together engaged minds and expertise from science, industry, civil society, 
+governments, international organizations and academia to foster international 
+cooperation.  
+○ Focus Area: AI 
+○ Members: 25 members including Australia, Brazil, and India  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Consensus  
+○ Accountability: Operational  
+○ Legacy:  OECD Going Digital project  
+○ Source: https://gpai.ai/  
+○ Gaps Identified: N/A 
+○ Notes: GPAI is the materialization of an idea developed within the G7.  
+ 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+51 8. Initiative Name: The United States -Mexico -Canada Agreement (USMCA)  
+○ Date Established: 2020  
+○ Mandate: To create a more balanced, reciprocal trade supporting high -paying 
+jobs for Americans and grow the North American economy. The USMCA 
+proposes new chapters covering digital trade, anti corruption, and good 
+regulatory practices.  
+○ Focus Area: Digital Economy  
+○ Members: Canada, Mexico, and U.S.  
+○ Geographical Coverage: North America  
+○ Approval Mechanism: Signatory  
+○ Accountability: Enforceable  
+○ Legacy: The North American Free Trade Agreement (NAFTA)  
+○ Source: https://ustr.gov/usmca   
+○ Gaps Identified: Replaces NAFTA  
+○ Notes: N/A 
+ 
+9. Initiative Name: African Union Cybersecurity Expert Group (AUCSEG)  
+○ Date Established: 2019  
+○ Mandate: To promote and strengthen the ongoing digital transfor mation in Africa 
+by facilitating the coordination and information sharing among African countries & 
+regions and different stakeholders, identifying cybersecurity areas where 
+resources are needed, and advising on national, regional and continental 
+strategie s and initiatives that should be prioritized.  
+○ Focus Area: Cybersecurity  
+○ Members: African Union Member States  
+○ Geographical Coverage: Africa  
+○ Approval Mechanism: Unclear  
+○ Accountability: Operational  
+○ Legacy: The African Union Commission (AUC)  
+○ Source: https://au.int/sites/default/files/pressreleases/37873 -pr-press_release -
+_african_union_cybersecurity_expert_group_holds_its_first_inaugural_meeting.p
+df 
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+52  
+10. Initiative Name: OECD AI Policy Observatory  
+○ Date Established: 2019  
+○ Mand ate: To facilitate dialogue between stakeholders while providing 
+multidisciplinary, evidence -based policy analysis in the areas where AI has the 
+most impact.  
+○ Focus Area: AI 
+○ Members: OECD Member States  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Conse nsus  
+○ Accountability: Operational  
+○ Legacy: The OECD AI Policy Observatory is Phase II of the OECD Going Digital 
+Project  
+○ Source: https://oecd.ai/en/   
+○ Gaps Identified: Although OECD is a global organization, its members c omprise 
+wealthier nations in the Americas and Europe. There are no official African 
+member countries.  
+○ Notes: N/A 
+ 
+11. Initiative Name: Cities Coalition for Digital Rights  
+○ Date Established: 2018  
+○ Mandate: To promote and defend digital rights in the urban contex t through city 
+action, to resolve common digital challenges and work towards legal, ethical and 
+operational frameworks to advance human rights in digital environments.  
+○ Focus Area: Digital Rights and Technology for Good  
+○ Members: 53 cities including Amman, NYC, and Sydney  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Signatory  
+○ Accountability: Enforceable  
+○ Legacy: Internet Rights and Principles Coalition  
+○ Source: https://citiesfordigitalrights.org/home  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+53 12. Initiative Name: European Union  General Data Protection Regulation (GDPR)  
+○ Date Established: 2018  
+○ Mandate: To impose privacy  and security standards onto organizations 
+anywhere, so long as they target or collect data related to people in the EU.  
+○ Focus Area: Data Protection  
+○ Members: All EU (27) member countries and the United Kingdom. The GDPR 
+applies to any entity/organization that processes the personal data of EU citizens 
+or residents, or offers goods or services to such people, even if the 
+entity/organizat ion is not located in the EU.  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Majority  
+○ Accountability: Enforceable  
+○ Legacy: European Convention on Human Rights (1950) and the European Data 
+Protection Directive (1995)  
+○ Source: https://gdpr.eu/  
+○ Gaps Identifi ed: A common grievance by entities/companies operating in the EU 
+is that the GDPR is vague and hard to interpret and that there's a lack of 
+harmony among the member states in enforcing the GDPR.  
+○ Notes: There are two tiers of penalties, which max out at €20  million or 4% of 
+revenue (whichever is higher), if an entity violates the GDPR. The GDPR defines 
+personal data as any information that relates to an individual who can be directly 
+or indirectly identified. (Names, email addresses, location information, et hnicity, 
+gender, biometric data, religious beliefs, web cookies, and political opinions, etc.)  
+ 
+13. Initiative Name: Global Data Access Framework (GDAF)  
+○ Date Established: 2018  
+○ Mandate: To use the power of big data and artificial intelligence (AI) to achieve 
+the Sustainable Development Goals (SDGs).  
+○ Focus Area: AI and Digital Access  
+○ Members: European Union Member States and the United Kingdom  
+○ Geographical Coverage: Europe  
+○ Approval Mechanism: Majority  
+○ Accountability: Enforceable  
+○ Legacy: The 2018 AI for Good Global Summit  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+54 ○ Source: https://www.unglobalpulse.org/policy/global -data-access -framework/   
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+14. Initiative Name: OECD Going Digital Project  
+○ Date Established:  2017  
+○ Mandate:  To help policy makers better understand the digital transformation that 
+is underway and to develop appropriate policies to help shape a positive digital 
+future. Since 2017, the project has supported policy makers in the quest to better 
+understand digital transformation and the effects of digital technologies on our 
+economies and societies, in an effort to shape a positive digital future.  
+○ Focus Area: Digital Governance, AI, and Policy Making  
+○ Members: OECD Member State s 
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Consensus  
+○ Accountability: Operational  
+○ Legacy: N/A 
+○ Source: https://www.oecd.org/digital/going -digital -project/   
+○ Gaps Identified:  Altho ugh OECD is a global organization, its members comprise 
+wealthier nations in the Americas and Europe. There are no official African 
+member countries.  
+○ Notes: Phase I of the project concluded in 2019 with the Going Digital Summit 
+and the release of two repor ts Going Digital: Shaping Policies, Improving Lives 
+and Measuring the Digital Transformation: A Roadmap for the Future. Phase II 
+launched the OECD.AI Policy Observatory in 2020. Phase III is focusing on data 
+governance for growth and well -being and will co nclude in 2022. The OECD 
+Going Digital project has also launched the Going Digital Integrated Policy 
+Framework and the OECD Going Digital Toolkit to frame all of the OECD’s work 
+on digital transformation.  
+ 
+15. Initiative Name: G20 Digital Economy Development a nd Cooperation Initiative  
+(DECI)  
+○ Date Established: 2016  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+55 ○ Mandate:  To collectively leverage digital opportunities, cope with challenges, 
+and promote the digital economy to drive inclusive economic growth and 
+development.  
+○ Focus Area: Digital Governance and Digital Economy  
+○ Members:  G20 Member States  
+○ Geographical Coverage: Global  
+○ Approval Mechanism:  Consensus  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source:  https://www.mofa.go.jp/files/000185874.pdf   
+○ Gaps Identified: DECI does not have a formal website and is confusing to 
+follow. There are no clearly outlined activities that the member countries are 
+undertaking.  
+○ Notes: N/A 
+ 
+16. Initiative Name: African Declarati on on Internet Governance  
+○ Date Established: 2014  
+○ Mandate: To promote sustainable human development, build inclusive societies 
+and improve the free information, ideas and opinions’ flow around the globe.  
+○ Focus Area: Cybersecurity and Digital Inclusion  
+○ Memb ers: African Union Member States  
+○ Geographical Coverage: Africa  
+○ Approval Mechanism: Signatory  
+○ Accountability: Operational  
+○ Legacy: The Constitutive Act of the African Union and the Vision of the African 
+Union expressed in its Agenda 2063  
+○ Source: https://au.int/sites/default/files/newsevents/workingdocuments/33025 -
+wd-african_declaration_on_internet_governance_en_0.pdf   
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+17.  Initiative Name: The World Internet Conference  
+○ Date Established:  2014  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+56 ○ Mandate: To help build a cyberspace community with a consensual shared 
+destiny and an ethic of respecting differences.  
+○ Focus Area: Digital Governance  
+○ Members: 11 members including Cyberspace Administration of China, United 
+Nations Department of Economic and Social Affairs, and Economy and 
+Information Technology Department of Zhejiang Province  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source: https://www.wuzhenwic.org/   
+○ Gaps Identified: N/A 
+○ Notes: Government -led forum that includes multi -stakeholder participation. This 
+includes Nokia, Tesla an d Qihoo 360 Technology.  
+ 
+18. Initiative Name: SMART Africa  
+○ Date Established: 2013  
+○ Mandate: To accelerate sustainable socio -economic development on the African 
+continent, ushering the continent into a knowledge economy through affordable 
+access to Broadband and  usage of Information and Communications 
+Technologies.  
+○ Focus Area: Digital Inclusion, Digital Economy, and Digital Access  
+○ Members: African Union Member States  
+○ Geographical Coverage: Africa  
+○ Approval Mechanism: Unclear  
+○ Accountability: Operational  
+○ Legacy: The Transform Africa Summit  
+○ Source: https://smartafrica.org/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+19. Initiative Name: The European Cybercrime Centre (EC3)  
+○ Date Established: 2013  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+57 ○ Mandate: To offer operational, strategic, analytical and forensic support to EU 
+Member States’ cybercrime investigations. Cybercrimes include cyber -dependent 
+crime , child sexual exploitation , and payment fraud.  
+○ Focus Area: Cybersecurity, Internet Security, and Child Safety  
+○ Members: EU Member States and European citizens  
+○ Geographical C overage: Europe  
+○ Approval Mechanism: Unclear  
+○ Accountability: Enforceable  
+○ Legacy: Europol  
+○ Source: https://www.europol.europa.eu/about -europol/european -cybercrime -
+centre -ec3 
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+20. Initiative Name: Freedom Online Coalition  
+○ Date Established: 2011  
+○ Mandate:  To be a proactive coalition that ensures Internet freedom issues are on 
+the international policy agenda as a way to drive concrete policy changes and 
+outcomes.  
+○ Focus Area: Policy Making, Digital Governance, and Digital Right s 
+○ Members:  34 members including Argentina, Mongolia, and the United Kingdom  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source: https://freedomonlinecoalition.com/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+21. Initiative Name: Open -Ended Working Group (OEWG)  
+○ Date Established: 2009  
+○ Mandate: To promote digital security.  
+○ Focus Area: Cybersecurity, Internet Security, and Digital Governance  
+○ Members: All UN Member and Observer States  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+58 ○ Geographical Coverage: Global  
+○ Approval Mechanism: Signatory  
+○ Accountability: Operational  
+○ Legacy: UN Human Rights Council  
+○ Source: https://www.un.org/disarmament/open -ended -working -
+group/#:~:text=Through%20resolution%2073%2 F27%2C%20the,the%20General
+%20Assembly%20in%202020  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+22. Initiative Name: Group of Governmental Experts (GGE)  
+○ Date Established: 2004  
+○ Mandate: To advance responsible State behavior in cyberspace in the context of 
+international secu rity. 
+○ Focus Area: Cybersecurity, Digital Governance, and Internet Security  
+○ Members: Rotating UN Member State  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Consensus  
+○ Accountability: Enforceable  
+○ Legacy: UN Office for Disarmament Affairs, UN General Assem bly 
+○ Source: https://www.un.org/disarmament/group -of-governmental -experts/   
+○ Gaps Identified: N/A 
+○ Notes: Also important website: https://dig.watch/processes/un -gge. Since 2004, 
+there have been six GGE meetings.  
+ 
+23. Initiative Name:  Information Technology Agreement (ITA)  
+○ Date Established: 1996  
+○ Mandate: To eliminate tariffs on IT products covered by the agreement.  
+○ Focus Area: Digital Economy and Digital Governance  
+○ Members:  82 members including China, the European Union, and the U.S.  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Consensus  
+○ Accountabili ty: Operational  
+○ Legacy: N/A 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+59 ○ Source:  https://www.wto.org/english/tratop_e/inftec_e/inftec_e.htm  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+24. Initiative Name:  World Intellectual Property Organization (WIPO)  
+○ Date Established: 1967  
+○ Mandate: To lead the development of a balanced and effective international 
+intellectual property (IP) system that enables innovation and creativity for the 
+benefit of all.  
+○ Focus Area: Tech Innovation and Digital Economy  
+○ Members: UN Member States  
+○ Geographical Coverage: Global  
+○ Approval Mechanism:  Consensus  
+○ Accountability: Operational  
+○ Legacy: N/A 
+○ Source: https://www.wipo.int/portal/en/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+Civil Society -Led Initiatives (TOTAL: 23)  
+ 
+1. Initiative Name:  Non-Profit Cyber  
+○ Date Established: 2022  
+○ Mandate: To build awareness of the work of cybersecurity nonprofits globally 
+and align their work to achieve the greatest effect. Envisioned as a 
+“collaboration -of-equals,” each member organization has committed to work in 
+coordinati on to better serve Internet users globally.  
+○ Focus Area:  Cybersecurity  
+○ Members: 22 members including Anti -Phishing Working Group, the Center for 
+Internet Security, and the Global Cyber Alliance  
+○ Geographical Coverage: Global  
+○ Approval Mechanism:  Consensus  
+○ Accountability:  Aspirational  
+○ Legacy: N/A 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+60 ○ Source:  https://nonprofitcyber.org/  
+○ Gaps Identified: The mechanism was recently created so that is not enough 
+information on its accomplishments.  
+○ Notes: N/A 
+ 
+2. Initiative Name: Democracy and Tech Initiative  
+○ Date Established: 2021  
+○ Mandate:  To create policy practices that align global stakeholders toward tech 
+and governance that reinforce, rather than undermine, open societies. The 
+Initiative builds on the DFRLab’s established track record and leadership in the  
+open -source field, empowering global communities to promote transparency and 
+accountability online and around the world. The Initiative examines 
+how the tech that connects and informs people is funded, built, and governed, and 
+how that affects the viabili ty of rights -respecting and democratic societies around 
+the world.  
+○ Focus Area: Cybersecurity, Policy Making, Human Rights, and Digital 
+Governance  
+○ Members:  22 individual experts, fellows and scholars  
+○ Geographical Coverage:  Global  
+○ Approval Mechanism: Unclea r 
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source: https://www.atlanticcouncil.org/programs/digital -forensic -research -
+lab/democracy -and-tech-initiative/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+3. Initiative Name:  ForHumanity  
+○ Date Established: 2021  
+○ Mandate: To examine and analyze the downside risks associated with the 
+ubiquitous advance of AI & Automation, to engage in risk mitigation and ensure 
+the optimal outcome… ForHumanity.  
+○ Focus Area:  AI 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+61 ○ Members: 700 individual members and contributors from 68 countries, including 
+Australia, Brazil, and the U.S.  
+○ Geographical Coverage: Global  
+○ Approval Mechanism:  Unclear  
+○ Accountability:  Aspirational  
+○ Legacy: N/A 
+○ Source:  https://forhumanity.center/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+4. Initiative Name:  Reset Initiative  
+○ Date Established: 2020  
+○ Mandate:  To build a global network of public service partners to help restore the 
+critical connection between media and democracy.  
+○ Focus Area: Digital Cooperation and Digital Governance  
+○ Members: 23 individual techno logists, analysts, researchers, advocates, and 
+policy experts  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source:  https://www.reset.tech/about/  
+○ Gaps Identified: N/A 
+○ Notes: The Reset Initiative collabo rates with other donors to attract long -term 
+funding for civil society organisations engaged in the democracy and technology 
+problem. In addition to the Initiative's core Staff members, they also have an 
+Advisory Council (whose members broadly guide, infor m, and advance our 
+network) as well as a Network Investment Council.  
+ 
+5. Initiative Name: Africa Cybersecurity and Digital Rights Organization  
+○ Date Established: 2019  
+○ Mandate: To promote cybersecurity awareness, capacity building, capacity 
+development. and training within the Africa continent and beyond.  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+62 ○ Focus Area: AI, Cybersecurity, Child Safety, Digital Governance, Data 
+Protection, Digital Rights, and Human Rights  
+○ Members:  Media Foundation for Western Africa, Global Partners Digital, and 
+Parad Initiati  
+○ Geographical Coverage: Africa  
+○ Approval Mechanism:  Unclear  
+○ Accountability:  Aspirational  
+○ Legacy:  N/A 
+○ Source:  http://acdro.org/  
+○ Gaps Identified:  It was not possible to find any reports on their work.  
+○ Notes:  It promotes online courses training to train a workforce to manage 
+Africa’s cybersecurity threats and mitigate risk to business shutdowns from 
+cyber -attacks.  
+ 
+6. Initiative Name: Data Trade and Global Governance Hub (GWU)  
+○ Date Established: 2019  
+○ Mandate: To help stakeholders and policymakers und erstand digital trade and 
+data governance issues through conducting evidence -based -research, connect 
+stakeholders to experts, serve as a resource and build an understanding of data 
+governance and trade issues in the US and abroad.  
+○ Focus Area: Data Protecti on, Digital Economy, Digital Governance, and Policy 
+Making  
+○ Members: 4 members including Charles Koch Foundation, Center for 
+International Business Education and Research, and Georgetown University 
+Institute for Data, Governance and Politics  
+○ Geographical Coverage:  Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy:  N/A 
+○ Source:  https://datagovhub.elliott.gwu.edu/  
+○ Gaps Identified:  N/A 
+○ Notes: They are developing a Global Data Governance Mapping with more than 
+50 countries so  far (https://datagovhub.letsnod.com/)  
+ 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+63 7. Initiative Name: Americas Institute for Cybersecurity Leadership (AICL)  
+○ Date Established: 2018  
+○ Mandate: To impact global cybersecurity challenges, provide strategic insights 
+and foster cybersecurity leadership for  a safer digital society.  
+○ Focus Area: Cybersecurity and Internet Security  
+○ Members: 4 members including the National Institute of Standards and 
+Technology, Stop.Think.Connect., and Girls Who Code  
+○ Geographical Coverage: North America and South America  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy: N/A  
+○ Source: https://americascybersecurity.org/  
+○ Gaps Identified: It is difficult to find information regarding main partners in the 
+website or even through Google research. It is unc lear if there are more 
+members apart from the U.S. national mechanisms.  
+○ Notes:  It had focus in the Americas region but the main partners are all from the 
+United States.  
+ 
+8. Initiative Name: Machine Intelligence Research Institute  
+○ Date Established: 2015  
+○ Manda te: To develop formal tools for the clean design and analysis of general -
+purpose AI systems, with the intent of making such systems safer and more 
+reliable when they are developed.  
+○ Focus Area: AI 
+○ Members: No members  
+○ Geographical Coverage: Global  
+○ Approval M echanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source: https://intelligence.org/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+9. Initiative Name:  Allen Institute for AI  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+64 ○ Date Established: 2014  
+○ Mandate: To conduct high -impact AI research and engineering in service of the 
+common good.  
+○ Focus Area: AI and Technology for Good  
+○ Members: No members  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source:  https://allenai.org/  
+○ Gaps Identified: N/A 
+○ Notes: The Institute has a board of directors (7) alongside a scientific advisory 
+board (8)  
+ 
+10. Initiative Name: Global Partners Digital  
+○ Date Established: 2013  
+○ Mandate: To bring laws and policies relating to the digital environment more i n 
+line with international human rights standards, monitor and analyze trends, build 
+stakeholder capacity, foster alliances and coordinate action, and advocate.  
+○ Focus Area: Digital Governance  
+○ Members: 25 members including the Asociación por los Derechos Ci viles 
+(Argentina), the Freedom Online Coalition, and the Global Network Initiative  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Signatory  
+○ Accountability: Aspirational  
+○ Legacy:  United Nations Guiding Principles on Business and Human Rights 
+(https://www. gp-digital.org/wp -content/uploads/2022/04/OHCHR -UNGPs -and-
+Tech -Companies -Consultation_GPD -Submission.pdf) Actively engage in the 
+discussions in the UN First Committee’s Open -Ended Working Group on ICTs.  
+○ Source:  https://www.gp -digital.org/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+11. Initiative Name: The GovLab (NYU)  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+65 ○ Date Established: 2013  
+○ Mandate: To strengthen the ability of institutions – including but not limited to 
+governments – and people to work more openly, collaboratively, effectively and 
+legitimately to make b etter decisions and solve public problems through the use 
+of data.  
+○ Focus Area: Digital Governance  
+○ Members: 55 members including Agence Francaise De Developpement, 
+Bertelsmann Foundation, and Democracy Fund  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy: UNICEF collaboration on Data Collaboratives to Improve Children’s 
+Lives  
+○ Source:  https://thegovlab.org/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+12. Initiative Name: Global Catastrophic Risk Institute  
+○ Date Established: 2011  
+○ Mandate: To develop best ways to confront humanity’s gravest threats that could 
+significantly harm or even destroy human civilization at the global scale.  
+○ Focus Area: AI 
+○ Members: Unclear  
+○ Geographical Coverage: Global  
+○ Approval Mechanism:  Unclear  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source: https://gcrinstitute.org/   
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+13. Initiative Name:  Instituto Igarapé  
+○ Date Established: 2011  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+66 ○ Mandate: To serve as a channel that  facilitates the integration of security, 
+climate and technology agendas and, at the same time, acts as a bridge of 
+dialogue between decision makers and civil society, and between the global and 
+local spheres.  
+○ Focus Area: Cybersecurity and Digital Governan ce 
+○ Members:  No members  
+○ Geographical Coverage: North America, South America, and Europe  
+○ Approval Mechanism:  Unclear  
+○ Accountability:  Aspirational  
+○ Legacy:  Summary of the We the Peoples Digital Consultation and the UN 
+Common Agenda  
+○ Source:  https://igarape.org.br/en  
+○ Gaps Identified: N/A 
+○ Notes: Over 70 partners including Instituto Betty e A. Jacob Lafer (Brazil), 
+International Peace Institute (IPI) (USA), and  Jigsaw - Google Ideas (USA)  
+ 
+14. Initiative Name:  C-Minds  
+○ Date Established: 2009  
+○ Mandate: To future -proof communities, governments, and companies in light of 
+the accelerated digital transformation by contributing to more inclusive and 
+human -centered public pol icy and advancing the debate around ethical tech.  
+○ Focus Area:  AI, Digital Inclusion, and Human Rights  
+○ Members:  No members  
+○ Geographical Coverage:  South America  
+○ Approval Mechanism:  Consensus  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source:  https://www.cminds .co/ 
+○ Gaps Identified: N/A 
+○ Notes: 7 partners including the Inter -American Development Bank (BID), Open 
+Data Institute, and the Tecnologico de Monterrey  
+ 
+15. Initiative Name:  Centre for Internet and Society  
+○ Date Established: 2008  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+67 ○ Mandate: To conduct research on Internet and digital technologies from policy 
+and academic perspectives  
+○ Focus Area: Digital Governance and Policy Making  
+○ Members: No members  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source:  https://cis -india.org/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+16. Initiative Name: Social Media Exchange (SMEX)  
+○ Date Established: 2008  
+○ Mandate: To advance digital rights in Lebanon and the Arab region through 
+research, campaigns, and advocacy that encourages users to engage critically 
+with digital technologies, media, and networks.  
+○ Focus Area: Digital Rights  
+○ Members:  No members  
+○ Geographical Coverage: Africa  
+○ Approval Mechanism:  Unclear  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source: https://smex.org /  
+○ Gaps Identified: N/A 
+○ Notes: The website does not provide a lot of information about the members or 
+supporters.  
+ 
+17. Initiative Name: Red Clara  
+○ Date Established: 2004  
+○ Mandate: To strengthen the development of science, education, culture and 
+innovation in Lat in America through the innovative use of advanced networks.  
+○ Focus Area:  Tech Innovation and Digital Access  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+68 ○ Members: 9 members including REUNA (Chile), Corporación Ecuatoriana para 
+el Desarrollo de la Investigación y la Academia (Ecuador), and Ragie 
+(Guatem ala) 
+○ Geographical Coverage: South America  
+○ Approval Mechanism: Consensus  
+○ Accountability:  Aspirational  
+○ Legacy: N/A 
+○ Source: https://www.redclara.net/index.php/en/  
+○ Gaps Identified: It is largely focused on academia and enabling network access.  
+○ Notes: N/A 
+ 
+18. Initiative Name: Centre for International Governance Innovation  
+○ Date Established: 2001  
+○ Mandate: To build bridges from knowledge to power by conducting world -leading 
+research and analysis to offer innovative policy solutions for the digital era.  
+○ Focus Area:  Digital Governance and Internet Security  
+○ Members: No members  
+○ Geographical Coverage:  North America  
+○ Approval Mechanism: Consensus  
+○ Accountability:  Aspirational  
+○ Legacy: N/A 
+○ Source: https://www.cigionline.org/  
+○ Gaps Identified: Focus on academic research  
+○ Notes: Founding supporters include the City of Waterloo, the Government of 
+Canada, and the Government of Ontario. Partners include the Balsillie School of 
+International Affairs (BSIA), Council of Councils (CoC), Forum on Information and 
+Democracy,  International Development Research Centre (IDRC), International 
+Economics Association (IEA) and the Institute for New Economic Thinking (INET)  
+ 
+19. Initiative Name: The Geneva Internet Platform's Digital Watch Observatory  
+○ Date Established: 1997  
+○ Mandate: To pr ovide a neutral one -stop shop for the latest cybersecurity 
+developments, overviews, events, actors, instruments, and other resources. The 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+69 observatory is part of the Geneva Internet Platform, an initiative of the Swiss 
+authorities, operated by DiploFoundati on. 
+○ Focus Area: Cybersecurity and Human Rights  
+○ Members: No members  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Operational  
+○ Legacy: An Introduction to Internet Governance by Dr Jovan Kurbalija (book)  
+○ Source: https://dig.watch/topics  
+○ Gaps Identified: N/A 
+○ Notes: 30 individual experts  
+ 
+20. Initiative Name:  Internet Society  
+○ Date Established: 1992  
+○ Mandate: To empower people to keep the Internet a force for good: open, 
+globally connected, secure, and trustworthy.  
+○ Focus Area: Digital Access and Technology for Good  
+○ Members: 87 unspecified organization members  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Operational  
+○ Legacy: N/A 
+○ Source: https://www.internetsociety.org/   
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+21. Initiative Name:  Association for Progressive Communications  
+○ Date Established: 1990  
+○ Mandate: To create a just and sustainable world by harnessing the collective 
+power of activists, organizat ions, excluded groups, communities and social 
+movements, to challenge existing power structures and ensure that the Internet 
+is developed and governed as a global public good.  
+○ Focus Area:  Digital Rights, Digital Access, and Human Rights  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+70 ○ Members: 65 members  including the Arid Lands Information Network (Kenya), 
+the Digital Empowerment Foundation (DEF) (India), and Colnodo (Colombia)  
+○ Geographical Coverage: Global  
+○ Approval Mechanism:  Unclear  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source: https://www.apc.org/e n/ 
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+22. Initiative Name: Electronic Frontier Foundation  
+○ Date Established: 1990  
+○ Mandate: To create a global digital environment that upholds both human rights 
+and constitutional rights, and take on cutting -edge legal cases to win victories for 
+user rights.  
+○ Focus Area: Data Protection and Human Rights  
+○ Members: No members  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source:  https://www.eff.org/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+23. Initiative Name:  Privacy International (PI)  
+○ Date Established: 1990  
+○ Mandate: To protect democracy, defend people's dignity, and demand 
+accountability from institutions who breach public trust.  
+○ Focus Area:  Data Protection and Digital Access  
+○ Members: No mem bers  
+○ Geographical Coverage: Global  
+○ Approval Mechanism:  Unclear  
+○ Accountability: Aspirational  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+71 ○ Legacy: N/A 
+○ Source: https://privacyinternational.org/  
+○ Gaps Identified: N/A 
+○ Notes: Privacy International’s governing body is the Board of Trustees. The 
+primary responsibility of the Board is to provide strategic leadership by 
+formulating and reviewing Privacy International's strategic aims in consultation 
+with staff, setting overall policy, regularly evaluating the charity's performance, 
+and ensuring comp liance with UK law. The board meets up to four times a year. 
+New Trustees are recruited through an open application process. Appointments 
+are made not only on the basis of individual merit, but also taking into 
+consideration the existing expertise and expe rience of the Trustees, as well as 
+PI's equal opportunities policy.  
+ 
+Multi -stakeholder -Led Initiatives (TOTAL: 42)  
+ 
+1. Initiative Name: The Datasphere Initiative  
+○ Date Established:  2021  
+○ Mandate:  To responsibly unlock the value of data for all through bringin g a new, 
+holistic and positive approach to the governance of the datasphere, improve 
+coordination and accelerate the adoption of concrete proposals to overcome the 
+current tensions and polarization around data.  
+○ Focus Area: Data Protection and Digital Gove rnance  
+○ Members: 25 members including the Development Bank of Latin America (CAF), 
+the Government of Germany Federal Ministry of Economic Affairs and Energy 
+(BMWi), and Microsoft  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy: Mapping on data governance organizations ecosystem  
+○ Source:  https://www.thedatasphere.org/  
+○ Gaps Identified: The mechanism was recently created so that is not enough 
+information on its accomplishments.  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+72 ○ Notes: The mechanism is calling for mo re partnerships 
+(https://www.thedatasphere.org/wp -content/uploads/2022/04/Datasphere -
+Initiative -Partnerships -brochure -2022.pdf)  
+ 
+2. Initiative Name: Prosperity Collaborative  
+○ Date Established: 2020  
+○ Mandate:  Developing new technologies to improve how tax administrations 
+work, improving local capacity, and advocating open source technology 
+governance models that promote transparency and interoperability.  
+○ Focus Area: Digital Governance  
+○ Members: 5 members includ ing the World Bank Group, MIT Connection 
+Science, and EY  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability:  Operational  
+○ Legacy:  N/A  
+○ Source: https://www.worldbank.org/en/topic/taxes -and-government -
+revenue/brief/prosperity -collaborative  
+○ Gaps Identified: There is only one World Bank website explaining the 
+mechanism. It was not possible to find other information.  
+○ Notes: N/A 
+ 
+3. Initiative Name: Road map for Digital Cooperation  
+○ Date Established: 2020  
+○ Mandate: To build an inclusive digital economy and society, develop human and 
+institutional capacity, protect human rights and human agency, promote digital 
+trust, security and stability, and foster global  digital cooperation.  
+○ Focus Area: Digital Inclusion, Digital Economy, and Digital Cooperation  
+○ Members: UN Member States and over 300 companies, organizations and 
+governments including Facebook, Internet Society, and Digital Impact Alliance  
+○ Geographical Cov erage: Global  
+○ Approval Mechanism: Signatory  
+○ Accountability: Aspirational  
+○ Legacy: The UN Secretary General  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+73 ○ Source: https://www.un. org/en/content/digital -cooperation -
+roadmap/assets/pdf/Roadmap_for_Digital_Cooperation_EN.pdf   
+○ Gaps Identified: N/A 
+○ Notes: In July 2018, the Secretary -General convened a High -level Panel on 
+Digital Cooperation to advance proposals to strengthen cooperation in the digital 
+space among Governments, the private sector, civil society, international 
+organizations, academic institutions, the technical community and other relevant 
+stakeholders. Co -chaired by Melinda Gates and Jack Ma, the 20 members of the 
+Panel ser ved in their personal capacities, representing an unprecedented mix of 
+disciplines and sectors and geographic, gender and age diversity. In follow -up to 
+the report, eight virtual Roundtable groups involving numerous governments, 
+companies and organizations  were convened to discuss if and how the 
+recommendations can be advanced.  
+ 
+4. Initiative Name: The Global Encryption Coalition (GEC)  
+○ Date Established:  2020  
+○ Mandate: To promote and defend encryption in key countries and multilateral 
+fora where it is under thre at. The GEC also supports efforts by companies to 
+offer encrypted services to their users.  
+○ Focus Area: Internet Security  
+○ Members: 200 members in addition to the Center for Democracy & Technology, 
+Global Partners Digital, and the Internet Society  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Signatory  
+○ Accountability: Operational  
+○ Legacy: N/A 
+○ Source: https://www.globalencryption.org/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+5. Initiative Name:  Trust Over IP (ToIP) Foundation  
+○ Date Established: 2020  
+○ Mandate:  To work on issues related to digital identity, verifiable credential, 
+blockchain technology, and secure communications spaces.  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+74 ○ Focus Area: Policy Making and Digital Governance  
+○ Members: 20 Members including Accenture, The Gov ernment of British 
+Columbia, and GS1 US  
+○ Geographical Coverage:  Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Operational  
+○ Legacy: N/A 
+○ Source: https://trustoverip.org/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+6. Initiative Name:  Digital Public Goods Initiative  
+○ Date Established: 2019  
+○ Mandate:  To accelerate the attainment of the sustainable development goals in 
+low- and middle -income countries by facilitating the discovery, development, use 
+of, and investment in digital public goods.  
+○ Focus Area: Digital Governance, T echnology for Good, and Digital Economy  
+○ Members: 7 Members including German Federal Ministry for Economic 
+Cooperation and Development (BMZ), iSPIRT, and UNICEF  
+○ Geographical Coverage:  Global  
+○ Approval Mechanism:  Consensus  
+○ Accountability:  Aspirational  
+○ Legacy:  Within its partners, the mechanism launched Digital Public Goods 
+Alliance 5 Year Strategy (2021 -2026), available at 
+https://digitalpublicgoods.net/DPGA_Strategy_2021 -2026.pdf  
+○ Source: https://digitalpublicgoods.net/  
+○ Gaps Identified: N/A 
+○ Notes:  It created a Digital Public Goods Alliance Roadmap, a public visualization 
+of the core, coordinated and aligned activities undertaken by other organizations 
+working to advance digital public goods. (https://digitalpublicgoods.ne t/roadmap/)  
+ 
+7. Initiative Name:  Content Authenticity Initiative  
+○ Date Established:  2019  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+75 ○ Mandate:  To promote and provide an open, cross -industry approach to media 
+transparency so people across the Internet can better evaluate content 
+provenance.  
+○ Focus Area: Data Protection  
+○ Members: 400 members including the European Commission, Microsoft, and 
+World Wildlife Fund  
+○ Geographical Coverage: Global  
+○ Approval Mechanism:  Unclear  
+○ Accountability:  Aspirational  
+○ Legacy: N/A 
+○ Source:  https://contentauthenticity.org/  
+○ Gaps Id entified: The initiative is aspirational but works with The Coalition for 
+Content Provenance and Authenticity (C2PA), which is a formal coalition 
+dedicated exclusively to drafting technical standards and specifications as a 
+foundation for universal content  provenance. The C2PA is a mutually governed 
+standards development organization (SDO) under the structure of the Linux 
+Foundation’s Joint Development Foundation.  
+○ Notes: NA 
+ 
+8. Initiative Name: Cyber Peace Institute  
+○ Date Established:  2019  
+○ Mandate: To reduce t he frequency, impact and scale of cyberattacks, and to 
+hold actors accountable for the harm they cause. The Institute also delivers 
+support to Humanitarian NGOs and the healthcare sector, as well as engages in 
+multilateral fora to raise awareness of the ri sks of cyberattacks for people, and 
+call for respect of their rights and laws.  
+○ Focus Area:  Cybersecurity  
+○ Members:  17 members including the GFCE, Ostrom Workshop, and the Trust 
+Valley  
+○ Geographical Coverage: Global  
+○ Approval Mechanism:  Consensus  
+○ Accountabilit y: Operational  
+○ Legacy: Position Paper submitted to the ‘Open -Ended Working Group on 
+Developments in the Field of Information and Telecommunications in the Context 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+76 of International Security’ and the ‘Group of Governmental Experts on Advancing 
+Responsible St ate Behaviour in Cyberspace in the Context of International 
+Security. They developed a guide to understand the UN Cybersecurity process 
+(https://cyberpeaceinstitute.org/united -nations -cybersecurity -process -explained/)  
+○ Source:  https://cyberpeaceinstitute.o rg/  
+○ Gaps Identified:  N/A 
+○ Notes: When the CyberPeace Institute was founded in 2019, it received initial 
+funding from several corporate donors and foundations. Initial donors were the 
+Hewlett Foundation, Mastercard, Microsoft, the Ford Foundation and Facebook.  
+ 
+9. Initiative Name:  Digital Re ach 
+○ Date Established: 2019  
+○ Mandate: To safeguard digital rights and internet freedom in Southeast Asia. 
+Digital Reach’s work revolves around three core strategies which include 
+research and monitoring, advocacy, and community building and empowerment.  
+○ Focus Area:  Human Rights and Digital Rights  
+○ Members: No members  
+○ Geographical Coverage: Asia  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source:  https://digitalreach. asia/about/  
+○ Gaps Identified: N/A 
+○ Notes: Created a subsidiary in 2021 - the Southeast Asian Coalition On Tech 
+Accountability (SEACT). Their advocacy work involves stakeholders at the 
+national, regional, and international level. Their approach is based on th e local 
+context for maximize the impact of our work. They look at possibilities to work 
+with local partners, engage in the regional human rights mechanism particularly 
+at ASEAN, and address the issues of digital rights in Southeast Asia with 
+international stakeholders.  
+ 
+10. Initiative Name:  G20 Global Smart Cities Alliance on Technology Governance  
+○ Date Established: 2019  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+77 ○ Mandate: To unite municipal, regional and national governments, private -sector 
+partners and cities’ residents around a shared set of principles  for the 
+responsible and ethical use of smart city technologies.  
+○ Focus Area: Technology for Good  
+○ Members: More than 200,000 members including World Economic Forum, 
+Salesforce, and Cities for All  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Signatory  
+○ Accountability: Operational  
+○ Legacy: The World Economic Forum and the International Organization for 
+Public -Private Cooperation  
+○ Source: https://globalsmartcitiesalliance.org/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+11. Initiative Name: Charter of Trust  
+○ Date Established: 2018  
+○ Mandate: To lead global companies and organizations who seek to work 
+together in making the digital world of tomorrow safer.  
+○ Focus Area: Cybersecurity  
+○ Members: 27 Members including Bundesamt für Sicherheit in der 
+Informationstechnik, IBM, and CyberPeace Institute  
+○ Geographical Coverage: Global  
+○ Approval Mechanism:  Signatory  
+○ Accountability: Unclear  
+○ Legacy: Munich Security Conference  
+○ Source: https://www.chartero ftrust.com/about/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+12. Initiative Name:  The Africa Digital Rights’ Hub (ADRH)  
+○ Date Established:  2018  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+78 ○ Mandate: To bring together regulators, academic researchers, stakeholders, 
+policy makers, regional, industry experts, and inter national bodies to address 
+data protection and privacy issues on the Continent.  
+○ Focus Area: Capacity Building and Data Protection  
+○ Members: No members  
+○ Geographical Coverage: Africa  
+○ Approval Mechanism:  Unclear  
+○ Accountability: Aspirational  
+○ Legacy:  N/A 
+○ Source:  https://dataprotectionafrica.org/  
+○ Gaps Identified: This is a summit, held yearly since 2018.  
+○ Notes: Partners include Facebook, Nsiah Akuetteh, and Co. and Hewlett 
+Foundation  
+ 
+13. Initiative  Name: The Digital ASEAN Initiative  
+○ Date Established: 2018  
+○ Mandate: To work on the issues that will underpin a regional digital economy in 
+Association of Southeast Asian Nations (ASEAN) so that the benefits of the 
+Fourth Industrial Revolution can be fully unlocked and become a force for 
+regional economic inclusion.  
+○ Focus Area: Cybersecurity and Digital Economy  
+○ Members: 10 members including the Department of Information and 
+Communications Technology of the Philippines,Tokopedia, and the World 
+Economic Forum  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Signatory  
+○ Accountability: Operational  
+○ Legacy: The World Economic Forum  
+○ Source: https://www.weforum.org/projects/digital -asean  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+14. Initiative Name: Algorithm Watch  
+○ Date Established: 2017  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+79 ○ Mandate:  To evaluate and shed light on algorithmic decision making processes 
+that have a social relevance, meaning they are used either to predict or prescribe 
+human action or to make decisions automatically.  
+○ Focus Area: AI and Policy Making  
+○ Members:  9 members including the Eu ropean AI Fund, Civitates, and the Hans 
+Böckler Stiftung  
+○ Geographical Coverage: Europe  
+○ Approval Mechanism: Consensus  
+○ Accountability: Aspirational  
+○ Legacy:  N/A 
+○ Source:  https://algorithmwatch.org/  
+○ Gaps Identified: Focuses on academic research  
+○ Notes:  N/A 
+ 
+15. Initiative Name: Digital Impact Alliance (DIAL)  
+○ Date Established: 2016  
+○ Mandate: To overcome the systemic barriers preventing digital solutions from 
+going to scale. DIAL produces, curates and disseminates evidence -based 
+products packaged with easy -to-unders tand guidance so that country 
+governments, technology companies, the development community and other 
+implementers can quickly use them to inform ongoing efforts to fund, design and 
+deploy digital services to more people.  
+○ Focus Area: Digital Governance and  Tech Innovation  
+○ Members: 4 members including the Bill & Melinda Gates Foundation, the U.S. 
+Agency for International Development (USAID), and the Swedish International 
+Development Agency (Sida)  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy:  N/A 
+○ Source: https://digitalimpactalliance.org/  
+○ Gaps Identified: N/A 
+○ Notes: Housed within the United Nations Foundation  
+ 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+80 16. Initiative Name: CyberSec - European Cybersecurity Forum (CYBERSEC)  
+○ Date Established: 2015  
+○ Mandate: To deliver a platform for a high -level, multi -stakeholder, cross -
+sectional and inclusive debate on the most pressing challenges and potential 
+opportunities for the global digital ecosystem, fostering cooperation among like -
+minded partners across the globe.  
+○ Focus Area: Cybersecurity  
+○ Members: 21 Members including the CYBERSEC Forum, European 
+Commission, and NATO  
+○ Geographical Coverage: Europe  
+○ Approval Mechanism:  Unclear  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source: https://cybersecforum.eu  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+17. Initiative Name: Digital Square  
+○ Date Established: 2015  
+○ Mandate: To strengthen country efforts in developing national digital health 
+infrastructures.  
+○ Focus Area:  Digital Governance and Policy Making  
+○ Members: 63 members including UNICEF, Apelon Inc. and Harvard University  
+○ Geographical Coverage: Global  
+○ Approval Mechanism : Unclear  
+○ Accountability: Aspirational  
+○ Legacy: UNICEF/WHO Digital Health Center of Excellence (DICE), Digital 
+Square, and the newly formed UNICEF/WHO Digital Health Center of Excellence 
+(DICE)  
+○ Source: https://digitalsquare.org/  
+○ Gaps Identified: The decision -making is unclear – if it is through the Board 
+members or through mechanisms involved.  
+○ Notes: N/A 
+ 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+81 18. Initiative Name: Global Forum on Cyber Expertise (GFCE)  
+○ Date Established: 2015  
+○ Mandate: To strengthen cyber capacity and expertise globally. The GFC E 
+endeavors to be a pragmatic, action -orientated, and flexible platform for 
+international collaboration, reducing overlap and duplication of efforts in the cyber 
+capacity building ecosystem to ensure an open, free, peaceful and secure digital 
+world.  
+○ Focus Area: Capacity Building  
+○ Members: 41 members including the Dutch Government and other high -level 
+representatives from business and international organizations  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Consensus  
+○ Accountability: Operational  
+○ Legacy: 2015 Global Conference on Cyber Space in the Hague  
+○ Source: https://thegfce.org/  
+○ Gaps Identified: The full list of members is not identified.  
+○ Notes: The GFCE is also a platform for high -level discussion, organizing 
+biannual meetings to assess progress and hold policy discussions on ways and 
+means of responding to emerging challenges in the cyber capacity building 
+domain. Multi -stakeholder GFCE events contribute to the development of best 
+practices and therefore have added value for the wider cy ber capacity building 
+community globally. The GFCE intends to hold inaugural regional meetings 
+across five continents in 2021, improving the platform’s regional coordination and 
+presence.  
+ 
+19. Initiative Name: Cyber Policy Institute (CPI)  
+○ Date Established: 2014 
+○ Mandate:  To facilitate cybersecurity dialogue between governments, industry 
+and the civil society. Standing for an inclusive and balanced discourse on 
+international cyber peace and security as well as national development, CPI 
+seeks to contribute to all and any efforts to maintain and design information and 
+communication technologies in a safe, open and transparent manner that for us 
+is a prerequisite of international peace and security, economic prosperity as well 
+as societal and individual empowerment.  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+82 ○ Focus Area:  Cybersecurity, Digital Rights, Internet Security, and Policy Making  
+○ Members: 4 members including ICT for Peace Foundation, Government of 
+Estonia, and Tallinn University of Technology  
+○ Geographical Coverage: Europe  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy: UNGGE  
+○ Source: https://cpi.ee/  
+○ Gaps Identified: No private sector members.  
+○ Notes: N/A 
+ 
+20. Initiative Name: NETmundial – Global Multi -stakeholder Meeting on the Future of 
+Internet Governance  
+○ Date Established: 2014  
+○ Mandate:  To gather international entities of the various stakeholders involved 
+with Internet governance in a meeting to elaborate on the principles of Internet 
+governance and create a proposal for a roadmap for the future development of 
+this ecosystem.  
+○ Focus Area:  Digital Governance and Digital Cooperation  
+○ Members: 15 members including 1Net, the Department of Economic and Social 
+Affairs (DESA), and the European Commission  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy:  N/A 
+○ Source: https://netmundial.br/  
+○ Gaps Identified: This conference only took place in 2014.  
+○ Notes: N/A 
+ 
+21. Initiative Name: Open Smart Register Platform  
+○ Date Established: 2014  
+○ Mandate: To enable data-driven decision making at all levels of the health 
+system.  
+○ Focus Area: Digital Inclusion  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+83 ○ Members:  36 members including the GAVI, Johnson & Johnson, the World 
+Health Organization  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Consensus  
+○ Accountabilit y: Unclear  
+○ Legacy: THRIVE (Technologies for Health Registers, Information, and Vital 
+Events) Study  
+○ Source:  https://smartregister.org/  
+○ Gaps Identified: No government sector members.  
+○ Notes: N/A 
+ 
+22. Initiative Name: African Declaration on Internet Rights and Fre edoms (AfDec)  
+○ Date Established:  2013  
+○ Mandate:  To promote human rights standards and principles of openness in 
+Internet policy formulation and implementation on the African continent. The 
+Declaration is intended to elaborate on the principles which are nece ssary to 
+uphold human and people’s rights on the Internet, and to cultivate an Internet 
+environment that can best meet Africa’s social and economic development needs 
+and goals.  
+○ Focus Area:  Digital Rights and Human Rights  
+○ Members: 25 members including the Africa Center for Media Excellence, 
+CIVICUS, and Adamu & Co.  
+○ Geographical Coverage: Africa  
+○ Approval Mechanism: Unclear  
+○ Accountability: Operational  
+○ Legacy: African Charter on Human and Peoples’ Rights (1981), Windhoek 
+Declaration on Promoting an Independent and Pluralistic African Press (1991), 
+African Charter on Broadcasting (2001), Declaration of Principles on Freedom of 
+Expression in Africa (2002), African Platform on Access to Information 
+Declaration (2011)  
+○ Source: https://africaninternetri ghts.org/en  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+84 23. Initiative Name:  African School on Internet Governance (AfriSIG)  
+○ Date Established:  2013  
+○ Mandate: To develop a pipeline of leading Africans from diverse sectors, 
+backgrounds and ages with the skills to participate in local and international 
+Internet governance structures, and shape the future of the Internet landscape 
+for Africa's development.  
+○ Focus A rea: Digital Cooperation and Digital Governance  
+○ Members: 20 members including the African Union, Facabook, and the Ford 
+Foundation  
+○ Geographical Coverage:  Africa  
+○ Approval Mechanism: Unclear  
+○ Accountability:  Operational  
+○ Legacy: N/A 
+○ Source: https://afrisig.org / 
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+24. Initiative Name:  Digital Due Process  
+○ Date Established: 2013  
+○ Mandate: To modernize surveillance laws for the Internet age.  
+○ Focus Area: Internet Security and Policy Making  
+○ Members: 140 members including the Asian Americans  Advancing Justice, 
+Airbnb, and the Internet Association  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability:  Unclear  
+○ Legacy: N/A 
+○ Source: https://digitaldueprocess.org/  
+○ Gaps Identified: No government sector members.  
+○ Notes: N/A 
+ 
+25. Initiative Name: Africa Internet Summit (AIS)  
+○ Date Established: 2012  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+85 ○ Mandate: To share Information and Communications Technology (ICT) 
+knowledge within the African region by bringing the ICT business and technical 
+community in Africa together under one roof to discuss ICT issues and 
+challenges. AIS is an annual, regional, multi -stakeholder ICT conference. It is the 
+pinnacle educational and business ICT event in Africa where key players in the 
+Internet industry can interact with the global Internet community.  
+○ Focus Area: Cybersecurity and Digital Governance  
+○ Members: 17 members includ ing ICANN, Internet Society, and AfricaCert  
+○ Geographical Coverage: Africa  
+○ Approval Mechanism: Unclear  
+○ Accountability: Operational  
+○ Legacy:  N/A  
+○ Source: https://www.internetsummit.africa/  
+○ Gaps Identified: No government sector members.  
+○ Notes: N/A 
+ 
+26. Initiative Name: ATPS  
+○ Date Established: 2012  
+○ Mandate: To improve the quality of science, technology and innovation systems 
+research and policy making in Africa by strengthening capacity for science and 
+technology knowledge generation, communication and dissemination,  use and 
+mastery for sustainable development in Africa.  
+○ Focus Area: Tech Innovation and Policy Making  
+○ Members: 1500 unspecified members  
+○ Geographical Coverage: Africa  
+○ Approval Mechanism: Signatory  
+○ Accountability:  Aspirational  
+○ Legacy: N/A 
+○ Source: https://atpsnet.org/  
+○ Gaps Identified: N/A 
+○ Notes: ATPS has over 1,500 members and 3000 stakeholders in over 51 
+countries in 5 continents with institutional partnerships worldwide. They 
+implement their programs through members in national chapters established in 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+86 30 countries (27 in Africa and 3 Diaspora chapters in Australia, United States of 
+America, and United Kingdom) with its secretariat in Nairobi Kenya  
+ 
+27. Initiative Name:  Better than Cash Alliance  
+○ Date Established: 2012 
+○ Mandate: To accelerate the transition from cash to responsible digital payments 
+in order to achieve the Sustainable Development Goals.  
+○ Focus Area: Digital Economy  
+○ Members: 80 members including the Bill and Gates Foundation, Chemonics, 
+and the European Bank for Reconstruction and Development  
+○ Geographical Coverage:  Global  
+○ Approval Mechanism: No Objection  
+○ Accountability: Operational  
+○ Legacy:  The Digital Wages Summit convened by the Alliance  
+○ Source: https://www.betterthancash.org/  
+○ Gaps Identified: N/A 
+○ Notes: Based in the United Nations  
+ 
+28. Initiative Name:  Internet & Jurisdiction Policy Network (I&JPN)  
+○ Date Established:  2012  
+○ Mandate: To develop policy standards and operational solutions to pressing 
+legal challenges at the intersection of the global digi tal economy, human rights 
+and security.  
+○ Focus Area: Digital Governance  
+○ Members: 27 members including the European Commission, ICANN, and 
+Google  
+○ Geographical Coverage: Global  
+○ Approval Mechanism:  Unclear  
+○ Accountability: Operational  
+○ Legacy: UN SG High -Level Panel on Digital Cooperation Report  
+○ Source: https://www.internetjurisdiction.net/  
+○ Gaps Identified: N/A 
+○ Notes:  The work of the organization has been presented to and recognized by 
+key international processes, including the UN Internet Governance Forum, the  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+87 UN Secretary -General’s High -level Panel on Digital Cooperation, G7, G20 or the 
+Paris Peace Forum, and covered in top media outlets such as The Economist, 
+New York Times, Washington Post, Financial Times, Politico or Fortune.  
+ 
+29. Initiative Name: Fight for th e Future  
+○ Date Established: 2012  
+○ Mandate: To harness the power of the Internet to channel outrage into action, 
+defending our most basic rights in the digital age. We fight to ensure that 
+technology is a force for empowerment, free expression, and liberation  rather 
+than tyranny, corruption, and structural inequality.  
+○ Focus Area: Digital Rights  
+○ Members: Unclear  
+○ Geographical Coverage: Unclear  
+○ Approval Mechanism:  Unclear   
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source: https://www.fightforthefuture.org/  
+○ Gaps Identified: The website does not define much information regarding the 
+initiative’s structure.  
+○ Notes: N/A 
+ 
+30. Initiative Name: Access Now  
+○ Date Established: 2009  
+○ Mandate: To defend and extend the digital rights of users  at risk around the 
+world by providing helplines, policy recommendations, advocacy, grants, 
+rightscon, and legal support.  
+○ Focus Area: Digital Rights, Internet Security, and Policy Making  
+○ Members:  12 members including the Coalition Against Unlawful Surveill ance 
+Exports, Save the Internet – E.U., ShareAction, and Stop Watching Us  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Signatory  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source: https://www.acce ssnow.org/about -us/ 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+88 ○ Gaps Identified: No government sector members.  
+○ Notes: N/A 
+ 
+31. Initiative Name: EastWest Institute - Global Cooperation in Cyberspace  
+○ Date Established: 2009  
+○ Mandate: To reduce conflict, crime and other disruptions in cyberspace and 
+promote stability, innovation and inclusion.  
+○ Focus Area: Cybersecurity and Digital Inclusion  
+○ Members: 10 members including Microsoft, Huawei Technologies, and the 
+Munich Security Conference  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source: https://www.eastwest.ngo/pillars/global -cooperation -cyberspace  
+○ Gaps Identified: No government sector members.  
+○ Notes: N/A 
+ 
+32. Initiative Name: NetMission.Asia  
+○ Date Established: 2009  
+○ Mandate:  To engage and empower youth on Internet governance discourse with 
+the aim of enhancing youth mobility and creating impact in Asia. NetMission.Asia 
+is an academy that covers a wide range of Inte rnet governance topics that 
+provide youth the basic understanding about the current issues at stake with an 
+emphasis on the multi -stakeholder approach. Upon completion, fellows of the 
+Academy will be awarded an e -certificate and be listed on our website wi th the 
+class year.  
+○ Focus Area: Digital Governance  
+○ Members: No members  
+○ Geographical Coverage: Asia  
+○ Approval Mechanism: Unclear  
+○ Accountability: Unclear  
+○ Legacy: DotAsia Organization and the Hong Kong Youth Internet Governance 
+Forum  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+89 ○ Source:  https://netmission.asia/about -us/what -is-netmission -asia/  
+○ Gaps Identified: Regional collaboration rather than membership model, 
+subsidiary of DotAsia Organization  
+○ Notes: N/A 
+ 
+33. Initiative Name: Euro pean Dialogue on Internet Governance (EuroDIG)  
+○ Date Established: 2008  
+○ Mandate:  To foster dialogue and collaboration with the Internet community on 
+public policy for the Internet – culminating in an annual conference that takes 
+place in a different European  city every year.  
+○ Focus Area: Digital Governance and Policy Making  
+○ Members: 10 members including the European Regional At -Large Organization 
+(EURALO), Geneva Internet Platform, and Internet Society (ISOC)  
+○ Geographical Coverage: Europe  
+○ Approval Mechanism: Unclear  
+○ Accountability:  Aspirational  
+○ Legacy: Internet Governance Forum (IGF)  
+○ Source: https://www.eurodig.org/  
+○ Gaps Identified: No private sector members.  
+○ Notes: N/A 
+ 
+34. Initiative Name: Future of Privacy Forum (FPF)  
+○ Date Established:  2008  
+○ Mandate:  To bring together industry, academics, consumer advocates, and other 
+thought leaders to explore the challenges posed by technological innovation and 
+develop privacy protections, ethical norms, and workable business practices. 
+Through research, publications, educational meetings, expert testimony, and 
+other related activities, FPF works with organizations and governments to shape 
+best practices and policies, in the United States and globally.  
+○ Focus Area: AI, Data Protection, and Di gital Governance  
+○ Members: 200 members including Alfred P. Sloan Foundation, the Chan 
+Zuckerberg Initiative, and Robert Wood Johnson Foundation  
+○ Geographical Coverage: North America, Europe, and Asia  
+○ Approval Mechanism: Unclear  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+90 ○ Accountability: Aspirational  
+○ Legacy: Comments to United Nations Office of the High Commissioner for 
+Human Rights Special Rapporteur  
+○ Source:  https://fpf.org/  
+○ Gaps Identified: The mechanism is largely focused on the academia results. No 
+government sector members.  
+○ Notes:  N/A 
+ 
+35. Initiative N ame: The Global Network Initiative (GNI)  
+○ Date Established: 2008  
+○ Mandate: To protect and advance freedom of expression and privacy rights in 
+the  Information and Communications Technology (ICT) industry by setting a 
+global standard for responsible company decision making and serving as a multi -
+stakeholder voice in the face of government restrictions and demands.  
+○ Focus Area:  Internet Security  
+○ Members: 72 members including the George Washington Law, Global Forum for 
+Media Development, Google, and Internet Fre edom Foundation  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Signatory  
+○ Accountability: None  
+○ Legacy: N/A 
+○ Source: https://globalnetworkinitiative.org/  
+○ Gaps Identified: No government sector members.  
+○ Notes: N/A 
+ 
+36. Initiative Name: Information Technology and Innovation Foundation  
+○ Date Established: 2006  
+○ Mandate:  To focus on a host of critical issues at the intersection of technological 
+innovation and public policy —including economic issues related to innovation, 
+productivity, and competitiveness,  technology issues in the areas of information 
+technology and data, broadband telecommunications, advanced manufacturing, 
+life sciences, agricultural biotechnology, and clean energy, and overarching 
+policy tools related to public investment, regulation, ta xes, and trade.  
+○ Focus Area:  AI, Digital Access, Digital Governance, and Digital Rights  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+91 ○ Members: 50 members including Adobe, Association for American Railroads 
+(AAR), and the Walt Disney Company  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Aspirational  
+○ Legacy: N/A 
+○ Source: https://globalnetworkinitiative.org/  
+○ Gaps Identified: No government sector members.  
+○ Notes: N/A 
+ 
+37. Initiative Name: Internet Governance Forum (IGF)  
+○ Date Established:  2006  
+○ Mandate: To bring people together from va rious stakeholder groups as equals, 
+in discussions on public policy issues relating to the Internet. While there is no 
+negotiated outcome, the IGF informs and inspires those with policy -making 
+power in both the public and private sectors.  
+○ Focus Area:  Capa city Building, Digital Governance, and Policy Making  
+○ Members:  The UN Secretary -General appoints a Multi -stakeholder Advisory 
+Group (MAG) yearly  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability:  Aspirational  
+○ Legacy:  N/A 
+○ Source:  https://www.intgovforum.org/multilingual/  
+○ Gaps Identified: No enforceable structure.  
+○ Notes:  IGF is funded through its own trust fund. The nature of the Trust Fund is 
+such that it is voluntary and multi -donor driven, with varying contributions from 
+Governments and non -governmental organisations from the technical 
+community, the private sector and the civil society. The IGF Trust Fund covers 
+the administrative and operational costs of the IGF Secretariat including 
+personnel, fellowships, and meeting c osts (venues, interpretation, logistical 
+costs, etc.), and funds the travel costs of MAG Members from developing 
+countries.  
+ 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+92 38. Initiative Name:  The AFRINIC Government Working Group (AfGWG)  
+○ Date Established: 2004  
+○ Mandate: To strengthen the collaboration betwe en AFRINIC and African 
+governments and regulators to promote sustainable and secure Internet 
+development in Africa. To address collaboratively the general Internet 
+governance challenges faced within the region, particularly those related to 
+Internet number  resources.  
+○ Focus Area: Digital Governance  
+○ Members:  2,000 members including Africa on Cloud, the African Development 
+Bank - AFDB, and Egypt  
+○ Geographical Coverage: Africa  
+○ Approval Mechanism:  Consensus  
+○ Accountability: Aspirational  
+○ Legacy: N/A  
+○ Source:  https://afrinic.net/  
+○ Gaps Identified: Largely focused on Internet service resources.  
+○ Notes:  N/A 
+ 
+39. Initiative Name: ICT4Peace  
+○ Date Established: 2003  
+○ Mandate: To save lives and protect human dignity through Information and 
+Communication Technology. Since 20 03 ICT4Peace explores and champions 
+the use of ICTs and new media for peaceful purposes, including for 
+peacebuilding, crisis management and humanitarian operations. Since 2007 
+ICT4Peace promotes cybersecurity and a peaceful cyberspace through inter alia 
+international negotiations with governments, international organisations, 
+companies and non -state actors.  
+○ Focus Area: Digital Governance, Digital Rights, Human Rights, and Policy 
+Making  
+○ Members:  50 members including the African Union, the Cairo Regional Cent er 
+for Training on Conflict Resolution and Peacekeeping in Africa (CCCPA), and 
+Google  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Signatory  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+93 ○ Accountability: Operational  
+○ Legacy: N/A 
+○ Source: https://ict4peace.org/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+40. Initiative Name:  Internet Corporation for Assigned Names and Numbers (ICANN)  
+○ Date Established: 1998  
+○ Mandate: To keep the Internet secure, stable and interoperable. It promotes 
+competition and develops policy on the Internet's unique identifiers. Through it s 
+coordination role of the Internet's naming system, it has an important impact on 
+the expansion and evolution of the Internet.  
+○ Focus Area: Digital Cooperation and Tech Innovation  
+○ Members: No members  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Majori ty 
+○ Accountability: Operational  
+○ Legacy: N/A 
+○ Source: https://www.icann.org/  
+○ Gaps Identified: N/A 
+○ Notes: ICANN follows a multi -stakeholder model in which individuals, non -
+commercial stakeholder groups, industry, and governments play important roles 
+in its community -based, consensus -driven, policy -making approach.  
+ 
+41. Initiative Name: World Wide Web Consortium (W3C)  
+○ Date Established: 1994  
+○ Mandate: To develop Web standards and lead the Web to its full potential.  
+○ Focus Area:  Data Protection, Digital Access, and I nternet Security  
+○ Members: 462 members including Amazon, Benetech, British Broadcasting 
+Corporation (BBC), and the Center for Democracy and Technology  
+○ Geographical Coverage: Global  
+○ Approval Mechanism: Unclear  
+○ Accountability: Operational  
+○ Legacy: N/A 
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+94 ○ Source:  https://www.w3.org/  
+○ Gaps Identified: N/A 
+○ Notes: N/A 
+ 
+42. Initiative Name: Commonwealth Telecommunications Organization  
+○ Date Established: 1967  
+○ Mandate : To enable regulatory environments in key areas such as licensing, 
+spectrum management, quality of ser vice and over -the-top operators, promote 
+affordable universal and high -quality broadband connectivity via enabling policies 
+and regulatory measures that facilitate the rapid rollout of broadband 
+infrastructure, promote a culture of cybersecurity and effect ive cyber governance 
+through the establishment of cybersecurity frameworks, standards and 
+guidelines, promote the development and use of ICT applications for socio -
+economic development e.g. e -governance, e -health, e -education and e -
+agriculture, among other s, and ensure effective coordination of Commonwealth 
+countries at international ICT conferences and meetings.  
+○ Focus Area:  Policy Making and Digital Governance  
+○ Members:  60 members including the Digital Bridge Institute, Facebook. And the 
+United Kingdom  
+○ Geog raphical Coverage: Global  
+○ Approval Mechanism: Signatory  
+○ Accountability: Enforceable  
+○ Legacy: N/A 
+○ Source: https://www.cto.int / 
+○ Gaps Identified:  N/A 
+○ Notes: It is a treaty . 
+ 
+  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+95 Bibliography  
+ 
+ 
+Africa Cybersecurity and Digital Rights Organization, http://acdro.org/about -us/ 
+ 
+African Union Digital Transformation Strategy,   
+https://au.int/sites/default/files/documents/38507 -doc-dts-english.pdf  
+ 
+Aspirational Targets for 2030. https://www.itu.int/itu -d/meetings/statistics/umc2030/ . 
+ 
+Bennett, A., Garson, M., Boakye, B., Beverton -Palmer, M., & Erzse, A. (2021, September). The 
+Open Internet on the Brink: A Model to Save its Future . Tony Blair Institute for Global Change.  
+https://institute.global/policy/open -internet -brink -model -save -its-future  
+  
+Better than Cash,  https://www.betterthancash.org/about  
+ 
+Centre for International Governance Innovation, https://www.cigionline.org/  
+ 
+China Innovation Project: A Guide to Und erstanding China's Next Wave of Innovation". Harvard 
+University Newsletter.  https://projects.iq.harvard.edu/innovation/made -china -2025 -explained  
+ 
+Cyber Peace Institute,  https://cyberpeaceinstitute.org/what -we-do 
+  
+Digital Cooperation Organization  https://dco.org/  
+Fay, R. (2021). A Model for Global Governance of Platforms. Regulating Big Tech: Policy         
+Responses to Digital Dominance , 255 –279. 
+https://doi.o rg/10.1093/oso/9780197616093.003.0015  
+“Global Findex Database 2017”, The World Bank,  https://globalfindex.worldbank.org   
+Global Internet Forum to Co unter Terrorism,  https://gifct.org/  
+  
+Global Network Initiative,  https://globalnetworkinitiative.org/about -gni/ 
+  
+G20 Smart Cities Alliance,  https://globalsmartcitiesalliance.org/?page_id=107  
+  
+International Corporation for Assigned Names and Numbers,  https://www.icann.org/  
+  
+International Telecommunications Unions (ITU), “Measuring Digital Development. Facts and  
+Figures 2019” (Geneva, 2019).  
+ 
+Internet Governance Forum,  http://www.intgovforum.org/multilingual/tags/about  
+  
+Internet Society,  https://www.internetsociety.org/mission/  
+  
+InternetWorks,  https:// www.theinternet.works/about -2/ 
+  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+96 John E. Katsos and Jason Miklian. “Overcoming Tech Exceptionalism: How to Improve Societal 
+Impact by Technology Firms in Fragile and Conflict Settings.” 9 Jan. 2019,  
+globalpolicyjournal.com . 
+ 
+Kello, L. (2018). Cyber Threats. The Oxford Handbook on the United Nations .  
+https://doi.org/10.1093/oxfordhb/9780198803164.001.0001  
+ 
+ 
+Kemp, Simon. “Digital 2021: Global Overview Report.” DataReportal – Global Digital Insights,  
+Jan. 2021,  https://datareportal.com/reports/digital -2021 -global -overview -report . 
+Kerry, C. F., Meltzer, J. P., Renda, A., Engler, A., & Fanni, R. (2021, October) . Strengthening 
+International Cooperation on AI: Progress Report . Brookings. Retrieved from 
+https://www.brookings.edu/research/strengthening -international -cooperation -on-ai/ 
+“Microsoft at the UN” Microsoft Office of UN Affairs,  
+https://www.microsoft.com/en -us/united -nations  
+ 
+Non-Profit Cyber, https://nonprofitcyber.org/about/   
+ 
+Nye, Jr. , J. S. (2014, May). The Regime Complex for Managing Global Cyber Activities. Centre 
+for International Governance Innovation and the Royal Institute of International Affairs. 
+https://www.cigionline.org/sites/default/files/gcig_no30web.pdf  
+ 
+Nye, Jr., J. S. (2022, February 15). The end of cyber -anarchy? How to Build a New Digital  
+Order. Foreign Affairs. https://www.foreignaffairs.com/articles/russian -federation/2021 -12-
+14/end -cyber -anarchy  
+Office of the Secretary -General’s Envoy on Technology. https://www.un.org/techenvoy/.  
+Open Smart Register Platform (Open SRP)  https://smartregister.org/about/  
+ 
+Pauwels, E. (2022, January). Multilateralism and the Rising Challenges of Global Cyber  
+Insecurity. Konrad Adenauer Stiftung. Retrieved from 
+https://www.kas.de/documents/273004/16929432/Multilateralism+and+the+Rising+Challenges+
+of+Global+Cyber+Insecurity.pdf/240aaf80 -b738 -9ce9 -ff1d-
+8472f2b7febb?version=1.0&t= 1645027889366  
+ 
+Pauwels, E. (2019). The New Geopolitics of Converging Risks: The UN and Prevention in the  
+Era of AI. United Nations University: Centre for Policy Research. Retrieved from 
+https://collections.unu.edu/eserv/UNU:7308/PauwelsAIGeopolitics.pdf  
+ 
+“Press Release.” International Telecommunication Union, 30 Nov. 
+2021, https://www.itu.int:443/en/mediacentre/Pages/PR -2021 -11-29-FactsFigures.aspx . 
+ 
+Radunovic, Vladimir., Rüfenacht, David. (2016). Cybersecurity Competence Building Trends:  
+Research Report.  Federal Departement of Foreign Affairs of Switzerland. Diplo Foundation.   
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+97  
+Roberts, M. (2022, March 7). International Cooperation for a Better Digital Future . Institute for  
+Global Change. https://institute.global/policy/internat ional -cooperation -better -digital -future  
+  
+Roser, Max, et al. “Internet.” Our World in Data, July 2015.  ourworldindata.org ,  
+https://ourworldindata.org/internet . The Age of Digital Interdependence.  
+  
+SMART Africa,  https://smartafrica.org/who -we-are/ 
+ 
+Socia l Media Exchange (SMEX), https://smex.org/who -we-are/ 
+  
+ 
+The African Declaration on Internet Rights and Freedoms,  
+https://africaninternetrights.org/en/about  
+  
+The Consumer Technology Association,  https://www.cta.tech/who -we-are 
+  
+The Cybersecurity Coalition,  https://www.cybersecurityc oalition.org/  
+  
+The Digital Economy Partnership Agreement (DEPA),   
+https://www.mti.gov.sg/Improving -Trade/Digital -Economy -Agreements/The -Digital -Economy -
+Partnership -Agreement  
+  
+The Digital Trade and Data Governance Hub,  https://datagovhub.elliott.gwu.edu/about/  
+  
+The Internet & Jurisdiction Policy Network,  https://www.internetjurisdiction.net/about/mission  
+  
+The OECD Going Digital,  https://www.oecd.org/digital/going -digital -project/  
+  
+“The State of the Worlds Children (2017): Children in a Digital World”, UNICEF,  
+https://www.unicef.org/media/48601/file  
+  
+Trust over IP Foundation,  https:/ /trustoverip.org/why -toip/overview/  
+  
+United Nations. (2015). Report of the Group of Governmental Experts on Development in the 
+Field of Information and Telecommunications in the Context of International Security, UN Group 
+of Governmental Experts,  https://documents -dds-
+ny.un.org/doc/UNDOC/GEN/N15/228/ 35/PDF/N1522835.pdf?OpenElement  
+ 
+United Nations. (2019). The Age of Digital Interdependence: Report of the UN  
+Secretary -General’s High -level Panel on Digital Cooperation . United Nations Secretary -
+General’s High -level Panel on Digital Cooperation. 
+https://www.un.org/en/pdfs/DigitalCooperation -report -for%20web.pdf  
+ 
+United Nations. (2020). Road map for digital cooperation: implementation of the  
+recommendations of the High -level Panel on Digital Cooperation: Report of the Secretary -
+General (A/74/821). United Nations. https://daccess -ods.un.org/tmp/9803106.18877411.html  
+ 
+United Nations. “Achieving Universal Meaningful Digital Connectivity: Setting a Baseline and  
+Towards A Global Digital Governance Architecture: Mapping Pathways for Cooperation and Inclusion  
+ 
+ 
+98 Targets for 2030. United Nations Office of the Secretary -General’s Envoy on Technology and 
+International Telecommunications Union. https://www.itu.int/itu -d/meetings/statistics/wp -
+content/uploads/sites/8/2022/04/UniversalMeaningfulDigitalConnectivi tyTargets2030_Backgrou
+ndPaper.pdf  
+ 
+United Nations. (2021). Developments in the field of information and telecommunications in the 
+context of international security (A/75/816). United Nations General Assembly. 
+https://documents -dds-
+ny.un.org/doc/UNDOC/GEN/N21/068/72/PDF/N2106872.pdf?OpenElement  
+ 
+United Nations . (2021). Resolution adopted by the General Assembly on 15 November 2021  
+(A/Res/76/6). United N ations General Assembly. https://documents -dds-
+ny.un.org/doc/UNDOC/GEN/N21/416/14/PDF/N2141614.pdf?OpenElement  
+ 
+United Nations. (2021). Our Common Agen da: Report of the Secretary -General.  
+United Nations.  https://www.un.org/en/un75/common -agenda  
+ 
+United Nations. (2021). Report of the Group of Governmental Experts on Advancing responsible 
+State behavior in cyberspace in the context of national security.  
+https://doi.org/10.18356/9789210056700c072  
+ 
+United Nations. United Nations Global Compact:  "Governance".  
+https://www.unglobalcompact.org/what -is-gc/our -work/governance   
+ 
+“What is GDPR, the EU’s new data protection law?” General Data Protection Regulation.  
+https://gdpr.eu/what -is-gdpr/  
+ 
+Yujie Xue and Minghe Hu. "China’s state -run World Internet Conference sees ‘quietest’ year  
+ever amid coronavirus pandemic". South Morning China Post. Nov 24, 2020.  
+https://www.scmp.com/tech/policy/article/3111154/chinas -state -run-world -internet -conference -
+sees -quietest -year-ever-amid  
+  
+Zysman, John (2021, December 6) Towards a Digital Bretton Woods?  Project for Peaceful  
+Competition: Global Cooperation on Digital Governance and the Geoeconomics of New 
+Technologies in a Multi -polar World. https://www.cigionline.org/articles/toward -a-digital -bretton -
+woods/  
+ 
+“2021 G7 Digital and Technology Ministerial Declaration” G7 Digital and Technology Ministers,  
+http:/ /www.g8.utoronto.ca/ict/2021 -digital -tech-declaration.html  
+  

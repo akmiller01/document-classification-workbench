@@ -1,0 +1,191 @@
+ 
+Sustainable and Digital:  
+A UNEP input to the Global Digital Compact  
+28 April  2023  
+Key Principles for the Global Digital compact  
+Digital technologies are rapidly transforming the world, with vast potential for accelerating economic and 
+social progress on a global scale. However, as we consider how to effectively govern these technologies and the equitable distribution of their benefits, we must also prioritize “digital sustainability”. This encompasses 
+two major dimensions.  
+On the one ha nd, the principles of "sustainable digitalization," "green digital transformation," and "sustainable 
+by design"
+1 should be core to any emerging global governance framework for digital tec hnology. This includes 
+sustainable practices in data center and AI/deep learning technologies, as well as in the mining and 
+processing of rare earth metals and other raw materials powering the digital economy. Minimizing 
+greenhouse gas emissions, water consumption, hazardous chemicals and e -waste across the electronics 
+value chain must be a paramount goal. We must ensure that these techno logies do not exacerbate the triple 
+planetary crisis by simply accelerating climate change, nature loss, or pollution.  
+On the other hand, another fundamental principle is the idea that digital technologies offer an opportunity to 
+enable and drive deep sust ainability transformations  – often known as “digitalization for sustainability”2 This 
+can be achieved by building sustainability values and outcomes directly into digital products and ser vices by 
+default3 and making the sustainable choice the easiest one for consumers. This goes hand in hand with 
+creating digital platforms and tools that facilitate education, capacity buil ding, and collaboration among 
+relevant entities and individuals to accelerate and scale solutions to the triple planetary crisis. In particular, using digital tools to accelerate efforts towards decarbonization, dematerialization, detoxification and a 
+circular economy.
+4 
+The Sustainable Development Goals (SDGs) provide a framework to harness the enabling opportunities for 
+sustainability from digital technologies. By using data -driven approa ches and technology -driven use cases, 
+we can establish the link between economic growth, social equity, and environmental quality.  Digital tools 
+can help us understand ways to optimize different outcomes and understand tradeoffs between different  
+SDGs.  In particular, digital technologies can help monitor, measure, assess, mitigate, manage, plan, and 
+forecast for different types of SDG goals and help countries achieve their commitments to different Multilateral Environmental Agreements (MEAs). They are also critical for driving  transparency and mutual 
+accountability  across different stakeholders and initiatives.  
+However, realizing these benefits requires the adoption of another key principle within the global digital governance framework - the recogn ition that globally harmonized digital sustainability standards and 
+safeguards will be required in combination  with aligned enabling national polic ies, legislation,  and incentives. 
+The world must avoid a deeply fragmented and incoherent regulatory landscap e when it comes to governing 
+the sustainability dimensions of digital technologies. As data and digital technologies do not respect national boundaries,  international cooperation and collective action will become paramount for effective and agile 
+governanc e.  
+ 
+2 
+ Global digital sustainability standards and safeguards combined with national regulations are an important 
+and necessary step but not sufficient given the pace of technological innovation. Public and private sector 
+actors as well as civil society must also collaborate in new forms of public -private partnerships (PPPs) to 
+pioneer new environment -friendly practices and to implement sustainable technology projects. As part of 
+the Secretary General’s Roadmap for Digital Cooperation, the Coalition for Digita l Environmental Sustainability 
+(CODES)5 has identified 9 Impact Initiatives 6 that require multi -stakeholder collaboration and PPPs to create 
+the kind of systemic changes needed for “digital sustainability”7 to flourish.  UNEP is o ne of the co -founders of 
+CODES  and plans to invest in multiple impact initiatives as part of its new Digital Transformation programme.  
+In conclusion, sustainability should be a top priority in any global governance framework for digital technology. By inve sting in sustainable technology and incorporating sustainability into the design of digital 
+products and services, we can achieve economic and social progress while solving the triple planetary crisis. The Global Digital Compact must therefore recognize th e importance of harnessing the power of emerging 
+technologies (AI, IoT, Blockchain, etc) and their applications in environmental domains, but at the same time the need for  implementing  responsible practices, ethical standards, data standards, regulatory fr ameworks, 
+measurement methods and impact assessments to ensure these technologies  are deployed with purpose 
+that achieve positive sustainability impacts.  
+Recommendations  
+UNEP has identified six priorities for an action agenda within the Global Digital Compact that need to be 
+addressed to accelerate environmental sustainability through digital transformation:  
+1. Building a planetary dashboard of trusted environmental data for real time transparency and 
+situational awareness : Fragmentation of environmental data and the lack of seamless integration into the 
+emerging data infrastructure must be addressed. At present, progress towards achieving 41% of the 928 
+environmental SDG indicators as well as different multilateral environmental agreements cannot be measured at the global level in a timely manner due to a lack of interoperable data, standardize reporting and significa nt 
+data gaps. This can be addressed by building a global planetary dashboard of trusted and open environmental data as a digital public good, together with the necessary licenses, standards, infrastructure and safeguards to 
+avoid the spread of misinformati on, maintaining public trust and  protect ing the  quality  and security of the data  
+This digital ecosystem of data must enable real time monitoring, forecasting and predictive analytics of the 
+global environmental situation using AI to assess progress towards  our collective environmental goals and 
+help identify key risks and policy tradeoffs.  Policies are needed to address the use of official national data with 
+non- traditional “unofficial” data sets and analysis, including from AI -powered platforms, remote sen sing 
+observation, digital companies and citizen science.  
+ UNEP has been mandated to develop a Global Environmental Data Strategy (GEDS) and to build 
+a World Environment Situation Room  (WESR)  that will federate the best available environmental 
+data to help monitor trends, commitments  and solutions to the environmental SDGs and 
+multilateral environmental agreements  as well as conduct predictive analytics and foresight . 
+2. Harnessing digital tools to align global finance and capital markets to environmental susta inability 
+goals:  There is misalignment between our global environmental goals and the global financial and capital 
+markets, including those capitalizing digital technology companies and start -ups as well as digital 
+transformation infrastructure and projects. Financial and capital markets are unable to effectively factor and 
+price in environmental risks, impacts, opportunities, and incentives arising from globalized value chains and digital transformation initiatives and investments. This is a major problem that must be solv ed to speed and 
+ 
+3 
+ scale sustainability solutions. We must harness digital tools to align markets and finance with sustainability 
+and environmental outcomes. Targeted investments are needed to integrate environmental and climate data and goals into financial costing models, risk assessments, chain of custody, Environment, Social and Governance (ESG) frameworks and due diligence requirements . On a global level, there is a need to develop  
+standardized measurement metrics combined with auditing and disclosure fra meworks  that enable consistent 
+and comparable analysis on the net sustainability impact of digital technologies in a given context. Based on such metrics and KPIs, the financial community will also be able to assess how to invest in digital technologies with the largest environmental benefits.  
+ UNEP will integrate digital sustainability into its  work on UNEP Finance Initiative (FI) and the 
+Partnership for a Green Economy  (PAGE) in order to develop new norms and standards on 
+sustainable finance for digital te chnologies and applications.  
+3. Measuring the sustainability performance and circularity of supply chains : Most products or services 
+are supported by complicated globalized supply chains. One of the difficulties relates to tracking and tracing the lifecycle of products and services through their supply chains which often require sifting, aggregation, integration  and analyses of large amounts of complex non -standardized data produced by a range of different 
+sources. Embedding digital technologies within the global supply chain and using life -cycle analysis combined 
+with AI offers opportunities to make sense of th is data to accurately measure and compare the sustainability 
+performance and circularity of different products . This requires the  adoption of global and open standards to 
+ensure interoperability and coherence so that different regional or national policies  and regulations do not 
+introduce fragmentation and obstacles to international trade and global supply chains. The international 
+community should build on recent developments regarding the adoption of digital product passports and 
+support global approaches  for data interoperability, standardization and circularity.  
+ UNEP will begin testing various digital tools to enable circularity, including digital product passports within its  work on circularity in high- impact sectors and through the One Planet 
+Network  
+4. Nudging and incentivizing sustainable consumption practices:  There are over 1.5 billion digital 
+consumers in the world – using a combination of digital platforms, filters, algorithms and mobile apps to make 
+consumption decisions.9 One recent study indicates that 65% of consumers reported that they want to buy 
+purpose -driven brands that advocate sustainability, yet only about 26% actually do so.10 This intention -behavior 
+gap needs to be closed. Major investments and policy frameworks are needed to  nudge, gamify and 
+incentivize sustainable consumer behaviors and lifestyles in the digital landscape  – including citizens, 
+governments and business – so they can more easil y identify and favor sustainable products and, services. 
+Digital technologies present an opportunity to effectively and directly engage individual and institutional consumers through ecolabels and digital product passports as well as streamlined hyper -targeted, customized, 
+and value -based communication.  
+ UNEP will begin to convene coalitions of digital companies to drive sustainability norms throughout their platforms, apps and algorithms. A sector approach will be adopted focusing on online games, e -commerc e platforms, social media and online streaming.  
+5. Harnessing sustainable procurement of digital technologies and infrastructure to close the digital 
+divide: As governments and development actors procure and install digital infrastructure to close the digital  
+divide, they need to urgently adopt sustainable procurement policies  that minimize the energy, water, 
+chemicals, and e -waste impacts across the supply chains of Information and Communication Technologies 
+ 
+4 
+ (ICT). Sustainable procurement policies can have a major influence on market demand dynamics, especially 
+through government procurement that represents 13 -20% of global GDP.11  Institutions are uniquely positioned  
+to demand transparency to the upstream and downstream impacts of digital goods and services and are 
+capable of incorporating sustainability criteria into purchasing decisions at a scale that can shift markets. 
+Sustainable Public Procurement criteria and best practices should be con solidated and shared across Member 
+States. UN agencies should also adopt these criteria so that their own procurement efforts linked to digital 
+products and services systematically integrate sustainability considerations at all levels.  
+ UNEP will address t he procurement of green ICT through its workstream on sustainable public 
+procurement  
+6. Identification of best practices and standards in the greening of information and communication 
+technologies:  While digital transformation is at the heart of strategic planning and economic growth in both 
+the public and private sectors, responsible innova tion combined with environmental and circular 
+considerations must become integral in the design, deployment and decommissioning of digital technologies . 
+In particular, efforts are needed to identify best practices and global standards that can reduce green house gas 
+emissions, water consumption, toxic chemicals and e -waste from the digital sector while also increasing the 
+circularity of ICT components. This includes targeted investments to green data centers  and incentives for 
+responsibl y steering the development of new technologies  considering their potential environmental impact 
+such as energy consumption  and e -waste . Platforms are  also needed to monitor trends at the global and 
+national levels combined with active policy advise and capa city building measures for countries.  
+ UNEP and the ITU will join forces to build a joint programme and center of excellence in green 
+digital transformation – focusing on greenhouse  gas emissions, e -waste and the circularity of 
+the ICT sector.  
+  
+ 
+5 
+ Endnotes  
+ 
+1.  Sustainable by design / green digital transformation / sustainable digitalization:  are different terms used to describe 
+an approach to the design and development of digital technologies that prioritizes sustainability and responsible 
+resource use throughout the product's entire life cycle. This approach aims to reduce the environmental impact of digital technologies by minimizing their energy consumption, waste generation, and carbon footprint, as well as by ensuring that they respect users' privacy and data protection rights. Overall, the sustainable by design approach seeks to ensure t hat 
+digital technologies are not only functional and innovative, but also sustainable, ethical, and respectful of human rights and the environment.  
+ 2.  Digitalization for sustainability: Digital technology and innovation, if driven inclusively and with in tention, can 
+empower government, businesses, communities and individuals to make decisions and take action that can enable planetary sustainability and equitable human development. Digital transformations across sectors and scales must be actively guided t hrough conscious choices and values that enable sustainability outcomes.  
+ 3.  Sustainable by default: is an approach to designing digital platforms, applications, and algorithms that prioritizes 
+sustainability and responsible resource use as the default se tting. This means that these technologies are designed to 
+support sustainable consumption and sustainable behaviors by the end user without requiring any additional action or effort by the user -  the default setting is sustainable and users must “opt out” of this approach.  
+ 4.  Digital technologies can contribute solutions to the triple planetary crisis by enabling decarbonization, dematerialization and detoxification goals. For example, for decarbonization digital technologies can enable a 20 percent reduc tion of global CO2 emissions by 2030 when applied to five sectors: mobility, manufacturing, agriculture, energy, and 
+buildings. ICT solutions can help cut nearly 10 times more CO2e than they emit.
+12 To accelerate dematerialization, digital 
+technologies com bined with ecodesign can help reduce the natural resources and other materials used in products by 
+90% - through efficiency and by turning products into services in a circular economy.13 This can help reduce the impact 
+of material extraction on nature and the environment, and it can reduce pollution. To contribute to detoxification, digital technologies can also help reduce waste & detoxify supply chains by a factor of 10 -100X.
+14  
+ 5.  In March 2021, UNEP co -founded the Coalition for Digital Environmental S ustainability (CODES) at the request of the 
+UN Technology Envoy. The initial aim of CODES was to conduct a global multi- stakeholder consultation process on key 
+priorities needed to bring together digital transformation and environmental sustainability into  a twin transition in 
+support of the Roadmap for Digital Cooperation. In addition to UNEP, the other co- champions of CODES include UNDP, 
+the International Science Council, Future Earth, the German Environment Agency and the Kenyan Ministry of Environment and Forestry in coordination with the Office of the UN Technology Envoy. Approximately 1,000 stakeholders from 100 
+countries were invited to engage in the consultation and co- design process that ran over 12 months. Based on the inputs 
+and priorities provide d, the CODES Action Plan for a Sustainable Planet in the Digital Age was launched in June 2022 
+during the Stockholm +50 process. The CODES Action Plan  proposes three systemic shifts and 9 impact initiatives to integrate environmental sustainability into d igital transformation resulting in a twin transition.  
+ 6.  The 9 Impact Initiatives of the CODES Action Plan for a Sustainable Planet in the Digital Age include: 1) World 
+Commission on Sustainability in the Digital Age; 2) Clearing House for Digital Susta inability Standards; 3) Education for 
+Digital Sustainable Development; 4) Harmonization of Digital Companies’ GHG Inventories; 5) Sustainable Procurement and Green Digital Infrastructure Pledge; 6)  Digital Product Passport for Circularity; 7) Digital Sust ainability Innovation 
+Hubs and Accelerators; 8) Data and Assessments as Digital Public Goods for Sustainability; 9) Decentralized Financing of Sustainable Solutions . 
+ 7.  Sustainable Digital Transformation / Digital Sustainability: is an approach to the us e of digital technologies that 
+seeks to ensure that the benefits of digital technology are realized in a sustainable, ethical, and responsible manner to enable and achieve the Sustainable Development Goals. This approach aims to balance the potential susta inability 
+benefits of digital transformation with the need to protect the environment and respect individuals' rights and freedoms. 
+Overall, sustainable digital transformation / digital sustainability aims to harness the power of digital technology to driv e 
+sustainable development, innovation and growth, while minimizing the negative impact on the environment and society. 
+ 
+6 
+ By adopting a sustainable digital transformation approach, countries and companies can ensure that their digital 
+strategies are aligned w ith their sustainability goals and are respectful of individuals' privacy and data protection rights. 
+8.  UNEP. 202 3. Measuring Progress: Environment and the SDGs.  
+URL: https://www.unep.org/technical -highlight/uneps -measuring- progress -report -highlights -water -data -
+improvements -and-gaps   
+9.  United Nations Conference on Trade and Development (2021). Estimates of Global E -Commerce 2019 And 
+Preliminary Assessment of Covid -19 Impact on Online Retail 2020.  
+URL: https://unctad.org/system/files/official -document/tn_unctad_ict4d18_en.pdf   
+10.  Harvard Business Review. 2019. The Elusive Green Consumer.  URL: https://hbr.org/2019/07/the -elusive -green -consumer   
+11.  World Bank. Global Public Procurement Database. 
+URL: https://www.worldbank.org/en/news/feature/2020/03/23/global -public- procurement -database -share -compare -
+improve   
+12.  https://www.ctc -n.org/sites/d8uat.ctc- n.org/files/resources/full_report2.pdf   
+13.  James Arbib and Tony Seba. 2020. Rethinking humanity.  
+URL: https://tonyseba.com/wp -content/uploads/2020/09/RethinkXHumanityReport.pdf  
+14.  James Arbib and Tony Seba. 2020. Rethinking humanity.  
+URL: https://tonyseba.com/wp -content/uploads/2020/09/RethinkXHumanityReport.pdf  
+ 
+ 

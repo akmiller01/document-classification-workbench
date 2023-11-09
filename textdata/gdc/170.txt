@@ -1,0 +1,324 @@
+1 
+ Pacte Numérique Mondial  
+Contribution de la France  
+Les autorités françaises remercient le bureau de l’Envoyé spécial du Secrétaire général des Nations Unies pour 
+les technologies d’avoir organisé une consultation ouverte afin de définir un Pacte Numérique Mondial (PNM). 
+En complément de la contribution de l’Union européenne (UE), les autorités françaises souhaitent partager la 
+présente contribution  et rappeler leur engagement pour assurer  la pérennité d’un écosystème  numérique  
+ouvert.  
+Objectif 1  : pour un  Internet ouvert, libre,  neutre,  mondial, interopérab le, fiable et sûr  
+Internet, et l e numérique dans une plus large mesure, est de nature à contribuer à  la réalisation des Objectifs 
+de développement durable  (ODD) . En 2018, le Président de la République a lancé le Sommet «  Tech for Good  ». 
+Dans ce contexte,  plus de 80 dirigeants ont pris des engagements pour définir des modèles de développement 
+qui mettent la technologie et le numérique au service du bien commun autour de cinq axes  : éducation, parité 
+et diversité, futur du travail, inclusion sociale et écon omique et protection de l’environnement.  
+ 
+Pour que le numérique demeure une source de développement  inclusif  et d’innovation , il doit faire l’objet 
+d’une  régulation appropriée pour protéger les droits des utilisateurs , en limiter les conséquences négatives 
+et empêcher les usages malveillants . Le numérique, mal régulé, menace la stabilité internationale . 
+Le numérique  et ses enjeux sous -jacents  constitue nt l’un des plus grands défis du XXIe siècle , tout en recelant 
+de grandes opportunités pour atteindre les objectifs que la communauté internationale s’est fixée au titre des 
+ODD . Le paysage du numérique a évolué  ces dernières années, avec une intensification du rythme 
+d’émergence de nouvelles technologies  et d’instances de gouvernance qui ont des rapports distincts à la 
+compétitivité, la sécurité nationale, le contrôle étatique et le droit à la vie privée. C ela ne doit pas  pour autant  
+conduire à remettre en cause les principes fondamentaux  d’une architecture ouverte, déce ntralisée et 
+interopérable, de la neutralité du réseau, ainsi que de la gouvernance multipartite et inclusive de l’Internet.   
+Les autorités françaises souhaitent que le s résultats de la consultation pour un  PNM réaffirment  la 
+pertinence de ce modèle  de gou vernance  de l’Internet . Ce sujet sera également débattu lors de la prochaine 
+revue du Sommet mondial pour la société de l’information (SMSI+20) . Une bonne articulation entre ces 
+deux processus assurer a cohérence et lisibilité pour que les parties prenantes  puissent pleinement y 
+contribuer . 
+Propositions d’actions  :  
+1. Développer l’accès mondial à l’Internet, sans restrictions géographiques , en menant des actions en 
+faveur (i) du renforcement de la connectivité, (ii) de la réduction de la fracture numérique  (inégalités 
+territoriales et sociales d’accès au numérique et aux opportunités associés) , (iii) de la levée des 
+obstacles à la connexion, qu’ils soient matériels (coût) ou étatiques  (censure, coupure, blocage 
+d’accès)  et (iv) de la résistance face aux attaque s contre son infrastructure et ses services . Un travail 
+devra également être mené sur les protocoles afin  de maintenir l’unité , la neutralité  et la résilience  
+de l’Internet . 
+ 
+2. Soutenir une meilleure  inclusivité du numérique en travaillant sur (i) le développement et le  
+renforcement des capacités des utilisateurs  (lutte contre l’illectronisme,  alphabétisation numérique 
+et formation à l’utilisation optimale des ressources notamment en matière éducative) et (ii) 
+l’accessibilité pour tous (quelles que soi ent les  pratiques linguistiques et les aptitudes physiques  et 
+2 
+ cognitives ). Un suivi mondial de l’inclusivité et de l’accessibilité des ressources numériques devra it 
+être conçu et mis en place.  
+ 
+La diversité linguistique  est présentée  comme une priorité par l’ Assemblée générale des Nations Unies 
+(résolution 67/292 ). Elle  est également une priorité de l’Organisation internationale de la Francophonie (OIF ) 
+(Déclaration  de Djerba  du20 novembre 2022)  qui axera sa contribution au Pacte numérique mondial sur ce 
+sujet.  
+ 
+3. Développer et préserver  un espace public numérique mondial  afin d’offrir aux utilisateurs un 
+Internet et des contenus fiable s, en particulier pour les mineurs . Il s’agit d’assurer une protection 
+des droits de l’Homme et libertés fondamentales en ligne équivalente à celle qui existe hors ligne  
+(liberté d’expression, droit à la vie privée  et à la protection des données personnelles , lutte contre 
+la discrimination, promotion de l’égalité femmes -hommes, lutte contre les manipulations de 
+l’information, contre le terrorisme et l’extrémisme violent, contre le discours de haine,  respect du 
+droit d’auteur , etc.), de permettre le plein usage par chacun des opportunités supplémentaires  
+offertes par le numérique (participation à la vie publique, accès aux services publi cs, éducation)  et 
+de définir un régime de responsabilité des acteurs du numérique . 
+ 
+Objectif 2  : promouvoir et protéger les  communs numérique s, outils au service de la réalisation des 
+objectifs de développement durable (ODD)  
+La révolution numérique s’est construite et repose largement sur des communs, à savoir des ressources  
+ouvertes  produites et gouve rnées par des collectifs . Les communs numériques sont des biens immatériels  
+utilisables librement, produits et gérés par une communauté ouverte d’acteurs partageant des valeurs et des 
+règles collectives . Il peut s’agir de logiciels libres (Linux, MySQL, et c.), de standards ouverts (TCP/IP, DNS, Web, 
+Bluetooth, etc.), de données et contenus ouverts (Wikipédia, OpenStreetMap, article scientifique  sous licence 
+libre , ressource éducative libre , données ouvertes de la recherche , etc.) ou de briques logicielles  pouvant être 
+exploitées  pour de nouvelles solutions.  
+Les communs ont la caractéristique d’être  généralement  non-exclusifs  et non -rivaux ( la consommation  de ces 
+bien s par un usager n'entraîne aucune réduction de la consommation pour les  autres usagers ). Les communs 
+numériques s’inscrivent dans la famille des contenus sous licences ouvertes (codes  et données ouvertes), mais 
+avec des spécificités  : tous les logiciels libres ne fonctionnent pas sur le fondement d’une gouvernance 
+collaborative. Par la mise en r éseau de connaissances, les communs numériques  constituent un levier 
+important pour la gestion collective des ressources et la mise en place d’une  gouvernance multipartite . C’est 
+une alternative à la gouvernance verticale et aux stratégies d’enfermement propriétaire menée s par certains 
+acteurs.  
+Les communs numériques bénéficient au partage des connaissances, au progrès démocratique et à la 
+croissance économique. Ils contribuent également à concevoir des solutions permettant de développer le 
+numérique au service des objectifs de développement durable de l’ Agenda 2030. Les communs numériques 
+permettent une mise en œuvre transversale des ODD, à l’instar de l’accès à l’éducation de qualité (ODD 4) 
+facilitée par l’Internet  et les contenus ouverts.  L’ODD 9.c vi se à «  accroître nettement l’accès aux technologies 
+de l’information et de la communication et faire en sorte que tous les habitants des pays les moins avancés 
+aient accès à Internet à un coût abordable d’ici à 20 20 ». 
+ 
+La France est engagée dans le dévelo ppement et le soutien à l’écosystème des communs numériques. Durant 
+la Présidence Française du Conseil de l’UE au premier semestre 2022 , un rapport  intitulé «  Vers une 
+3 
+ infrastructure souveraine des communs  » a été co-signé par 19 Etats membres de l’UE . Il vise à renforcer les 
+investissements publics pour les communs en mutualisant les efforts . Les projets qu e la France  développe ou 
+promeut témoignent de l a contribution que les communs numériques peuvent apporter à la réalisation des 
+ODD  :  
+ 
+- Pix, service public en ligne frança is lancé en 2017 et désormais membre de la Coalition mondiale pour 
+l’éducation de l’UNESCO , permet à ses utilisateurs d’évaluer, de développer et de certifier leurs 
+compétences numériques, fac ilitant notamment  l’insertion professionnelle  et l’acculturation au 
+numérique . La Stratégie du numérique pour l'éducation 2023 -2027  fait des communs numériques un 
+axe fort, en les utilisant, en y contribuant et en invitant la communauté scolaire à créer et partager 
+des ressources éducatives libres  – ODD4  ; 
+- Ecolab , laboratoire français d’innovation pour la transition écologique lancé en 2020, qui promeut la 
+production et l’utilisation de données publiques et privées pour la transition écologique  en mettant 
+par exemple  à disposition un catalogue de plus d’une centaine de jeux de données 
+environnementales , un espace commun des données environnementales pour la santé (Green Data 
+For Health)  et un outil juridique d’auto diagnostic  – ODD 3, 6, 11 et 13  ; 
+- Le mouvement pour l a Science Ouverte, objet d’une recommandation de l’UNESCO , vise à faire de 
+l’ensemble des productions scientifiques un commun numérique (Human Genome Project, Elixir Core 
+Data Ressources, Software H eritage, GBIF Système mondial d'information sur la biodiversité , etc. ). On 
+compte pour la France 67% des articles scientifiques et 10 000 ouvrages scientifiques en accès ouvert  –
+ODD 10.  
+ 
+Le développement de solutions comme  biens communs numérique s se réali se également au niveau de l’U E. 
+Destination Terre  est un modèle numérique visant à surveiller et prédire l’interaction entre les phénomènes 
+naturels et les activités humaine s pour contribuer à la réalisation des objectifs de  la double transition, 
+écologique et numérique.  
+ 
+Propositions d’actions  :  
+1. Promouvoir  les communs numériques  qui à l’instar d e l’Internet  sont ouverts, neutres, libres, fiables 
+et sûrs (cf. partie 1).  
+ 
+2. Mener  un travail pédagogique sur l’utilité et l’utilisation des communs numériques, notamment au 
+service des objectifs de développement durable.  
+ 
+2.1. Compte tenu des opportunités offertes par les communs numériques, notamment pour l’élaboration de 
+biens publics numériques dont les bénéfices serviraient le plus gr and nombre, consacrer les communs 
+numériques au niveau global , les rendre accessibles  et visibles et  affirmer le rôle crucial de la communauté 
+contributive des utilisateurs.  
+2.2. Faciliter l’identification et l’accessibilité en établissant une liste de ré férence des communs numériques , 
+qui devra être actualisée . Référencer les communs numériques et les solutions libres dans une bibliothèque 
+numérique permettra de les rendre accessibles et de contribuer à leur utilisation par le plus grand nombre.  
+ 
+2.3. Veiller à ce que les institutions et organismes publics favorisent la promotion et l’utilisation des communs 
+numériques  et enrichissent ou développent des communs numériques et des solutions logicielles libres , en y 
+recourant  également  et en communiquant via des formats numériques ouverts.  
+ 
+4 
+ 3. Assurer le développement des communs numériques par  la mise en place (i) de principes cadre de 
+nature à garantir leur indépendance, leur neutralité et leur pérennité , et (ii) d’un fonds de 
+financement  multipartite  
+ 
+3.1. Instaurer un cadre de gouvernance publique des communs numériques. Les communs numériques 
+s’inscrivent dans la famille des données sous licence libre  mais tous les logiciels libres ne fonctionnent pas  sur 
+le fondement d’une gouvernance collaborative. Certains acteurs du privé peuvent adopte r des stratégies pour 
+développer des licences, introduire une monétisation des solutions dont ils sont propriétaires et imposer des 
+choix technologiques. Le constat est celui d’une centralisation croissante de l’open  source autour de certains 
+acteurs privés qui détournent la gouvernance de projets publics au profit d’intérêts industriels, ce qui peut 
+mettre à mal l’interopérabilité.   Une attention particulière à la bonne gouvernance des standards numériques 
+s’impose é galement.  
+3.2. Mettre en place un fonds de financement multipartite des communs numériques. Le soutien financier 
+insuffisant pour la communauté des communs, peut  conduire à chercher des financements auprès de grandes 
+plateformes de services, susceptible de  mettre à mal leur indépendance.  Par ailleurs, le déficit de soutien 
+financier peut conduire à des vulnérabilités en termes d’architecture de sécurité de l’Internet, comme illustré e 
+par la faille Log4Shell découverte en décembre 2021 . 
+3.3 Soutenir les méca nismes, plateformes et services, tels que Software Heritage  et les services d’archivage 
+numérique , qui visent à garantir la pérennité , la fiabilité  et la traçabilité du patrimoine numérique commun 
+de l’humanité.  
+4. Se doter, à l’échelle globale, de règles en matière de protection des  données  partagées  
+Le développement de communs numériques  nécessite le  partage de données de qualité  ce qui suppose un 
+degré de confiance élevé dans la protection des données personnelles dans l’environnement numérique . Les 
+autorités françaises et l’UE se sont doté es d’un  cadre en la matière respectivement la loi du 7 octobre 2016 
+pour une République numérique  et le règlement général sur la protection des données  du 27 avril 2016. Le 
+règlement européen sur la gouvernance des données  du 4 mai 2022 offre un cadre pour renforcer la confiance 
+dans le partage volontaire des données dans l’intérêt de tous, en mettant l’accent sur leur  potentiel 
+économique et sociétal, par exemple dans le domaine de la santé, pour améliorer les traitements 
+personnalisés.  
+5. Favoriser la gouvernance décentralisée des ressources numériques sous forme de «  communs  »  
+Les communs numériques mobilisent parfois des communautés locales de citoyens autour des actifs de leur  
+territoire pour en augmenter la valeur. Par exemple, le réseau  des minibus d’Accra, au Ghana, a été 
+cartographié via un  commun (OpenStreetMap) ce qui l’a rendu plus  accessible. Aussi, il convient, dès que cela 
+est possible , de confier tout ou partie de la propriété des ressources numériques à des communautés de 
+citoyens qui les gouvernent sous for me d’un commun libre et ouvert./.  
+ 
+  
+5 
+ Global Digital Compact   
+Contribution of France  – Courtesy translation  
+The French authorities thank the Office of the UN Secretary -General's Special Envoy for Technology for 
+organizing an open consultation to define a Global Digital Compact  (GDC). In addition to the contribution of 
+the European Union (EU), the French authorities would like to share this contribution and reiterate their 
+commitment to ensure the sustainability of an open digital ecosystem.  
+Goal 1: An open, free, neutral, global, interoperable, reliable and secure Internet  
+Internet, and digital to a greater extent, has the potential to contribute to the achievement of the Sustainable 
+Development Goals (SDGs) . In 2018, the President of the Republic launched the "Tech for Good" Summi t. In 
+this context, more than 80 leaders made commitments to define development models that put technology 
+and digital technology for the benefit  of the common good around five areas : education, parity and diversity, 
+the future of work, social and economic  inclusion and environmental protection.  
+ 
+For digital technology to remain a source of inclusive development and innovation , it should  be properly 
+regulated to protect users' rights, limit negative consequences and prevent misuse . Not well  regulated , 
+digital technology threatens international stability . 
+Digital technology and its many  issues constitute one of the greatest challenges of the 21st century, while at 
+the same time offering great opportunities for achieving the goals that the international community has set 
+under the SDGs . The digital landscape has evolved in recent years, with an increased pace of emergence of 
+new technologies and governance bodies that have distinct relationships to competitiveness, national 
+security, state control and pri vacy rights. However, this should not lead to questioning the fundamental 
+principles of an open, decentralized and interoperable architecture , net neutrality, and multi -stakeholder and 
+inclusive Internet governance .  
+The French authorities stress the importance that the consultation for a  GDC  reaffirm s the relevance of this 
+Internet governance model . This subject will also be discussed during the review of the World Summit on 
+the Information Society (WSIS+20) . A good coordination  between the se two processes will ensure 
+coherence and readability so that stakeholders can fully contribute . 
+Proposed actions:  
+4. To develop global access to the Internet, without geographical restrictions , by taking actions in favor 
+of (i) strengthening connectivity, (ii) reducing the digital divide (territorial and social inequalities in 
+access to the digital world and associated opportunities) , (iii) removing obstacles to connection, 
+whether material (cost) or state -related (censorship, cut-off, access blocking) , and (iv) resisting 
+attacks against its infrastructure and services . Work will also need to be done on protocols to 
+maintain the unity , neutrality and resilience of the Internet . 
+ 
+5. Support better digital inclusiveness by working on  (i) the development and strengthening of users' 
+capacities ( fight against illiteracy, digital literacy and training in the optimal use of resources, 
+especially in education) and (ii) accessibility for all (whatever  language practices and physical and 
+cogn itive abilities). A global monitoring of inclusiveness and accessibility of digital resources should 
+be designed and implemented.  
+ 
+6 
+ Linguistic diversity  is a priority for the United Nations General Assembly  (resolut ion 67/292 ). It is also a priority 
+for the Organisation internationale de la Francophonie (OIF ) (Djerba ’s Declaration  of November  20, 2022)  
+which will focus its contribution to the Global Digital Pact on this subject . 
+ 
+6. To develop and preserve a global digital public space in order to offer users a trustworthy  Internet 
+and content s, in particular for minors . The aim is to ensure that human righ ts and fundamental 
+freedoms are protected online in the same way as offline ( freedom of expression, right to privacy 
+and personal data protection , fight against discrimination, promotion of gender equality, fight 
+against information manipulation, against terrorism and violent  extremism, against hate speech, 
+respect for copyright , etc.) , to enable  everyone to make full use of the opportunities offered  by 
+digital technology (participation in public life, access to public services, education) and to define a 
+system of responsibility for digital actors . 
+ 
+Goal 2: Promote and protect the digital  commons, a tool for achieving the Sustainable Development Goals 
+(SDGs)  
+The digital revolution has been built and is largely based on commons, i.e. open resources produced and 
+governed by collectives. Digital commons are freely usable immaterial goods, produced and managed by an 
+open community of actors sharing collective values and rules . They can be free software (Linux, MySQL, etc.), 
+open standards (TCP/IP, DNS, Web, Bluetooth, etc.), open data and content (Wikipedia, OpenStreetMap, 
+openly licensed scientific articles, open educational resources , open research data, etc.) or software building 
+bricks that can be exploited for new solutions.  
+The commons have the characteristic of being generally non-exclusive and non -rivalrous ( the use by one user 
+does not lead to any reduction in the use  by other users ). The digital commons are part of the family of openly 
+licensed content (open code and open data), but with some specificities : not all open source software operates 
+on the basis of colla borative governance. By networking knowledge, the digital commons constitute an 
+important lever for the collective management of resources and the implementation of multi -party 
+governance . It is an alternative to vertical governance and proprietary strateg ies led by some actors.  
+The digital commons benefit knowledge sharing, democratic progress and economic growth. They also 
+contribute to designing solutions that enable digital development to serve the SDG s of the 2030 Agenda. 
+The digital commons enable cross -cutting implementation of the SDGs, such as access to quality education 
+(SDG 4) facilitated by the Internet and open content. SDG 9.c aims to "significantly increase access to 
+information and communication technologies and ensure that all people in the least developed countries have 
+affordable access to the Internet by 2020".  
+ 
+France is committed to the development and support of the digital commons ecosystem. During the French 
+Presidency of the Council of the EU in the firs t half of 2022 , a report  entitled " Towards a sovereign digital 
+infrastructure of commons " was co-signed by 19 EU member states . It aims to strengthen public investment 
+in the commons by pooling efforts . The projects that France is developing or promoting demonstrate the 
+contribution that the digital commons can make to achieving the SDGs:  
+ 
+- Pix, a French online public service launched in 2017 and now a member of UNESCO's Global Coalition 
+for Education , enables  its users to assess, develop and certify their digital skills, facilitating , in 
+particular, professional insertion and acculturation to digital technology . The Digital Education 
+Strategy 2023 -2027  makes the digital commons a strong focus, using and contributing to them and 
+inviting the school community to create a nd share open educational resources - SDG4 ; 
+7 
+ - Ecolab , a French innovation laboratory for the ecological transition launched in 2020, pro motes the 
+production and use of public and private data for the ecological transition by making available, for 
+example, a catalog of more than a hundred environmental datasets , a common space for 
+environmental data for health (Green Data For Health) , and a  legal tool for self -diagnosis - SDGs 3, 6, 
+11, and 13 ; 
+- The Open Science movement, the subject of a UNESCO recommendation , aims to make all scientific 
+production a digital commons (Human Genome Proj ect, Elixir Core Data Resources, Software Heritage, 
+GBIF Global Biodiversity Information Facility , etc. ). In France, 67% of scientific articles and 10,000 
+scientific works are open access -ODD 10. 
+ 
+The development of solutions as digital  public goods  is also relevant  at the EU level . Destination Earth  is a 
+digital model aimed at monitoring and predicting the interaction between natural phenomena and human  
+activities to help achieve the objectives of the dual transition, ecological and digital.  
+ 
+Proposed actions :  
+6. Promote the digital commons that , such as  the Internet, are open, neutral, free, reliable and secure 
+(see part 1).  
+ 
+7. Conduct a work on the usefulness and use of the digital commons, particularly to promote  
+sustainable development objectives.  
+ 
+2.1. Given the opportunities offered by the digital commons, especially for the development of digital public 
+goods which  benefits would serve the greatest number, enshrine the digital commons at the global level , make 
+them accessible and visible, and affirm the crucial role of the contributing community of users.  
+2.2. Facilitate identification and accessibility by establis hing a reference list of the digital commons , which 
+should be updated . Referencing the digital commons and open source solutions in a digital library will make 
+them accessible and contribute to their use by the largest number of people.  
+ 
+2.3. Ensure that p ublic institutions and organizations promote and use the digital commons, develop digital 
+commons and open source software solutions, also using and communicating via open digital formats.  
+ 
+8. Promote  the development of the digital commons through the establi shment of (i) framework 
+principles that guarantee their independence, neutrality and sustainability , and (ii) a multi -
+stakeholder financing fund . 
+ 
+3.1 Establishing a public governance framework for the digital commons. The digital commons are part of the 
+family of open licensed data , but not all open source software operates on the basis of collaborative 
+governance. Some private actors may adopt strategies to develop licenses, introduce monetization of the 
+solutions they  own and impose technological choices. The observation is that there is a growing centralization 
+of open source around some  private actors that distort  the governance of public projects for the benefit of 
+industrial interests, which can undermine interoper ability.  Particular attention should  also be paid to the good 
+governance of digital standards.  
+3.2 Set up  a multi -stakeholder fund to finance the digital commons. Insufficient financial support for the 
+commons community can lead to seeking funding from large service platforms, which can undermine their 
+independence. Furthermore, the lack of financial support may lead to vulnerabilities in terms of the security 
+architecture of the Internet, as illustrated by the Log4Shell secu rity flaw discovered in December 2021 . 
+8 
+ 3.3 Support mechanisms, platforms and services, such as Software Heritage  and digital archiving services , that 
+aim to ensure the continuity , reliability and tr aceability of the digital common heritage of humanity.  
+9. Establish global rules for the protection of shared data  
+The development of digital commons requires the sharing of quality data that implies a high degree of trust in 
+the protection of personal data in the digital environment . The French authorities and the EU have provided  
+themselves with a framework in this regard respectively the Law of October 7, 2016 for a Digital Rep ublic  and 
+the General Data Protection Regulation  of April 27, 2016. The Europe an Data Governance Act of May 4, 2022 
+provides a framework to strengthen trust in the voluntary sharing of data for the benefit of all, focusing on its 
+economic and societal potential, for example in the field of health, to improve personalized treatments.   
+10. Promote decentralized governance of digital resources in the form of "commons ”  
+Local communities of citizens could be involved in digital commons to promote  their territory. For example, 
+the minibus network in Accra, Ghana, was mapped via a digital commons (OpenStreetMap), making it more 
+accessible. Therefore, it is appropriate, whenever possible, to delegate  all or part of the ownership of digital 
+resources to communities of citizens who govern them in the form of a free and open commons  

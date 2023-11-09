@@ -1,0 +1,3128 @@
+Action Plan for a 
+Sustainable Planet 
+in the Digital Age
+
+This publication may be reproduced in whole or in part and in any form for educational or non-profit services without special permission from  
+the copyright holder, provided acknowledgement of the source is made. The citation is: Coalition for Digital Environmental Sustainability 
+(CODES). 2022. Action Plan for a Sustainable Planet in the Digital Age. https://doi.org/10.5281/zenodo.6573509 .
+No use of this publication may be made for resale or any other commercial purpose whatsoever without prior permission in writing from 
+the Coalition for Digital Environmental Sustainability. Applications for such permission, with a statement of the purpose and extent of the 
+reproduction, should be addressed to CODES@UN.ORG
+Disclaimers
+The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on 
+the part of the United Nations concerning the legal status of any country, territory or city or its authorities, or concerning the delimitation of its 
+frontiers or boundaries. 
+Mention of a commercial company or product in this document does not imply endorsement by the United Nations, collaborating organizations 
+or the authors and contributors. The use of information from this document for publicity or advertising is not permitted. Trademark names and 
+symbols are used in an editorial fashion with no intention of infringement on trademark or copyright laws.
+The views expressed in this publication are those of the authors and do not necessarily reflect the views of the United Nations. We regret any 
+errors or omissions that may have been unwittingly made.
+© Maps, photos and illustrations as specified.
+Acknowledgements
+This Action Plan for a Sustainable Planet in the Digital Age has been developed through a global consultation and co-design process by the 
+Coalition for Digital Environmental Sustainability (CODES) as a follow-up to the Secretary-General’s Roadmap for Digital Cooperation.  
+It represents a synthesis of inputs from the contributors listed in the Annex.
+01Digitalization – the use and adoption of digital technologies 
+– is driving massive economic, social and environmental 
+changes. The future of humanity and the health of planet 
+Earth depend to a large extent on how we undergo this 
+digital transformation. We have an opportunity to drive this 
+transformation in a manner that helps build a healthier, 
+safer, cleaner and more equitable future, rather than one 
+of exacerbated environmental degradation, inequality and 
+social division. However, achieving global sustainability is 
+not an inevitable or an obvious outcome of digitalization. 
+Indeed, digital technologies, through their energy and 
+material requirements and influence on consumer demands, 
+have accelerated the exponential rise of the human impact 
+on the natural environment that now threatens the resilience 
+of our ecological systems, alongside worsening societal 
+inequalities and escalating social injustice.1 Digitalization 
+has the potential to help transform society and business 
+models to a more sustainable and equitable world but only 
+if there is a conscious and deliberate effort to steer it in that 
+direction. This Action Plan offers a vision on three systemic 
+shifts needed to achieve this goal together with a set of 9 
+Impact Initiatives to spark immediate collective action and 
+multi-stakeholder collaboration.Executive Summary
+02
+
+03The Coalition for Digital Environmental Sustainability (CODES), is an international multi-stakeholder 
+alliance created in March 2021 in response to the UN Secretary General’s Roadmap for Digital 
+Cooperation. CODES’ purpose is to advance digital sustainability, understood as the design, 
+development, deployment and regulation of digital technologies to accelerate environmentally and 
+socially sustainable development while mitigating risks and unintended consequences.2 CODES is 
+specifically striving to reorient and prioritize the application of digital technologies to meet the 2030 
+sustainable development agenda and to achieve the multiple global environmental agreements 
+that have been adopted by UN Member States. Digitalization will be crucial in achieving the UN 
+Sustainable Development Goals (SDGs) by 2030. An assessment in 2020 found 70 per cent of 
+169 targets base-lining the world’s sustainability goals can be positively influenced using digital 
+technology applications.3,4 This requires facilitating collective action that can lead to systemic 
+transformation and to removal of barriers and perverse incentives that undermine the adoption or 
+scaling of digital technologies for sustainability. 
+To date, CODES is the only entity of its scale and credibility to undertake and progress this mandate, 
+and is uniquely positioned to facilitate this work. CODES offers an inclusive trans-national platform 
+backed by the impartiality of the UN, where key global stakeholders across governments, private 
+sector, academia, and civil society convene and align to forge the collective action needed to make 
+digitalization itself sustainable and to harness digital innovations for sustainability. 
+The founding co-champions of CODES include the United Nations Environment Programme (UNEP), 
+the United Nations Development Programme (UNDP), the International Science Council, the German 
+Environment Agency, the Kenya Ministry of Environment and Forestry, Future Earth, and Sustainability 
+in the Digital Age. The co-champions act as the Secretariat for CODES in close coordination and 
+cooperation with the Office of the Secretary General’s Envoy on Technology.Coalition for Digital 
+Environmental Sustainability 
+(CODES)
+04CODES Action Plan
+The CODES Action Plan for a Sustainable Planet in the Digital Age marks the 50th anniversary of 
+the Stockholm Conference on the Human Environment and the establishment of the United Nations 
+Environment Programme (UNEP) set-up to promote global environmental sustainability. The goal 
+of the Action Plan is to offer a vision and set of priorities to advance digital sustainability through a 
+series of multi-stakeholder Impact Initiatives that require collective action and collaboration. 
+As a result of a consultative process over the past 12 months, this Action Plan describes 3 systemic 
+shifts and 6 strategic priorities within each shift that are needed to harness digital transformation 
+as a positive and exponential force for progressing environmentally and socially sustainable 
+development (see Figure A). This is followed by a set of 9 global Impact Initiatives as actionable 
+items with measurable targets that have the potential to trigger systems-level or sector-level 
+transformations through multi-stakeholder collaboration at the regional and global scales (see Table).
+This Action Plan is meant to inform the emerging set of priorities for the Global Digital Compact 
+proposed by the UN Secretary-General’s latest report “Our Common Agenda”, which calls for a new 
+landscape of digital governance and collaboration. It will also contribute to the long term legacy 
+initiatives of the Stockholm +50 conference. The contents of this Action Plan have also been 
+designed to inform on-going deliberations in the UN Environment Assembly, the UN Human Rights 
+Council, the International Telecommunications Union and by the UN Development Programme 
+linked to digital transformation and the recognized human right to a clean, healthy and sustainable 
+environment.5 
+This Action Plan is being published with two supplements. The first supplement “ Accelerating 
+Sustainability Through Digital Transformation - Use Cases and Innovations ” includes a number of 
+use cases and innovations on digital sustainability on policies, partnerships and applications. The 
+second supplement “ Mapping Global and Regional Stakeholders Working on Digital Sustainability ” 
+includes an ongoing mapping of key international and regional stakeholders against the three shifts 
+and 6 priorities within each shift. These supplements are living documents that will be continuously 
+updated on www.sparkblue.org/CODES . 
+
+05Figure A:  Three Shifts and 18 Strategic Priorities to Achieve a Sustainable Planet 
+in the Digital Age. These shifts and priorities were identified by CODES stakeholders 
+through a 12 month consultation and co-creation process. To catalyze these shifts, 
+CODES stakeholders recommended nine global Impact Initiatives requiring collective 
+action and multi-stakeholder collaboration.Sustainable DigitalizationAlign Vision Values Objectives
+Digitalization for SustainabilityMitigate Negative Im
+pacts
+Accelerate InnovationEnable AlignmentConnectingTransformations
+Digital Competencies
+Science & Systems 
+Thinking
+Digital Multilateralism
+Pioneering 
+Coalitions
+Norms & 
+StandardsEnergy &Emissions
+Material Base
+Consumption
+Misinformation
+Digital Divide
+Rights Violations
+Planetary 
+Digital Twin
+Sustainable 
+Circular Economy
+Sustainable ConsumptionKnowledge CommonsGovernance BreakthroughsGreen, Digital, 
+Just TransitionThree Systemic Shifts 
+and Priorities
+06CODES Impact Initiatives
+SHIFT 11. World Commission on 
+Sustainability in the 
+Digital AgeUndertake new research and/or leverage existing bodies 
+of research to provide science-driven recommendations 
+on accelerating sustainability in the digital age.
+2. Clearing House for 
+Digital Sustainability 
+StandardsPlatform to co-define key standards for digital 
+sustainability and offer a clearing house, taking into 
+account the recommendations put forward by the World 
+Commission and other bodies.
+3. Education for 
+Digital Sustainable 
+DevelopmentDecentralized approach to develop literacy and 
+education programmes on digital sustainability that are 
+needs based, localized and contextualized.SHIFT 24. Harmonization of 
+Digital Companies’ 
+GHG InventoriesNew international platform(s) to facilitate 
+harmonization, interoperability and adoption of 
+GHG inventories and reporting standards for digital 
+companies, products and services.
+5. Sustainable 
+Procurement 
+and Green Digital 
+Infrastructure PledgeInternational framework to enable standardization and 
+harmonization of sustainable procurement principles 
+and green digital infrastructure across governments 
+and corporations.
+6. Digital Product 
+Passport for CircularityInitiate the design and development of standards and 
+pilot testing for digital product passports that track a 
+product’s climate, environmental, and social impacts 
+throughout the value chain.SHIFT 37. Digital Sustainability 
+Innovation Hubs and 
+AcceleratorsGlobal network of connected and collaborative 
+Innovation Hubs to accelerate digital sustainability 
+innovations and offer real-world laboratories and 
+scaling opportunities for digital sustainability solutions.
+8. Data and Assessments 
+as Digital Public Goods 
+for SustainabilityOpen global standards and governance frameworks for 
+environment and climate data, as digital public goods, 
+to drive sustainability assessments, global stock taking 
+and decision-making.
+9. Decentralized 
+Financing of 
+Sustainable SolutionsDecentralized financing and matchmaking for 
+sustainability solutions, including crowdfunding, 
+payment for ecosystem services, sustainability filters, 
+algorithms, etc.
+07CODES Engagement Pathways 
+The founding co-champions of CODES collectively initiate and engage in multi-stakeholder 
+consultations to pool academic, policy and industry-oriented knowledge from across the public 
+and private entities, civil society and indigenous groups on advancing digital sustainability. CODES 
+aims to conduct collective intelligence and co-creation processes with stakeholders as the basis for 
+collective action, with an emphasis on diversity, inclusion and gender balance.   
+To date, the CODES co-champions have mapped over 240 stakeholders working on digital 
+sustainability at the global and regions levels and have engaged over 1,000 people from 100 
+countries working on the digital transformation and sustainability nexus. 
+CODES stakeholders are invited to join and collaborate with CODES through 3, intersecting 
+engagement pathways. 
+• Catalyser: Stakeholders seeking to engage directly with one or more of the Impact Initiatives that 
+are proposed in the Action Plan or future iterations.
+• Action Network: Stakeholders contributing to and leveraging the 3 shifts proposed in the Action 
+Plan to support the progression of digital sustainability. 
+• Advocates: Stakeholders seeking to contribute their expertise to the CODES community and 
+become an advocate for the CODES vision and values.
+Catalyzers of 
+Impact Initiatives
+Implement the Impact 
+Initiatives of the Action 
+Plan
+ →Reporting
+ →Advisory BoardAction Network
+Register as a CODES 
+Stakeholder to support 
+digital sustainability
+ →Contribute to and 
+apply 3 Shifts
+Advocate
+Join the CODES 
+Community of Practice
+ →Expert contributions 
+and advocacyCODES 
+Community on 
+SparkBlue
+Three engagement 
+pathways supported by 
+www.sparkblue.org/
+CODES1 2
+3
+08
+09Table of Contents
+Executive Summary           01
+Coalition for Digital Environmental Sustainability (CODES)    03
+C O D E S  A c t i o n  P l a n          0 4
+Three Systemic Shifts and Priorities       05
+C O D E S  I m p a c t  I n i t i a t i v e s         0 6
+C O D E S  E n g a g e m e n t  P a t h w a y s         0 7
+1. Overview: A Sustainable Planet in the Digital Age     10
+What’s at Stake          1 0
+The Challenge and the Opportunity        1 1
+The Action Plan - Seizing the Opportunity       1 3
+2. Three Shifts for a Sustainable Planet in the Digital Age     16
+Shift 1: Enable Alignment  - Aligning vision, values, and objectives   17 
+of the digital age with sustainable development
+Shift 2: Mitigate Negative Impacts  - Ensure sustainable digitalization  20  
+to mitigate negative environmental and social impacts
+Shift 3: Accelerate Innovation  - Directing innovation efforts toward   24 
+digital sustainability
+3. Impact Initiatives for a Sustainable Planet in the Digital Age   28
+ K e y  M e s s a g e s           2 8
+I m p a c t  I n i t i a t i v e s          2 9
+Pathways to engage in the CODES Action Plan     37
+4. Annexures           38
+ Annex I: Stakeholder Mapping        39
+ Annex II: Summary of Digital Transformation needs     49
+ References           56
+ Contributors           6 0
+Supplemental materials to this Action Plan include:
+• Supplement 1:  Accelerating Sustainability Through Digital Transformation -  
+Use Cases and Innovations. 
+• Supplement 2: Mapping Global and Regional Stakeholders Working on  
+Digital Sustainability
+10Overview: A Sustainable Planet in 
+the Digital Age
+What’s at Stake
+In 2015 the international community set itself 17 ambitious Sustainable Development Goals (SDGs) , 
+which are to serve as a common vision and action agenda for all countries until the year 2030.6 They 
+are intended to promote human dignity, the protection of the planet, peace and prosperity for all, and 
+to promote global partnerships. However, the SDGs 2020 Progress Report shows that the world is 
+not on track to achieve these goals by 2030.7 The current trajectory of the triple planetary crises of 
+climate change, biodiversity loss and pollution, threatens to take us beyond the limits of the earth’s 
+capacity to sustain human society at near to present levels of social or individual wellbeing.8 The 
+resulting environmental crises are already being felt across the world. We now have less than ten 
+years to achieve the SDGs, and the reality is that we will not achieve these goals by 2030 without 
+major systems transformation. While we grapple with this understanding, digital technologies and 
+capabilities are rapidly accelerating, with the potential to either hinder our ability to achieve the SDGs 
+or facilitate the speed and scale of change needed. 
+There is a foundational sustainability question about whether humankind is capable of directing 
+digital change for a civilizational shift towards a renewed humanism . Are we able to realize and 
+safeguard the idea of human rights, liberal freedoms, science, rule of law, and democracy against 
+totalitarian temptation, surveillance capitalism and human enhancement? This is an ethical 
+endeavour that needs broad discourse and public response. What are the implications for emerging 
+digital governance patterns that could challenge our current system of sovereign nation states? Will 
+privacy, trust, deliberation and democratic procedures be undermined or are we heading towards 
+civic empowerment and a transnational ‘Earth system consciousness’? These are big questions, but 
+they are imprinted in every step we take forward in further developing our digital infrastructure: how 
+we generate and operate data, how we nudge for sustainable lifestyles, how we build transparent 
+supply chains with safeguards, how we share knowledge, how we provide access to basic services 
+and breakthrough technologies, how we strengthen democracy or how we as human beings define 
+our relationship to nature. The global community needs to invest in inclusive fora and frameworks to 
+deliberate, assess, govern and take collective action on these issues. Scientifically driven and socially 
+embedded anticipatory assessment processes and foresight should support this endeavour. 
+The implications of the digital divide sit at the heart of these fundamental questions . There exist 
+deep inequalities in the accessibility and availability of digital rights and services and a wide gap 
+between the digitally connected and unconnected. According to data from the ITU, approximately 4.9 
+billion people – or 63 per cent of the world’s population – used the Internet in 2021.9 This represents 
+an increase of 17 per cent  since 2019, with 782 million people estimated to have come online during 
+that period. Of the 2.9 billion people off-line, 96 per cent live in developing countries. Indeed, the WEF 
+Global Risks report for 2021 listed “digital power concentration” and “digital inequality” as number 
+6 and 7 on the critical short-term threat list – both representing a clear and present danger to social 
+and political stability (see CODES Action Plan Supplement 1, Box 1).10 If digital capacities are to be 
+leveraged for global environmental and social sustainability, the digital divide needs to be closed in a 
+sustainable and equitable manner.  
+11The Challenge and the Opportunity 
+The UN Secretary Generals’ Roadmap for Digital Cooperation  makes a number of key observations 
+about the challenges and opportunities between digital technology and the evolution of society as 
+captured by the following sentiment:
+“Digital technology is shaping history. But there is also the 
+sense that it is running away with us. Where will it take us? Will our 
+dignity and rights be enhanced or diminished? Will our societies 
+become more equal or less equal? Will we become more, or less, 
+secure and safe? The answers to these questions depend on our 
+ability to work together across disciplines and actors, across 
+nations and political divides. We have a collective responsibility to 
+give direction to these technologies so that we maximize benefits 
+and curtail unintended consequences and malicious use.”
+António Gu terres , UN Secretary General  
+Photo: Eskinder Debebe / UN Photo
+We are witnessing fundamental shifts in how different economic sectors define, create, and 
+distribute value . Digital capabilities are disrupting most economic sectors including water, 
+agriculture, energy, transport, cities and buildings (see Supplement 1, Boxes 2-8). New trans-sectoral 
+and trans-national business models and marketplaces are emerging with often unforeseen or opaque 
+social and environmental consequences.11 New dimensions of cost optimizations, operational 
+efficiencies, and extremely fast and cheap expansions of products and services, incentivized by rapid 
+growth and profit are accelerating unsustainable lifestyles and values. At least 1.5 billion people 
+consume products and services through e-commerce platforms,12 and 60 per cent of the global 
+population is anticipated to engage with social media by mid-2022 - roughly 4.6 billion.13 In 2021, 
+global media advertising spending grew by almost 22% to reach a high of $710 billion, with digital 
+formats now representing 62% of total advertising sales.14 The transition to a digital economy under 
+the current “business as usual” paradigm will increasingly enable and accelerate operating models, 
+values and consumption behaviours that are not in line with the SDGs. 
+The digital sector itself is energy and materials-intensive.  According to some estimates, the share 
+of the global carbon footprint of digital gadgets, the internet and the systems supporting them is 2.3 
+per cent, roughly the same as global air travel.15,16 As the world prepares for increasingly decentralized 
+internet models like Web 3.0, reliance on energy-intensive technologies like blockchain and AI 
+computing could also increase. In terms of material demands, globally, the world produces as much 
+as 50 million tons of electronic e-waste a year, while only 17.4 per cent of this e-waste is recycled.17 
+In order to meet the high demand for hardware, extraction of rare earth elements and other precious 
+metals like cobalt and lithium is increasing steadily with important geopolitical implications.
+Addressing these challenges is more possible than ever before . We can collectively choose to build 
+a future in which digital technologies accelerate and scale environmental and social sustainability, 
+underpin sustainable economies, and empower citizens and local communities. However, 
+accelerating sustainability with digital technologies will not happen without deliberate decisions. 
+Indeed, if governed effectively and reflexively, the emerging digital products, services, platforms 
+and business models can help address and unlock many of the systemic level barriers and perverse 
+incentives that have inhibited sustainable markets, behaviours and lifestyles from scaling.
+12The Coalition for Digital Environmental Sustainability (CODES) is a multi-stakeholder alliance 
+formed as a follow-up to the UN Secretary General’s Roadmap for Digital Cooperation . Its 
+mission is to facilitate the needed cooperation to leverage digital transformation as a positive and 
+exponential force for progressing environmentally and socially sustainable development, while 
+mitigating risks and unintended consequences. The CODES Action Plan, generated through a 
+global multi-stakeholder co-creation process with the CODES community over the past 12 months, 
+calls for 3 systemic shifts and 6 strategic priorities across each shift that are needed to accelerate 
+environmentally and socially sustainable development through digital transformation pathways. This 
+is followed by a set of 9 global Impact Initiatives as actionable items and measurable targets that 
+can be undertaken to consolidate and coordinate existing efforts to catalyse the 3 shifts during the 
+2022-2025 time-frame. These Initiatives have the potential to trigger systems-level or sector-level 
+transformations through multi-stakeholder collaboration at the regional and global scales. They will 
+require a massive, coordinated effort across actor groups, digital value chains, services, platforms 
+and within business models. Thus redefining the ecological, social and economic objectives that are 
+necessary for a sustainable planet in the digital age.
+Definitions of Key Terms
+Digital economy:  The global network of economic and social activities that are enabled by 
+digital technologies, such as the internet, mobile technology and internet of things (IoT).18,19  
+Digital sector:  Combination of manufacturing and service industries whose primary purpose 
+is to both create and sell digital technology products, services or solutions.20,21   
+Digitalization: Use of digital technologies to turn products and services into a digital format 
+to drive efficiency and innovation.22,23 
+Digital transformation: Systems-level economic, societal and environmental transformations 
+triggered as a result of digitalization.24 
+Digital sustainability: The design, development, deployment and regulation of digital 
+technologies to secure sustainable economic, environmental and social development.25,26,27,28  
+In the CODES Action Plan, this refers to an overarching aim, embodying all 3 shifts of the 
+Action Plan. 
+Sustainable digitalization:   Digital infrastructures, software and applications that are socially 
+responsible, ethical and environmentally sustainable throughout their lifecycle.29,30 In the 
+CODES Action Plan, this refers to shift 2 and the 6 related strategic priorities.
+Digitalization for sustainability:  Digital innovation that seeks to proactively enable, 
+accelerate and scale environmentally and socially sustainable development.31,32 In the 
+CODES Action Plan, this refers to shift 3 and the 6 related strategic priorities.
+Corporate digital responsibility: A set of practices and behaviours that help an organization 
+use data and digital technologies in ways that are perceived as socially, economically, and 
+environmentally responsible.33
+13The Action Plan: Seizing the Opportunity
+There appears to be emerging political will to address digital ethics, norms and governance  as 
+expressed in initiatives including, among others, the UN Secretary General’s Roadmap for Digital 
+Cooperation,34 Our Common Agenda,35 and the planned Global Digital Compact. There is now an 
+opportunity for increased agility in the governance and execution of these initiatives that reflects the 
+pace of change of digital advancements and a deeper sense of urgency to consolidate intersecting 
+priorities and solicit collective multilateral stakeholder agreements. This must be accompanied 
+by a set of priorities for advancing environmentally and socially sustainable development within a 
+renewed social contract for the digital age. 
+The vision for this Action Plan is therefore to establish actionable impact initiatives that will 
+enable environmental and social sustainability to be firmly encoded in the global digitalization 
+efforts.  The CODES community has collectively identified 3 major shifts that must be addressed for 
+this vision to be realized. Strategic priorities to catalyse these three shifts are described in detail in 
+Section 2 of this Action Plan. Important overarching messages and actionable Impact Initiatives to 
+advance the strategic priorities are summarized in Section 3. The aim is to encourage the expansion 
+of existing efforts, intersecting and coordinating parallel initiatives and catalysing new efforts. This 
+also includes integration of the shifts and strategic priorities in relevant international processes 
+such as the UN Environment Assembly, Stockholm +50 and the planned Global Digital Compact 
+(Figure 1). The target audience includes national and local governments, policy makers, international 
+organizations, private sector companies, civil society, academia, and the science community. 
+The first shift that is needed is to align the visions, values and objectives of digital capabilities 
+with those of environmentally and socially sustainable development . Greater commitments to 
+sustainability require shifts in values and norms that drive a transition beyond profit towards positive 
+social and environmental outcomes. The mindset of maximizing shareholder value must evolve to a 
+new set of values focusing on transparency, accountability and inclusive stakeholder engagement. 
+A shared set of sustainability values and standards must be encoded into the design, development 
+and deployment of digital products, services, platforms and business models. Enabling such a shift 
+requires connecting communities, building digital competencies, embedding both science and the 
+arts, advancing multilateral action, building pioneering coalitions, and adopting norms and standards.
+The second shift is to ensure inherently sustainable digitalization . We must confront the paradox 
+that increased reliance on digital technologies comes at an environmental cost. Indeed, digitalization 
+is encouraging unsustainable consumption, causing environmental impacts across supply chains, 
+increasing demands on energy and resources, entrenching and exacerbating social divides, 
+amplifying misinformation, dislocating labour markets, exacerbating inequality within and between 
+societies, and consolidating the power of the few over the many (see Supplement 1, Box 1)36 This shift 
+requires a focus on six problem areas entrenched in digitalization: energy and emissions, materials, 
+consumption behaviours, misinformation, digital divides and rights violations. 
+The third shift is to direct and incentivize innovations towards digitalization for sustainability . 
+Digital technology and innovation, if driven inclusively and with intention, can empower government, 
+businesses, communities and individuals to make decisions and take action that can enable 
+planetary sustainability and equitable human development. Digital transformations across sectors 
+and scales must be actively guided through conscious choices and values. Shift 3 requires six 
+suggested areas of innovation that must be intentionally incentivized to support digitalization 
+for sustainability. These include building a digital twin of the planet, enabling a circular economy, 
+supporting sustainable consumption, enabling a knowledge commons, creating networked and agile 
+14governance and prioritizing digital technologies that catalyse the transition to a green, just economy 
+for the whole of society. 
+The contents of this Action Plan are based on a series of open dialogues and collective intelligence 
+processes undertaken with over 1000 stakeholders . This co-creation process involved structured 
+round-tables, a global conference, online consultations and collective intelligence exercises, and 
+international events, including at the UN General Assembly and the UN Environment Assembly (see 
+Figure 2). The process captured a diverse range of views, experiences and priorities from stakeholders 
+in over 100 countries and from across multiple major stakeholder groups. These inputs have been 
+synthesized by the co-champions of CODES in close collaboration with the Office of the UN Secretary 
+General’s Envoy on Technology within the framework of the Roadmap for Digital Cooperation.
+As the digital age unfolds , it must become the responsibility of governments at all levels to ensure 
+the availability of digital infrastructure and to catalyse and incentivize the use of digital products 
+and services to create social, economic and ecological benefits. Furthermore, governments must 
+strengthen the standards and open source communities that provide the technologies which enable 
+those products, services and the digital transformation at large. This must go hand in hand with 
+paying due attention to trust building, transparency and the protection of human and civil rights 
+as part of the digital governance framework. Cooperation is needed to ensure uniformity of intent 
+behind key legislation, regulations and policies given the global reach of digital products, services 
+and platforms and the existence of international businesses operating in multiple geographies. It is 
+also equally clear that action cannot be undertaken by governments acting alone. Success depends 
+on deep collaboration within and between international organizations, the global science community, 
+arts and open technology communities, all levels of government, civil society, the private sector and 
+digital-native companies. 
+Figure 1: International processes that anchor the CODES Action Plan for a Sustainable Planet in the 
+Digital Age. Three main international processes served as the catalyzing force for the CODES Action 
+Plan including the SDGs, the Roadmap for Digital Cooperation and the Secretary General’s Common 
+Agenda. The CODES Action Plan has been designed to influence three major processes going 
+forward including Stockholm +50, the Summit of the Future and Global Digital Compact and the 6th 
+UN Environment Assembly.
+Sustainable 
+Development 
+Goals (SDGs)Roadmap for 
+Digital 
+CooperationThe Secretary 
+General 
+Common 
+AgendaUNEA-5.2
+Stockholm+50UNEA-6 Summit of the 
+Future
+2015 2021 2022 2022 2024 2023
+
+15
+Debate  of the UN General 
+Assembly  on Digital 
+Cooperation and ConnectivityFirst CODES Roundtable 
+to generate feedback for 
+the Action Plan
+CODES 
+ConferenceSecond CODES 
+Roundtable to 
+generate feedback for 
+the Action PlanOnline consultation  
+and feedback process
+Side event at the UN 
+Environment AssemblyCODES 
+Action Plan 
+LaunchOnline consultation  
+and feedback process
+Online consultation  
+and feedback processes, 
+including Stockholm +50 
+National and Regional 
+Dialogues31 MAR
+2021CODES 
+Launch
+2022
+to
+2025Implementation 
+of the Impact 
+Initiatives31 MAR
+20217 MAY
+20217–21
+MAY
+2021
+30 JUN
+–1 JUL
+20211–13 
+FEB
+20227 FEB
+2022
+2 MAR
+20222 MAR
+–20 MAY
+20222 JUN
+2022
+Figure 2: Co-creation process behind the Action Plan for a Sustainable Planet in the Digital Age.  
+All CODES products are based on an inclusive multi-stakeholder co-design process involving multiple 
+touchpoints and opportunities for peer contributions. The Action Plan has been based on a wide 
+stakeholder engagement and co-design process that invited over 1,000 people to contribute to the 
+shifts, priorities and impact initiatives over a 12 month period. A range of digital collaboration and 
+collective intelligence tools were used to support this process including Sparkblue, Google Docs, 
+Mentimeter and Thought Exchange. The Action Plan also benefited from a series of national and 
+regional consultations that were undertaken as part of the Stockholm +50 preparatory process. The 
+digital needs that were identified in these processes are summarized in Annex II. 
+16Three Shifts for a Sustainable 
+Planet in the Digital Age
+Sustainable DigitalizationAlign Vision Values Objectives
+Digitalization for SustainabilityMitigate Negative Im
+pacts
+Accelerate InnovationEnable AlignmentConnectingTransformations
+Digital Competencies
+Science & Systems 
+Thinking
+Digital Multilateralism
+Pioneering 
+Coalitions
+Norms & 
+StandardsEnergy &Emissions
+Material Base
+Consumption
+Misinformation
+Digital Divide
+Rights Violations
+Planetary 
+Digital Twin
+Sustainable 
+Circular Economy
+Sustainable ConsumptionKnowledge CommonsGovernance BreakthroughsGreen, Digital, 
+Just TransitionThe following sections identify and describe the 3 systemic shifts and 6 strategic priorities within 
+each shift needed to enable digitalization as a force for good towards accelerating environmentally, 
+socially and economically sustainable development. 
+Figure 3: Three Shifts and six strategic priorities within each shift to achieve a sustainable planet in 
+the digital age. 
+17Shift 1: Enable Alignment 
+Aligning vision, values, and objectives of the digital 
+age with sustainable development
+The first shift strives to progress the convergence of digitalization and sustainability as the 
+foundation for accelerating environmentally, socially and economically sustainable development. It 
+proposes a reorientation of the purpose of digitalization, development of common visions, values and 
+renewed objectives for sustainable development in the Digital Age. 
+To drive this first shift, strong coalitions across public and private entities, including members from 
+academia and civil society must proactively shape the digital age towards sustainable futures. 
+CODES stakeholders identified 6 strategic priorities  that act as fundamental enablers to achieving 
+the systems-level change needed for this shift (see Annex 1, Table 1 for initial mapping of global 
+stakeholders addressing this shift):
+ENABLER 1  
+Connect Communities and Transformations: Connect digital and sustainability 
+communities to catalyse the twin transformation. 
+Indigenous and modern understandings of environmental and social sustainability values must be 
+systematically considered by actors at the forefront of existing and emerging digital technologies, 
+innovations and governance frameworks (see Supplement 1, Box 9). Similarly, sustainability 
+commitments and multilateral environmental agreements must consistently consider how they 
+can be enabled through digital transformation. Strategic dialogue and mutual learning between 
+the digital and sustainability communities is needed to enable greater cohesiveness of visions and 
+mindsets and can be used as an opportunity to solve systemic barriers to environmental and social 
+SIX ENABLERS
+Connecting 
+Transformations
+Digital 
+Competencies
+Science & Systems 
+ThinkingMultilateral 
+Action
+Pioneering 
+Coalitions
+Norms & 
+StandardsShift 1
+Enable 
+Alignment
+Align vision, 
+values, objectives
+Figure 4: Shift 1: Enable Alignment - Aligning vision, values, and objectives of the digital age with 
+sustainable development.6 ENABLERS
+18sustainability. This integrated approach should be consequently implemented in, and incentivized 
+by, national and international policy agendas and organizations, research and education programs, 
+technology development and civil society action alike. Silo-thinking and business as usual must end 
+in order to systematically address digitalization and sustainability as closely interlinked cross-cutting 
+twin transitions. 
+ENABLER 2    
+Develop Digital Competencies: Build interdisciplinary skill sets. 
+Many of the key actors with the ability to influence the trajectory of digitalization and sustainability 
+lack a number of essential digital competencies and skills needed to catalyse this shift. On the one 
+hand, public sector and policy makers need to understand both the environmental opportunities and 
+risks from digital transformation. They must build up their own digital capacities to understand what 
+they want to regulate, enable and incentivize. On the other hand, entrepreneurs, computer scientists 
+as well as hardware and software engineers also need to understand how their products and services 
+generate different sustainability incentives and impacts in the real world in order to take these into 
+account in the design process. They must enhance their understanding of today’s sustainability 
+challenges, especially on decarbonization, dematerialization, detoxification and economic circularity. 
+This must be centered on a renewed humanism mindset that recognizes empathy, ethics and 
+traditional indigenous knowledge. Academic curricula, vocational training, professional associations 
+all need upskilling to reflect digital sustainability needs and outcomes. Moreover, to overcome the 
+digital divide, digital and sustainability literacy has to be an integrated effort.
+ENABLER 3  
+Harness Science and Systems Thinking: Mobilize science to understand how the 
+sustainability of complex systems can be enhanced through digital transformation. 
+Understanding the inherent complexity and trade-offs of achieving planetary sustainability is one 
+of the biggest challenges facing modern science. This entails the earth system as such, including 
+its variety of complex and interlinked dynamics, as well as our economic and social systems and 
+sectors. The question of how different feedback loops operate to either reinforce or shift system 
+behaviours is also key. A “systems thinking’’ holistic approach will be needed that focuses on the 
+way that a system’s constituent parts interrelate and how systems work over time and within the 
+context of larger systems. A science-based understanding of how digital technologies are changing 
+key economic, social and environmental systems and how they can be aligned towards sustainability 
+outcomes is needed as part of the new social contract for the digital age (see Supplement 1, Box 10).
+ENABLER 4  
+Advance Digital Multilateralism: Develop new multilateralism for digital sustainability 
+and a culture of multi-stakeholder collaboration and collective action. 
+The digital ecosystems of data, analytics and applications are not confined to national boundaries, 
+nor yet governed by the international community in an effective and inclusive manner. Instead, 
+a handful of companies now have the ability to influence human attitudes and behaviours at a 
+planetary scale with more money, power and reach than most national governments. For strong 
+digital innovation ecosystems, we need to promote a culture of open collaboration and co-creation 
+between governments, the private sector and civil society. This new kind of digital translateralism 
+and multilateralism, with collaborative policymaking should define, implement and apply international 
+standards and safeguards for a global, inclusive, and sustainable digital ecosystem. Additionally, 
+opportunities to incorporate Indigenous and traditional knowledge and expertise should be leveraged 
+when designing solutions for global sustainability. Finally, while respecting all nations’ sovereignty 
+19over their data, we must promote good data governance and stewardship that ensures the timely 
+availability of relevant data in a user-friendly, accessible, portable, machine-readable and actionable 
+format. 
+ENABLER 5  
+Build Pioneering Coalitions: Foster intersectional innovation ecosystems and 
+solutions that support agile implementation and collaborative governance. 
+While new forms of digital multilateralism are needed, this alone is not enough to effectively govern 
+and steer the pace and direction of digital technologies. Inclusive and mission oriented coalitions 
+between governments, academia, private sector actors and civil society organizations will be 
+needed to catalyse transformational investments in digital innovation ecosystems, infrastructure 
+and emerging standards that are premised on planetary sustainability. Committed coalitions with a 
+shared sense of common purpose and practice can serve as testing grounds for better standards 
+and governance solutions. Agile approaches to define and test reflexive and iterative governance 
+frameworks for digital technologies must be explored. This should be based on adaptive, forward 
+looking and innovation-friendly regulation together with tiered and principle-based approaches to 
+collective governance.37
+ENABLER 6  
+Adopt Norms and Standards: Adopt joint principles, normative frameworks and 
+global standards for digital sustainability. 
+While the pace of digital innovation is dynamic, and although several international standards are 
+emerging,38 there are only a few nascent normative and ethical frameworks in place to guide its 
+direction at the global level. Many of these frameworks lack clear principles and norms linked to 
+environmental and social sustainability or climate action. In this context, it is critical to develop a 
+global set of standards and guidelines for the sustainable production, use and adoption of digital 
+technologies  based on specific, measurable, achievable and time-bound indicators. Additionally, 
+it is critical to set a global standard methodology for assessing and measuring the net impact of 
+digital technologies39 on sustainability and climate change. It is noted that standardization in this 
+domain has been ongoing for a decade or more, so any effort in this direction should start from 
+existing standardization process as well as the emerging field of Corporate Digital Responsibility (see 
+Supplement 1, Boxes 11 and 12). Efforts in this direction will also need to cover the governance of data 
+that is being used to fuel digital transformation and has become one of the new factors of production, 
+alongside land, labour and capital.
+206 PROBLEMS
+Figure 5: Shift 2: Mitigate Negative Impacts - Ensure sustainable digitalization to mitigate negative 
+environmental and social impactsShift 2: Mitigate Negative Impacts
+Ensure sustainable digitalization to mitigate negative 
+environmental and social impacts
+The second shift calls for a commitment to sustainable digitalization to mitigate the negative 
+environmental and social impacts from digital technologies and their supply chains. These include 
+significant ecological impacts linked to energy and material consumption coupled with social 
+impacts tied to unsustainable consumption patterns, misinformation, unequal access to digital 
+technologies, discrimination in the provisioning of digital skills and capabilities, or targeted human 
+rights violations. 
+CODES stakeholders identified 6 strategic priorities that must be addressed to mitigate these 
+negative impacts and to ensure Sustainable Digitalization understood as the digitalization that 
+is responsible, ethical and sustainable (see Annex 1, Table 2 for an initial mapping of global 
+stakeholders addressing this shift):
+PROBLEM 1    
+Reduce Energy and Emissions: Reduce energy consumption and related  
+CO2 emissions.  
+According to the ITU, ICT’s share of global electricity consumption was projected to reach 3.2 per 
+cent in 2020.40 Depending on scope and method of calculation, some estimates suggest that the ICT 
+sector could be up to 7 per cent of the total global electricity use in 2020.41 Peer-reviewed studies 
+estimate ICT’s current share of global greenhouse gas (GHG) emissions ranging from 1.8%–3.9% 
+depending on the calculation method.42 The explosion of digital cryptocurrencies is also accelerating 
+energy consumption and associated carbon footprint. The carbon footprint of the Bitcoin network, 
+21annualized from 2017-2022, was a staggering 114 megatons comparable to the carbon footprint 
+of Czech Republic.43 Some strategies to address this have focused on investments in sustainable 
+decentralized renewable energy infrastructure and green data centers (see Supplement 1, Box 13).  
+More broadly, common standards are needed to ensure the energy consumption and carbon 
+emissions of digital platforms be transparently aggregated and calculated to support the calculation 
+of Scope 1, 2 and 3 emissions for carbon accounting. Enabling policies and incentivization 
+mechanisms such as sustainable public procurement can thus ensure compliance with such global 
+standards. 
+PROBLEM 2  
+Minimize Material Base: Address material use and waste linked to digitalization.
+The fast-evolving digital economy demands an increasing number of elements for ICT devices such 
+as computers, data centers, mobile phones, batteries, and networks. To meet the growing demand 
+for green technologies associated with the energy transitions, the extraction of minerals, such as 
+graphite, lithium and cobalt, could increase by 500 per cent by 205044 having a substantial impact 
+on land, water, air and biodiversity. There are at least twenty-four elements that are considered 
+important for the digital future, including a range of rare earth elements.45 Each of these generate 
+different environmental, social and political impacts during their extraction, transformation and 
+disposal, often depending on the level of national and local governance capacity to monitor 
+and mitigate those impacts. In 2019 a record 53.6 million metric tons of e-waste was produced 
+globally.46 The equivalent weight of 125,000 Boeing 747 jumbo jets – more than all of the commercial 
+aircrafts ever created.47 This makes e-waste the fastest-growing domestic waste stream with only 
+17.4 per cent of e-waste documented as formally collected and recycled, and only 78 countries 
+having legislations to manage e-waste.48 Digitalization, thus, must go hand in hand with a circular 
+economy so that metals and minerals used for digital products can be tracked, traced, recovered and 
+recirculated. ICT producers must be held accountable through the extended producer responsibility 
+approach for the environmental impact associated with their products and services and legislation 
+should enforce stricter sustainability requirements. Minimum standards for the procurement of green 
+digital infrastructure, digital services and ICT products would also support a circular economy.
+PROBLEM 3  
+Address Consumption Drivers:  Restrain persuasive technologies and practices that 
+accelerate consumption. 
+Current marketplace and social media business models often permit a one-way flow of user data 
+and preferences to digital platform companies in an opaque manner. This information is then mined, 
+transformed into targeted advertisements, and used to accelerate the consumption of products and 
+services through persuasive digital technologies such as: (1) product customization; (2) influencer 
+endorsements; (3) personalized advertising; (4) digital nudging; (5) and 24/7 opportunities for 
+purchasing (see Supplement 1, Box 14). Additionally, digital technologies are optimizing supply 
+chains and enabling efficiency gains by reducing the time, transaction costs or human capital 
+needed for various tasks. This is lowering the costs of production and distribution of goods and as 
+a consequence,  creating “rebound effects”,49,50 by placing a downward pressure on the prices of 
+goods and services, thereby enabling increased production and consumption. All of these catalysing 
+factors, from persuasive technologies, efficiency gains, and associated rebound effects, need to be 
+considered in any policy actions and economic accounting frameworks that promote sustainability 
+through digital transformation. Measures at the systems-level, such as carbon prices and trading 
+schemes, can represent the necessary tools to contain these factors and address indirect rebound 
+effects. This must also include specific ethical frameworks combined with algorithmic transparency 
+to govern digital nudging. 
+22PROBLEM 4  
+Mitigate Misinformation: Prevent the amplification of misinformation and 
+disinformation about sustainability and related themes. 
+4.6 billion people are now connected and exchanging ideas through social media and chat apps.51 
+This offers both powerful opportunities for accelerating social change as well as risks from the 
+spread of misinformation of a magnitude different from anything we have experienced in human 
+history. An MIT study found that false news stories are 70 per cent more likely to be retweeted than 
+true news stories are. It also takes true stories about six times as long to reach 1,500 people as it 
+does for false stories to reach the same number of people.52 The spread of misinformation about 
+planetary sustainability topics such as climate change, biodiversity loss or pollution can undermine 
+collective action and trust in institutions as well as magnify polarization and mistrust between 
+divided groups.53 Trusted sources of information must be more systematically identified and made 
+accessible, and articles containing misinformation flagged or taken down (see Supplement 1, Box 15).
+PROBLEM 5  
+Close the Digital Divide: Close the digital divide in an environmentally and socially 
+sustainable manner. 
+The digital divide is the product of systemic inequities and power imbalances that must be 
+addressed, amongst other measures, through agile governance frameworks and public investment 
+in digital infrastructure together with digital literacy building. It goes beyond inequalities in access to 
+the internet, and includes differential access to the tools, information, technologies, skills, capacities 
+and agency in driving the direction of digitalization.54 There are also important facets embedded 
+within this divide that include gender, age, income, language and culture that must be considered. 
+As such, efforts to usher an access revolution to close the digital divide must include a number of 
+parallel investments. First, addressing pervasive biases in Science, Technology, Engineering, and 
+Mathematics (STEM) that have ripple effects throughout the digital ecosystem (e.g. algorithmic bias, 
+lack of representation). Second, shifting resources, financial incentives and talent funnels to promote 
+Equity, Diversity, and Inclusivity in STEM. Third, directing investments towards increasing availability 
+and affordability of digital infrastructure where access is currently limited. A whole-of-society 
+approach is necessary in order to leave no one behind.
+PROBLEM 6  
+Prevent Rights Violations: Protect human, civil and environmental rights. 
+In a digitally connected world, the question of how to respect, protect and implement human 
+rights and access to environmental justice is becoming paramount. As ever more human beings, 
+organizational systems and technical devices transition online, realizing human rights in online 
+settings is becoming an essential consideration in the emerging governance framework. Human 
+rights such as freedom of expression, privacy, free assembly, child rights, Indigenous land rights, or 
+the right to a fair trial, are all heavily impacted by new digital technologies. Three important domains 
+in the digital space need specific attention linked to environmental and social sustainability. First, 
+human rights abuses linked to land use conflicts in mining minerals needed to power a green digital 
+future, including cobalt, graphite, copper, and rare earths, particularly in lands inhabited by and/or 
+managed by Indigenous Peoples and local communities.55 Second, human rights violations in the 
+form of digital surveillance and digital reprisals against environmental and human rights defenders, 
+whistle blowers, journalists, and political dissidents. Third, violations of online data privacy by 
+independent actors, private organizations and state governments. Human rights and access to 
+environmental justice need to be safeguarded in the development, implementation, legislation, 
+23and governance of digital technologies. They need to be entrenched and realized at every step of 
+the value-chain of digital technologies.56 Priority needs to be made for a new generation of rights 
+protection and grievance mechanisms in the digital age, as enabled by digital technology solutions 
+such as secure multi-party computation as well as personal data control. Finally, children under 18 
+make up one-third of all internet users,57 and youth (15-24 year olds) are the leading internet usage 
+cohort. Globally, 71 per cent of youth use the internet, compared with 57 per cent of the other age 
+groups.58 Considering both human and child rights, as enshrined in the Convention on the Rights of 
+the Child, is thus essential to create an inclusive and right-based digital environment for all. Priority 
+must also be given to the application of CARE Principles for Indigenous Data Governance,59 and 
+regulations around data must not just be limited to usage but considered to include (but not be 
+limited to) environmental, social, economic, historical, cultural, and resource data. Such principles 
+should consider the rights and protection of non-human entities.
+
+24Shift 3: Accelerate Innovation 
+Directing innovation efforts toward digitalization  
+for sustainability  
+6 INNOVATIONS
+Planetary Digital Twin
+Sustainable 
+Circular Economy
+Sustainable 
+ConsumptionKnowledge 
+Commons
+Governance 
+Breakthroughs
+Green, Digital, Just 
+TransitionShift 3
+Accelerate 
+Innovation
+Digital 
+sustainabilitySIX INNOVATIONS
+Figure 6: Shift 3: Accelerate Innovation - Transform systems, incentives and business models 
+through digital innovations for sustainability
+The third shift calls for the digital innovation community, including governments, development 
+partners, private sector, informal economy actors, local communities and academia, to channel large 
+investments, capacity development and collective efforts toward digitalization for sustainability with 
+intention. The application of digital innovations needs to focus on achieving the implementation of 
+the 2030 Agenda with its 17 Sustainable Development Goals and to progress the different global 
+environmental commitments adopted through multilateral environmental agreements (MEAs). 
+This translates into the commitment to advance a decade of digital innovation for sustainability. 
+Redirecting the innovative powers of digital technologies towards achieving our sustainability agenda 
+in time and scale is absolutely key. Shifting the collective effort towards harnessing the potential of 
+digitalization for systems level transformation is an important strategic priority for positive change 
+towards a sustainable planet.
+CODES stakeholders identified 6 strategic priorities where digital innovations can be proactively used 
+to implement, accelerate and scale sustainability globally as part of this shift (see Annex 1, Table 3 
+for an initial mapping of global stakeholders addressing this shift):
+25INNOVATION 1  
+Build Planetary Digital Twin: Prioritize innovations to measure, monitor and model 
+the health of the planet’s biosphere and interactions with economic and social 
+systems.
+Digital twins combined with AI have the capability to conduct automated monitoring of risks and 
+threats to key protected areas (either natural or cultural areas under global protection frameworks), 
+ecosystem services or endangered species. Digital twins can also assist in understanding 
+options and trade offs for achieving different SDGs and MEAs. This can benefit not only national 
+governments, but also private sector companies, research institutions, non-profit organizations, and 
+local communities (see Supplement 1, Box 16). However, many efforts continue to be fragmented 
+and unable to connect in order to monitor planetary health in real time. Major investments are 
+needed to build interoperable digital twins of the earth and its various subsystems that can allow us 
+to monitor and model complex relationships among environmental, social, and economic systems 
+using the best science and data available as well as robust data-protection rules.  First, investments 
+to improve the sensing, connectivity and computational requirements for collecting and processing 
+the vast volumes of data, especially for real-time data processing scenarios at a planetary scale. 
+Second, adoption of transparency principles, data standards and safeguards, Open APIs (Application 
+Programming Interface) and communication protocols that enable safety, privacy, interoperability, 
+transferability, and quality control of key sustainability data across disparate systems. Third, 
+ways to support, and integrate validated citizen science contributions and observations as well as 
+other open-source tools and algorithms into the digital twin ecosystems. Finally, development of 
+applications that enable real-time ingestion and processing of data from the digital twin ecosystem 
+into governments, science, civil society, and private sector ecosystems and vice-versa to inform 
+meaningful forms of analysis and decision support systems. 
+INNOVATION 2  
+Catalyse Sustainable Circular Economy:  Prioritize innovations towards an inclusive, 
+net zero, sustainable circular economy.
+Digital transformation is an opportunity to rethink how private sector business models can 
+contribute to a sustainable circular economy and how companies can achieve full environmental 
+transparency and accountability across their entire value chain. To achieve circular business models, 
+innovations are needed on multiple fronts. First, the digital transformation process itself should be 
+used as an opportunity for companies to identify concrete pathways to advance decarbonization, 
+dematerialization, detoxification and circularity goals across their value chains. This should also 
+include a transitioning away from the provision of products to offering services as part of circular 
+business models. Second, digital standards and infrastructure are needed for digital product 
+passports to hold data and relevant sustainability information on their lifecycle. This includes a 
+product’s origin, composition, environmental and carbon performance, repair and dismantling 
+possibilities as well as end of life handling. Third, increased use of eco-labels and provision of 
+information from digital product passports to consumers to enable product comparability and 
+inform decision-making in turn driving demand for sustainable products. Finally, aligning business 
+models, financial and institutional procurement practices with sustainability goals, with the view to 
+transitioning away from unsustainable products and services towards products and services that 
+are fully Environment, Social and Governance (ESG) compliant. Ultimately, digital transformation 
+should drive shifts toward a “beyond growth” paradigm where the application of digital technologies, 
+in addition to profits, is baselined on social and environmental accountability with the goal of 
+accelerating planetary sustainability and respecting planetary boundaries in the context of a circular 
+economy (see Supplement 1, Box 17). 
+26INNOVATION 3  
+Empower Sustainable Consumption:  Prioritize innovations that empower sustainable 
+lifestyles, behaviours and collaboration.
+Digital tools can empower consumers to make and demand sustainable consumption choices and 
+receive feedback on their behaviours. For example, digital applications embedded in e-commerce 
+platforms such as product comparability, ethical nudging, gamification, carbon footprint calculators, 
+positive feedback loops and green activations can support a shift in awareness and enable people to 
+choose more environmentally sustainable products and services (see Supplement 1, Box 14). Social 
+media, gaming platforms and fintech can also help amplify proof of environmentally sustainable 
+lifestyles (see Supplement 1, Boxes 18 and 19). A range of digital marketplaces can also support the 
+collaborative economy that enables giving, reselling, swapping, sharing and renting products and 
+services directly between individuals. While strong privacy protection must be obligatory everywhere, 
+digital innovations must be flexible enough to be adapted to the specific local, socio-economic, and 
+geographic contexts on the basis of human-centered design and planetary boundaries. Digitalization 
+also enables mass collaboration and mobilization of citizens through platforms enabling both citizen 
+science and decentralized financing such as crowd funding. Opportunities to use digital technologies 
+to empower sustainable lifestyles, behaviours and collaboration should be designed into digital 
+platforms by default. They must become essential channels to influence sustainable consumption 
+drivers at a planetary scale.  
+INNOVATION 4  
+Create Knowledge Commons:  Prioritize innovations towards a broadly accessible 
+knowledge commons. 
+Digital change continuously expands options to co-produce, process and share knowledge. Digital 
+tools - from data collection and analysis, model building, knowledge aggregation, visualization to 
+virtuality - can expand scientific methods in all disciplines, facilitate inclusive and cooperative forms 
+of knowledge production (e.g. citizen and open science) and enable knowledge sharing across 
+the globe for educational, scientific or practical purposes (see Supplement 1, Box 20). However, 
+this valuable global public good needs to be actively built, managed and protected to serve as a 
+strong lever for sustainability. It is yet too often challenged by a lack of understanding, accessibility, 
+infrastructure and supportive framework conditions or by large public-private-imbalances towards 
+well-resourced private innovation hubs (especially in tech-research and platform solutions). Inclusive 
+and innovative knowledge commons will require: operationalized FAIR60 and CARE61 principles for 
+data, public funding and data for open science, research and knowledge, open science standards, 
+broad investments in digital literacy, education and digital knowledge access around the globe. 
+Creating a global knowledge commons has vast potentials for sustainable development, the 
+empowerment of marginalized and underrepresented groups, the creation of a global (environmental) 
+awareness and empathy as well as breakthroughs in sustainability solutions. 
+INNOVATION 5  
+Support Governance Breakthroughs: Prioritize innovations towards a revolution in 
+networked, agile and collaborative governance. 
+Presently, many national laws, regulations and associated governance frameworks that implement 
+global SDG and MEA commitments are not yet being designed to directly benefit from digital 
+technologies, platforms, applications and SMART systems. Many national legal frameworks are 
+still using traditional approaches for regulating the physical world while neglecting opportunities to 
+harness digital tools to achieve sustainability outcomes and regulatory compliance.  
+27As “whole of government” approaches to digitalization and e-governance are taken forward, a 
+range of innovations are needed to catalyse a series of sustainability governance and rule of law 
+breakthroughs. First, improving the ability of governance systems and regulations to dynamically 
+adapt to changing sustainability risks and opportunities using real-time information feedback loops 
+and AI in an agile and iterative manner (see Supplement 1, Box 21). Second, increased automation 
+of Systems of National Accounts (SNAs)62 used to measure national economic activity with 
+sustainability criteria included (see Supplement 1, Box 22). Third, transparent monitoring, reporting 
+and verification (MRV) of legal compliance and progress towards national climate and sustainability 
+goals as part of new accountability frameworks. Fourth, decentralized and distributed governance 
+solutions to trigger and incentivize collective sustainability actions, finance and behaviours at scale 
+through digital channels (see Supplement 1, Box 23). Finally, new digital mechanisms to support 
+public participation in decision-making as well as crowdsourcing governance priorities and solutions 
+from citizens and citizen science. None of this can be effectively done, however, without critically 
+assessing how automated processes are designed, where data is sourced, what power dynamics are 
+driving the governance systems we are seeking to optimize, and who is establishing environmental 
+governance and sustainability goals. All of these governance innovations must prioritize the 
+inclusion, ownership and agency of currently underrepresented groups, support subsidiarity and 
+self-governance in an increasingly polycentric setting, and thoroughly account for integrated biases.63 
+They must also help overcome the global-local divide by building inclusive fora connecting local 
+interests with global decision-making. 
+INNOVATION 6  
+Realize Green, Digital, Just Transition: Prioritize innovations that catalyse the 
+transition to a green, digital and just economy for sustainable development. 
+Emerging and frontier economies may reap multiple benefits from ‘leapfrogging’ into SMART cities, 
+buildings, transport, agriculture, etc (see Supplement 1, Box 24). In addition, a number of benefits 
+can be captured by increasing access to energy for rural populations through digitally enabled off-
+grid solutions and alternative financing mechanisms, enhancing resilience through risk-informed 
+infrastructure planning and early warning, as well as supporting sustainable small-scale agriculture 
+and realizing traceability from farm to fork (see Supplement 1, Box 25). Governments and businesses 
+must prioritize investment into regionally relevant digital innovation that catalyses climate change 
+mitigation and adaptation, and reduces impact on nature. Such innovation will need to happen with 
+a healthy local digital innovation ecosystem, where local businesses, entrepreneurs and academia 
+play a key role, and contribute to the co-creation of green digital jobs and livelihoods. Currently, 
+the majority of digital technology innovation is happening within a few countries; thus, an active, 
+progressive vision is needed working in parallel to Our Common Agenda to reverse the trends of 
+innovation inequality. The global community should actively and comprehensively promote access 
+to a broad scope of digital innovations for the “whole-of-society”. This is needed to empower local 
+digital ecosystems to take part in technology development, promote open source or Digital Public 
+Good approaches and capacity development, build investments and public funding to foster local 
+digital innovation ecosystems, and establish multi-faceted partnerships. All these approaches must 
+ensure truly inclusive bottom up perspectives that are locally driven and target improving livelihoods 
+of the most marginalized. Women and youth literacy and capacity to benefit from these digital 
+innovations will ensure technological uptake that is both sustainable and builds the social and human 
+capital of those often left behind.
+28
+Impact Initiatives for a 
+Sustainable Planet in the 
+Digital Age 
+Key Messages
+This CODES Action Plan is an initial step forward to address these collective challenges and 
+to catalyse collective action. It has identified  3 Systemic Shifts  essential to accelerating 
+environmentally and socially sustainable development in the Digital Age: 1) Enabling Alignment: 
+Aligning the digital age with sustainable development; 2) Mitigating Negative Impacts: Ensuring 
+sustainable digitalization to mitigate negative environmental and social impacts; and 3) Accelerating 
+Innovation: Directing innovation efforts and incentives toward digitalization for sustainability.
+Based on our collaborative work on this Action Plan, the CODES community stresses some emerging 
+overarching messages that are important to move into action together:
+• Scalable Action Now: We now urgently need to catalyse all three shifts in concert and scale our 
+efforts on our path towards a sustainable planet in the digital age. The world needs significant 
+intellectual, financial, political and practical involvement as soon and as boldly as possible to 
+provide the enabling foundations for a sustainable digital age. 
+• Strong Movement with Common Commitment: We need awareness, convergence and 
+cooperation of existing initiatives and networks of actors already undertaking ambitious digital 
+sustainability initiatives in different sectors. This network is already growing quickly, but we need 
+to support, connect and strengthen these aims, ambitions and achievements together. 
+29Impact Initiatives
+The CODES community has collectively identified 9 Impact Initiatives as a starting point to catalyse 
+the 3 shifts and progress the 6 strategic priorities within each shift. Engagement with these initiatives 
+provides numerous benefits and competitive advantages as the “whole-of-society” shifts towards 
+recognizing the need and importance of growth that is sustainable, just and inclusive, to ensure 
+long-term development and prosperity. The unique, global and multi-stakeholder alliance across 
+public and private sectors facilitated through CODES creates a platform that is ideally positioned to 
+galvanize critical progress towards digital sustainability. 
+The set of Impact Initiatives emerging from this Action Plan are defined according to the following 
+criteria:
+• Multi-stakeholder: Multi-stakeholder in nature, meaning either a consortium of private or public 
+sector entities, or public-private partnerships with opportunities for engagement by international 
+actors and civil society
+• Catalytic:  Aims to catalyse systems-level or sector-level transformations and impact at a global 
+or regional scale 
+• Sustained Attention:  Initiative requires sustained political attention and financial support (at 
+least 3-6 years) to trigger systems-level or sector-level transformations
+• Leadership: Clearly identified leadership, measurable goals, and multi-stakeholder governance 
+model
+• Accountable: Progress reported against key performance indicators (KPIs) and milestones in a 
+format and frequency co-designed and determined in consultations with related stakeholders 
+and CODES co-champions
+• Intersecting: Are intersecting in nature and seek to enable approaches, policies, standards, 
+regulations, infrastructure, and governance frameworks that are necessary to catalyse digital 
+sustainability.• Diverse Leadership to Harness the Political Window of Opportunity:  We need to harness the 
+political leadership of governments, academia, the private sector, and civil society to ensure 
+that digitalization is used to promote a sustainable planet. Digitalization is not a single sector, 
+but rather a process, and shaping it sustainably and equitably requires collective action, deep 
+collaboration, and truly inclusive and globally representative leadership. As the digitalization 
+process unfolds around the globe, we need to ensure that groups typically underrepresented in 
+both the digital innovation space and the global environmental governance discourse are involved 
+in shaping and influencing the outcomes. 
+• Integration of digital sustainability needs within key international processes:  The vision 
+outlined in this Action Plan should be systematically reflected within the preparatory process for 
+the Summit of the Future and within the resulting Global Digital Compact in 2023. Other global 
+fora and governance frameworks for digital transformation, sustainability, and environmental 
+management should also engage with the tasks laid out in this Action Plan, including the Rio 
+Conventions, the International Telecommunications Union and the Internet Governance Forum.
+30The 9 Impact Initiatives here are developed to inspire and to provoke further concrete action by 
+different pioneering coalitions. Neither the CODES co-champions nor the whole CODES network 
+could drive and implement these initiatives alone. We now need even bigger coalitions, we need new 
+partners, agile pioneers as well as capable established organizations; we need broader collaboration 
+and truly global collective action.
+World 
+Commission 
+on Sustainability  in the 
+Digital Age 
+ClearingHouse
+for Digital
+SustainabilityStandardsEducationfor DigitalSustainableDevelopment
+Data and
+Assessments 
+as Digital 
+Public Goods 
+for SustainabilityDecentralized Financing
+of Sustainable SolutionsDigital SustainabilityInnovation Hubs
+and Accelerators
+DigitalProductPassport
+for CircularitySustainableProcurement
+and Green
+DigitalInfrastructure
+PledgeHarmonization 
+of Digital 
+Companies’ 
+GHG Inventories
+Sustainable DigitalizationAlign Vision Values Objectives
+Digitalization for SustainabilityMitigate Negative Im
+pacts
+Accelerate InnovationEnable Alignment
+Figure 7: Nine Impact Initiatives of the CODES Action Plan for a Sustainable Planet in the Digital 
+Age. All the listed impact initiatives are intersecting in nature and to varying capacities, seek to 
+enable approaches, policies, standards, regulations, infrastructure, and governance frameworks that 
+are necessary to catalyze digital sustainability. 
+31Shift 1: Enable Alignment 
+Create the enabling conditions to align the vision, 
+values and objectives of the digital age with sustainable 
+development
+Impact InitiativeSuggested 
+OutcomesPotential 
+Timeline and 
+Suggested KPIsEntities 
+Active in this 
+Area (*)
+1. World Commission on Sustainability 
+in the Digital Age:  
+A science-based, globally 
+represented commission supported 
+by the UN, that in analogy to the 
+famous World Commission on 
+Environment and Development in the 
+1980s (‘Brundtland Commission’) 
+identifies key guidelines and 
+recommendations for Our Common 
+Future in the Digital Age. The 
+commission’s interactive work 
+programme and outcome can inform 
+institutional updates within the UN, 
+(inter)national policies, reporting 
+standards, research agendas, and 
+legislative frameworks at local, 
+regional, and global levels. A science-based report 
+on “Our Common 
+Future in the Digital 
+Age” to streamline 
+the permanent and 
+close alignment of 
+digital transformation 
+with sustainable 
+development in the UN 
+agenda and beyond.2022  
+Start the process 
+to define the scope 
+and terms of 
+reference
+2023  
+Establish World 
+Commission in 
+the context of 
+the Global Digital 
+Compact
+2024  
+Report “Our 
+Common Future 
+in the Digital 
+Age” +UN/UNEA 
+resolutionDigitalization 
+for 
+Sustainability
+GPAI
+International 
+Resource Panel 
+(**)
+ISC
+ITU 
+OECD
+UBA
+World Bank
+2. Clearing House for Digital 
+Sustainability Standards:   
+A new, multi-stakeholder and 
+globally representative platform 
+to co-define key standards for 
+digital sustainability and economic 
+circularity (taking into account the 
+recommendations put forward by the 
+World Commission). This clearing 
+house would create an up-to-date, 
+authoritative overview on global 
+digital standards, to address key 
+gaps, and conduct outreach to enable 
+effective implementation across all 
+concerned parties.A global platform to act 
+as a clearing house and 
+facilitate the exchange 
+of digital sustainability 
+standards and related 
+legal frameworks with a 
+focus on:
+• Trustworthiness
+• Inclusiveness
+• Sustainability
+• Interoperability 
+• Safety and security
+• Data privacy
+• International 
+collaboration2022  
+Clearing house 
+platform for 
+existing standards
+2023  
+Consolidate 
+standards and 
+procedural 
+capacity to enable 
+implementation 
+in specific 
+sustainability 
+area (e.g. circular 
+economy)
+2024  
+Widening to include 
+other sustainability 
+areas; including 
+capacity building 
+programmes in 
+partnership with 
+stakeholdersIEEE
+IETF
+ISO
+ITU (**)
+OECD
+323. Education for Digital Sustainable 
+Development:  
+A new decentralized approach to 
+develop literacy and education 
+programmes on digital sustainability 
+with a focus on understanding and 
+critically analyzing the benefits 
+and harms of digitalization. These 
+must be needs based, localized and 
+contextualized. The focus must be 
+on leveraging research and building 
+skill sets needed to advance digital 
+sustainability. This also entails the 
+applied use of data and analytics 
+as well as the build up of strategic 
+multilateral partnerships and open 
+source materials.A decentralized network 
+of regional “education 
+hubs” collaborating 
+on developing joint 
+contextualized 
+curriculum on digital 
+sustainability
+An open source learning 
+platform to host 
+consolidated learning 
+content from across the 
+decentralized hubs2022  
+Initiation of 
+education hubs. 
+Adoption of 
+curriculum outline
+2023  
+Development 
+of open-source 
+modules
+2024  
+Integration across 
+relevant training 
+and research 
+programmesCODATA
+Digitalization 
+for 
+Sustainability
+EO4GEO 
+Alliance
+Future Earth 
+(**)
+GIZ
+ISC
+ITU
+SDA 
+UNEP
+UNESCO
+World Bank
+* Preliminary list based on stakeholder mapping and on initial discussions with partners subject to expansion  
+** Entity has expressed interest in taking on a catalytic leadership role in the impact initiative
+
+33Shift 2: Mitigate Negative Impact
+A commitment to sustainable digitalization that 
+mitigates the negative environmental and social impacts 
+of digital technologies
+Impact InitiativeSuggested 
+OutcomesPotential Timeline 
+and Suggested 
+KPIsEntities 
+Active in this 
+Area (*)
+4. Harmonization of Digital 
+companies’ GHG inventories:  
+New international platform(s) 
+to facilitate harmonization, 
+interoperability and adoption of 
+GHG inventories and reporting 
+standards for digital companies, 
+products and services. This 
+must be progressed by aligning 
+reporting entities and regulators 
+on adopting these standards 
+while consolidating underlying 
+data definitions and validation 
+rules for similar environmental 
+sustainability data elements and 
+metrics.Creation and roll-
+out of 2-3 global 
+platforms allowing 
+corporations to 
+compare, combine, 
+and share reliable 
+net zero and 
+sustainability data
+Participation from 
+70% of fortune 
+200 and S&P 500 
+companies2022  
+Setup funding, 
+programme and 
+partners
+2023  
+Co-create focused 
+products and processes 
+with clear directionality 
+on CC mitigation across 
+all sectors
+2024  
+Expansion and 
+implementationCarbon Call (**)
+Climateworks 
+Foundation 
+Climate Change 
+AI
+Digital With 
+Purpose (**)
+GPAI 
+ITU
+Playing for the 
+Planet
+UBA
+UN expert group 
+on net-zero 
+emissions 
+commitments of 
+non-state entities
+UNEP
+UNFCCC Climate 
+Champions 
+UNFCCC Global 
+Innovation Hub
+5. Sustainable Procurement and 
+Green Digital Infrastructure 
+Pledge:  
+A new international framework 
+to enable standardization and 
+harmonization of sustainable 
+procurement principles for digital 
+infrastructure and services across 
+governments and corporations. 
+This must be advanced in parallel 
+with a new framework for both 
+public and private sectors to 
+support planning, designing, 
+financing and development of 
+green digital infrastructure. An international 
+framework detailing 
+sustainable 
+procurement 
+principles for green 
+digital infrastructure 
+and related digital 
+services2022  
+Development 
+of sustainable 
+procurement principles 
+for digital infrastructure 
+and services
+2023  
+Sustainable 
+procurement 
+operational framework 
+& infrastructure 
+framework
+2024  
+Sustainable 
+procurement and 
+infrastructures 
+compliance and 
+reporting frameworkDigital Nations (**)
+ITU (**)
+IFC 
+EU
+OECD
+Global 
+Electronics 
+Council / Green 
+Electronics 
+Council
+Sustainable 
+Digital 
+Infrastructure 
+Alliance (**)
+UBA
+UNDP
+UNEP
+World Bank (**)
+346. Digital product passport for 
+circularity:   
+Initiate the design and 
+development of standards and 
+pilot testing for digital product 
+passports as an enabler of the 
+circular economy. Digital product 
+passports should help companies, 
+consumers and regulators, to 
+keep track of a product’s climate, 
+environmental, social and other 
+impacts throughout the value 
+chain. The standards must be 
+sector/industry specific and must 
+be accessible in a decentralized 
+manner through a unique 
+identifier, with the vision to enable 
+transparency and circularity. Global inclusive 
+process is 
+established to 
+co-develop digital 
+product passport 
+standards by 
+governments, 
+industry and civil 
+society.2022  
+Series of global and 
+regional dialogues 
+conducted on a digital 
+product passport 
+framework
+2023  
+Initiation of digital 
+product passport 
+standards in at least 
+10 product categories 
+with a high circularity 
+potential
+2024  
+Pilot test digital product 
+passport standards 
+for at least 10 product 
+categories.European 
+Commission (**)
+GS1
+ITU (**)
+UBA
+UNEP
+* Preliminary list based on stakeholder mapping and on initial discussions with partners subject to expansion  
+** Entity has expressed interest in taking on a catalytic leadership role in the impact initiative
+35Shift 3: Accelerate Innovation
+Directing efforts and investments toward digital 
+innovation that accelerates environmental and social 
+sustainability
+Impact InitiativeSuggested 
+OutcomesPotential 
+Timeline and 
+Suggested KPIsEntities Active in 
+this Area (*)
+7. Digital Sustainability Innovation 
+Hubs and Accelerators:   
+Launch of a global network of 
+connected, and collaborative 
+Innovation Hubs to accelerate the 
+development and scale up of digital 
+tools and just solutions for national 
+climate mitigation and adaptation 
+goals and other environmental 
+commitments. The hubs would 
+build and scale opportunities for 
+rural and urban climate action with 
+a focus on supporting sustainable 
+livelihoods, resilience and human 
+wellbeing. This must be catalysed 
+by international and national funds 
+and private-public partnerships 
+which provide the financial backing 
+and incentives to stimulate green 
+digital solutions and transformation 
+innovations of key economic 
+sectors, including the informal 
+economy.Increase public 
+digital innovation 
+support with 
+focus on climate 
+and nature impact 
+by 30% by 2025 
+Network of 50 
+interconnected 
+regional and 
+national hubs 2022  
+Initial network of 
+Innovation Hubs and 
+Accelerators created 
+2023  
+Mapping of digital 
+innovation funding 
+opportunities to 
+establish baseline
+2024  
+10% Increase 
+in public digital 
+innovation support 
+targeted to climate 
+and nature impact in 
+developing countriesBMZ/GIZ
+CGIAR Research 
+Centers
+D4D Hubs (**)
+GCF
+GEF
+GIZ (**)
+G-STIC
+I-CoDI
+ITU
+New Bauhaus 
+OECD Public 
+Innovation 
+Observatory
+SIDA (**)
+UNDP (**)
+UNEP 
+UNFCCC Global 
+Innovation Hub
+UNICEF
+USAID
+World Bank
+8. Data and Assessments as Digital 
+Public Goods for Sustainability:  
+Development and launch of open 
+global standards and governance 
+frameworks for high value 
+environment and climate data 
+needed as digital public goods to 
+drive sustainability assessments, 
+(planetary) digital twins, global 
+stocktaking, foresight analysis and 
+decision-making. This must be 
+accompanied by the development 
+of open interoperable APIs to allow 
+sharing and quality control of data 
+between entities. A series of high-
+value global data 
+sets needed to 
+enable digital 
+sustainability 
+decision-making 
+are published 
+as digital public 
+goods.2022  
+Initiation of a global 
+dialogue on data 
+infrastructure and 
+standards
+2023  
+Prototype platform 
+and publication of 
+high-value digital 
+public good data sets
+2024  
+Application of 
+digital public good 
+data to conduct a 
+global stocktake 
+on environmental 
+sustainabilityCoData
+Data4Development
+Data4SDGs
+DIAL
+Digital Public Good 
+Alliance
+Global Environmental 
+Outlook (**)
+ISC
+UBA
+UNDP
+UNEP
+UN High-Level 
+Committee on 
+Programmes (HLCP)
+World Bank
+World Environment 
+Situation Room (**)
+369. Decentralized Financing of 
+Sustainable Solutions:  
+Facilitate new transparent 
+decentralized financing and 
+matchmaking for sustainability 
+solutions. These include 
+crowdfunding, payment for 
+ecosystem services, microfinancing, 
+recommendation algorithms and 
+other channels. The goal is to 
+increase decentralized sources 
+of financing for the discovery,  
+development and adoption of 
+applied sustainable solutions, 
+products and services in formal and 
+informal markets. Digital platforms, 
+NTFs and fintech 
+include new 
+algorithms, filters 
+and mechanism 
+that promote 
+decentralizing 
+financing for 
+sustainability 
+solutions that 
+reach 1 billion 
+people2022  
+Build coalition of 
+fintech, e-commerce 
+and digital 
+companies
+2023  
+Share lessons 
+learned and identify 
+successful influence 
+pathways
+2024  
+Continue to scale 
+initiativesConsumers 
+International / Green 
+Commerce Initiative
+Dialogue on Global 
+Digital Finance 
+Governance
+Every Action Counts 
+Coalition (**)
+Green Digital Finance 
+Alliance 
+UNCDF
+UNDP
+* Preliminary list based on stakeholder mapping and on initial discussions with partners subject to expansion  
+** Entity has expressed interest in taking on a catalytic leadership role in the impact initiative
+
+37Pathways to engage in the CODES Action Plan
+The CODES co-champions will initiate and engage in multi-stakeholder processes to pool 
+excellence and application-oriented knowledge on digital sustainability - the CODES Action Plan is 
+an indicative example. 
+The co-champions will act as high-level stewards of the Impact Initiatives highlighted within the 
+Action Plan. They will convene relevant stakeholder groups to identify leadership organizations to 
+advance the initiatives and monitor progress. The co-champions will work with stakeholders and the 
+CODES community to identify, solicit and publicly promote emerging Impact Initiative opportunities 
+on a rolling basis. CODES co-champions will further promote this Action Plan and will contribute to 
+catalyse its key messages and Impact Initiatives in four main ways:
+• Convene and connect a global community of common purpose to advance these 3 shifts; 
+• Identify enabling policies and map stakeholders for each strategic priority; 
+• Suggest impact initiatives as actionable items to concurrently progress strategic priorities;
+• Foster and demonstrate political leadership in advocating for, and realizing the Impact Initiatives. 
+Stakeholders can be public and private entities, including members from academia and civil society. 
+They are invited to join and collaborate with CODES through 3, intersecting engagement pathways:
+Tier 1 Catalyser of Impact Initiatives 
+Stakeholders that are seeking to act in a leadership and catalysing capacity and/or as supporting 
+entities to progress the advancement of Impact Initiatives highlighted within or emerging from 
+the Action Plan. This will also include a willingness to participate in monitoring and transparent 
+reporting to measure progress of the Impact Initiatives against key performance indicators. These 
+accountability measures can be self-governed and/or leverage an adaptive learning framework 
+to create regular opportunities for constructive reflection and analysis to make progress towards 
+achieving their missions. The measurement metrics can be co-drafted with the organizations 
+engaged in the impact initiative. The Catalysers will also have an opportunity to join the CODES 
+external advisory board to provide ongoing guidance and strategic direction to the co-champions.
+Tier 2  Action Network 
+Stakeholders that are developing or implementing digital transformation and sustainability projects 
+who are actively participating in the implementation of the 3 shifts outlined in the CODES Action Plan. 
+This includes being listed as a formal CODES stakeholder in the online network map.
+Tier 3  Advocates
+Stakeholders that are engaging with the CODES network by sharing best practices and technological 
+expertise as well as acting as advocates to support the CODES Action Plan. They actively promote 
+the adoption of the shifts and related impact initiatives highlighted within the Action Plan within their 
+own constituencies and networks. This includes contributing to and receiving the monthly CODES 
+newsletter and the community of practice on www.sparkblue.org/CODES
+38Annexures
+Action Plan for a 
+Sustainable Planet 
+in the Digital Age
+39Annex I: Stakeholder Mapping
+Table 1:  Mapping of key Stakeholders and Initiatives Addressing Shift 1
+Type of actor / 
+InitiativeTitleStrategic 
+Priorities
+Digital Innovation 
+and Acceleration 
+Initiatives or 
+Funding• Climate Technology Centre and Network (CTCN)
+• UNDP Accelerator Labs
+• OECD Mission Oriented Innovation Lab
+• Digital4Development Hub
+• United 4 Smart Sustainable Cities (U4SSC)
+• BMZ Digital Transformation Centers• 4
+• 4
+• 4
+• 4
+• 4
+• 4
+Agenda Setting 
+and Stakeholder 
+Dialogue• Secretary General’s Digital Cooperation 
+Roadmap 
+• Coalition for Digital Environmental Sustainability 
+(CODES)
+• The Dialogue on Global Digital Finance 
+Governance• 1, 4 
+• 1, 4, 6
+• 4, 6
+Data, Analytics and 
+Tools• Secretary General’s Data Strategy
+• Global Partnership for Sustainable Development 
+Data
+• UN Global Pulse
+• Digital Public Goods Alliance  • 6
+• 6
+• 4
+• 5, 6
+Policies, Norms and 
+Standards• The UN Environmental Assembly (UNEA)
+• The International Telecommunications Union 
+(ITU), Standardization Sector (ITU-T)
+• UN Environmental Management Group (EMG)
+• The Internet Governance Forum (IGF): Policy 
+Network on the Environment
+• The Global Partnership on AI (GPAI)
+• OECD AI Policy Observatory
+• European Council Conclusions on Digitalization 
+for the Benefit of the Environment
+• Principles for Digital Development
+• Corporate Digital Responsibility 
+• The International Sustainability Standards Board 
+(ISSB) 
+• Global Agreement on the Ethics of Artificial 
+Intelligence• 1, 6
+• 1, 6
+• 1
+• 1, 6
+• 4, 6
+• 4
+• 4
+• 6
+• 6
+• 6
+• 6
+40• Open Collaboration for Next Generation Digital 
+Solutions for MRV
+• Certified B-Corporation
+• Science-based Targets Initiative• 5, 6
+• 6
+• 6
+Advocacy • Digital Goes Green • 3, 5
+Training • Atingi Digital4Sustainability Learning 
+Programme
+• Principles for Digital Development Training 
+Programme 
+• IEEE’s Course on Digital Transformation: Moving 
+Toward a Digital Society
+• Open SAP: Sustainability Through Digital 
+Transformation
+• ITU and UNDP’s digital capacity database• 2
+• 2
+• 2
+• 2
+• 2
+Research and 
+Knowledge• Future Earth  | Sustainability in the Digital Age 
+• Digitalization for Sustainability – Science in 
+Dialogue (D4S)
+• International Society for Digital Earth
+• Research Group on Digitalization and 
+Sustainability Transformations, IASS Potsdam
+• UNEP’s Global Environmental Outlook • 3
+• 3
+• 3
+• 3
+• 3
+Collective Action 
+Networks and 
+Coalitions• Digital With Purpose Movement
+• Every Actions Counts Coalition
+• Green Digital Finance Alliance
+• Global Enabling Sustainability Initiative
+• Digital Future Society
+• Greentech Alliance
+• The Future Society
+• UN Innovation Network• 5, 6
+• 5
+• 5
+• 5
+• 5
+• 5
+• 5
+• 5
+41Table 2:  Mapping of Key Stakeholders and Initiatives Addressing Shift 2
+Type of actor / 
+InitiativeTitleStrategic 
+Priorities
+Digital Innovation 
+and Acceleration 
+Initiatives or 
+Funding• ITU’s International Centre of Digital Innovation 
+(I-CoDI)
+• ITU Partner Connect Digital Coalition• 5
+• 5
+Agenda Setting 
+and Stakeholder 
+Dialogue• ITU-T Focus Group on Environmental Efficiency 
+for Artificial Intelligence and other Emerging 
+Technologies
+• UN E-waste coalition
+• Roundtable on Global Connectivity within 
+the Secretary General’s Digital Cooperation 
+Roadmap
+• Roundtable on Ensuring the Protection of Human 
+Rights in the Digital Era within the Secretary 
+General’s Digital Cooperation Roadmap• 1
+• 2
+• 5
+• 6
+Data, Analytics and 
+Tools• CodeCarbon
+• Carbon Mark
+• Global E-waste Statistics Partnership• 1
+• 1
+• 2
+Policies, Norms and 
+Standards• ITU-T SG5: Environment Climate Change and 
+Circular Economy, standards on:
+• ITU-T L.1000-series: E-waste and circular 
+economy 
+• ITU-T L.1200 series: Power feeding and 
+energy storage
+• ITU-T L.1300-series Energy efficiency, smart 
+energy and green data centers 
+• ITU-T L.1400-series: Assessment 
+methodologies of ICTs and CO 2 
+trajectories  (for goods, networks, services, 
+organizations, cities and sector levels)
+• ITU-T L.1500 series: Adaptation to climate 
+change 
+• ITU-T L.1700 series: Low cost sustainable 
+infrastructure standards
+• ITU-D E-waste Policy Development
+• Digital Nations - Sustainable Government 
+Information Technology
+• One Planet Programme on Sustainable Public 
+Procurement (SPP)
+• EU Green Public Procurement guidebook
+• OECD green ICT assessments• 2
+• 1
+• 1
+• 1, 2
+• 1
+• 1, 2
+• 2
+• 1, 2
+• 1, 2
+• 1, 2
+• 1, 2
+42Policies, Norms and 
+Standards• OECD.AI Policy Observatory (Task Force on AI 
+Compute & Environment)
+• OECD Recommendations on Information and 
+Communication Technologies (ICTs) and the 
+Environment 
+• Principles for Green Software Engineering 
+• European Committee for Standardization (CEN) 
+Materials efficiency
+• European Committee for Electrotechnical 
+Standardization (CENELEC) Materials efficiency
+• European Telecommunications Standardization 
+Institute (ETSI) Materials Efficiency and Life 
+Cycle Assessment 
+• Internet Engineering Task Force (IETF)
+• Institute of Electrical and Electronics Engineers 
+Standard Association  (IEEE SA)
+• Sustainable IT Pledge by the Canadian CIO 
+Strategy Council
+• Basel Convention on controlling transboundary 
+movements of hazardous wastes and their 
+disposal
+• EU Ethics Guidelines for Trustworthy AI
+• Guidelines for sustainability information on 
+e-commerce platforms
+• Global Agreement on the Ethics of Artificial 
+Intelligence
+• World Wide Web Foundation REACT policy 
+framework on Digital Inclusion
+• Principles for Digital Development
+• UN Declaration on the Rights of Indigenous 
+Peoples (UNDRIP)
+• Audit AI
+• UNICEF Policy Guidance on AI for Children
+• Responsible Data for Children
+• OHCHR’s work on privacy in the digital age
+• GESI Good Practice Guide on Remedy Human 
+Right Impacts
+• UN Guiding Principles on Business and Human 
+Rights
+• Children’s Rights and Business Principles
+• UNICEF: The Case for Better Governance of 
+Children’s Data: A Manifesto• 1
+• 1, 2
+• 1, 2
+• 1, 2
+• 2, 2
+• 1, 2
+• 1, 2
+• 1, 2
+• 1, 2
+• 2
+• 3, 4
+• 3
+• 3, 4
+• 5
+• 5
+• 6
+• 6
+• 6
+• 6
+• 6
+• 6
+• 6
+• 6
+• 6
+Advocacy • Center for Humane Technology
+• International Campaign for Responsible 
+Technology 
+• Center for Countering Digital Hate
+• Alliance for Affordable Internet 
+• Amnesty International
+• Global Witness• 3, 4, 6
+• 3, 4, 6
+• 4
+• 5
+• 6
+• 6
+43Training • Open SAP: Clean-IT: Towards Sustainable Digital 
+Technologies 
+• Open SAP: Sustainable Software Engineering
+• Principles for Digital Development• 1, 2
+• 1
+• 4
+Research and 
+Knowledge• UNFCCC Climate Action Pathways - ICT & Mobile
+• Digital Goes Green
+• ICT4S Research Community
+• Digitalization for Sustainability – Science in 
+Dialogue (D4S)
+• Network for Digital Economy and Environment 
+(nDEE)
+• C-SERVES
+• EFUTURES - Electronics for Sustainable 
+Societies
+• PARIS DE
+• Global E-waste Statistics Partnership  | Global 
+E-waste Monitors  | Regional E-waste Monitors
+• FacProSUM Urban Mine Platformebook Climate 
+Science Center
+• Facebook Climate Science Center
+• Google initiative on verified climate science
+• Twitter initiative on authoritative climate info   
+• ITU-T Joint Coordination Activity on Accessibility 
+and Human Factors (JCA-AHF)• 1
+• 1, 2, 3
+• 1, 2, 3
+• 1, 2, 3
+• 1, 2, 3
+• 1, 2
+• 1, 2
+• 1
+• 2
+• 2
+• 4
+• 4
+• 4
+• 5, 6
+Collective Action 
+Networks and 
+Coalitions• UNFCCC Race to Zero Climate Champions team
+• Exponential Roadmap Initiative
+• WBCSD Carbon Transparency Partnership
+• United 4 Smart Sustainable Cities (U4SSC)
+• Sustainable Digital Infrastructure Alliance
+• Playing for the Planet Alliance
+• Digital With Purpose Movement
+• Green Software Foundation
+• Global Enabling Sustainability Initiative
+• Green 500
+• Greentech Alliance
+• ICT Pact
+• Icebreaker One
+• Carbon Call
+• RE100
+• GSMA
+• Internet Governance Forum - Policy Network on 
+Environment 
+• Science-based Targets Network (SBTN)
+• E-waste Coalition
+• Circular Electronics Partnership
+• WEEE Forum
+• International POPS Elimination Network (IPEN)
+• Partner Connect Digital Coalition• 1
+• 1, 2
+• 1
+• 1
+• 1, 2
+• 1, 2, 3
+• 1, 2, 3
+• 1, 2, 3
+• 1, 2, 3
+• 1, 2
+• 1, 2
+• 1, 2
+• 1
+• 1
+• 1
+• 1, 2, 5
+• 1, 2, 3
+• 1, 2
+• 2
+• 2
+• 2
+• 2
+• 5
+44Collective Action 
+Networks and 
+Coalitions• Digital Poverty Alliance
+• ITU / UNESCO Broadband Commission
+• Alliance for Affordable Internet
+• Responsible Business Alliance
+• Global Electronics Council • 5
+• 5
+• 5
+• 6
+• 1, 2
+Table 3:  Mapping of Key Stakeholders and Initiatives Addressing Shift 3
+Type of actor / 
+InitiativeTitleStrategic 
+Priorities
+Digital Innovation 
+and Acceleration 
+Initiatives or 
+Funding• UNDP’s Digital Transformation Initiative
+• UNEP’s Digital Transformation Programme
+• GIZ’s Innovation Challenge
+• Ellen Macarthur Foundation
+• Digital Public Goods Alliance
+• United for Smart Sustainable Cities (U4SSC)
+• UNFCCC Global Innovation Hub
+• SITRA Sustainable Lifestyles• 1, 4, 5, 6
+• 1, 2, 3, 5
+• 2, 3, 5, 6
+• 2, 3, 5
+• 2, 5, 6
+• 2, 3, 5, 6
+• 2, 3, 5, 6
+• 3, 5
+Agenda Setting 
+and Stakeholder 
+Dialogue• Global Partnership on Artificial Intelligence 
+(GPAI)
+• Coalition for Digital Environmental Sustainability 
+(CODES)• 1, 2, 3
+• 2, 3, 5
+Data, Analytics and 
+Tools• Destination Earth - Digital Twin of the Planet
+• System for Earth Observation, Data Access, 
+Processing and Analysis (SEPAL)
+• Big Earth Data Science Engineering Program 
+(CASEarth)
+• UNEP’s World Environment Situation Room
+• Various applications of open data cube 
+technology including Digital Earth Africa , Digital 
+Earth Pacific
+• Group on Earth Observations (GEO) work on 
+Digital Earth
+• Computational Sustainability
+• International Society for Digital Earth
+• Sustainability in the Digital Age
+• Joint Centre for Excellence in Environmental 
+Intelligence
+• Alan Turing Institute Environment and 
+Sustainability Interest Group
+• UNDP Data Futures Platform, Green Recovery 
+Data Hub
+• UN Secretary General’s Future Labs• 1
+• 1
+• 1
+• 1
+• 1
+• 1
+• 1, 2, 3
+• 1
+• 4, 5, 6
+• 1, 4, 5
+• 1, 2, 3
+• 1, 6
+• 1
+45• Global Initiative on AI and Data Commons
+• Artificial Intelligence for Environment & 
+Sustainability (ARIES) to support the System of 
+Environmental Economic Accounting (SEEA)
+• Microsoft Planetary Computer
+• Google Earth Engine
+• Nvidia Omniverse platform for digital twinning 
+and 3D simulations 
+• Amazon Sustainability Data Initiative 
+• Salesforce Sustainability Cloud
+• Global Open Science Cloud Initiative
+• Future of Sustainable Data Alliance (FoSDA)
+• Global Data Access Framework (GDAF)
+• United Nations Satellite Centre UNOSAT
+• Copernicus Open Access Hub
+• Trase Earth• 1, 2, 3, 5
+• 1, 5
+• 1, 2, 4
+• 1, 2, 4
+• 1, 2, 4
+• 1, 2
+• 1, 2
+• 1, 2
+• 1
+• 1
+• 1
+• 1
+• 2, 3
+On Climate Change
+• Camda Data 2.0 working group
+• Climate TRACE 
+• Climate Chain Coalition 
+• Climate Change AI
+• Centre for AI & Climate
+• Climate Informatics 
+• Icebreaker One
+• Data Driven Lab
+• Digital Public Goods Alliance - Climate Change 
+Adaptation Community of Practice• 1
+• 1
+• 1
+• 1, 3, 4
+• 1, 3, 4
+• 1
+• 1, 2, 3
+• 1
+• 1, 4, 5
+On Nature and Biodiversity
+• Framework on Ecosystem Restoration (FERM)
+• UN Biodiversity Lab
+• IPBES
+• Restor
+• The Life Map
+• e-shape
+• Coordinadora de las Organizaciones Indígenas 
+de la Cuenca Amazonica (COICA)
+• Indigenia Mundus• 1
+• 1, 4
+• 1, 4
+• 1
+• 1
+• 1
+• 4, 6
+• 4, 6
+On Chemicals and Pollution
+• Global Partnership on Marine Litter (GPML) • 1, 5
+Policies, Norms and 
+Standards• Global Partnership for Sustainable Development 
+Data
+• Global Environmental Data Strategy requested 
+by UNEA 4/23
+• FAIR Principles for Scientific Data
+• CARE Principles for Indigenous Data Governance• 1, 2
+• 1, 2, 5
+• 1, 2, 5
+• 1, 2, 5, 6
+46Policies, Norms and 
+Standards• First Nations Principles of Ownership, Control, 
+Access, and Possession (OCAP)
+• ISC-CODATA’s Decadal Programme ‘Data for 
+the Planet: making data work for cross-domain 
+grand challenges’
+• International Open Data Charter
+• Data Interoperability Collaborative
+• GS1 Digital Link
+• ITU-T Study Group 5: Environment, Climate 
+Change and Circular Economy
+• ITU-T L.1000-L.1199 standards: set of 
+standards that can form the basis for 
+circular economy
+• ITU-T L.1470 series to achieve net zero in the 
+ICT sector
+• ITU Sustainability passport for digital 
+products
+• ITU standards and guidelines on Green 
+Procurement
+• ITU-T Study Group 20: Internet of things (IoT) 
+and smart cities and communities (SC&C) 
+• ITU-T Y.4900 series: Evaluation and 
+assessment of smart cities
+• ITU-T Y.4903: Key performance indicators 
+for smart sustainable cities to assess the 
+achievement of sustainable development 
+goals
+• ITU-T Y.4904: Smart Sustainable cities 
+maturity model
+• Focus Group on Artificial Intelligence (AI) and 
+Internet of Things (IoT) for Digital Agriculture 
+(FG-AI4A) 
+• Green Fintech Taxonomy
+• Planet Mark
+• Guidelines for Sustainability Information on 
+E-commerce Platforms
+• Consumers International - Digital Trust
+• EU Digital Services Act
+• EU Digital Markets Act
+• UNEP Finance Initiative
+• Responsible AI Strategy for the Environment 
+(RAISE)
+• EU Corporate Sustainability Reporting - Directive 
+2014/95/EU Non-Financial Reporting
+• EU Proposal for a Corporate Sustainability 
+Reporting Directive (CSRD)
+• UNESCO Recommendations on Open Science
+• Open Science guidelines• 1, 2, 5, 6
+• 1, 2
+• 1
+• 1
+• 2, 3, 5
+• 2
+• 2
+• 2, 3
+• 2
+• 2, 3
+• 2, 3
+• 2, 3
+• 3, 6
+• 2, 3
+• 3
+• 3
+• 3
+• 2, 3, 5
+• 2, 3, 5
+• 2, 3, 5
+• 2, 3, 5
+• 2, 3, 5
+• 2, 3, 5
+• 4
+• 4
+47• European Financial Reporting Advisory Group 
+(EFRAG)/ Sustainability Reporting Board
+• Digital Nations - Leading Digital Governments
+• The GovLab
+• Open Government Partnership:  workstream on 
+digital governance
+• Open North
+• Principles and Recommendations to align 
+BigFintech governance with the SDGs
+• ITU and Digital Impact Alliance GovStack
+• ITU GreenGovStack
+• Digital Investment Toolkit
+• Gender Equality in Digitalization (UNDP)• 5
+• 5
+• 4, 5
+• 5
+• 4, 5
+• 3.5
+• 5, 6
+• 5
+• 6
+• 6
+Advocacy • Digital Goes Green • 2, 3, 5
+Training • EO4GEO Alliance
+• Open SAP: Helping Business Thrive in a Circular 
+Economy 
+• ICLEI Europe: AI4 Cities
+• ITU Centres of Excellence programme• 1
+• 2
+• 2
+• 4, 6
+Research and 
+Knowledge• ICT4S Research Community
+• UNESCO International Research Centre in 
+Artificial Intelligence
+• Digitalization for Sustainability – Science in 
+Dialogue (D4S)
+• International Resource Panel’s workstream on 
+“Sustainable Trade in Resources: Global Material 
+Flows, Circularity and Trade” 
+• Stockholm Environment Institute (SEI)
+• Alan Turing Institute Environment and 
+Sustainability Interest Group
+• ITU E-agriculture
+• Climate Change AI
+• ITU-T Study Group 5: Environment, Climate 
+Change and Circular Economy 
+• International Resource Panel’s workstream on 
+“Sustainable Trade in Resources: Global Material 
+Flows, Circularity and Trade”
+• Green Digital Finance Alliance
+• EU’s Regulations on Sustainable Finance
+• E-mobility Toolbox
+• Accelerating Access to Low Carbon Urban 
+Mobility Solutions (ACCESS) through 
+Digitalization
+• UNDP Digital Readiness Assessment
+• OECD International Programme for Action on 
+Climate (IPAC)
+• UNFCCC Resilience Frontiers• 1, 2, 3
+• 4, 6
+• 1, 2, 3
+• 3.2
+• 2, 3, 4
+• 2, 4, 6
+• 3, 4, 6
+• 2, 3, 4, 5
+• 2, 4, 6
+• 2, 5
+• 2, 5
+• 2, 5
+• 3, 6
+• 3, 6
+• 4, 5
+• 2, 5
+• 2, 5
+48Research and 
+Knowledge• UK Center for Greening Finance and Investment
+• ITU and UNDP’s Digital Capacity Database
+• AI Commons
+• World Benchmarking Alliance
+• EU Blockchain Observatory and Forum
+• Ubuntoo - Environmental Solutions Platform 
+• The GovLab  
+• Focus Group on AI for Natural Disaster 
+Management (FG-AI4NDM)
+• Focus Group on Artificial Intelligence (AI) and 
+Internet of Things (IoT) for Digital Agriculture 
+(FG-AI4A)
+• Latin American Institute of Terraforming• 2, 5
+• 2, 4, 5, 6
+• 5, 6
+• 2, 5
+• 4, 6
+• 4, 6
+• 2, 5
+• 3, 5, 6
+• 3, 5, 6
+• 6
+Collective Action 
+Networks and 
+Coalitions• Working towards a Digital Twin on Earth
+• Greentech Alliance 
+• European Green Digital Coalition
+• WEF 2030 Vision
+• Platform for Accelerating a Circular Economy 
+(PACE)
+• Circular Electronics Partnership (CEP)
+• Digital With Purpose
+• Icebreaker One
+• Playing for the Planet Alliance
+• Google Sustainability Choices - Green Apps
+• Amazon Climate Pledge Friendly Products 
+• Every Action Counts Coalition
+• United 4 Smart Sustainable Cities (U4SSC)
+• ITU and UNICEF Giga Connectivity
+• Science-based Targets Initiative
+• Climate Chain Coalition
+• United Citizens Organization for Action for 
+Climate Empowerment
+• High-Speed Access for All: Canada’s 
+Connectivity Strategy
+• Digital Connectivity and Cybersecurity 
+Partnership (DCCP)
+• Technology for Development
+• Digital Impact Alliance
+• Digital Poverty Alliance• 1
+• 2, 3, 4, 6
+• 2, 3, 5
+• 2, 5, 6
+• 2
+• 2
+• 2, 3, 5
+• 2, 3, 5
+• 2, 3
+• 3
+• 3
+• 2, 3
+• 2, 3, 5
+• 4, 6
+• 2, 3, 5
+• 2, 3
+• 5
+• 6
+• 6
+• 6
+• 6
+• 6
+49Annex II: Summary of Digital 
+Transformation needs 
+Identified by  the Stockholm+50 regional and 
+national consultation process 
+Asia and the Pacific
+Regional Consultation 
+Date4-5 April 2022
+Shifting Markets and 
+Consumer Behaviours• Develop key standards and use tracking software to ensure that supply chains 
+are sustainable, and markets and producers are connected
+Towards Sustainable 
+Food and Agriculture• Leverage new data technologies, such as machine learning and digital mapping 
+systems, in order to tackle key environmental issues, including food waste and 
+plastic pollution
+• Improve infrastructure to reduce food loss, and harness digital technologies for 
+smarter food production and transport
+Innovation-enabling 
+Policy- and Regulatory 
+Framework• Take into account the digital gap persistent in the region and note that 
+digitalization needs to be carried out with clear rules on ownership and use of 
+the data and knowledge
+• Increase digital access, especially among those located in remote and isolated 
+communities
+• Develop best practices for using emerging technologies like blockchain for data 
+logs
+• Focus on the better or more regulated use of information and communication 
+technology and digital platforms “at the nexus of sectors,” including water 
+systems, agriculture, and supply chains
+Accelerating and 
+Scaling Environmental 
+Sustainability• Use “internet of things” and digital dashboards to simultaneously manage 
+energy- and water-related challenges
+• Recognize that dependence on digital technologies comes with environmental 
+and social costs, including those associated with the extraction of minerals and 
+rare earths to produce digital gadgets and infrastructure, and the massive use 
+of energy by blockchains
+Digital Literacy, 
+Capacity Building and 
+Inclusiveness• Increase digital access, especially among those located in remote and isolated 
+communities
+• Leverage new data technologies, such as machine learning and digital mapping 
+systems, in order to tackle key environmental issues, including food waste and 
+plastic pollution
+• Widen access to digital technologies as a means of complementing 
+conventional classroom-based learning
+• Introduce data centers and digital monitoring solutions to raise public 
+awareness about key health and environmental challenges
+• Promotion of digitalization in agriculture should take into account those who 
+are left behind – “the bottom billion” without access to digital infrastructure or 
+basic services, such as electricity and educationStockholm +50 Regional Consultation Outcomes on Digital Transformation
+50Latin America and the Caribbean
+Regional Consultation 
+Date5-6 April 2022
+Shifting Markets and 
+Consumer Behaviours• Electronic waste problems must be addressed using circular economy 
+principles
+Innovation-enabling 
+Policy- and Regulatory 
+Framework• Analysis and regulate the risks that digital technology can pose by facilitating 
+environmentally harmful development and financing
+• Introduce technology that bridges gaps between people and sectors and helps 
+communities
+• All types of technology, including local and traditional science and technology, 
+must be used
+• Implement better resource management through the deployment of technology
+Digital Literacy, 
+Capacity Building and 
+Inclusiveness• Support small and medium-sized enterprises (SMEs) using more formal 
+business practices such as digitalization and banking. Technology that 
+provides sustainable benefits for communities
+• Recognition of technology and knowledge that can help people live 
+harmoniously with nature, and active listening to Indigenous Peoples
+• To address limited space and human capacity to face challenges and the 
+gap between proposed solutions for issues such as climate change, and the 
+availability of technology needed to tackle these
+Africa
+Regional Consultation 
+Date12-13 April 2022
+Innovation-enabling 
+Policy- and Regulatory 
+Framework• Spur enterprise by supporting rural communities access to digitalization and 
+information technologies leveraging mobile tech platforms;
+•  Use digitalization to innovate advancements in key growth sectors e.g., 
+agriculture, manufacturing, and construction to protect ecosystems and 
+support livelihoods
+Accelerating and 
+Scaling Environmental 
+Sustainability• Leverage digitalization to establish robust participatory monitoring and 
+evaluation of sustainable development interventions
+Europe and North America
+Regional Consultation 
+Date5 May 2022
+Shifting Markets and 
+Consumer Behaviours• A globally fair and sustainable product liability insurance regime to accelerate 
+dissemination of relevant technologies
+Innovation-enabling 
+Policy- and Regulatory 
+Framework• Introduce better holistic scientific assessments, integrating both social and 
+natural sciences, for planetary boundaries to better inform global governance;
+• Deploy green digital solutions
+• Funding and awards to promote and enhance innovation and innovative 
+solutions
+Accelerating and 
+Scaling Environmental 
+Sustainability• Use technology for the protection of the environment
+Digital Literacy, 
+Capacity Building and 
+Inclusiveness• Promote the use of innovation and technology, including to increase 
+transparency, traceability, and accountability along supply chains in order to 
+support better engagement of stakeholders
+• Capacity and technology must be aligned with local needs and priorities, not 
+donor countries’ priorities
+51West Asia
+Regional Consultation 
+Date11-12 May 2022
+Shifting Markets and 
+Consumer Behaviours• Step up climate and environmental protection ambition by accelerating action, 
+such as by measuring, reporting, and verifying the objectives of the project 
+to map 1000+ green buildings, neighbourhoods, and cities with technology 
+promoting the “green buildings” concept
+Towards Sustainable 
+Food and Agriculture• Invest in access to energy-efficient and climate-smart technologies for small 
+producers in agri-food value chains
+• Promote recycling and digital transformation initiatives
+Innovation-enabling 
+Policy- and Regulatory 
+Framework• Promote e-recycling, which “makes business sense,” and can lead to the 
+formation of new enterprises
+• Harness innovations and technologies, including digital technologies for 
+transparency and disclosure
+Accelerating and 
+Scaling Environmental 
+Sustainability• To scale up digitization to accelerate implementation of the environmental 
+dimension of sustainable development in the context of the Decade of Action
+Preliminary Synthesis on Digital Needs Emerging from 
+National Consultation Processes
+Methodology
+UNDP provided direct support on the Stockholm +50 national consultation processes in 57 countries, 
+out of which, 33 countries have submitted a preliminary draft consultation report by 23 May prior 
+to Stockholm +50 meeting through UNDP country offices. The report template asked for broad 
+challenges, opportunities, pathways and solutions for Green Recovery and transition into a green and 
+inclusive future without any specific question on digitalization needs to avoid preempting solutions. 
+This paper was prepared by UNDP as annex to the CODES Action Plan, and a final synthesis report 
+will be prepared post-Stockholm +50 with a full analysis on digitalization needs.
+Initial Findings
+• Over 90% (30 countries) had one or more direct mention of digital technology and data needs, 
+often across multiple sections of the draft report.
+• Digital was rarely mentioned in the context of a challenge. Rather, it frequently appeared in 
+questions asking for opportunities and solutions for scale up.
+• Countries noted how lack of digital access and e-literacy amplified inequality and vulnerability 
+during the Covid-19 pandemic.
+• The most frequently mentioned digital need is digital / data management systems to monitor 
+key environmental indicators including MRV systems. There is an overarching need to upgrade 
+or modernize the existing systems as new data sources and more advanced analytics become 
+available.
+52• Countries note that data-driven studies and data disaggregation are key for policy making 
+processes to ensure vulnerable or marginalized populations inclusivity.
+• Many countries list digital technology needs coupled with needs for data and digital capacity 
+development, not only in the public sector but also within communities and youth for ownership. 
+Digital and data skills also frequently appeared in green jobs opportunities.
+• Digital and transparency were key recommendations for improving sustainable supply chains 
+(food, fashion, etc.). Other sectors with strong digital needs are agriculture and energy.
+• Countries such as Mauritius and Rwanda, which are known for whole-of-society digital 
+transformation efforts, have aligned policy recommendations, solutions and investment needs 
+around digital technology for nature and climate. Countries may benefit from approaching digital 
+transformation with a whole-of-society and foresight lens to get the most of its benefits.  
+• Only one country mentioned e-waste as an issue for international cooperation. The potential 
+negative environmental impact of digital technologies may require further awareness raising.
+Country needs (opportunities, solutions, recommendations) on digital 
+for nature and climate
+Sustainable digital economy and green jobs
+• Youth to drive the digital economy with understanding of nature and environmental challenges, 
+with market-ready IT skills. (Mauritius)
+• Transforming the productive matrix of the country, from an extractive model to a model with 
+more value (more sustainable, inclusive, diverse, digitalized, e.g.). (Chili)
+• It is important to readjust economic policies towards “greener and more digital” economies and 
+not to come back to pre-pandemic levels. (Kazakhstan)
+Environmental data monitoring systems
+• Publicize relevant, timely and disaggregated data for evidence-based decision making, analysis 
+and monitoring and evaluation as well as inclusive hearing and evaluation systems for public 
+feedback on environmental legislation, planning, policies and projects. Leverage AI and digital 
+tools to support actions against climate change and biodiversity conservation. (China)
+• Baseline data development and administration allow to make visible the state or resources and 
+their management, subsequently enhancing a more informed decision making with accurate data 
+considering natural resource regeneration. (Mexico)
+• Strengthening land cadaster to generate data must aid decision makers. (Liberia)
+• This requires better data and information management ahead of time. (Viet Nam)
+• Enhance the management of environmental and climate data and/or information of the country. 
+(Somalia)
+• Government should develop a single database platform for monitoring and effective monitoring 
+purposes. In order to ensure observation, control and management of the condition and changes 
+in the environment and its resources, a system of state environmental monitoring should be 
+implemented. (Upgrade current system). (Kyrgyzstan)
+• The establishment of a centralized transparency mechanism based on measurable monitoring 
+indicators. (Algeria)
+• MRV system based on user friendly IT system. (Ethiopia)
+53Advanced analytics, modeling and forecasting for decision making
+• The importation of essential equipment, such as supercomputers, which are essential for 
+modeling the impacts of various environmental crises (climate change, loss of biological 
+diversity, desertification, water stress, land degradation, etc.). The importance of equitable 
+access to technical tools (software, applications, etc.), which are essential for the achievement of 
+the environmental dimension of sustainable development. This concerns, for example, software 
+for calculating greenhouse gas emissions, modelling tools, super calculators, systematic 
+observation tools, etc. (Algeria)
+• Data analytics and GIS to improve our capacity to analyze and project climate trends. 
+(Philippines)
+• Leverage Technology & Data Collection tools to adopt data-driven approaches and inform 
+Covid-19 containment strategies and economic recovery. (Rwanda)
+Digital application in key sectors
+• Digital transformation is a key enabler. (Sri Lanka)
+• Application of appropriate digital technology in key livelihood sectors including agriculture and 
+tourism. (Thailand)
+• SMART transport alternatives. (Philippines)
+• Develop the E-commerce (food, clothing, materials, etc.) and digital marketing. (Cote d ‘Ivoire)
+• Digitalization of various systems (such as supply chains). (Georgia)
+• Driving the adoption of ICT for all businesses and citizens by scaling up existing e-government 
+and private sector digitization efforts including E-Commerce Platforms and Digital Payments. 
+Improve public transportation systems including increased number and efficiency of buses, 
+linkage with payment system and better IT platform (application) for fleet management. 
+(Rwanda)
+• Emergence of new business opportunities: mobile vending, online businesses, etc. The recovery 
+practices could be scaled up through development of ICT infrastructure. (Sri Lanka)
+• Vulgarization of agro-technology (digital innovation for agriculture). (Cote d ‘Ivoire)
+• Transition agriculture and waste management to a digital inclusivity and decentralized strategy. 
+(Liberia)
+• Accelerate transition to sustainable energy practices and digital transformation. (Mauritius)
+Digital media, communication and engagement for a just transition
+• Promote the role of digital media in disseminating and promoting biodiversity conservation and 
+climate change concepts. (China)
+• At the ages of digitalization, children and students would be more aware of environmental 
+changes in the nature and how it is important to conserve the environment and biodiversity for 
+future generations. (Kazakhstan)
+• Vulgarise opportunities for benefit of all, using digital platforms and mass media to eliminate 
+communication barriers. (Mauritius)
+• The development of digital media to increase the active involvement of the population in public 
+policy and practical measures for disseminating information were also highlighted. (Ecuador)
+54Inclusivity of marginalized or vulnerable populations
+• Generate public policies that have a focus on the whole of society, and are governed by the data 
+and information available. A good example of this is the UNDP study “A green recovery from 
+Covid19 in Costa Rica”, which shows how the implementation of the National Decarbonization 
+Plan is a great opportunity to reduce the inequality gaps exacerbated by the COVID-19 pandemic. 
+This study shows that with greater investments in decarbonization, people with medium and low 
+job qualifications, as well as women, are the most benefited. (Costa Rica)
+• Transition to youth, digital inclusivity and decentralization of NRM activities to facilitate 
+ownership. (Liberia)
+• Assessments, evaluations, studies, and other data collection efforts will be required to report 
+gender and social inclusion progress to inform gender policy and planning. (Papua New Guinea)
+• Empower the youth, the women, the marginalized and the general public to be more involved 
+through citizen science; Digitalization of G2P interventions. (Philippines)
+• Improve internet access for all, especially in rural areas. (Cote d ‘ Ivoire)
+Digital and transparency of supply chain
+• Digital transformation. (Sri Lanka)
+• Local industries should decarbonise their supply chains and use ICT to modernize their 
+operations, supported by IT skills development, capacity building, technology diffusion to create 
+more decent work and quality jobs while digital networks and access continue to be upgraded. 
+(Mauritius)
+• Reduce the cost of the digital divide and promote access to affordable clean energy. (Mali)
+• In order to achieve and create a better performing industry and supply chain, it is important to 
+adopt visibility and traceability of the supply chain. (Kazakhstan)
+• The digitalization of supply chain systems. (Georgia)
+• Digital technology should be deployed to manage carbon emissions across the supply chain. 
+(China)
+Capacity needs
+• Access to the latest technologies should be ensured through the sharing of best practices, but 
+also through open access mechanisms the benefit of developing countries. (Algeria)
+• Strengthen capacity through communication and training, including the establishment of data 
+coordination and monitoring, for more evidence-based informed decisions. (China)
+• Governments, educational institutions, and industry need to start implementing policies and 
+programmes that increase the level of digital competence in countries. Core to developing such 
+policies and programmes is the identification of national skills supply, skills demand, and skills 
+gaps, which is required to develop targeted and effective action. Angola needs to first solve 
+the basic problems of internet access and connectivity to then start implement more complex 
+technologies. (Angola)
+• Information and communication technologies (ICTs) are identified as being necessary to reduce 
+transaction costs, both physical (e.g., transportation) and non-physical (information asymmetries, 
+decision-making, etc.). (Argentina)
+• Low access to the internet and digitalization which also affect their life conditions. Access to 
+education and digital information, especially to women and people in rural areas are needed to be 
+improved for future generations. (Kazakhstan)
+55• Information, communication and digital technologies in the field of environment and climate 
+change. (Mali)
+• Lack of data is a significant country-wide problem that hinders data-driven decision making 
+for sustainable development. Therefore, an effective information management system is an 
+essential technological capacity needed to strengthen all dimensions of SD. / Capacity.  
+(Sri Lanka)
+• Capacity building of environmental and climate activists on digital technology are needed. In 
+addition, Somalia needs technologies to measure air, water, soil and marine pollution, state of art 
+technologies to support multi-hazards early warning system. (Somalia)
+• Assistive technology and devices are not available locally / in communities that hinder PWD 
+capacity to engage in the implementation of initiatives.  Need to develop incentives for 
+manufacturers of these technology and make these devices more affordable for PWDs. Just 
+transition could also focus on increasing skills of the communities, esp indigenous peoples (e.g. 
+digital inclusion). (Philippines)
+E-waste and negative impact of digital
+• Disposal of used e-material and e-wastes. (Mauritius)
+56References
+1. Future Earth. Sustainability in the Digital Age. h ttps://futureearth.org/initiatives/other-initiatives/
+sustainability-in-the-digital-age/  (Accessed: 14 February 2022). 
+2. Mondejar, M. E., Avtar, R., Diaz, H., Dubey, R. K., Esteban, J., Gómez-Morales, A., Hallam, B., 
+Mbungu, N. T., Okolo, C. C., Prasad, K. A., She, Q., & Garcia-Segura, S. (2021). Digitalization to 
+achieve sustainable development goals: Steps towards a Smart Green Planet. The Science of the 
+total environment, 794, 148539. h ttps://doi.org/10.1016/j.scitotenv.2021.148539 .
+3. PwC (2020). Over two-thirds of Sustainable Development Goals could be bolstered by emerging 
+tech, including AI and blockchain. https://www.pwc.com/gx/en/news-room/press-releases/2020/
+blockchain-sdgs-wef.html (Accessed: 14 February 2022). 
+4. Other assessments have come to similar conclusions for example, the GESI Digital With 
+Purpose Report (2019) found that 103 of the 169 SDG targets are directly influenced by seven 
+digital technologies: digital access, faster internet, cloud, the internet of things (IoT), cognitive, 
+digital reality, and blockchain. See also https://www.sciencedirect.com/science/article/pii/
+S0048969721036111 ; https://www.nature.com/articles/s41467-019-14108-y; https://eo4society.
+esa.int/wp-content/uploads/2021/01/EO_Compendium-for-SDGs.pdf .
+5. General Assembly resolution 48/13, The human right to a clean, healthy and sustainable 
+environment, A/HRC/RES/48/13 (8 October 2021), available from undocs.org/A/HRC/RES/48/13 .
+6. UN General Assembly (2015). Transforming our World: the 2030 Agenda for Sustainable 
+Development. A/RES/70/1. 
+7. United Nations (2020). The Sustainable Development Goals Report 2020. https://unstats.un.org/
+sdgs/report/2020/  
+8. United Nations Environmental Programme (2021). Making Peace With Nature: A scientific 
+blueprint to tackle the climate, biodiversity and pollution emergencies. https://www.unep.org/
+resources/making-peace-nature
+9. International Telecommunication Union (2021). Facts and Figures Report 2021. https://www.itu.
+int/itu-d/reports/statistics/facts-figures-2021/  
+10. World Economic Forum (2021). The Global Risks Report 2021. http://www3.weforum.org/docs/
+WEF_The_Global_Risks_Report_2021.pdf  
+11. United Nations Development Programme, United Nations Capital Development Fund (2021). 
+Towards an Inclusive, SDG-Aligned Governance of BigFintech. https://sdgfinance.undp.org/digital-
+finance/towards-inclusive#summary  
+12. United Nations Capital Development Fund (2021). Estimates of Global E-Commerce 2019 And 
+Preliminary Assessment of Covid-19 Impact on Online Retail 2020. https://unctad.org/system/
+files/official-document/tn_unctad_ict4d18_en.pdf 
+13. Kepios Analysis (2021). Digital 2022 April Global Statshot Report. https://datareportal.com/
+reports/digital-2022-april-global-statshot
+14. Magna (2021). Global Advertising Market Reaches New Heights and Exceeds Pre-Covid Levels. 
+https://magnaglobal.com/global-advertising-market-reaches-new-heights-and-exceeds-pre-
+covid-levels/  (Accessed: 17 May 2022).
+15. GeSI (2015). #SMARTer2030 report: ICT Solutions for 21st Century Challenges. https://
+smarter2030.gesi.org/downloads/Full_report.pdf  
+16. Graver, B., Zhang, K. and Dan Rutherford (2018). CO 2 Emissions from Commercial Aviation, 2018. 
+The International Council on Clean Transportation. h ttps://theicct.org/publication/co2-emissions-
+from-commercial-aviation-2018/
+5717. Forti V., Baldé C.P., Kuehr R., and G. Bel (2020) The Global E-waste Monitor 2020: Quantities, 
+flows and the circular economy potential. United Nations University (UNU)/United Nations 
+Institute for Training and Research (UNITAR) – co-hosted SCYCLE Programme, International 
+Telecommunication Union (ITU) & International Solid Waste Association (ISWA), Bonn/Geneva/
+Rotterdam.
+18. Deloitte (2021). What is digital economy? Unicorns, transformation and the internet of things. 
+https://www2.deloitte.com/mt/en/pages/technology/articles/mt-what-is-digital-economy.html.  
+(Accessed: 17 May 2022).
+19. United Nations Conference on Trade and Development (2021). Digital Economy Report 2021: 
+Cross-border data flows and development: For whom the data flow. Overview. https://unctad.org/
+system/files/official-document/der2021_overview_en_0.pdf .
+20. Digital Tech ITP. Defining the Digital Sector. https://digitaltechitp.nz/defining-the-digital-sector/  
+(Accessed: 17 May 2022).
+21. Government of Canada (2021). Digital Technologies/ICT. https://ised-isde.canada.ca/site/digital-
+technologies-ict/en
+22. OECD (2019). Going Digital: Shaping Policies, Improving Lives, OECD Publishing, Paris, https://doi.
+org/10.1787/9789264312012-en .
+23. Based on the definition provided in: Gather. Information Technology Glossary: Digitalisation. 
+https://www.gartner.com/en/information-technology/glossary/digitalization   (Accessed: 17 May 
+2022).
+24. OECD (2019). Going Digital: Shaping Policies, Improving Lives, OECD Publishing, Paris, https://doi.
+org/10.1787/9789264312012-en .
+25. Mondejar, M. E., Avtar, R., Diaz, H., Dubey, R. K., Esteban, J., Gómez-Morales, A., Hallam, B., 
+Mbungu, N. T., Okolo, C. C., Prasad, K. A., She, Q., & S. Garcia-Segura (2021). Digitalization to 
+achieve sustainable development goals: Steps towards a Smart Green Planet. The Science of the 
+total environment, 794, 148539. https://doi.org/10.1016/j.scitotenv.2021.148539 .
+26. Ashutosh Gupta (2021). What is Digital Sustainability and How Does It Drive SDG Goals? Gartner. 
+https://www.gartner.com/en/articles/what-is-digital-sustainability-and-how-does-it-drive-esg-
+goals .
+27. Wut, T.M., Lee, D.,  Ip, W.M., & S.W. Lee (2021). Digital Sustainability in the Organization: Scale 
+Development and Validation. Sustainability 2021, 13, 3530. https:// doi.org/10.3390/su13063530 .
+28. KPMG (2021). Digitalization can give direction to your sustainability transformation. https://home.
+kpmg/be/en/home/insights/2021/07/sus-digitalization-can-give-direction-to-your-sustainability-
+transformation.html  (Accessed: 17 May 2022).
+29. Based on the definition provided in: https://www.sdp.digital/  (Accessed: 17 May 2022).
+30. Dominik Pi étron, Philipp Staab, Florian Hofmann (2022). Sustainable digital market design: a data-
+based approach to the Circular Economy. ECDF Working Paper Series #001, Policy Paper for the 
+D4S-Network, 28th January 2022, Berlin. http://dx.doi. org/10.14279/depositonce-15014 .
+31. Based on the definition provided in: https://arbor.bfh.ch/16649/1/IGF%202021%20PNE%20
+Output%20Document.pdf  (Accessed: 17 May 2022).
+32. Based on materials on https://digitalization-for-sustainability.com/  (Accessed: 17 May 2022).
+33. Corporate Digital Responsibility (2021).The International CDR Manifesto. https://
+corporatedigitalresponsibility.net/ .
+34. United Nations (2020). Roadmap for Digital Cooperation. Report of the Secretary-General. 
+https://www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap_for_Digital_
+Cooperation_EN.pdf .
+35. United Nations (2021). Our Common Agenda. Report of the Secretary-General. https://www.
+un.org/en/content/common-agenda-report/assets/pdf/Common_Agenda_Report_English.pdf .
+36. German Advisory Council on Global Change (2019). Towards Our Common Digital Future. Flagship 
+Report. https://issuu.com/wbgu/docs/wbgu_hg2019_en?fr=sM2QyYzU1OTI4OA .
+5837. United Nations Development Programme, United Nations Capital Development Fund (2021). 
+Principles and Recommendations to align BigFintech governance with the SDGs. https://
+sdgfinance.undp.org/digital-finance/principles . 
+38. ITU. Study Group 5 at a glance. https://www.itu.int/en/ITU-T/about/groups/Pages/sg05.aspx  
+(Accessed:18 May 2022)
+39. Stuermer, M., Abu-Tayeh, G. & T. Myrach (2017). Digital sustainability: basic conditions for 
+sustainable digital artifacts and their ecosystems. Sustain Sci 12, 247–262. https://doi.
+org/10. 1007 /s1 1625-016-0412-2
+40. ITU-T (2020). Recommendation L.1470. Greenhouse gas emissions trajectories for the information 
+and communication technology sector compatible with the UNFCCC Paris Agreement. https://
+www.itu.int/rec/T-REC-L.1470-202001-I/en .
+41. Andrae, A.S.G. (2020). New perspectives on internet electricity use in 2030. https://pisrt.org/
+psrpress/j/easl/2020/2/3/new-perspectives-on-internet-electricity-use-in-2030.pdf .
+42. Freitag, C., Berners-Lee, M., Widdicks, K., Knowles, B., Blair, G., & A. Friday (2021). The real climate 
+and transformative impact of ICT: A critique of estimates, trends, and regulations. Patterns. 2. 
+100340. https://doi.org/10.1016/j.patter.2021.100340 .
+43. Digiconomist (2020). Bitcoin Energy Consumption Index. h ttps://digiconomist.net/bitcoin-energy-
+consumption/  (Accessed: 15 February 2022). 
+44. World Bank (2020). Minerals for Climate Action: The Mineral Intensity of the Clean Energy 
+Transition. h ttp://pubdocs.worldbank.org/en/961711588875536384/Minerals-for-Climate-Action-
+The-Mineral-Intensity-of-the-Clean-Energy-Transition.pdf .
+45. United Nations Conference on Trade and Development (2020). Digital economy growth and 
+mineral resources: implications for developing countries. https://unctad.org/system/files/official-
+document/tn_unctad_ict4d16_en.pdf .
+46. Forti V., Baldé C.P., Kuehr R., and G. Bel (2020) The Global E-waste Monitor 2020: Quantities, 
+flows and the circular economy potential. United Nations University (UNU)/United Nations 
+Institute for Training and Research (UNITAR) – co-hosted SCYCLE Programme, International 
+Telecommunication Union (ITU) & International Solid Waste Association (ISWA), Bonn/Geneva/
+Rotterdam.
+47. World Economic Forum (2019). A New Circular Vision for Electronics, Time for a Global Reboot. 
+https://www.weforum.org/reports/a-new-circular-vision-for-electronics-time-for-a-global-reboot
+48.  Forti V., Baldé C.P., Kuehr R., and G. Bel (2020) The Global E-waste Monitor 2020: Quantities, 
+flows and the circular economy potential. United Nations University (UNU)/United Nations 
+Institute for Training and Research (UNITAR) – co-hosted SCYCLE Programme, International 
+Telecommunication Union (ITU) & International Solid Waste Association (ISWA), Bonn/Geneva/
+Rotterdam.
+49. Kunkel, S., & D. Tyfield (2021). Digitalisation, sustainable industrialisation and digital rebound – 
+Asking the right questions for a strategic research agenda. Energy Research & Social Science, 
+Volume 82, 2021, 102295, ISSN 2214-6296, https://doi.org/10.1016/j.erss.2021.102295 .
+50. Coroama, V., & F. Mattern (2019). Digital Rebound - Why Digitalization Will not Redeem us 
+our Environmental Sins. In “Proceedings of the 6th International Conference on ICT for 
+Sustainability(ICT4S 2019) (Editor Wolff, Annika). CEUR Workshop Proceedings Volume 2382. 
+http://ceur-ws.org/Vol-2382/ .
+51. Kepios Analysis (2021). Digital 20222021 AprilOctober Global Statshot Report. https://
+datareportal.com/reports/digital-2022-april-global-statshot . https://datareportal.com/reports/
+digital-2021-october-global-statshot .
+5952. Vosoughi, S., Roy, D., and S. Aral (2018). The spread of true and false news online. Science 
+359(6380), 1146–1151 (2018)
+53. Stop Funding Heat (2021). In Denial - Facebook’s growing friendship with climate misinformation 
+report. https://stopfundingheat.info/wp-content/uploads/2021/11/in-denial-v2.pdf .
+54. Gigler, B-S. (2011). Informational Capabilities : The Missing Link for the Impact of ICT on 
+Development. E-Transform knowledge platform working paper; no. 1. World Bank, Washington, DC. 
+© World Bank. https://openknowledge.worldbank.org/handle/10986/19011  License: CC BY 3.0 IGO
+55. Church, C., and A. Crawford(2018). Green Conflict Minerals: The fuels of conflict in the transition to 
+a low-carbon economy. International Institute for Sustainable Development. 
+56. Here due diligence requirements as outlined by the UN Guiding Principles on Business and Human 
+Rights, the OECD Guidelines for Multinational Enterprises and the EU Directive on human rights 
+due diligence, among others, can be instructive.
+57. Livingstone, S., Carr, J. and J. Byrne. (2016). One inThree: Internet Governance and Children’s 
+Rights. Innocenti Discussion Paper No.2016-01, UNICEF Office of Research, Florence.
+58. International Telecommunication Union (2021).  Facts and Figures Report 2021. https://www.itu.
+int/itu-d/reports/statistics/facts-figures-2021/ . 
+59. CARE Principles for Indigenous Data Governance. https://www.gida-global.org/care .
+60. FAIR Guiding Principles for Scientific Data Management (Findability, Accessibility, Interoperability, 
+Reusability). https://www.go-fair.org/fair-principles/ .
+61. CARE Principles for Indigenous Data Governance (Collective benefit, Authority to control, 
+Responsibility and Ethics). https://www.gida-global.org/care .
+62. The SNA provides an overview of economic processes, recording how production is distributed 
+among consumers, businesses, government and foreign nations. It shows how income originating 
+in production, modified by taxes and transfers, flows to these groups and how they allocate these 
+flows to consumption, saving and investment. Consequently, the national accounts are one of the 
+building blocks of macroeconomic statistics forming a basis for economic analysis and policy 
+formulation.
+63. Kloppenburg, S., Gupta, A., Kruk, S. R. L., Makris, S., Bergsvik, R., Korenhof, P., Solman, H., & 
+Toonen, H. M. (2022). Scrutinizing environmental governance in a Digital age: New ways of 
+seeing, participating, and intervening. One Earth, 5(3), 232–241. https://doi.org/10.1016/j.
+oneear.2022.02.004 .
+60Contributors
+This Action Plan was co-created by an 
+incredible network of passionate people wanting 
+to collaborate to shape a sustainable and green 
+digital future. While the Action Plan co-creation 
+process was opened to 1,000 stakeholders from 
+the CODES community, the following individuals 
+deserve specific acknowledgement for their 
+contributions, engagement and commitment to 
+collective action. “Never doubt that a small 
+group of thoughtful, committed 
+citizens can change the world; 
+indeed, it’s the only thing that 
+ever has.”
+Margaret Mead 
+CODES Action Plan Coordination Team
+David Jensen , United Nations Environment Programme (UNEP)
+Shivam Kishore , United Nations Environment Programme (UNEP)
+Reina Otsuka , United Nations Development Programme (UNDP)
+Marcel Dorsch , Umweltbundesamt/German Environment Agency (UBA)
+Nilufar Sabet-Kassouf , Future Earth and Sustainability in the Digital Age
+Megha Sud , International Science Council (ISC)
+CODES Secretariat Contributors
+Robert Opp , Chief Digital Officer, United Nations Development Programme (UNDP)
+Dirk Messner , President, Umweltbundesamt/German Environment Agency (UBA)
+Philip Thigo , Senior Advisor, Innovations and Open Government - Presidency - Kenya
+Éliane Ubalijoro , Executive Director of Sustainability in the Digital Age and Global Hub Director, Canada, 
+Future Earth
+David Jensen , Digital transformation coordinator, United Nations Environment Programme (UNEP)
+Reina Otsuka , United Nations Development Programme (UNDP)
+Marcel Dorsch , Umweltbundesamt/German Environment Agency (UBA)
+Megha Sud , International Science Council (ISC)
+Shivam Kishore , Digital Transformation Advisor, United Nations Environment Programme (UNEP)
+Nilufar Sabet-Kassouf , Future Earth & Sustainability in the Digital Age
+Nilushi Kumarasinghe , Future Earth and Sustainability in the Digital Age
+Geoffrey Boulton , International Science Council (ISC) and University of Edinburgh
+Heide Hackmann , CEO, International Science Council (ISC) 
+Ben Larroquette , United Nations Development Programme (UNDP)
+Christian Löwe , Umweltbundesamt/German Environment Agency (UBA)
+Catherine P. McMullen , independent expert 
+Dirk Osiek , Umweltbundesamt/German Environment Agency (UBA)
+Stephanie d’Arc Taylor , United Nations Development Programme (UNDP)
+Jason Jabbour , United Nations Environment Programme (UNEP)
+Polina Koroleva , Digital Transformation Junior Professional Officer, United Nations Environment 
+Programme (UNEP)
+61Technical Contributors 
+Adriana Miranda Castillo,  Techno Psychology, Humane Technology & Lean Agile Transformation Coach
+Afi Edoh , Student, Dakar Institute of Technology (DIT)
+Aiaze Mitha , Digital Finance and SDG Expert, Environmental Digital Innovations Expert, Emerging 
+Markets Fintech Entrepreneur
+Aidin Niamir , Scientist, Senckenberg Biodiversity and Climate Research Institute, Germany
+Alan Kaydul , Technical Advisor, Digitalization Division, Swiss Foreign Ministry of Federal Affairs
+Alexandrine Fayet Boggiano , Programme Manager, Operations Digital Transformation (ICRC)
+Alison B. Lowndes , Senior Scientist, Global AI, NVIDIA
+Almut Nagel , Green Digital Transformation Policy Advisor, DG CONNECT, European Commission
+Amanda Miner , Geospatial Innovation Expert, GIS Services Manager, Envicom Corporation
+Amy Luers , Global Lead, Sustainability Science, Microsoft
+Anders Sul Thuesen Schmidt , Head of Corporate Citizenship & Responsible Business DK, Accenture
+Andrea Hinwood , Chief Scientist, United Nations Environment Programme (UNEP)
+Andre Uhl , Chair, IEEE Earth Lab
+Andrew Zolli , Chief Impact Officer, Planet
+Andy Middleton , Chief Exploration Officer, TYF Group, a Certified B Corporation
+Ashbindu Singh , Environmental Pulse Institute
+Asim Hussain , Chairperson, Green Software Foundation
+Athur Mabiso , Senior Economist, International Fund for Agricultural Development (IFAD)
+Babatunde Abidoye , Global Policy Advisor, United Nations Development Programme (UNDP)
+Bahtiyar Kurt , Regional Technical Support Specialist, Energy, United Nations Development Programme 
+(UNDP)
+Benjamin Larroquette , Regional Technical Advisor for CCA, Nature, Climate and Energy team, United 
+Nations Development Programme (UNDP)
+Bjorn-Soren Gigler , PhD, Head of Data Economy and Blockchain Programs, GIZ and Adjunct Professor, 
+Georgetown University
+Brennan Van Dyke , Chief, Capacity Development and Innovation Branch, United Nations Environment 
+Programme (UNEP)
+Btissam Benkerroum , Economist, African Development Bank
+Carly Gilbert Patrick , Team Leader, Active Mobility, Digitalization & Mode Integration, United Nations 
+Environment Programme (UNEP)
+Carolin Frankenhauser , Digital Analyst, Chief Digital Office, United Nations Development Programme 
+(UNDP)
+Cheikh Tidjane N’dongo , Acting Head of Food Security Unit, African Union Development Agency (AUDA-
+NEPAD)
+Chibulu Luo , Programme Manager, Energy, United Nations Development Programme (UNDP)
+Christian Jølck , Co-founder and Partner,  2150, Climate Tech Investor
+Christina Bowen , Co-founder, product research and public engagement, Socialroots
+Cristina Bueti , Counsellor, International Telecommunication Union (ITU)
+Cyril Caminade , Research Associate, Abdus Salam International Centre for Theoretical Physics
+Dagim Terefe , Freelance journalist
+Dario Piselli , Graduate Institute of International and Development Studies
+Dave Thau , Data and Technology Global Lead Scientist, World Wildlife Fund (WWF)
+David Rolnick , Assistant Professor, McGill University and Co-Founder, Climate Change AI
+Dr. Indranil Nath , Chartered Fellow, BCS, The Chartered Institute for IT
+Dr. Karen Bakker , Author, Professor & Researcher of Environmental Governance & Innovation, University 
+of British Columbia
+Dr. Odilia Coi , Director of Innovation, MKAI, Author on Digital Trust, Guest Lecturer, University of Cagliari
+62Dr. Shivam Gupta , Bonn Alliance for Sustainability Research, University of Bonn, Germany
+Edward Darling , The Life Map,  Redlist Revival 
+Enrico Panai , Data and AI Ethicist
+Eric Hansel , Founder, Esgdao and The Scubaverse
+Ervin Pfeifer , International Research Centre in Artificial Intelligence under the auspices of UNESCO
+Eun Joo Lee , Business Analyst, United Nations Population Fund (UNFPA)
+Felipe Gusmao , Professor, Federal University of Sao Paulo, Brazil
+Felix Creutzig , Groupleader MCC, Berlin; Chair Sustainability Economics of Human Settlements, TU 
+Berlin
+Femi David Ogunnigbo , Field Operations Officer/Environmental Consultant, Going Green International 
+Consults Limited
+Ferdinando Villa , Ikerbasque Research Professor, Basque Centre for Climate Change
+Flurina Wäspi , Institute for Public Sector Transformation, University of Bern
+Francesco Gaetani , Regional Science Policy Coordinator, United Nations Environment Programme 
+(UNEP)
+Franco Donati , Postdoctoral Researcher, Institute of Environmental Science (CML), Department of 
+Industrial Ecology, Leiden University and Member of Science for Democracy
+Gandhar Desai , Analyst, Sustainable and Digital Agriculture, United Nations Development Programme 
+(UNDP)
+Gavin Starks , CEO, Icebreaker One
+Georg Kell , Chairman of the Board at Arabesque, Founding Director of the United Nations Global 
+Compact
+Gertjan van Stam , Independent Consultant
+Graham Gannon , Head of Engineering, Global Sales/Marketing Platforms, Google
+Guillaume Soto-Gomez , IT Consultant for NGO, Shauri-CC / Well Grounded
+Hannah Kromminga , GIFTD, Greentech Alliance
+Hannah Mueller , Sustainable Digital Development, GIZ
+Héctor Tuy , Organismo Indígena Naleb’, Guatemala 
+Himanshu Shekhar , United Nations University - Institute for Environment and Human Security (UNU-
+EHS), Bonn, Germany  
+Ilias Iakovidis , Green Digital Advisor, DG CONNECT, European Commission
+Isabelle Albert , Author Tech IT Green, COO Satgana Climate VB & fund
+Jacob Baraza , Expert in Water Governance, Transboundary Water Conflicts and Cooperation
+Jake Reynolds , Executive Director, Sustainable Economy, Cambridge Institute for Sustainability 
+Leadership
+James Castillo , Filmmaker, Flowerman productions
+Jan Kennis , Digital For Development Lead Expert, Enabel
+Jasmin Nussbaumer , Institute for Public Sector Transformation, University of Bern
+Jean-Noé Landry , Obama Scholar, Obama Foundation and Columbia University in New York City and 
+Former Executive Director, Open North
+Jim Fruchterman , Founder/CEO Tech Matters, responsible for the Terraso Integrated Landscape 
+Management Platform of the 1000 Landscapes for 1 Billion People Initiative 
+Johannes Leon Kirnberger , AI & Sustainability Consultant at OECD.AI and Research Associate, Global 
+Partnership on Artificial Intelligence (GPAI)
+Karine Perset , Head, OECD.AI Policy Observatory and Network of Experts
+Karl Burkart , Co-Founder and Deputy Director, One Earth
+Katherine A. Foster , Open Earth Foundation and Social Alpha Foundation
+Kathryn Sforcina , Global Head of Strategy at IV.AI
+Kathleen Buckingham , Director, Sustainability, Tentree & Veritree
+63Katie Gibson , Vice President, Strategy and Partnerships, CIO Strategy Council, Canada
+Kavinda Gunasekara , Associate Director, Geoinformatics Center at Asian Institute of Technology
+Kay Poh Gek Vasey , CEO, MeshMinds
+Kenyatta Mirindi , Digital Business Analyst
+Laure Berti-Equille , Researcher, Institute of Research for Development, France
+Laurent Durieux , SDG Coordinator, Group on Earth Observations (GEO)
+Leah Bunce Karrer , Senior Environmental Officer, Global Environment Facility (GEF)
+Ligia Noronha , United Nations Assistant Secretary-General and Head of the New York Office of the 
+United Nations Environment Programme (UNEP) 
+Loïc Modoux , Political Advisor, Digitalization Division, Swiss Foreign Ministry of Federal Affairs
+Lubomila Jordanova , CEO & Co-Founder Plan A & Co-Founder Greentech Alliance
+Ludgarde Coppens , Head of the SDG and Environment Statistics Unit, United Nations Environment 
+Programme (UNEP)
+Ludmilla Diniz , Energy and Climate Technical Specialist, United Nations Development Programme 
+(UNDP)
+Luis Neves , CEO, Global Enabling Sustainability Initiative (GESI)
+Luisa Teixeira , Project Manager, Vizzuality
+Maria de la O Laura del Carmen Cuevas Cancino Esteva , Tecnológico de Monterrey, Mexico
+María Emilia Burgos , International Policy Analyst & Program manager for SDGs (The Kootneeti)
+Marianne Haahr , Executive Director Green Digital Finance Alliance (GDFA)
+Marija Pujo Tadic , International Institute for Climate Action (IICA) - founder & president - Croatia/EU
+Markus Böhm , Digital transformation, Swiss Federal Office for the Environment
+Marta Ottogalli , Knowledge Manager Consultant, United Nations Environment Programme (UNEP)
+Martin Smith , Project Director, The Carbon Mark
+Mateo Dugand , EMEA Sustainability Regional Lead, Amazon Web Services (AWS)
+Mateo Salomon , Global Energy & Finance Advisor, United Nations Development Programme (UNDP)
+Matt Greenspan , Telecommunications Management Group (TMG)
+Matthias Stürmer , Professor, Bern University of Applied Sciences, Head of the Institute for Public 
+Sector Transformation of BFH and Head of the Research Center for Digital Sustainability, University of 
+Bern
+Max Schulz , Executive Chairman, Sustainable Digital Infrastructure Alliance 
+Mélisande Teng , PhD Student, Mila
+Michael J. Oghia , Independent, ICT sustainability advocate
+Michael Stanley-Jones , United Nations Environment Programme (UNEP)
+Miroslav Polzer , CEO, International Association for the Advancement of Innovative Approaches 
+to Global Challenges IAAI GloCha & Founder, United Citizens Organization for Action for Climate 
+Empowerment 
+Mónica Miguel-Lago , European Association of Remote Sensing Companies (EARSC)
+Neil Davis , Software Engineer, Microsoft
+Nicolas Miailhe , Co-Founder & President, The Future Society
+Nigel P. Melville , Program Director, Design Science, Associate Professor of Information Systems,
+Nikola Nikačević , Professor, University of Belgrade and Founder of Eon+ (Digital ESIA - Envigo)
+Paz Peña O , Coordinator, Latin American Institute of Terraforming
+Pernilla Bergmark , Principal Researcher ICT Sustainability Impacts, Ericsson
+Pierre Boileau , Head of the Global Environment Outlook, United Nations Environment Programme 
+(UNEP)
+Pilar Fajarnes , Chief, Digital Economy Policy Research Section, United Nations Conference on Trade 
+and Development (UNCTAD)
+Pooja Munsi , Head of Web, United Nations Environment Programme (UNEP)
+Priya L. Donti , Ph.D. Candidate, Carnegie Mellon University and Co-Founder, Climate Change AI
+64Priynka Sharma , Assistant Lecturer, University of the South Pacific
+Rajiv Garg , Climate Technology Center and Network (CTCN)
+Rebaone Ferguson , Human Rights Officer, Office for the High Commissioner for Human Rights 
+(OHCHR)
+Régia Estevam Alves , Specialist Researcher in Land Degradation, YouthMappers Regional Ambassador
+Reyna Ubeda , Project Officer, International Telecommunication Union (ITU)
+Rianne C ten Vee n, Independent Interdisciplinary Consultant
+Richard Matthew , Associate Dean of Research and International Programs and Professor of Urban 
+Planning and Public Policy in the School of Social Ecology, University of California, Irvine
+Richard T. Jordan , Royal Academy of Science Intl. Trust, Chief of UN Operations
+Rob Price , Co-founder of Corporate Digital Responsibility
+Robert Amahirwe , BI and Data Analyst, United Nations Environment Programme (UNEP).
+Rosie McDonald , E-waste Data Associate Officer, International Telecommunication Union (ITU)
+Ross School of Business, College of Engineering, University of Michigan
+Ryan Boudinot , Founder, Chief Executive Officer, Machines & Dreamland
+Rudradeb Mitra , CEO, Omdena
+Sally M Solaymantash , Technology Consultant
+Samuel Adunreke , Executive Director, Innovea Development Foundation    
+Sara Di Lonardo , Researcher, Italian National Research Council-Research Institute on Terrestrial 
+Ecosystems (CNR-IRET)
+Sary Qasim , MENA Region Lead, Government Blockchain Association GBA
+Satya Das , Digital Economist
+Severin Sindizera , Global Coordinator, Indigenous Peoples Global Forum for Sustainable Development, 
+IPGFforSD 
+Sherwood Moore , Communication and Community Engagement at ICANN, Linux Hyperledger Climate 
+Action and Accounting Special Interest Group Co-chair 
+Simon Gardner , Head of Digital Environment, Natural Environment Research Council (NERC)
+Somya Joshi , Head of Division, Stockholm Environment Institute (SEI)
+Sreekanth Venkataraman , Independent Digital Expert
+Stefanie Kunkel , Research Group “Digitalization and Sustainability Transformations” at the Institute for 
+Advanced Sustainability Studies (IASS), Potsdam, Germany   
+Stefano Balbi , Researcher, Basque Centre for Climate Change
+Stephanie Race , Founder & CEO, Earth Labs Group
+Steve Vosloo , Digital Learning, Innovation and Policy Specialist, United Nations Children’s Fund 
+(UNICEF) 
+Steven Stone , Deputy Director, Economy Division, United Nations Environment Programme (UNEP)
+Terry Gunning , Senior Managing Partner, Technology, DXC
+Theresa Schwarz , UN Global Pulse, Finland
+Tim Frick , Advocate for the Responsible, Equitable, and Sustainable Use of Design and Technology, 
+Certified B Corp Owner 
+Tim Scott , Policy Advisor, Environment, United Nations Development Programme (UNDP)
+Tom Baumann , Co-Founder and CEO of ClimateCHECK, Co-Chair of Climate Chain Coalition
+Vanessa Gray , Head of the Division for Environment and Emergency Telecommunications, International 
+Telecommunication Union (ITU)
+Vasudev Bhandarkar , CEO ScoreData Corporation
+Vlad Coroama , Lecturer in Smart Energy and Digitalization & Sustainability, ETH Zurich
+Yaxuan Chen , United Nations Environment Programme (UNEP)
+Zeinab El Maadawi , Professor, Cairo University and Digital Learning Expert at UN
+65CODES Communication Products
+Alison Meston , International Science Council
+Andrew Raven , Writer, Communication Division, United Nations Environment Programme (UNEP) 
+Beverley McDonald , Report and Graphic Design, Communication Division, United Nations Environment 
+Programme (UNEP) 
+Daniel Cooney , Director, Communication Division, United Nations Environment Programme (UNEP) 
+David Cole , Head of Social Media, Communication Division, United Nations Environment Programme 
+(UNEP) 
+Dylan Lowthian , Head of Media, United Nations Development Programme (UNDP)
+Fan Zhang , Office of the UN Secretary-General’s Envoy on Technology
+Josie Raine , Communication Specialist, Nature Climate and Energy Team, United Nations Development 
+Programme (UNDP)
+Katie Elles , Head Writer, Communication Division, United Nations Environment Programme (UNEP) 
+Keishamaza Rukikaire , Head of News and Media, Communication Division, United Nations Environment 
+Programme (UNEP) 
+Kelvin Memia , Web Developer and Digital Marketing support, Communication Division, United Nations 
+Environment Programme (UNEP) 
+Maria Vittoria Galassi , Digital Transformation Account Manager, Communication Division, United Nations 
+Environment Programme (UNEP) 
+Martin Ittershagen , German Environmental Agency
+Mia Dee Foster , Senior Multimedia Producer, Communication Division, United Nations Environment 
+Programme (UNEP) 
+Miranda Grant , Head of Multimedia, Communication Division, United Nations Environment Programme 
+(UNEP) 
+Moses Osani , Public Information Officer, Communication Division, United Nations Environment 
+Programme (UNEP) 
+Nancy Groves , Chief of Digital Strategy, Communication Division, United Nations Environment 
+Programme (UNEP) 
+Neha Sud , Chief of Content, Communication Division, United Nations Environment Programme (UNEP) 
+Patrick Kihara , Writer, Communication Division, United Nations Environment Programme (UNEP) 
+Pooja Munshi , Head of Web, Communication Division, Digital Transformation Taskforce, United Nations 
+Environment Programme (UNEP) 
+Rachelle Fox , Future Earth & Sustainability in the Digital Age
+Sahya Haria , Social Media, Communication Division, United Nations Environment Programme (UNEP) 
+Tal Harris , Media Engagement, Communication Division, United Nations Environment Programme (UNEP) 
+Digitalization is one of the most important drivers of economic, social and environmental transformation. It 
+has given rise to powerful general-purpose technologies such as artificial intelligence and cloud computing 
+that offer revolutionary scale and potential. Digital transformation is globally pervasive, increasing 
+productivity, disrupting pre-existing business models and leading to diverse innovations with profound 
+implications for the human future. This transformation has enormous potential to support progress towards 
+sustainability however in its current form, it continues to enable and/or encourage unsustainable practices 
+that are degrading natural systems, entrenching inequality and undermining human wellbeing. 
+There is an urgent need to reverse these negative trends and to utilize the potential of digital transformation 
+as a vital tool in developing globally sustainable economic and social behaviours. We need to move the 
+focus away from the pursuit of short-term, unsustainable gains towards the achievement of long-term 
+values-driven sustainable outcomes. Three systemic shifts are needed to harness digital transformation as 
+a positive and exponential force for progressing environmentally and socially sustainable development. 
+• Shift 1 Enable Alignment: Create the enabling conditions to align the vision, values and objectives of 
+the digital age with sustainable development;
+• Shift 2 Mitigate Negative Impacts:  A commitment to “sustainable digitalization” that mitigates the 
+negative environmental and social impacts of digital technologies;
+• Shift 3 Accelerate Innovation: Advancing investments in “digitalization for sustainability” to accelerate 
+the development and deployment of sustainability-driven digital innovation.
+Within each shift, this Action Plan identifies six strategic priorities that must be addressed during the 2022-
+2025 timeline together with 9 global Impact Initiatives to catalyse systemic transformations. The Coalition 
+for Digital Environmental Sustainability (CODES) will contribute the implementation of this Action Plan in 
+four ways:
+• Convene and connect a global community of common purpose to advance these 3 shifts; 
+• Identify enabling policies and map stakeholders for each strategic priority; 
+• Suggest Impact Initiatives as actionable items to concurrently progress strategic priorities;
+• Foster and demonstrate political leadership in advocating for and realizing the Impact Initiatives. 
+All stakeholders are invited to engage in the CODES Action Plan in one or more of the following channels:
+• Catalyser:  Stakeholders seeking to engage directly with one or more of the Impact Initiatives that are 
+proposed in the Action Plan.
+• Action Network:   Stakeholders contributing to and leveraging the 3 shifts proposed in the Action Plan to 
+support the progression of digital sustainability. 
+• Advocates: Stakeholders seeking to contribute their expertise to the CODES community and become an 
+advocate for the CODES vision and values.
+More information is available on  
+the CODES Community Page on  
+www.sparkblue.org/CODES

@@ -1,0 +1,375 @@
+South School on Internet GovernanceSSIG fellow´s contribution to the Global Digital Compact
+TheSouthSchoolonInternetGovernancehasjoinedeffortswithitsparticipantstocontributetothe Global Digital Compact consultation organized by the United Nations.
+Contributionswerereceivedfrom65fellowsfrom22countriesofthefivecontinents,theirnames,countryofresidenceandstakeholdergrouparedetailedinthisdocument,coordinatedbytheSSIGacademicteam.Theconsultationandelaborationofthefinaldocumentwasmadeinthreelanguages: English, Spanish and Portuguese.
+Thiscontributionwaspreparedthroughanonlineprocessofconsultationandcommunitydrafting,whichincludesthe7keydigitalissuesthattheCommonAgendareportsuggestsfortheDigitalGlobal Compact, these are the following:
+1- Connect everyone to the Internet, including all schools2- Avoid Internet fragmentation3- Protect data4- Apply human rights online5- Introduce accountability criteria for discrimination and misleading content6- Promote the regulation of artificial intelligence7- Digital commons as a global public good
+The South School on Internet Governance and all its community of fellows from all over the worldmakes this contribution hoping that it will be helpful and valuable for this process.
+Olga CavalliAcademic DirectorSouth School on Internet Governanceolga@gobernanzainternet.orgAdrián CarballoDirector Institutional RelationsSouth School on Internet Governanceadrian@gobernanzainternet.org
+1
+
+SSIG fellow contributors to the Global Digital Compact
+In alphabetical order by country of residence
+Name
+Country of residence
+Stakeholder
+Olga Cavalli
+Argentina
+Academia
+Camila Aldana
+Argentina
+Technical community
+Edith Sztychmasjter
+Argentina
+Private sector
+Emiliano Leonel Aguirre V ila
+Argentina
+Civil Society
+Claudia Gabriela Gasol V arela
+Argentina
+Academia
+Oscar Gabriel Cervella
+Argentina
+Private sector
+María Gilda Carballo
+Argentina
+Academia
+Stella Maris Moreira
+Argentina
+Academia
+Ezequiel Gonzalez
+Argentina
+Government
+Sebastian Thüer
+Argentina
+Academia
+Marcela Alejandra Travé
+Argentina
+Academia
+Eva Maricel W amba Ortiz
+Argentina
+Government
+AHM Bazlur Rahman
+Bangladesh
+Civil Society
+Iqbal Ahmed
+Bangladesh
+Private sector
+Andy Alvaro Saavedra Guevara
+Bolivia
+Private sector
+Karina Ingrid Medinaceli Díaz
+Bolivia
+Academia
+Mariana Ottich
+Bolivia
+Government
+Miguel Herman
+Brazil
+Academia
+Cristiane Jacqueline Felinto
+Brazil
+Government
+Ricardo Alan Kardec Loiola
+Brazil
+Technical community
+Larissa Galdino de Magalhães Santos
+Brazil
+Academia
+Marvin Correia
+Brazil
+Civil Society
+Carolina Sancho Hirane
+Chile
+Academia
+Carolina V alenzuela
+Chile
+Technical community
+Juan Sebastián Gonzalez Sanabria
+Colombia
+Academia
+Paula Otalora Heredia
+Colombia
+Academia
+Víctor Alfonso Bedoya Mancera
+Colombia
+Academia
+Roberto Lemaitre Picado
+Costa Rica
+Academia
+Alfredo V elazco
+Ecuador
+Civil Society
+Francisco Montesdeoca
+Ecuador
+Civil Society
+Sandra V erónica Rodriguez Dominguez
+El Salvador
+Academia
+2
+Alberto Barbero Merás
+España
+Academia
+Kervens St Sauveur
+Haïti
+Academia
+Christian Rameau
+Haïti
+Academia
+Henry Javier Pinto Flores
+Honduras
+Private sector
+Sandy Karyna Palma Rodríguez
+Honduras
+Government
+Kapil Goyal
+India
+Academia
+Kapil Goyal
+India
+Academia
+Valentina Grazia Sapuppo
+Italy
+Civil Society
+Bonface Witaba
+Kenya
+Civil Society
+Lorena Maldonado
+México
+Private sector
+Gerardo Martínez Hernández
+México
+Civil Society
+Hilda Saray Gómez González
+México
+Civil Society
+Javier V elázquez Camargo
+México
+Academia
+Adolfo Jesús Toledo Fraginals
+México
+Academia
+Erika-Y amel Munive-Cortés
+México
+Civil Society
+Juan Antonio Ramírez Márquez
+México
+Private sector
+Anahiby Becerril
+México
+Academia
+Sergio Reynoso
+México
+Private sector
+Alicia Edith Trejo Jiménez
+México
+Private sector
+Denisse Lelis
+México
+Private sector
+Alma Romero Casales
+México
+Government
+Joel Robinson
+Panamá
+Government
+Isabel Fiafilio Rodríguez
+Perú
+Civil Society
+Wilmer Caról Azurza Neyra
+Perú
+Government
+Judith Murungi
+Uganda
+Academia
+Felix Uribe
+United States of America
+Academia
+Gustavo Ortega Alvarado
+United States of America
+Civil Society
+Federico Rodríguez Hormaechea
+Uruguay
+Private sector
+Nicolas Fiumarelli
+Uruguay
+Technical community
+Diego Cajade
+Uruguay
+Civil Society
+Alfredo vaneskahian
+Uruguay
+Government
+Patricia Flores
+Venezuela
+Government
+3
+About the South School on Internet Governance
+ThemainobjectiveoftheSouthSchoolonInternetGovernanceistoinvolveyoungstudentsandprofessionalsfromLatinAmericaandtheCaribbean,trainedindifferentdisciplines,tobecomeinvolvedintheInternetGovernancedebateandtounderstanditsimportanceinthefutureoftheInternet.
+Theiractiveinvolvementisrelevanttoaddressissuesthatareimportantforthedevelopmentofthe region and its insertion in a globalized world.
+The mission of the South School on Internet Governance is:
+●IncreasetherepresentativenessoftheLatinAmericanandCaribbeanregioninspaceswhere Internet Governance is debated and defined
+●Createatrainingspacefornewgenerationsofprofessionalswhoactivelyparticipateinmeetings where the future of the Internet is shaped
+●TrainnewleadersofopinionontopicsrelatedwithInternetGovernanceineachofthecountries of the region
+Inthe14consecutiveeditionsoftheSouthSchoolonInternetGovernance,morethan7,000fellowshipshavebeenawardedtoface-to-faceandremoteparticipantsfromcountriesfromthefivecontinents.Thousandsofremoteparticipantsfromaroundtheworldwerealsoinvolvedthroughremote/hybridparticipation.Allthe14editionshavesimultaneoustranslationinEnglish/Spanish and when organized in Brazil also in Portuguese.
+Onsitefellowsreceiveacompletefellowshipthatincludestraining,hotel,andmeals.Allactivitiesof the SSIG are free for the community.
+SSIG offers free fellowships for a six-month training program in three stages:
+●Stage1Eight-weekpreparatorycoursebasedonpodcasts,videosandreadingmaterial,withexclusivematerialpreparedbySSIGteaminSpanishandEnglish,including30learninghours.
+●Stage2One-weekface-to-face/hybrideventofintensivetrainingwithsimultaneoustranslation by interpreters, with 40 hours of learning.
+●Stage3ResearchphasewithsupervisionandtutoringbyUniversityofMendoza,Argentina,toobtainaDiplomainInternetGovernanceforthosefellowswithauniversitydegreewhosuccessfully complete the three learning stages.
+TheSouthSchoolonInternetGovernancerotatesbetweencountriesandhasbeenorganizedwithgreat success in:
+1) 2009 - Buenos Aires, Argentina2) 2010 - San Pablo, Brazil3) 2011 - Ciudad de México, México4) 2012 - Bogotá, Colombia5) 2013 - Panamá, Panamá6) 2014 - Port of Spain, Trinidad & Tobago7) 2015 - San José de Costa Rica
+4
+8) 2016 – OAS Venue, Washington DC, USA9) 2017 - FGV - Río de Janeiro, Brazil10) 2018 – OAS Venue CYBER SSIG, Washington DC, USA11) 2019 - Secretaría de Economía, Ciudad de México12) 2020 – Virtual Edition – Host:University of Buenos Aires13) 2021 – Virtual Edition – Host: MINTIC Colombia14) 2022 - Hybrid Edition - Buenos Aires, Argentina
+TheSSIGLACYouTubechannelcontainsvideosofalleditionsofSSIG.Eachsessioncanbeviewedindependently in Spanish or English.
+SSIGhasreceivedthe“WSISChampion”awardfromtheUnitedNationsinrecognitionofitsimpacton Internet training.
+SSIGisafoundingmemberofthe“DynamicCoalitionofSchoolsonInternetGovernance”attheUnited Nations Internet Governance Forum.
+In2018thebook"InternetGovernanceandRegulationsinLatinAmerica''waspublishedinhonorofthetenthanniversaryoftheSouthSchoolonInternetGovernance.ThebookisavailableinSpanish, English and Portuguese free for the community visitingwww.gobernanzainternet.org.
+Website:www.gobernanzainternet.org
+Twitter: @SSIGLAC
+YouTube channel: SSIG LAC
+Facebook / Linkedin: South Scholl on Internet Governance
+Instagram: SSIGLAC
+Contact: info@gobernanzainternet.org
+5
+
+English versionSouth School on Internet Governance fellow´scontribution to the Global Digital Compact
+The South School on Internet Governance has joined efforts with its participants to contribute tothe Global Digital Compact consultation organized by the United Nations.
+Fellows from different countries have contributed this document to the Global Digital Compactprocess. The contribution to the Digital Global Compact has been made through an online surveythat includes the 7 key digital issues that the Common Agenda report suggests for the DigitalGlobal Compact, these are the following:
+1- Connect everyone to the Internet, including all schools2- Avoid Internet fragmentation3- Protect data4- Apply human rights online5- Introduce accountability criteria for discrimination and misleading content6- Promote the regulation of artificial intelligence7- Digital commons as a global public good
+Here are the contributions made by fellows at the South School on Internet Governance:
+1-Connect everyone to the Internet, including all schools
+Making all people literate in the use of ICTs is a fundamental principle.The Internet is a human right, therefore it must be accessible, affordable, taking into accountuniversal accessibility for all.Access to knowledge must be universal, which is why it is necessary to guarantee Internet access inschools regardless of their location.All people must have access to the infrastructure necessary to access the Internet and must receivetraining in the safe use of the Internet.States must make the necessary and verifiable efforts to guarantee Internet access throughouttheir territory.Public administrations must ensure the health and well-being of digital human beings.States must work to build digital trust.States must commit themselves to breaking down the digital divide by providing schools with thenecessary infrastructure and equipment for the education of the youngest human beings.Public administrations must guarantee digital operators, digital users and digital learners the Rightto Disconnect.The Internet must be the widest network in the world, it must cover the whole world and it mustbe for everyone.Digital education and digital training must be a priority so that people can learn how the Internetreally works, its advantages and disadvantages, so that they can assert their rights and duties andpropose solutions for better Internet management. This could reduce the impact of digitaltechnology on global warming, reduce cyber attacks, and decrease the dehumanization of userstowards technology.
+6
+Digital education and digital training must be one of the priorities of national governments tocreate a culture of Internet use that will combat crimes against children and the most vulnerablepeople.Behavioral ethics must find a central role among the teachings of the Digital School.
+1.2- Key commitment to this principle
+All human beings have the right to be digital human beings.Fundamental personal rights must be guaranteed on the Internet.Regulations must be created to protect freedom of expression, neurorights and data protection.Digital access is a fundamental right.Digital learners have the right to realize themselves and their digital identity on the World WideWeb.States must guarantee universal Internet access to the entire population, particularly the mostvulnerable, monitoring the availability of the Internet for all, including rules that oblige Internetservice providers to provide Internet service to schools.Incentives and alliances must be developed to deploy the necessary infrastructure, constantlyworking to improve and develop its Internet infrastructure.All public officials and political leaders must understand the benefit of the internet.States must adopt transparent regulations that guarantee remuneration to human beings whentheir services are impacted by cybersecurity failures caused by third parties as a result of omissionsand negligence.The governments of the global South will have to work in partnership with the countries of theNorth to have the best infrastructure and so that the Internet connection in the North is similar tothat of the South. Each country must work on a digital letter adapted to their customs, theirtradition, their population and their internal laws so that they can protect themselves and therights of their respective population. Digital education will have to be taught in primary andsecondary schools in each country because as language, biology and history are basic goods tointegrate well into society, digital education is vital so that they can know how not to be addicted,Learn about the impact of digital technologies on global warming, the importance of protectingyour data on the Internet and your digital rights and duties.
+2-Avoid Internet fragmentation
+Interconnection must be guaranteed in all regions of the planet, promoting digital integration andinclusion, without restricting Internet access.The internet must be homogeneous and standard, it must be a tool to guarantee access toadequate and truthful information.The power of the internet lies in its reach and must be taken care of, taking care of net neutrality.The Internet must remain an open network, without restrictions and with common protocols. Thestronger the Internet, the better its benefits will be for everyone. A strong Internet is inclusive andresilient.States must offer public open data services and the adoption of open protocols.Avoiding the fragmentation of the Internet is an important goal to ensure that the Internet remainsa global, open and interoperable platform that fosters innovation, communication and access toinformation for all users.Countries must commit to an Internet that is globally compatible and interoperable.
+7
+2.1 - Key commitment to this principle
+Risk management must be done preemptively to ensure continuous interconnection.Freedom of expression and access to information must be guaranteed and Internet interoperabilitystandards must be regulated.It is important to establish sanction agreements for fragmentation detections promoted bygovernment entitiesThe population must be educated and the development of clear policies on net neutralityencouraged, in which all interested parties must participate.The Internet must be an open place where freedom prevails and with minimal governmentinterference.Just as domain name administration has an Enforcement Authority which is ICANN, theMultistakeholder community should create an entity that acts as an Enforcement Authority toprevent fragmentation events.Training should be created to identify the factors that lead to the fragmentation of the Internet.States should monitor the monopolization of data services and the massive promulgation of thirdparties in the adoption of proprietary protocols.Avoiding the fragmentation of the Internet requires a collaborative and multifaceted approach thatinvolves all stakeholders from all sectors of society.
+3-Protect data
+States must guarantee the right to be alone.The protection of personal data is a right that must be exercised on the Internet.It is of great importance to safeguard the use of personal data: my information is my property,without my permission no one can use my data and information.Data protection must be guaranteed from the States in all areas by design and by default.A fundamental principle for the use of data is that the citizen must be the sole owner of their dataand have the freedom to withdraw them when they consider it necessary.It is urgent to raise awareness of the use of data on the Internet since data protection is a humanright and a fundamental right.Conscious, voluntary consent to transparent data processing, given by data subjects, is essentialand its collection must be demonstrated by data controllers, public and private.States must constantly verify that all companies operating in their territory and/or under theirjurisdiction do not design their business model based on the personal data of users.It is of crucial importance that each State provides itself with an infrastructure that guarantees therights of data subjects.Data subjects must be guaranteed the right of access to their data.Data subjects must be guaranteed the right to rectification of their data.Data subject must have the right to obtain the erasure of personal data.Data subjects must have the right to restriction of processingof personal data.Data subject must have the right to erase personal data.Data subject must have the right to object to processing of personal data.The data subject must have the right to not be subject to a decision based exclusively onautomated processing of personal data.Data subjects must have the right to appeal to the courts for compensation claims arising fromillegal processing of their data.
+8
+3.1 - Key commitment to this principle
+Data regulation requires respecting international conventions, protecting the individual frommisuse of data and respecting the data of others.It is important to educate and make users aware of the risks of the information they share on theInternet and make the impact of privacy visible. Sanctions should be established for the misuse ofpersonal data.There should be a global data protection regulation applicable anywhere in the world regardless oflocation.The regulations must allow a point of contact to be able to exercise the right against technologycompanies.Greater controls must be implemented in the processing of personal data and information must beprovided to human beings to protect themselves.Political leaders must be aware of data governance and States must adopt regulations andstandards that monitor data protection for all human beings and especially the most vulnerable.Data protection will also require a multi-layered approach involving technical, administrative andphysical security measures, as well as regular monitoring and testing to ensure that data remainssecure over time.
+4-Apply human rights online
+Anonymity in the network must be avoided, as well as raising awareness among the populationabout the risks of cybercrime.Governments must be guarantors of ensuring the rights of human beings, regardless of theirphysical or digital location.Freedom of expression online is a fundamental principle for a democratic society.Human rights must be applied in all interactions of the subjects.States must adopt mandatory and optional national and international measures to promote aculture of respect for human rights.Digital life is an extension of human life: human beings in any field require respect and defense oftheir human rights.Human beings have the right to informed consent, which must be established when theircommunication is mediated through Artificial Intelligence.It is of great importance to consider that human rights are extrapolated to cyberspace, to establishtheir scope, manifestation and impact.
+4.1 - Key commitment to this principle
+Network security can be achieved through preventive measures, campaigns must be created tohelp raise awareness of actions that may affect the rights of users.Mechanisms must be established to prevent rights protection measures (copyright and personaldata) from being means of censorship. We must work, educate, and legislate together to achieve it.The necessary tools for the application of human rights must be made available to people.At the international level, a "Scoring" system should be created where companies "voluntarily"adhere and on a common basis of certain points, an Enforcement Authority, monitors and pointsare taken out in case of verifying non-compliance or acknowledging their work in accordance withhuman rights, as an incentive. These recognitions, for the companies, would operate as a capitaland a good letter of introduction for their businesses.
+9
+States must regulate and regulate the implications of the interaction of Artificial Intelligence withhuman beings according to the risks and impacts of these relationships.Recognize and protect freedom of expression, combating hate speech and discrimination online.
+5-Introduce accountability criteria for discrimination and misleading content
+Put an end to digital functional illiteracy by educating people about the rights on the Internet andthe responsibility of its use.Regulate and prosecute illegal activities carried out through the Internet, protecting the user fromthe use of misleading content.Promote the validation of publication and dissemination of content by applications when there is amass reproduction of some text or image.You must educate yourself to be able to discern false or misleading news or content.Every citizen has the right to receive accurate information and not be subject to subversion andambiguity of content.Recognize vulnerability to erroneous information, that which is deliberately false and that which ismanipulated, aiming to confuse what is true with what is distorted, leading to equivocalconclusions, particularly when this can affect collective decision-making processes.
+5.1 - Key commitment to this principle
+States must train and generate dissemination campaigns that explain the danger of misleading orfalse content being disseminated on the Internet.Use Artificial Intelligence to detect misleading content by creating tools or firewalls for misleadingcontent.Make the population aware of misleading content.The right to digital non-discrimination and to receive truthful information must be guaranteed.Establish sanctions and corrective actions for people who generate misleading content, includingthe impossibility of connecting to technological means to avoid repetition.Develop criteria to respond to misleading content by avoiding censorship.Make tools available to penalize operators that offer misleading content online, using artificialintelligence to prevent false news from going viral and thus deceiving people.States must create and promote official observatories of public content and promote actions thatseek transparency of the actors involved.
+6-Promote the regulation of artificial intelligence
+The regulation of AI must be in favor of humanity, allow its use in an open manner, protect therights of people, and use it as a development tool in different communities.More education must be achieved to understand the scope of Artificial Intelligence and train morepeople to access it.The objective of artificial intelligence must be evaluated and its impact on job losses seen.human beings must have the right to informed consent when mediating the use of artificialintelligence in their communications.
+6.1 - Key commitment to this principle
+States must regulate AI at the international level and, on this basis, establish national policies.
+10
+Create a partnership between government regulators and end-users, including other relatedparties, to discuss how to alleviate the impact on those harmed by the advancement of artificialintelligence and build understanding of the scope of AI.Implement AI as a "living" element of society, regulating its use and scope of application andcreating AI programs with quality data.It must be respected and controlled that the results of the AI application do not contain biases,working with the aim of using it in as many tasks as possible, including the usual activities of dailylife of human beings.Just as the Internet Governance Forum was created at WSIS, a space must be created at the UNlevel for the creation of an AI Governance Forum that promotes standards and regulations thatfoster innovation and technological advancement, without neglecting the protection of humanrights.
+7-Digital commons as a global public good
+Digital common goods are the cultural heritage of humanity and their correct use and benefits tothe community must be ensured.Digital commons should help promote innovation and knowledge.The Internet must be a universal good.Digital commons are a public good in itself.Taking care of the digital commons is similar to taking care of the planet where we all live. Let's notlook for a problem like climate change to get us to act in favor of the digital commons.human beings have the right to donate the content they produce for the good of humanity withoutharming third parties.Digital commons are shared resources that are collectively managed and maintained by acommunity, rather than by a single owner or entity.As a global public good, the digital commons should be available for use and reuse by anyone whoneeds it, without restrictions or barriers such as patents, copyrights, or other forms of intellectualproperty protection. This enables people and communities around the world to benefit fromshared knowledge and resources, and to collaborate and innovate more effectively.
+7.1 - Key commitment to this principle
+It is important to define the concept of a public good by creating a common understanding of itsuse and protection.The designation of public goods should be continually reviewed because technological progress isfast, and in this review an active participation of the community is necessary.It is important to achieve the globalization of access to research content and its immediate impactin the regions, as well as to raise awareness about the concept of "global public good", what theyare, what implications they have in daily life and emphasizing the need for the law is in charge ofprotecting them, without impeding innovation.States must adopt policies that promote innovation and free dissemination of content for humanbeings.The creation and sharing of digital resources should be encouraged: promotion of open sourcesoftware, open data and open educational resources, as well as support for the creation anddissemination of scientific research and cultural works.
+11
+Fostering community collaboration and engagement: This involves promoting communitycollaboration and engagement in the management and maintenance of the digital commons, andensuring that the benefits of these resources are widely and equitably shared.
+Spanish versionSouth School on Internet Governance fellow´scontribution to the  Global Digital Compact
+LaSouthSchoolonInternetGovernancehasumadoesfuerzosconsusparticipantesparacontribuira la consulta del Global Digital Compact organizada por Naciones Unidas.
+BecariosdedistintospaíseshancontribuidoconestedocumentoalprocesodeGlobalDigitalCompact.LacontribuciónalPactoMundialDigitalseharealizadoatravésdeunaencuestaenlíneaqueincluyelos7temasdigitalesclavequeelinformedelaAgendaComúnsugiereparaelPactoMundial Digital, estos son los siguientes:
+1- Conectar a todas las personas a Internet, incluidas todas las escuelas2- Evite la fragmentación de Internet3- Proteger datos4- Aplicar los derechos humanos en línea5- Introducir criterios de rendición de cuentas para la discriminación y el contenido engañoso6- Promover la regulación de la inteligencia artificial7- Bienes comunes digitales como un bien público global
+AquísedetallanlascontribucionesrealizadasporlosbecariosdelaSouthSchoolonInternetGovernance:
+1-Conectar a todas las personas a Internet, incluidas todas las escuelas
+Alfabetizar en el uso de las TIC´s a todas las personas es un principio fundamental.Internetesunderechohumanoporlotantodebesergenuinamenteaccesible,asequible,teniendoen cuenta la accesibilidad universal para todos.Elaccesoalconocimientodebeseruniversal,porloqueserequieregarantizarelaccesoaInternetenlasescuelasindependientementedesuubicacióny/ocantidaddehabitantesdondeseencuentre.TodaslaspersonasdebenteneraccesoalainfraestructuranecesariaparateneraccesoaInternetydeben recibir capacitación para el uso seguro de internet.LosEstados,debenrealizarlosesfuerzosnecesariosycomprobables,paragarantizarelaccesoaInternetentodosuterritorio,locualincluyezonasruralesyalejadasdelosgrandescentrosurbanos.Internetdebeserlamásampliaredenelmundo,debecobijaratodoelmundoydebeserparatodos.Laeducaciónyformacióndigitaldebeserunaprioridadparaquelaspersonaspuedanconocercómofuncionarealmenteinternet,susventajasydesventajas,quepuedanhacervalersuderecho
+12
+ysudeberyproponersolucionesparaunamejorgestióndeInternet.Estopodríareducirelimpactodelatecnologíadigitalenelcalentamientoglobal,reducirlosciberataques,disminuyendola deshumanización de los usuarios hacia la tecnología.
+1.2- Compromiso clave para este principio
+Se deben crear regulaciones para proteger la libertad de expresión y la protección de datos.Losestadosdebengarantizarelaccesouniversalatodalapoblación,particularmentealosmásvulnerables,vigilandoladisponibilidaddelInternetparatodos,incluyendoreglasqueobliguenalos oferentes de servicios de internet a otorgar servicio de Internet a las escuelas.Sedebendesarrollarincentivosyalianzasparadesplegarlainfraestructuranecesariaentodosuterritorio, trabajando constantemente en mejorar su infraestructura de Internet y desarrollarla.Todos los funcionarios públicos y líderes políticos deben comprender el beneficio del internet.LosEstadosdebenadoptarunanormativatransparentequegaranticelaremuneraciónalosciudadanoscuandosusserviciosseanimpactadosporfallasdeciberseguridadocasionadasporterceros a consecuencia de omisiones y negligencias.LosgobiernosdelSurglobaltendránquetrabajarensociedadconlospaísesdelNorteparatenerla mejor infraestructura y para que la conexión a Internet en el Norte sea similar a la del Sur.Cadapaísdeberátrabajarenunacartadigitaladaptadaasuscostumbres,sutradición,supoblaciónysusleyesinternasparaquepuedanprotegerseasímismosyalosderechosdesurespectivapoblación.Laeducacióndigitalsetendráqueenseñarenlaescuelaprimariaysecundariadecadapaísporquecomoelidioma,labiologíaylahistoriasonbienesbásicosparaintegrarsebienenlasociedad,laeducacióndigitalesvitalparaquepuedansabercómonoseradictos,conocerelimpactodetecnologíasdigitalessobreelcalentamientoglobal,laimportanciade proteger sus datos en Internet y sus derechos y deberes digitales.
+2-Evitar la fragmentación de Internet
+Lainterconexióndebegarantizarseentodaslasregionesdelplaneta,promoviendolaintegracióndigital y la inclusión, sin restringir el acceso a Internet.Elinternetdebeserhomogéneoyestándar,debeserunherramientaparagarantizarelaccesoalainformación adecuada y con veracidad.El poder de internet reside en su alcance y se debe cuidar, cuidando la neutralidad de la red.Internetdebeseguirsiendounaredabierta,sinrestriccionesyconprotocoloscomunes,mientrasmásfuerteseaInternet,mejorseránsusbeneficiosparatodos.UnaInternetfuerteesincluyenteyresiliente.LosEstadosdeberánofrecerserviciospúblicosdedatosabiertosylaadopcióndeprotocolosabiertos.SedebeevitarlafragmentacióndeInternetesunobjetivoimportanteparagarantizarqueInternetsigasiendounaplataformaglobal,abiertaeinteroperablequefomentelainnovación,lacomunicación y el acceso a la información para todos los usuarios.LospaísesdebencomprometerseacontarconunaInternetqueseacompatibleanivelmundial,einteroperable.
+13
+2.1 - Compromiso clave para este principio
+Lagestiónderiesgosdeberealizarsedemanerapreventivaparaasegurarunainterconexióncontinua.Sedebegarantizarlibertaddeexpresiónyaccesoalainformaciónyregularlosestándaresdeinteroperabilidad del Internet.Esimportanteestableceracuerdossancionatoriosadeteccionesdefragmentaciónpropiciadosdesde entes gubernamentalesSedebeeducaralapoblaciónyfomentareldesarrollodepolíticasclarassobrelaneutralidaddelared, en la que deben participar todos los actores interesados.InternetdebedeserunlugarabiertodondeprimelalibertadyconlamínimainterferenciadelosgobiernosAsícomolaadministracióndenombresdedominiostieneunaAutoridaddeAplicaciónqueesICANN,lacomunidaddeMultistakeholderdeberíacrearunaentidadqueactúecomoAutoridaddeAplicación para prevenir eventos de fragmentación.Sedebencrearcapacitacionesparaidentificarlosfactoresquesuponenlafragmentacióndelinternet.LosEstadosdeberánmonitorearlamonopolizacióndeserviciosdedatosylapromulgaciónmasivade terceros en la adopción de protocolos propietarios.EvitarlafragmentacióndeInternetrequiereunenfoquecolaborativoymultifacéticoqueinvolucrea todas las partes interesadas de todos los sectores de la sociedad.
+3-Proteger los datos
+LaproteccióndedatosdebedesergarantizadadesdelosEstadosentodoslosámbitospordefecto.Esdegranimportanciasalvaguardarelusodedatospersonales:miinformaciónesmipropiedad,sin mi permiso nadie puede usar mis datos y mi información.Unprincipiofundamentalparaelusodedatosesqueelciudadanodebeserelúnicopropietariode sus datos y tener la libertad de retirarlos cuando considere necesario.La protección de datos personales es un derecho que se debe poder ejercer en Internet.Esurgentelaconcientizacióndelusodelosdatoseninternetyaquelaproteccióndedatosesunderecho humano y un derecho fundamental.LosEstadosdebenverificarconstantementequetodaslasempresasqueactúenensuterritorioy/obajosujurisdicción,nodiseñensumodelodenegociobasadoenlosdatospersonalesdelosusuarios.ElpropioEstadodeberealizarunusorazonableycriteriosodelosdatospersonalesdelosciudadanos limitando su uso al mínimo indispensable.
+3.1 - Compromiso clave para este principio
+Laregulacióndedatosrequiererespetarconvencionesinternacionales,protegiendoalindividuodeuso indebido de los datos y respetando los datos de otros.Esimportanteeducaryconcientizaralosusuariossobrelosriesgosdelainformaciónquecomparteneninternetyhacervisibleelimpactodelaprivacidad.Sedebenestablecersancionespor el uso indebido de los datos personales.
+14
+Deberíaexistirunanormativaglobaldeproteccióndedatosaplicableencualquierpartedelmundo sin importar la localización.Lasregulacionesdebenpermitirunpuntodecontactoparapoderejercerelderechocontraempresas de tecnología.Sedebendeimplementarmayorescontrolesenlostratamientosdedatospersonalesyfacilitaralciudadano información para protegerse.LoslíderespolíticosdebenconocerlagobernanzadedatosylosEstadosdeberánadoptarregulacionesynormasquevigilenlaproteccióndedatosparatodoslosciudadanosyenespeciallos más vulnerables.Laproteccióndedatostambiénrequeriráunenfoquedemúltiplesnivelesqueinvolucremedidasdeseguridadtécnicas,administrativasyfísicas,asícomomonitoreoypruebasregularesparagarantizar que los datos permanezcan seguros a lo largo del tiempo.ElpropioEstadodeberátenerunapolíticadeproteccióndedatospersonalesclara,transparenteyque informe a los ciudadanos cómo será procesada su información.
+4-Aplicar los derechos humanos online
+Sedebeevitarelanonimatoenlared,tambiénconcientizaralapoblaciónsobrelosriesgosdelosciberdelitos.LosGobiernosdebensergarantesdevelarporlosderechosdelosciudadanos,independientemente de su lugar físico o digital.La libertad de expresión en línea es un principio fundamental para una sociedad democrática.Los derechos humanos se deben aplicar en todas las interacciones de los sujetos.LosEstadosdebenadoptarmedidasnacionaleseinternacionales,obligatoriasyfacultativasparapromover una cultura de respeto a los derechos humanos.Lavidadigitalesunaextensióndelavidahumana:elserhumanoencualquierámbitorequiererespeto y defensa de sus derechos humanos.Losciudadanostienenderechoalconsentimientoinformado,elquedebeestablecersecuandosuscomunicación está mediada por medio de Inteligencia Artificial.Esdegranimportanciaconsiderarquelosderechoshumanosseextrapolanalciberespacio,establecer su alcance, manifestación e impacto.
+4.1 - Compromiso clave para este principio
+Laseguridadenlaredsepodráconseguiratravésdemedidaspreventivas,sedebencrearcampañasqueayudenaconcientizardelasaccionesquepuedenafectarlosderechosdelosusuarios.Sedebenestablecermecanismosparaevitarquemedidasdeproteccióndederechos(derechosdeautorydatospersonales)seanmediosdecensura.Debemostrabajar,educar,legislarjuntosparalograrlo.Sedebenponeradisposicióndelaspersonaslasherramientasnecesariasparalaaplicacióndelosderechos humanos.Anivelinternacionaldeberíacrearseunsistemade"Scoring"dondelasempresas"voluntariamente"seadhieranysobreunabaseencomúndedeterminadospuntos,unaAutoridaddeAplicación,hagaunmonitoreoyselesaquepuntosencasodeverificarseincumplimientosoreconocersulaboracordealosDerechosHumanos(DDHH),amodode
+15
+incentivo.Esosreconocimientos,paralasempresas,operaríacomouncapitalyunabuenacartadepresentación para sus negocios.LosEstadosdebenderegularynormarlasimplicacionesdelainteraccióndelaInteligenciaArtificial con la ciudadanía según los riesgos e impactos de estas relaciones.Reconoceryprotegerlalibertaddeexpresión,combatiendoeldiscursodeodioyladiscriminaciónen línea.
+5-Introducir criterios de rendición de cuentas para la discriminación y el contenido engañoso
+AcabarconelanalfabetismofuncionaldigitaleducandoalaspersonassobrelosderechosenInternet y la responsabilidad de su uso.RegularyperseguiractividadesilícitasrealizadasmedianteInternet,protegiendoalusuarioporeluso de contenido engañoso.Promoverlavalidacióndepublicaciónydifusióndecontenidosporaplicacionescuandosepresente reproducción en masa de algún texto o imagen.Se debe educar para poder discernir noticias o contenidos falsos o engañosos.Todociudadanotieneelderechoarecibirinformaciónprecisaynosujetaalasubversiónyambigüedad de contenido.Reconocerlavulnerabilidadanteinformaciónerrónea,laqueesdeliberadamentefalsayaquellaqueesmanipulada,orientándoseaconfundirentreloqueescierto,lodistorsionadoinduciendoaconclusionesequívocas,particularmentecuandoellopuedeincidirenprocesosdecisionalescolectivos.
+5.1 - Compromiso clave para este principio
+LosEstadosdebencapacitarygenerarcampañasdedifusiónqueexpliquenelpeligrodequeelcontenido engañoso o falso se difunda por Internet.UtilizaralaInteligenciaArtificialparadetectarcontenidoengañosocreandoherramientasocortafuegos para esos contenidos engañosos.Concientizar a la población acerca del contenido engañoso.Se debe garantizar el derecho a la no discriminación digital y a recibir información veraz.Establecersancionesyaccionescorrectivasparapersonasquegenerencontenidoengañoso,incluyendo la imposibilidad de conectarse a medios tecnológicos para evitar su repetición.Desarrollar criterios para responder ante contenido engañoso evitando la censura.Poneradisposiciónherramientasparalasancióndelosoperadoresqueofrezcancontenidosengañososenlared,usandointeligenciaartificialparaevitarquenoticiasquesonfalsaspuedanhacerse virales y de esta forma engañar a la personas.LosEstadosdeberáncrearyfomentarobservatoriosoficialesdelcontenidopúblicoypropiciaracciones que procuren la transparencia de los actores involucrados.
+6-Promover la regulación de la Inteligencia artificial
+LaregulacióndelaIAdebeserenfavordelahumanidad,permitirsuusodemaneraabierta,protegiendolosderechosdelaspersonas,utilizándosecomoherramientadedesarrolloenlasdistintas comunidades.
+16
+SedebelograrmayoreducaciónparacomprenderlosalcancesdelaInteligenciaArtificialycapacitar a más población para su acceso.Sedebeevaluarelobjetivodelainteligenciaartificialyversuimpactoenlapérdidadepuestoslaborales.Losciudadanosdebentenerderechoalconsentimientoinformadocuandomedieelusodeinteligencia artificial en sus comunicaciones.
+6.1 - Compromiso clave para este principio
+LosEstadosdebenregularanivelinternacionallaIAy,sobreestabase,establecerpolíticasnacionales.Crearunaasociaciónentrelosorganismosreguladoresgubernamentalesylosusuariosfinales,incluidasotraspartesrelacionadasafindeanalizardequémaneraaliviarelimpactoalosperjudicados por el avance de la inteligencia artificial y generar entendimiento del alcance de AI.ImplementarlaIAcomounelemento"vivo"delasociedad,regulandosuusoyámbitodeaplicación y creando programas de IA con datos de calidad.SedeberespetarycontrolarquelosresultadosdelaaplicacióndeIAnocontengansesgostrabajandoconelobjetivodeutilizarlaenlamayorpartedetareasposiblesincluyendoactividadeshabituales de la vida diaria de los ciudadanos.AsícomosecreóelForodeGobernanzadeInternetenlaCMSI,sedebecrearunespacioenelámbitodelaONUparalacreacióndeunForodeGobernanzadeIAquepromuevaestándaresyregulacionesquefomentenlainnovaciónyelavancetecnológico,sindescuidarlaproteccióndelosDDHH .
+7-Bienes comunes digitales como bien público global
+Losbienescomunesdigitalessonpatrimonioculturaldelahumanidadysedebeasegurarellibreacceso  y su correcto uso y beneficios a la comunidad.Los bienes comunes digitales deben ayudar a promover la innovación y el conocimiento.Internet debe ser un bien universal.Los bienes comunes digitales, son un bien público en sí mismo.Cuidardelosbienescomunesdigitalesessemejanteacuidarelplanetadondetodoshabitamos.Nobusquemosunproblemacomoelcambioclimáticoparaponernosafavordelosbienescomunes digitales.Laciudadaníatienederechoadonarparabiendelahumanidadelcontenidoqueproduzcansinperjudicar a terceros.Losbienescomunesdigitalessonrecursoscompartidosquesonadministradosymantenidoscolectivamente por una comunidad, en lugar de por un solo propietario o entidad.Comobienpúblicomundial,losbienescomunesdigitalesdebenestardisponiblesparasuusoyreutilizaciónporpartedecualquierpersonaquelosnecesite,sinrestriccionesnibarrerascomopatentes,derechosdeautoruotrasformasdeproteccióndelapropiedadintelectual.Estopermitequelaspersonasylascomunidadesdetodoelmundosebeneficiendelconocimientoylosrecursos compartidos, y colaboren e innoven de manera más eficaz.
+17
+7.1.- Compromiso clave para este principio
+Esimportantedefinirelconceptodebienpúblicocreandounentendimientocomúndesuusoyprotección.Ladesignacióndebienespúblicosdeberevisarsecontinuamentepueselavancetecnológicoesveloz, y en esta revisión es necesario una activa participación de la comunidad.Esimportantelograrlaglobalizacióndelaccesoaloscontenidosinvestigativosyasuimpactoinmediatoenlasregiones,asícomocrearconcienciasobreelconceptode"bienpúblicoglobal",cuálesson,quéimplicanciastienenenlavidacotidianayenfatizandoenlanecesidaddequeelderecho se encargue de tutelarlos, sin impedir la innovación.LosEstadosdebendeadoptarpolíticasquepromulguenlainnovaciónydifusiónlibredecontenidos pro la ciudadanía.Sedebefomentarlacreaciónyelintercambioderecursosdigitales:promocióndesoftwaredecódigoabierto,datosabiertosyrecursoseducativosabiertos,asícomoelapoyoalacreaciónydifusión de investigaciones científicas y obras culturales.Fomentarlacolaboraciónyelcompromisodelacomunidad:estoimplicapromoverlacolaboraciónyelcompromisodelacomunidadenlagestiónyelmantenimientodelosbienescomunesdigitales,ygarantizarquelosbeneficiosdeestosrecursossecompartandemaneraampliayequitativa.
+Portuguese version
+South School on Internet Governance fellow´scontribution to the  Global Digital Compact
+A South School on Internet Governance uniu esforços com seus participantes para contribuir com aconsulta Global Digital Compact organizada pelas Nações Unidas.
+Bolsistas de diferentes países contribuíram com este documento para o processo do Global DigitalCompact. A contribuição para o Digital Global Compact foi feita através de uma pesquisa onlineque inclui as 7 principais questões digitais que o relatório da Agenda Comum sugere para o DigitalGlobal Compact, são elas:
+1- Conecte todos à Internet, incluindo todas as escolas2- Evite a fragmentação da Internet3- Proteja os dados4- Aplicar os direitos humanos online5- Introduzir critérios de responsabilidade para discriminação e conteúdo enganoso6- Promover a regulamentação da inteligência artificial7- Bens comuns digitais como um bem público global
+Aqui estão as contribuições feitas pelos membros da South School on Internet Governance:
+1-Conecte todos à Internet, incluindo todas as escolas
+A alfabetização de todas as pessoas no uso das TIC é um princípio fundamental.
+18
+A Internet é um direito humano, portanto deve ser acessível, acessível, levando em consideração aacessibilidade universal para todos.O acesso ao conhecimento deve ser universal, por isso é necessário garantir o acesso à Internetnas escolas, independentemente da sua localização.Todas as pessoas devem ter acesso à infraestrutura necessária para acessar a Internet e devemreceber treinamento no uso seguro da Internet.
+Os Estados devem fazer os esforços necessários e verificáveis 
+  
+para garantir o acesso à Internet emtodo o seu território.A Internet deve ser a rede mais ampla do mundo, deve abranger todo o mundo e deve ser paratodos.A educação digital e a formação digital devem ser uma prioridade para que as pessoas aprendamcomo a Internet realmente funciona, as suas vantagens e desvantagens, para que possam fazervaler os seus direitos e deveres e propor soluções para uma melhor gestão da Internet. Issopoderia reduzir o impacto da tecnologia digital no aquecimento global, reduzir os ataquescibernéticos, diminuindo a desumanização dos usuários em relação à tecnologia.
+1.2- Compromisso fundamental com este princípio
+Os Estados devem garantir o acesso universal a toda a população, especialmente aos maisvulneráveis, monitorando a disponibilidade da Internet para todos, incluindo regras que obriguemos provedores de serviços de Internet a fornecer serviço de Internet para as escolas.Incentivos e alianças devem ser desenvolvidos para implantar a infraestrutura necessária,trabalhando constantemente para melhorar e desenvolver sua infraestrutura de Internet.Todos os funcionários públicos e líderes políticos devem compreender os benefícios da Internet.Os Estados devem adotar normas transparentes que garantam a remuneração dos cidadãosquando seus serviços forem afetados por falhas de segurança cibernética causadas por terceiroscomo resultado de omissões e negligências.Os governos do Sul global terão que trabalhar em parceria com os países do Norte para ter amelhor infraestrutura e para que a conexão à Internet no Norte seja semelhante à do Sul. Cadapaís deve trabalhar em uma carta digital adaptada aos seus costumes, sua tradição, sua populaçãoe suas leis internas para que possam proteger a si mesmos e aos direitos de sua respectivapopulação. A educação digital terá que ser ensinada nas escolas primárias e secundárias de cadapaís porque como a língua, a biologia e a história são bens básicos para se integrar bem nasociedade, a educação digital é vital para que saibam como não se viciar, Conheça o impacto dastecnologias digitais sobre aquecimento global, a importância de proteger seus dados na Internet eseus direitos e deveres digitais.
+2-Evite a fragmentação da Internet
+A interconexão deve ser garantida em todas as regiões do planeta, promovendo a integração einclusão digital, sem restringir o acesso à Internet.A internet deve ser homogênea e padronizada, deve ser uma ferramenta para garantir o acesso àinformação adequada e verdadeira.O poder da internet está ao seu alcance e deve ser cuidado, zelando pela neutralidade da rede.A Internet deve permanecer uma rede aberta, sem restrições e com protocolos comuns.Quantomais forte a Internet, melhores serão seus benefícios para todos. Uma Internet forte é inclusiva eresiliente.Os Estados devem oferecer serviços públicos de dados abertos e a adoção de protocolos abertos.
+19
+Evitar a fragmentação da Internet é um objetivo importante para garantir que a Internet continuesendo uma plataforma global, aberta e interoperável que promove inovação, comunicação eacesso à informação para todos os usuários.Os países devem se comprometer com uma Internet que seja globalmente compatível einteroperável.
+2.1 - Compromisso fundamental com este princípio
+O gerenciamento de riscos deve ser feito preventivamente para garantir a interconexão contínua.A liberdade de expressão e o acesso à informação devem ser garantidos e os padrões deinteroperabilidade da Internet devem ser regulamentados.É importante estabelecer acordos de sanção para detecção de fragmentação promovidas porentidades governamentaisA população deve ser educada e o desenvolvimento de políticas claras de neutralidade da rede,
+nas quais todos os interessados 
+  
+devem participar.A Internet deve ser um lugar aberto onde a liberdade prevaleça e com o mínimo de interferênciado governo.Assim como a administração de nomes de domínio tem uma Autoridade de Execução que é aICANN, a comunidade Multissetorial deve criar uma entidade que atue como uma Autoridade deExecução para evitar eventos de fragmentação.Deve-se criar treinamento para identificar os fatores que levam à fragmentação da Internet.Os Estados devem monitorar a monopolização dos serviços de dados e a promulgação massiva deterceiros na adoção de protocolos proprietários.Evitar a fragmentação da Internet requer uma abordagem colaborativa e multifacetada queenvolve todas as partes interessadas de todos os setores da sociedade.
+3-Proteja os dados
+A proteção de dados deve ser garantida pelos Estados em todas as áreas por padrão.É de grande importância salvaguardar a utilização dos dados pessoais: as minhas informações sãopropriedade minha, sem a minha autorização ninguém pode utilizar os meus dados e informações.Um princípio fundamental para o uso de dados é que o cidadão deve ser o único proprietário deseus dados e ter a liberdade de retirá-los quando julgar necessário.A proteção de dados pessoais é um direito que deve ser exercido na Internet.É urgente sensibilizar para a utilização de dados na Internet uma vez que a proteção de dados é umdireito humano e um direito fundamental.Os Estados devem verificar constantemente se todas as empresas que operam em seu territórioe/ou sob sua jurisdição não desenham seu modelo de negócios com base nos dados pessoais dosusuários.
+3.1 - Compromisso fundamental com este princípio
+A regulamentação de dados exige respeitar as convenções internacionais, protegendo o indivíduodo uso indevido de dados e respeitando os dados de terceiros.É importante educar e conscientizar os usuários sobre os riscos das informações que compartilhamna Internet e tornar visível o impacto da privacidade. Devem ser estabelecidas sanções para o usoindevido de dados pessoais.
+20
+Deve haver um regulamento global de proteção de dados aplicável em qualquer lugar do mundo,independentemente da localização.Os regulamentos devem permitir que um ponto de contato possa exercer o direito contraempresas de tecnologia.Maiores controles devem ser implementados no processamento de dados pessoais e informaçõesdevem ser fornecidas aos cidadãos para se protegerem.Os líderes políticos devem estar cientes da governança de dados e os Estados devem adotarregulamentos e padrões que monitorem a proteção de dados para todos os cidadãos eespecialmente para os mais vulneráveis.A proteção de dados também exigirá uma abordagem em várias camadas envolvendo medidas desegurança técnica, administrativa e física, bem como monitoramento e testes regulares paragarantir que os dados permaneçam seguros ao longo do tempo.
+4-Aplicar os direitos humanos online
+O anonimato na rede deve ser evitado, assim como a conscientização da população sobre os riscosdo cibercrime.Os governos devem ser os garantes da garantia dos direitos dos cidadãos, independentemente dasua localização física ou digital.A liberdade de expressão online é um princípio fundamental para uma sociedade democrática.Os direitos humanos devem ser aplicados em todas as interações dos sujeitos.Os Estados devem adotar medidas nacionais e internacionais obrigatórias e facultativas parapromover uma cultura de respeito aos direitos humanos.A vida digital é uma extensão da vida humana: o ser humano em qualquer área exige respeito edefesa de seus direitos humanos.Os cidadãos têm direito ao consentimento informado, que deve ser estabelecido quando suacomunicação é mediada por Inteligência Artificial.É de grande importância considerar que os direitos humanos são extrapolados para o ciberespaço,para estabelecer seu alcance, manifestação e impacto.
+4.1 - Compromisso fundamental com este princípio
+A segurança da rede pode ser alcançada por meio de medidas preventivas, devendo ser criadascampanhas que ajudem a conscientizar sobre ações que possam afetar os direitos dos usuários.Devem ser estabelecidos mecanismos para evitar que medidas de proteção de direitos (direitosautorais e dados pessoais) sejam meios de censura. Devemos trabalhar, educar, legislar juntos paraalcançá-lo.As ferramentas necessárias para a aplicação dos direitos humanos devem ser disponibilizadas àspessoas.A nível internacional, deve ser criado um sistema de "Scoring" onde as empresas adiram"voluntariamente" e numa base comum de determinados pontos, uma Enforcement Authority,monitores e pontos são retirados em caso de verificação de incumprimento ou reconhecimento doseu trabalho em de acordo com os direitos humanos, como um incentivo. Esses reconhecimentos,para as empresas, funcionariam como um capital e uma boa carta de apresentação para seusnegócios.Os Estados devem regulamentar e regulamentar as implicações da interação da InteligênciaArtificial com os cidadãos de acordo com os riscos e impactos dessas relações.
+21
+Reconhecer e proteger a liberdade de expressão, combatendo o discurso de ódio e a discriminaçãoonline.
+5-Introduzir critérios de responsabilidade para discriminação e conteúdo enganoso
+Acabar com o analfabetismo funcional digital, educando as pessoas sobre os direitos na Internet ea responsabilidade de seu uso.Regular e processar as atividades ilegais realizadas através da Internet, protegendo o usuário douso de conteúdo enganoso.Promover a validação de publicação e divulgação de conteúdo por aplicativos quando houverreprodução em massa de algum texto ou imagem.Você deve educar-se para ser capaz de discernir notícias ou conteúdos falsos ou enganosos.Todo cidadão tem o direito de receber informações precisas e não sujeitas a subversão eambigüidade de conteúdo.Reconhecer a vulnerabilidade a informações erróneas, deliberadamente falsas e manipuladas,procurando confundir o que é verdadeiro com o que é distorcido, conduzindo a conclusõesequívocas, sobretudo quando esta pode afetar os processos de decisão coletiva.
+5.1 - Compromisso fundamental com este princípio
+Os Estados devem treinar e gerar campanhas de divulgação que expliquem o perigo de conteúdosenganosos ou falsos serem divulgados na Internet.Use Inteligência Artificial para detectar conteúdo enganoso criando ferramentas ou firewalls paraconteúdo enganoso.Conscientizar a população sobre conteúdos enganosos.O direito à não discriminação digital e ao recebimento de informações verídicas deve ser garantido.Estabelecer sanções e ações corretivas para pessoas que geram conteúdo enganoso, incluindo aimpossibilidade de conexão com meios tecnológicos para evitar a repetição.Desenvolva critérios para responder a conteúdos enganosos evitando a censura.Disponibilizar ferramentas para penalizar os operadores que oferecem conteúdo enganoso online,usando inteligência artificial para evitar que notícias falsas se tornem virais e, assim, engane aspessoas.Os Estados devem criar e promover observatórios oficiais de conteúdo público e promover açõesque busquem a transparência dos atores envolvidos.
+6-Promover a regulamentação da inteligência artificial
+A regulamentação da IA deve ser a favor da humanidade, permitindo seu uso de forma aberta,protegendo os direitos das pessoas, utilizando-a como ferramenta de desenvolvimento emdiferentes comunidades.Mais educação deve ser alcançada para entender o alcance da Inteligência Artificial e treinar maispessoas para acessá-la.O objetivo da inteligência artificial deve ser avaliado e seu impacto na perda de empregos deve servisto.Os cidadãos devem ter o direito ao consentimento informado ao mediar o uso de inteligênciaartificial em suas comunicações.
+22
+6.1 - Compromisso fundamental com este princípio
+Os Estados devem regular a IA em nível internacional e, com base nisso, estabelecer políticasnacionais.Crie uma parceria entre reguladores governamentais e usuários finais, incluindo outras partesrelacionadas, para discutir como aliviar o impacto sobre os prejudicados pelo avanço dainteligência artificial e desenvolver a compreensão do escopo da IA.Implementar a IA como elemento “vivo” da sociedade, regulamentando seu uso e escopo deaplicação e criando programas de IA com dados de qualidade.
+Deve-se respeitar e controlar que os resultados da aplicação da IA 
+  
+não contenham vieses,trabalhando-se com o objetivo de utilizá-la no maior número de tarefas possíveis, incluindo asatividades habituais do cotidiano dos cidadãos.Assim como o Fórum de Governança da Internet foi criado na WSIS, deve ser criado um espaço nonível da ONU para a criação de um Fórum de Governança de IA que promova padrões eregulamentos que fomentem a inovação e o avanço tecnológico, sem descuidar da proteção dosdireitos humanos.
+7-Bens comuns digitais como um bem público global
+Os bens comuns digitais são patrimônio cultural da humanidade e seu uso correto e benefíciospara a comunidade devem ser assegurados.Os bens comuns digitais devem ajudar a promover a inovação e o conhecimento.A Internet deve ser um bem universal.Os bens comuns digitais são um bem público em si.Cuidar dos bens comuns digitais é como cuidar do planeta onde todos vivemos. Não vamosprocurar um problema como a mudança climática para nos levar a agir em favor dos bens comunsdigitais.Os cidadãos têm o direito de doar o conteúdo que produzem para o bem da humanidade semprejudicar terceiros.Os bens comuns digitais são recursos compartilhados que são gerenciados e mantidoscoletivamente por uma comunidade, e não por um único proprietário ou entidade.Como um bem público global, o bem comum digital deve estar disponível para uso e reutilizaçãopor qualquer pessoa que dele necessite, sem restrições ou barreiras como patentes, direitosautorais ou outras formas de proteção à propriedade intelectual. Isso permite que pessoas ecomunidades em todo o mundo se beneficiem de conhecimento e recursos compartilhados ecolaborem e inovem de forma mais eficaz.
+71. - Compromisso fundamental com este princípio
+É importante definir o conceito de bem público criando um entendimento comum de seu uso eproteção.A designação de bens públicos deve ser continuamente revista porque o progresso tecnológico érápido, e nessa revisão é necessária uma participação ativa da comunidade.É importante conseguir a globalização do acesso aos conteúdos de investigação e o seu impactoimediato nas regiões, bem como sensibilizar para o conceito de "bem público global", o que são,que implicações têm na vida quotidiana e enfatizar a a necessidade, pois a lei se encarrega deprotegê-los, sem impedir a inovação.
+23
+Os Estados devem adotar políticas que promovam a inovação e a divulgação gratuita de conteúdospara os cidadãos.Deve ser incentivada a criação e partilha de recursos digitais: promoção de software de códigoaberto, dados abertos e recursos educativos abertos, bem como apoio à criação e divulgação deinvestigação científica e obras culturais.Promover a colaboração e o envolvimento da comunidade: envolve promover a colaboração e oenvolvimento da comunidade na gestão e manutenção dos bens comuns digitais e garantir que osbenefícios desses recursos sejam compartilhados de forma ampla e equitativa.
+24

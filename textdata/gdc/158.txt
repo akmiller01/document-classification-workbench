@@ -1,0 +1,353 @@
+Meta’s Submission of Inputs to the Global Digital Compact (GDC)  
+April 2023  
+ 
+1 Meta is grateful for the opportunity to provide Meta’s input on the Global Digital Compact (GDC). The 
+GDC is intended to “outline shared principles for an open, free and secure digital future for all,” and the 
+multistakeholder consultation process toward its development has allowed interested parties to identify 
+areas of agreement and future cooperation. The seven areas of the GDC identified in the Secretary -
+General’s Common Agenda  provide a useful framework to address some of the key challenges currently 
+facing the digital space. Meaningful connectivity – including affordable internet access and digital literacy 
+– is necessary to promote sustainab le development in the digital age. Avoiding internet fragmentation 
+through the free flow of data and interoperable frameworks is essential to ensuring the full enjoyment of 
+human rights online. Policies supporting internet governance models that allow for localization and 
+internet shutdowns should be explicitly opposed. Steps must be taken to protect data and ensure the 
+protection of human rights online, while avoiding duplication of existing and ongoing UN workstreams. 
+Meta takes instances of discriminatio n and misleading content seriously. We support promoting best 
+practices to address these risks, as well as those associated with emerging technologies including artificial 
+intelligence (AI), while maintaining an environment that fosters innovation and deve lopment. Finally, 
+input from all stakeholders is necessary to further define and implement the protection of the digital 
+commons as a global public good.  
+ 
+We support the leadership role of the UN in facilitating a global process to co -create principles tow ard an 
+“open, free and secure digital future for all,” and to improve global digital cooperation through the GDC. 
+We believe that internet fragmentation threatens the fundamental principles that undergird the UN 
+charter and would have an adverse effect on the protection of human rights, advancement of the SDGs, 
+international peace,  and security. With this in mind, we are in resounding agreement that the GDC must 
+promote an open, globally connected, and secure internet with respect for human rights at its co re.  
+ 
+This will require the GDC to focus on three main goals:  
+1. To place the enjoyment of universal human rights, including the rights to freedom of expression, 
+and privacy at its heart;  
+2. To protect the free flow of data across borders ; and  
+3. To promote a genui nely multistakeholder approach to cooperation that defends an open internet 
+in which all stakeholders can come together to contribute their expertise.   
+ 
+We have seen firsthand the transformative power of digital technologies around the world, in times of 
+crisis and particularly to advance human rights. For example, in Iran, protestors used WhatsApp and 
+Instagram to advocate for women’s rights, and following the recent earthquakes in Türkiye and Syria, 
+digital tools were used to help provide reliable relief  information and make sure those impacted can stay 
+connected with their loved ones. Digital inclusion, connectivity, and human rights must be at the core of 
+the GDC to realize the full benefits of digital technologies - and these values are consistent with  Meta’s 
+mission to promote and uphold voice, community, inclusion, safety, and privacy.  
+ 
+We look forward to the GDC – and the UN Tech Envoy’s Office – serving as a coordination mechanism for 
+all workstreams related to global digital development and inclus ion. The GDC should help create, 
+Meta’s Submission of Inputs to the Global Digital Compact (GDC)  
+April 2023  
+ 
+2 coordinate, and communicate a more unified, one -UN narrative and approach to facilitate collaboration 
+across UN departments and with external stakeholders, as well as to avoid duplication.  
+ 
+Meta continues to be a construct ive supporter of workstreams related to the GDC, and we appreciate the 
+Secretary -General's prioritization of these issues. We encourage all actors to embrace the UN’s values of 
+openness, collaboration, and respect for human rights as we harness this new op portunity to reinforce 
+the value – and power – that multistakeholder  discussions can bring to defining a shared vision for our 
+digital future.  
+ 
+ 
+Connect all people to the global internet  2 
+Avoid internet fragment ation  3 
+Protect data  4 
+Apply human rights online  5 
+Accountability for discrimination and misleading content  6 
+Regulation of AI  7 
+Digital commons as a global public good  8 
+ 
+Connect all people to the global internet  
+For six years, Meta has partnered with Economist Impact, formerly the Economist Intelligence Unit, on a 
+study known as the Inclusive Internet Index. A key finding is that while network coverage has continued 
+to expand year on year, access to the internet remains far from universal.  
+ 
+Although 800 million people came online b etween 2019 and 2021, over two and a half billion people are 
+still offline according to the ITU. Of these, 96% live in developing countries. Many others remain under -
+connected ; they use the internet but  do so infrequently. Previously, insufficient network coverage was 
+the main barrier to internet access in many low - and lower middle -income countries. Growth in the 
+number of people who use the internet has not kept pace with significant expansions in coverage since 
+2017, creating a gap in internet usage. The  report found that people are unable, unwilling, or uninterested 
+in using the internet and that affordability, relevance of, and trust in content available online remain 
+significant barriers to closing the usage gap. Those who are left online often face le ss access to jobs, as 
+well as critical e -health and e -education services that could contribute to socioeconomic development.  
+Future work to close the digital divide and achieve meaningful connectivity for all by 2030, as highlighted 
+in the SG’s Roadmap for Digital Cooperation,1 should build on existing  workstreams. The principles of 
+ 
+1 “UN Secretary General’s Roadmap for Digital Cooperation. ” https://www.un.org/en/content/digital -cooperation -roadmap/ . 
+Meta’s Submission of Inputs to the Global Digital Compact (GDC)  
+April 2023  
+ 
+3 growth, inclusiveness, sustainability, innovation, and partnership put forward in the ITU’s Connect 2030 
+Agenda2 remain critical. UNESCO’s ROAM -X indicators further  elaborate specific metrics to monitor 
+progress towards global meaningful connectivity.3 These and other existing workstreams should be 
+foundational elements of future agreements to promote access.  
+ 
+Making services and devices more affordable is key, as i s creating the conditions for the growth of relevant 
+local content, including in local languages which will drive demand and benefits. We have seen how social 
+media, often paired with mobile connectivity, has unlocked myriad opportunities for local and gra ssroots 
+voices to reach new audiences, and offers important lessons as the international community considers 
+how to preserve, maintain, and expand opportunities for individuals to enjoy their right to expression.  
+ 
+Additionally, people need the skills to g et online, create and consume internet content, and use digital 
+tools safely. The GDC should recognize the barriers preventing people from accessing the internet  and 
+endeavor to improve the affordability and relevance of the internet,  and the ability of pe ople to draw 
+value from it.  
+ 
+The GDC should hold member states accountable for their unique role in promoting efforts to expand 
+connectivity to the internet in a responsible and accountable manner. In addition to bridging access gaps, 
+governments have a ro le to play in advancing awareness, digital literacy, and safety for all people in their 
+countries.  
+Avoid internet fragmentation  
+To fully harness the benefits of the internet, particularly in support of achieving the UN SDGs, and to 
+prevent adverse developm ents to the internet ecosystem, the GDC must promote an open, 
+interconnected, and secure Internet - one that can deliver on the promise of inclusive connectivity for all 
+by protecting the free flow of data across borders. The free flow of data is critical to accelerating the global 
+economy, advancing the SDGs, promoting the free flow of information, and addressing the climate crisis. 
+Digital products and services can only flourish in a trusted, safe, and secure online environment. However, 
+we continue to se e growing impediments through forced data localization and differences in domestic 
+approaches, creating uncertainty for governments, businesses, and individual users.4 
+ 
+The GDC should embrace and emphasize internet freedom as foundational to the enjoyment  of human 
+rights in the 21st century. In addition, it should explicitly oppose data localization and encourage the 
+interoperability of frameworks to promote the free flow of data, while upholding privacy standards. This 
+should take into account the ongoing  work by the OECD on the topic, including on the work on Trusted 
+ 
+2 ITU. “Connect 2030 – An agenda to connect all to a better world.” 
+https://www.itu.int/en/mediacentre/backgrounders/Pages/connect -2030 -agenda.aspx .  
+3 UNESCO . “ROAM -X Indicators. ” https://en.unesco.org/internet -universality -indicators/roamx -indicators . 
+4 “G7 Vision for Operationali zing DFFT .” https://g7digital -tech -2023.go.jp/topics/pdf/pdf_20230430/annex1.pdf . 
+Meta’s Submission of Inputs to the Global Digital Compact (GDC)  
+April 2023  
+ 
+4 Government Access to Private Sector Held Data. The GDC should call for globally harmonized approaches 
+to internet governance that promote the free flow of data across borders, safeguard encry ption, and 
+ensure that individuals’ rights, like the rights to privacy and freedom of expression, are protected online.  
+ 
+The GDC should also reinforce a global commitment to a multistakeholder model for internet governance 
+and avoid non-duplication of existing work streams and fora. Given the complexity of the internet with 
+overlapping rights and responsibilities across sectors and borders, a multistakeholder approach remains 
+essential to preserve the Internet as a global platform. Th e UN has been at the forefront of establishing a 
+multistakeholder approach as the norm. Stakeholders should aim to strengthen and leverage existing 
+processes and venues, such as the Internet Governance Forum (IGF), ensuring funding, inclusive 
+participation , and effective outcomes.  
+ 
+The global internet is increasingly at risk of fragmentation and is under threat as the result of growing 
+trends, including national restrictions that seek to control citizens’ access to information, data localization 
+laws and restrictions on international data flows, and internet shutdowns. Actions by governments to limit 
+or shut down the Internet only expand digital divides and create structural barriers to connectivity. Digital 
+censorship and internet sh utdowns can be markers of deteriorating human rights conditions, and have 
+critical impacts on social, economic, and political development.  
+ 
+To protect an open internet, the GDC should call for member states to promote the open nature of the 
+Internet, prot ect human rights as  anchored in the values and obligations of the UN Charter and the 
+Universal Declaration of Human Rights and the UN Guiding Principles on Business and Human Rights, 
+protect and promote the free flow of information, safeguard encryption t o ensure the protection, and 
+commit to the multistakeholder governance model of the internet. A fragmented internet also prevents 
+shared principles of responsible behavior and accountability. It is essential to promote a globally shared 
+understanding and f rameworks for governments, industry,  and users to build and maintain the internet 
+as a globally accessible, open, free, safe, and secure environment.  
+Protect data  
+We welcome the High -Level Panel’s recommendation to further develop a global commitment on di gital 
+trust, safety, and security. To promote an open and free internet, governments, industry, and civil society 
+need a shared vision, standardized implementation of norms for responsible uses of technology, and 
+agreed priorities for further action. We al so look forward to further consultation and cooperation on 
+developing and deploying information and communication technologies (ICTs) in a trustworthy manner, 
+thus encouraging voluntary, risk -based approaches to cybersecurity,  and incorporating standards 
+developed by global organizations through multistakeholder processes. We offer our support to 
+complementary capacity -building initiatives for the public and private sectors in an effort to better 
+prevent and react to harmful, malicious, and hostile behavior  online. We have already created 
+Meta’s Submission of Inputs to the Global Digital Compact (GDC)  
+April 2023  
+ 
+5 partnerships with several UN departments, both at the HQ and country level, as well as with civil society 
+entities, and look forward to the creation of more.  
+ 
+Focusing on harmonization of interoperability requirements can e nhance experiences, protect user 
+privacy and security, and incentivize industry to create innovative new services. Interoperability tools have 
+been and remain an important part of the digital ecosystem. Everything from foundational internet 
+protocols and w eb standards to email rely on a set of interoperability solutions. In general, it is important 
+that stakeholders keep in mind there is no one -size-fits-all approach to interoperability. Every product, 
+platform, market, and ecosystem will have very differen t interoperability needs. The question we should 
+ask is how to encourage the development of foundational models, frameworks, and tools that will offer 
+the necessary preconditions for interoperability.  
+ 
+Various UN processes have recognized cybersecurity as  an essential dimension of international security 
+and provided valuable guidance on how to maintain an open, free, and secure internet. The spread of 
+disinformation and, in particular harmful, life -threatening content and disruptive blanket internet 
+shutdo wns, have been identified in the Secretary -General’s Roadmap for Digital Cooperation as 
+challenges we need to collectively address. For people to feel safe and free to use digital products and to 
+communicate online, the online environment must also be sust ainable. We therefore welcome an 
+emphasis on the linkage between principles of digital trust and security and the ability to realize the 2030 
+Agenda: Achieving a trusted, safe, and secure online environment requires regarding cybersecurity not 
+just as an i nternational security issue, but also as an area of governance where governments, industry, 
+and civil society all play a role.  
+ 
+The internet needs guardrails, not roadblocks. Many are drawn to the idea of digital sovereignty, whereby 
+establishing digital walls at their national borders they can better secure data generated by their citizens. 
+We urge governments to resist protectionist policies that enable the misuse of how personal data is 
+processed, stored, and secured. Instead, under such policies, the i nternet becomes less open, and the 
+digital economy becomes more constrained. We support working with governments to adopt data 
+regulation that preserves the fundamental human rights of individuals, holds companies accountable, and 
+promotes security.  
+ 
+We su pport the use of end -to-end encryption against overreaching surveillance and encroachments on 
+freedom of expression. End-to-end encryption is a powerful tool for security and safety. It helps journalists 
+communicate with sources without governments listeni ng in and  gives citizens in authoritarian regimes a 
+lifeline to human rights advocates.  
+Apply human rights online  
+The protection of human rights is central to the UN’s mission, and cooperation among all stakeholders is 
+essential to ensure that all rights, such as privacy and free expression, are protected online. Discussions 
+Meta’s Submission of Inputs to the Global Digital Compact (GDC)  
+April 2023  
+ 
+6 around the protection of human rights in the digital age should focus on the obligations of governments, 
+as well as the responsibilities of companies to protect freedom of expression, t o protect people from 
+incitement to violence, hate speech, harassment,  and other online harms, and to enable participation in 
+political activities . Given the central role that it plays in international politics and policy setting, the UN is 
+uniquely placed  to ensure the vision of multistakeholder engagement with governments, civil society, and 
+the private sector. The UN has a track record of engaging the private sector on these issues. As the leading 
+UN entity on human rights, OHCHR plays a key role as a co nvener and thought leader in this area including 
+through the Business and Human Rights in Technology (B -Tech) initiative. These discussions should work 
+to advance the goals outlined in the Secretary -General’s Roadmap on digital human rights, such as 
+addres sing protection gaps, discouraging internet shutdowns, and providing more detailed guidance on 
+the application of human rights standards in the digital age. We must acknowledge the threat to human 
+rights embedded in harmful and hostile activities that stat es and non -state actors undertake online. 
+Cybersecurity and the protection of human rights and freedoms online must go hand in hand.  
+ 
+Meta’s human rights  policy sets out the human rights standards we strive to respect including the United 
+Nations Guiding Principles on Business and Human Rights  (UNGPs). It sets out how we seek to apply these 
+standards to our apps and products, policies, programming, and overall approach to our business. It 
+describes our commitments to due diligence and reporting, as well as our commitment to pro tect human 
+rights defenders and the governance mechanisms that seek to hold us accountable.  
+ 
+The Global Network Initiative (GNI) provides a framework for how information and communications 
+technology companies and their human rights stakeholders can prote ct people's rights to freedom of 
+expression and privacy against overly broad or unlawful government requests. Meta has been a member 
+of GNI since 2013. GNI members commit to following the GNI Principles and its Implementation Guidelines 
+and are subject to an audit every 3 years to ensure they are meeting their commitments.  
+Accountability for discrimination and misleading content  
+We recognize the shared challenge of ensuring safety online and encourage multistakeholder cooperation 
+to help individuals, especi ally youth and vulnerable groups, make healthy decisions online, stay safe, and 
+build resilience. We encourage innovation, including the use of artificial intelligence (AI), to help enhance 
+efforts to address harmful content. We urge the GDC to consider ex isting recommendations such as the 
+OECD Recommendation of the Council on Children in the Digital Environment. The GDC should also build 
+on the existing work of the UN system, such as UNICEF’s programs on Child Rights in the Digital Age and 
+the ITU’s work o n Child Online Protection. In fostering a safe online environment, the GDC should 
+recognize the importance of educating and equipping individuals with digital skills and literacy, so users 
+are empowered to make informed choices online and discern mis/disin formation.  
+ 
+The GDC should consider  ongoing concerted efforts and investments of social media companies to 
+strengthen transparency in addressing misleading, harmful, and discriminatory content online, by 
+Meta’s Submission of Inputs to the Global Digital Compact (GDC)  
+April 2023  
+ 
+7 promoting awareness of users’ rights to report content – and appeal content moderation decisions – and 
+understand protections afforded to individual users. In addition, the GDC should recognize the importance 
+of a whole -of-society approach in fostering internet freedom and digital inclusion. A wide range of 
+relevant stakeholders have roles a nd responsibilities in dealing with online safety and harmful content, 
+including public authorities, civil society, parents/caregivers, content creators, and people who use the 
+internet each day. Whole -of-society collaboration helps improve understanding o f the safety activities of 
+digital platforms, which in turn increases opportunities for meaningful and effective collaboration.  
+ 
+Any effort toward creating a safer digital ecosystem should prioritize human rights -based, evidence -
+based, and data -driven appr oaches that remain grounded in the principles of necessity, proportionality, 
+and legality. We welcome efforts to create multistakeholder spaces for collaboration that allow for 
+innovation and experimentation, while helping to delineate the roles and respon sibilities of governments, 
+companies, civil society organizations, and the technical community. The GDC is correctly placed to call 
+on governments to invest in fostering inclusive societies, enhancing digital safety and literacy, and 
+supporting victims and  survivors of abuse. The GDC should call on companies to adopt multidisciplinary, 
+evidence -, and risk -based approaches that empower users with tools and resources to customize their 
+experiences to protect their privacy and safety, as well as to report any harm they encounter. The GDC 
+can recognize ongoing industry efforts to combat harm against targeted communities and encourage 
+companies to participate in tools that combat the spread of non -consensual intimate images, such as 
+StopNCII.org and TakeItDown.NC MEC.org.  
+Regulation of AI  
+When it comes to emerging technologies such as AI, international cooperation can help ensure that 
+countries around the world benefit from applications that support sustainable growth. International 
+collaboration and interoperabili ty across governance frameworks is crucial for the development of a 
+responsible AI. Organizations such as the OECD, UNESCO, and GPAI are already working on those issues, 
+and should  look at enabling policy frameworks that address the opportunities and chall enges with AI.  
+ 
+AI regulation should take into consideration existing frameworks that address issues around AI, including 
+data protection, consumer law, competition law, and sectoral regulation, to avoid creating conflicts. This 
+will help to provide greate r legal clarity, avoid duplicative regulation, and ensure a proportionate 
+approach to these novel issues. For those countries that may not have developed relevant existing 
+legislation, in certain areas a good starting point would be the OECD AI Principles,  around which there 
+appears to be consensus , and which are rooted in human rights and consumer protection.   
+ 
+Rather than creating inflexible rules, countries should focus on supporting and building on ongoing efforts 
+to establish best practices and standa rds. And rather than providing prescriptive technical requirements, 
+stakeholders should work together to provide opportunities for development and regularly update the 
+standards and best practices for assessing, measuring, and comparing AI systems as they evolve. The 
+Meta’s Submission of Inputs to the Global Digital Compact (GDC)  
+April 2023  
+ 
+8 development of AI standards and regulations should be underpinned by a risk -based approach, focused 
+on the most sensitive types of AI applications and sectors such as in cases where AI may produce decisions 
+that cause legal or similarly signifi cant effects.  Above all, policymakers should not regulate the technology. 
+There is a distinction between regulating the technology and regulating the uses of that technology. 
+Regulators should focus on the latter.  
+ 
+The GDC should prioritize the coordinatio n and collaboration among the many experts and stakeholders 
+of the AI ecosystem and ensure that regulators’ legislative strategies complement other co - or self -
+regulatory instruments (e.g., international AI principles, standards, ethical codes of conduct, NIST AI Risk 
+Management Framework).  
+ 
+Future agreements like the GDC should not duplicate existing workstreams, such as the OECD’s Guiding 
+Principles on AI, GPAI, or UNESCO. Rather, they should build on their progress to establish consistent 
+international positions that support the development of AI that benefits society in a responsible way. The 
+GDC should take into consideration the recommendations from the recent Business at the OECD report 
+on implementing the OECD principles5 to help ensure trustworthy AI, and the GDC could reflect some of 
+the practical findings from that report to build on the OECD's work and help facilitate principles, 
+regulation, and governance frameworks that are both effective and practical.  
+ 
+Governments, through their r egulatory agencies, should explore the implementation of Regulatory 
+Sandboxes (RS) to foster the development of new products and services within existing regulatory 
+frameworks, as well as Policy Prototyping Programs (PPPs) as methods to test future laws an d regulatory 
+frameworks instruments on AI and other emerging technologies. Given the difficulty in assessing the most 
+appropriate, feasible, and balanced legislative instruments on a complex topic such as algorithmic 
+accountability, PPPs can provide a safe  testing ground to assess different iterations of legislative models 
+of governance prior to their actual enactment. An example of this type of collaboration is Open Loop, a 
+global strategic initiative by Meta that promotes and deploys experimental regulato ry efforts in the field 
+of new and emerging technologies. It supports the co -creation and testing of new governance frameworks 
+through policy prototyping programs and enables the evaluation of existing legal frameworks through 
+regulatory sandbox exercises.   
+Digital commons as a global public good  
+It is well acknowledged that no entity or stakeholder group can provide or sustain the internet, 
+digitalization, and information society on their own. Work is ongoing to define the respective roles of 
+governments, industry, and civil society. However, it has also been acknowledged that the risks and 
+threats of using the internet and digital products and services has grown significantly in the past decade. 
+To sustain ICTs as a source of economic and societal benefits , it is essential to promote the accountability 
+ 
+5 Business at OECD. “Implementing OECD AI Principles: Challenges and Best Practices.” 
+https://www.businessatoecd.org/blog/implementing -oecd -ai-principles -challenges -and-best -practices . 
+Meta’s Submission of Inputs to the Global Digital Compact (GDC)  
+April 2023  
+ 
+9 of all stakeholders – governments, industry, and users – for maximizing the potential of these 
+technologies, while doing their part in countering harmful, violent, and hostile activities and trends online. 
+Promoting inclusive and comprehensive governance mechanisms and whole -of-society approaches to 
+assessing and mitigating risks can help accelerate shared stewardship of the economic and societal 
+benefits of ICTs and the emergence of a global vision of digital  commons as a public good. In developing 
+the concept of digital commons, we must be cognizant of analogies as the term "global commons" is 
+typically used to indicate the earth's shared natural resources and cannot be directly applied to the 
+internet, ICT i nfrastructure, and digital products and services that rely on the contributions and innovation 
+of humans.  
+ 
+The GDC could offer an opportunity for various entities and stakeholders to develop  a definition, 
+framework, and/or vision for the “global digital c ommons'' building on the proposals of the  Tech Envoy 
+and ongoing efforts focused on digital public goods. We see at the core of this concept a responsive, co -
+designed, co -governed, “safe” space anchored in respect for human rights, which we are striving to  help 
+create and protect. Discussion of the ways to create a shared understanding of and approach to global 
+commons as a public good should not depart from the preamble of the UN Charter: our shared 
+commitment to promoting social progress and better standa rds of life in larger freedom and developing 
+digital products, services, and infrastructure for the promotion of the economic and social advancement 
+of all peoples.  
+ 

@@ -1,0 +1,271 @@
+1	
+EUROVISIONI 	Submission 	to	the	Global	Digital	Compact 	
+Eu
+rovisioni	is	a	Rome’s	based	think‐tank	nonprofit	association, 	that	reflects	on	the	future	of	media	and	
+audiovisual,	of	which	are	members	BBC,	RAI,	France	Télévisions, 	Eutelsat	and	many	others	organizations	
+based	in	Europe.	
+Based	on	the	recent	outcomes	of	the	last	Conferences	held	in	th e	last	three	years	and 	on	the	participation	
+to	other	discussion’s	fora	about	the	future	of	Internet,	Eurovisioni’s	secretariat	has	compiled	and	prepared	this	contribution	to	th e	global	Digital	Compact	debate ,	on	the	following	areas:	
+(1).	Connect	all	people	to	the	Internet, 	including 	all	schools	
+(2).	Avoid	Internet	 Fragmentation 	
+(3).	Protect	data	
+(5).	Accountability 	for	discrimination 	and	misleading 	content	
+(8).	Other	areas	:	Future	of	the	Internet 	Governance 	
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐	
+(1).	Connect	all	people	to	the	Internet, 	including 	all	schools	
+a)Cor
+e	Principles
+The	key	elements	for	a	successful	meaningful	access	are:	1)	aff ordability	,	2)	adaptability,	3)	inclusion,	4)	
+reliability	and	security.	
+Affordability	because	the	actual	costs	are	still	out	of	the	rea ch	of	populations	of	many	developing	countries.		
+Various	solutions	could	be	used	to	solve	this	obstacle,	such	as 	subsidies	from	the	users	or	the	ISP	(from	
+richer	area	paying	higher	tariffs	than	poorer),	from	the	states ,	or	incentivizing	the	creation	of	community	
+networks,	for	instance	integrating	the	internet	networks	with	energy	distribution	networks.	Adaptability	because	there	are	more	and	more	technological	solutions	availab le,	that	could	provide	answers	to	different	
+needs:	from	4	and	5	G	networks,	to	low	orbit	satellites	network s,	to	frequency	sharing	between	various	
+kind	of	users.	Inclusion	because	all	solutions	need	to	integrat e	mechanism	to	avoid	the	risk	to	leave	behind	
+the	most	vulnerable,	such	as	the	disables	or	the	illiterate,	th at	represent	in	the	world	population	nearly	1	
+billion.	Reliability	and	security	because	the	worst	could	happe n	for	those	that	arrive	to	be	connected,	will	
+be	to	fall	victims	of	attacks	or	cybercrime.	In	this	sense,	one	of	the	preconditions	for	the	future	meaningful	access	will	be	a	global	consensus	on	what	is	criminal	on	the	ne t.	A	merely	commercial	approach	to	the	
+problem	of	access	is	not	able	to	solve	the	problems	and	instead 	sometimes	create	new	barriers.	So	it’s	
+important	to	build	from	the	botto m,	from	communities,	solutions 	such	as	community	networks	that	take	
+in	account	and	bypass	the	problem	of	language,	of	affordability 	and	of	respect	of	local	traditions	and	
+culture.	In	many	LDC	the	main	problem	remains	the	affordability .	Despite	all	efforts	of	the	governments	
+and	the	agreements	with	telcos,	1	Gigabyte	of	data	cost	5	USD,	 when	in	the	rural	area	the	average	income	
+is	of	1	USD	a	day.	Possible	solutions	would	be	to	act	on	taxati on	of	Telco’sand	to	convince	them	to	support	
+local	communities,	through	multi stakeholders	partnerships,	prov iding	affordable	or	even	free	bandwidth.	
+EUROVISIONI 	–	Associazione 	Culturale/Association 	Culturelle/Cultural 	Association 	
+L.go	
+Antonelli,	2	–	00145	Roma,	tel	+39	06	59606372	–	e‐mail:	 segreteria@eurovisioni.it 	web	site	 www.eurovisioni.it 	
+2	
+The	solution	could	be	a	close	cooperation	between	International 	organizations,	regional	organizations,	
+governments	and	private	sector.	
+b)Key	Commitment/ 	Pledges/	Actions
+In	order	to	reach	these	goals,	the	following	priorities	have	be en	identified:		
+a)meaningful	access	is	indispensable	to	comply	with	the	Goal	to	g ive	access	to	the	Internet	to	 all
+ci
+tizens	of	the	world.	The	main	obstacles	to	be	solved	are	affordability,	adaptability	and	security	all	
+with	an	important	gender	dimension;		
+b)public	policies	at	the	national, 	regional	and	global	level	are	needed	to	in centive	and	implement	the
+b
+est	practices	that	have	been	identified	during	the	session	and 	in	the	report	such	as	community	
+networks,	production	of	local	contents,	spectrum	use	for	common 	good.	Even	temporary	limitations	
+to	global	contents	could	be	envisaged	if	they	can	help	to	support	the	growth	of	local	contents	and	
+services;	
+c)on	the	problem	of	the	cost	of	devices	for	Internet	access,	amon g	the	various	possible	solutions:	“one
+of	them	is	driving	cost	out	by	design,	another	possibility	is	u sing	local	manufacturer,	and	a	third	
+one	is	on	the	supply‐Side.	Some	ISPs	and	some	telcos	could	offe r	a	device	at	no	charge	at	all	as	long	
+as	you	sign	up	for	a	long	enough	period	of	subscription”.		
+This	process	a	special	contribution	could	come	from	IGO	such	as	ITU	and	ICANN	that	provide	meaningful	
+access	to	LDCs,	strengthening	the	capacity	of	governments	and	r egulators.	“Access	is	really	about	creating	
+the	 enabling	 environment	 in	 terms	 of	 governmental	 economic	 and	 technological	 environment	 for	
+everyone	and	everything	to	connect”.	among	the	best	practices	t o	be	potentially	replicated	in	other	region	
+of	the	world,	there	is	the	project	PRIDA	(supported	by	ITU,	African	and	European	Union)	the	55	national	governments	of	Africa	are	trained	to	deal	with	internet	in	a	mu ltistakeholder	way,	streamlining	IG	
+processes	and	improving	Internet 	Governance	skills	and	capacity 	across	the	Continent.		
+To	read	more,	please	consult	:	
+	https://www.intgovforum.org/en/ filedepot_download/255/24314 	
+‐
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐	
+(2).	Avoid	Internet 	Fragmentation 	
+a)Core	Principles
+The	physical	world	is	still	operating	under	tights	and	detailed 	rules	codified	during	centuries	of	legislation,	
+social	contracts	and	so	on.	while	the	digital	world	is	operatin g	under	different	rules	(most	of	them	
+currently	deriving	from	the	country	of	origin	of	the	processes/ infrastructures/dominant	platforms).	The	
+EUROVISIONI 	–	Associazione 	Culturale/Association 	Culturelle/Cultural 	Association 	
+L.go	
+Antonelli,	2	–	00145	Roma,	tel	+39	06	59606372	–	e‐mail:	 segreteria@eurovisioni.it 	web	site	 www.eurovisioni.it 	
+3	
+clash	between	these	two	worlds	constitutes	what	we	call	the	tod ay's	"global	digital	information	and	
+communication	ecosystem".	On	the	 lower	layer,	we	have	the	technical	infrastructure	that	try	to	exists	and	
+proliferates	despite	all	these	problems,	but	that	is	stretched	 to	its	limits	by	the	growing	weight	of	the	
+contradictions	multiplying	on	the	other	levels.	As	UN	SG	has	co rrectly	pointed	out	in	its	"common	agenda",	
+the	governance	of	the	digital	world	and	of	the	fight	to	climate 	change	are	the	two	main	dossiers	where	only	
+a	global	approach	could	have	a	chance	of	success.	All	other	str ategies	nationally	based,	even	if	they	are	
+rooted	 into	 the	 stronger	 world	 countries	 (US	 or	 China)	 cannot	 s ucceed	 in	 the	 long	 term.	 Fighting	
+fragmentation	"per	se"	could	be	a	false	problem,	because	what	n eeds	to	be	tackled	is	to	establish	a	
+minimum	common	ground	of	global	rules	that	could	be	applied	eve rywhere.	European	Union	is	trying	on	
+his	own	to	work	of	such	rules,	but	its	approach	is	based	on	the 	largest	and	richest	consumer	market	of	the	
+world.	This	corpus	represents	a 	unique	opportunity	on	which	a	g lobal	set	could	be	established.	But	has	to	
+be	revised	and	adapted	to	the	ot her	5	billions	of	users	that	ha ve	different	needs	and	priorities.	The	recent	
+initiatives	of	the	League	of	Arab	States	and	of	the	African	Uni on	to	replicate	the	same	approach	according	
+to	their	own	perspective,	are	very	promising	and	need	to	be	enc ouraged	and	supported.	
+b)Key	Commitment/ 	Pledges/	Actions
+Role	of	UN's	institutions	and	agencies	is	exactly	that:	to	get	 inspiration	from	those	that	have	gone	farer	and	
+build	on	their	experience.1.	set	up	a	minimum	set	of	global	rul es	(based	on	human	rights	respect)	through	
+a	series	of	international	treaties	(or	opening	for	global	signa ture	existing	Treaties	such	as	those	of	the	
+Council	of	Europe	–Convention	108 +‐	and	OECD	on	global	minimum	 tax);2.	set	up	a	plan	to	adapt	and	
+improve	national	legislations	all	over	the	LDC	to	comply	with	t hese	rules	3.	In	this	specific	regard,	UNESCO	
+could	play	a	special	role	in	the	media,	education	and	cultural	 spheres,	where	it	has	an	uncontestable	
+mandate	from	the	world's	governments.	The	implementation	of	the 	Internet	Universality	Indicators	all	
+over	the	world,	but	also	and	especially	within	international	bo dies	and	agencies,	could	be	part	of	these	
+efforts.In	the	past	"public	interest"	was	defined	according	to	 compartmentalization	between	various	
+disciplines	and	sectors.	"Public	domain"	was	identified	in	the	 field	of	access	to	culture.	"Universal	access"	
+was	identified	in	the	field	of	telecommunication	and	postal	ser vices.	"Right	to	cultural	diversity"	was	
+identified	in	the	field	of	cultu ral	goods.	"Public	service	broa dcasting"	and	"community	radio/media"	
+concepts	were	developed	in	the	frame	of	media	and	communication .	"Public	libraries"	in	the	frame	of	
+access	to	written	culture.	"Museums"	for	the	access	to	cultural 	heritage.	"Public	school"	for	the	access	to	
+culture.	All	these	processes	need	a	rethink	and	need	to	be	integrated	into	a	true	"global	digital	information	
+and	communications	ecosystem"	of	the	future.	This	is	an	inevita ble	process.	The	later	will	be	implemented,	
+the	more	difficult	would	be	to	run	the	future	world,	and	inequa lities	of	today	will	 be	only	a	pale	
+remembering	compared	to	those	that	expect	us	in	future.	All	these	need	to	be	revised	and	re‐invented	in	
+order	to	adapt	to	the	new	digital	world.All	these	rules,	regula tions,	structures	and	processes	need	to	be	
+integrated	into	the	true	"global	digital	information	and	commun ications	ecosystem"	of	the	future.	This	
+EUROVISIONI 	–	Associazione 	Culturale/Association 	Culturelle/Cultural 	Association 	
+L.go	
+Antonelli,	2	–	00145	Roma,	tel	+39	06	59606372	–	e‐mail:	 segreteria@eurovisioni.it 	web	site	 www.eurovisioni.it 	
+4	
+effort	needs	to	be	built	over	international	treaties	and	then	d eclined	through	regional	and	national	
+processes,	using	regulation,	co‐regulation	or	self‐regulation	w hen	appropriate.	
+A	 clear	 regulatory	 framework	 will	 be	 essential	 to	 define	 ‐	 in	 a ccordance	 with	 internation al
+s
+tandards	‐	the	personal	data	that	cannot	be	exploited	in	any	w ay,	and	the	procedures	for	obtaini ng
+the	co
+nsent	of	users	for	the	exploitation	of	non‐sensitive	pers onal	data.
+Deter
+mining	the	rights	and	duties	between	countries	and	digital 	companies,	such	as	obligati ng
+soc
+ial	media	companies	to	develop	a	transparent	and	clear	mecha nism	to	reveal	the	amoun ts
+collected	
+from	users	in	each	country,	similarly	to	the	tax	acco unting	process	for	private	non‐	d igital
+companies.
+R
+equiring	social	media	companies	to	disclose	the	mechanism	for	 maintaining	the	security	and
+confidentiality	of	users’	data	in 	any	country	and	to	prove	that 	they	have	not	been	used	i llegally.
+E
+mphasizing	transparency	in	dealing	with	monitoring	and	clearly 	defining	offensive	content,	i n
+additi
+on	to	identifying	preventive	measures	to	limit	its	spread .o	Putting	in	place	and	enforcin g
+b
+inding	local	laws	that	ensure	the	speedy	response	of	social	me dia	companies	in	deleting	content
+that	violates	national	laws,	such	as	the	content	inciting	to	vi olence,	hatred	and	racism,	gender	 or
+r
+egional	segregation	and	discrimination,	false	and	misleading	n ews	and	cybercrimes	such	as	da ta
+theft	,	
+extortion	and	sexual	harassment	.
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐	
+(3).	Protect	data	
+a)Core	Principles
+Developing	a	common	and	comprehensive	strategy	to	deal	with	glo bal	digital	platforms	based	on
+the	best	international	models	 and	practices	in	the	field.
+Importance	of	focusing	primarily	on	the	legislative	framing	of	 the	relationship	with	global	digital
+platforms,	at	the	 regional	level.
+b)Key	Commitment/ 	Pledges	/	Actions
+A	 clear	 regulatory	 framework	 will	 be	 essential	 to	 define	 ‐	 in	 a ccordance	 with	 internation al
+s
+tandards	‐	the	personal	data	that	cannot	be	exploited	in	any	w ay,	and	the	procedures	for	obtaini ng
+the	co
+nsent	of	users	for	the	exploitation	of	non‐sensitive	pers onal	data.
+Deter
+mining	the	rights	and	duties	between	countries	and	digital 	companies,	such	as	obligati ng
+soc
+ial	media	companies	to	develop	a	transparent	and	clear	mecha nism	to	reveal	the	amoun ts
+EUROVISIONI 	–	Associazione 	Culturale/Association 	Culturelle/Cultural 	Association 	
+L.go	
+Antonelli,	2	–	00145	Roma,	tel	+39	06	59606372	–	e‐mail:	 segreteria@eurovisioni.it 	web	site	 www.eurovisioni.it 	
+5	
+collected	from	users	in	each	country,	similarly	to	the	tax	acco unting	process	for	private	non‐	digital	
+companies.		
+Requiring	social	media	companies	to	disclose	the	mechanism	for	 maintaining	the	security	and
+confidentiality	of	users’	data	in 	any	country	and	to	prove	that 	they	have	not	been	used	illegally.		
+Emphasizing	transparency	in	dealing	with	monitoring	and	clearly 	defining	offensive	content,	i n
+additi
+on	to	identifying	preventive	measures	to	limit	its	spread .	
+Putting	in	place	and	enforcing	binding	local	laws	that	ensure	t he	speedy	response	of	social	media
+companies	in	deleting	content	that	violates	national	laws,	such 	as	the	content	inciting	to	violence,	
+hatred	and	racism,	gender	or	regional	segregation	and	discrimination,	false	and	misleading	news	
+and	cybercrimes	such	as	data	theft	,	extortion	and	sexual	haras sment	.	
+----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+(5
+).	Accountability 	for	discrimination 	and	misleading 	content	
+In	parallel	to	many	opportunities,	the	rapid	and	pervasive	emergence	of	digital	technologies	potentially	exposes	(young)	people	to	a	plethora	of	online	threats	on	a	reg ular	basis.	These	include	disinformation,	
+misinformation	 and	 political	 propaganda,	 conspiracy	 theories,	 c yberbullying,	 recruitment	 efforts	 by	
+extremist	organizations,	cyber	predators,	phishing,	scams,	and	malware.	There	is	evidence	that	people	of	all	ages	are	increasingly	at	risk	and	that	they	are	being	expos ed	to	various	forms	of	disinformation	(e.g.	
+what	is	colloquially	referred	to	as	‘fake	news’).	Information	overload	and	the	lack	of	effective	ways	to	filter	
+information	poses	another	challenge.	This	challenge	makes	it	ne cessary	for	individuals	to	be	able	to	
+critically	approach,	assess	and	verify	information	and	become	m ore	resilient	to	threats.	At	the	societal	
+level,	the	online	manipulation	of	information,	increasingly	sop histicated	and	easily	disseminated,	has	
+affected	people’s	trust	in	mainstream	media	and	reliable	source s	of	information.	Human	vulnerabilities	
+are	exploited	to	undermine	political	institutions,	public	opini on	and	the	quality	of	democratic	debate	
+across	the	EU	and	elsewhere.	Educational	institutions	are	in	a	 unique	position	to	help	educate	young	
+people	about	the	threats	identified	above.	Schools	and	other	ed ucational	institutions	have	received	a	
+societal	mandate	to	educate	future	generations.	Due	to	the	constant	exposure	of	young	people	to	the	digital	universe,	those	involved	in	education	and	training	have	an	impo rtant	task	to	stay	abreast	of	an	ever‐
+changing	environment	and	equip	young	people	with	the	critical	t hinking	skills	required	to	exercise	
+judgment,	 analyse	 complex	 realit ies	 and	 recognise	 the	 differenc e	 between	 opinion	 and	 fact.	 The	
+importance	of	promoting	digital	literacy	among	school	students	 has	been	underlined	by	the	European	
+Commission	,	UNESCO	,	the	OECD	and	the	Council	of	Europe	,	amon g	others.	All	recognise	that	formal	and	
+non‐formal	education,	as	well	as	training	can	play	a	critical	r ole	in	expanding	awareness	of	how	to	tackle	
+disinformation,	promote	online	safety	and	contribute	to	fosteri ng	critical	thinking	skills	among	students.	
+These	are	essential	when	navigating	the	online	world.	to	read	m ore,	please	consult:		
+EUROVISIONI 	–	Associazione 	Culturale/Association 	Culturelle/Cultural 	Association 	
+L.go	
+Antonelli,	2	–	00145	Roma,	tel	+39	06	59606372	–	e‐mail:	 segreteria@eurovisioni.it 	web	site	 www.eurovisioni.it 	
+6	
+Guidelines	for	teachers	and	educators	on	tackling	disinformatio n	and	promoting	digital	literacy	through	
+education	and	training	–	Publica tions	Office	of	the	European	Un ion,	2022.	
+https://data.europa.eu/doi/10.2766/28248 	
+b)Key	Co
+mmitment/ 	Pledges/	Actions
+The	following	best	practices	have	been	identified	in	Europe	as	 possible	examples	to	be	implement	
+worldwide.	Existing	Guidelines	to	counter	disinformation	and	pr omote	digital	literacy	
+#1:	The	European	Commission’s	Spot	and	fight	disinformation	too lkit	on	identifying	and	addressing	
+disinformation	is	targeted	at	secondary	school	teachers.	It	inc ludes	an	editable	presentation	with	real	life	
+examples	and	group	exercises	as	well	as	an	instruction	booklet	for	teachers.	
+#2:	UNESCO’s	media	and	informatio n	literacy	curriculum,	Media	and	Information	Literate	Citizens:	Think	
+Critically,	Click	Wisely!,	offers	a	comprehensive	competency	fr amework	of	media	and	information	literacy	
+and	structured	pedagogical	suggestions	for	educators	and	learne rs.	See	chapter	4	for	a	more	elaborate	
+description.	
+#3:	The	Digital	Citizenship	Education	Handbook	by	the	Council	o f	Europe	is	intended	for	teachers	and	
+parents,	education	decision	makers	and	platform	providers	alike .	See	Chapter	4	for	a	more	elaborate	
+description.		
+#4:	Teaching	and	Learning	with	Twitter	is	a	Twitter	and	UNESCO	 resource	on	media	and	information	
+literacy	that	offers	practical	advice	informing	pedagogical	met hods	and	outcomes.	It	can	help	educators	
+with	designing	lessons	around	media	and	information	literacy	an d	inform	them,	as	well	as	other	social	
+actors,	on	how	Twitter	can	be	used	towards	improving	learning	o utcomes.	
+#5:	The	Euroguide	Handbook	aims	to	offer	teachers	and	social	wo rkers	practical	tools	to	respond	to	socio‐
+political	or	religious	arguments	in	order	to	prevent	radicalisa tion	in	school	environments.	Guidance	is	
+offered	on	how	to	create	resilient	environments	and	safe	spaces 	where	vulnerable	young	people	can	open	
+up,	sharpen	their	social	and	emo tional	skills,	and	have	their	s elf‐esteem	improved.	
+#6:	 The	 International	 Telecommunication	 Union	 (ITU)	 has	 issued	 Child	 Online	 Protection	 (COP)	
+guidelines,	a	comprehensive	set	of	recommendations	for	all	rele vant	stakeholders	(parents,	educators,	
+policy	makers,	industry)	on	how	to	contribute	to	the	developmen t	of	a	safe	and	empowering	online	
+e n v i r o n m e n t 	f o r 	c h i l d r e n 	a n d 	y o u n g 	p e o p l e . 	T o w a r d s 	t h i s , 	t h e 	a d vocated	 approach	 involves	 both	
+protection	and	empowerment	of	children.	#7:	The	Information	literacy	guide	for	teachers	and	students	(F inland)	includes	information	adapted	for	
+school	use,	group	work	assignments,	and	reading	and	linking	tip s.		
+Read	more:		
+https://op.europa.eu/en/publication‐detail/‐/publication/72421f 53‐4458‐11ed‐92ed‐
+01aa75ed71a1/language‐en 	
+EUROVISIONI 	–	Associazione 	Culturale/Association 	Culturelle/Cultural 	Association 	
+Presidente/Président/President:	Michel	Boyon 	
+Comitato 	di	Presidenza/Comité 	de	Présidence/Steering	 Committee: 	Sam	Stourdzé	 Académie 	de	France	à	Rome	‐	Luciana	Castellina 	Eurovisioni 	–	Bernard	Miyet 	
+Eurovisioni	‐	Michel	Azibert 	Eutelsat	‐	Stefano	Rolando 	IULM	‐	Krzysztof	Zanussi 	Film	Studio	TOR	‐	Membro 	Onorario/Membre 	Honoraire/Honorary 	Member 	Giuliano	
+Berretta	Segretario 	Generale/Secrétaire 	Général/Secretary 	General:	Giacomo	Mazzone			
+L.go	
+Antonelli,	2	–	00145	Roma,	tel	+39	06	59606372	–	e‐mail:	 segreteria@eurovisioni.it 	web	site	 www.eurovisioni.it 	
+7	
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐	
+(8).	Other	areas	(please	specify )			Future	of	the	Internet 	Governance 	
+a)Core	Principles
+WHAT	WE	WANT:	1.	A	coordinated	process	towards	a	global	Interne t	Governance	that	shall	include	and	
+streamline	all	existing	process	(IGF	and	NRI,	WSIS	follow	up,	Digital	Cooperation,	various	UN	agencies)	
+avoiding	duplications	and	overlaps.	2.	Such	process	will	have	t o	be	centered	on	the	UN	SG	(through	its	Tech	
+Envoy	office	and	other	related	offices).	All	the	IG	processes	n eed	to	report	their	conclusions,	proposals	of	
+solutions	and	of	Treaties	to	the	UN	SG	that	will	refer	to	the	U NGA.	But	viceversa	–	UNSG	has	to	use	all	
+existing	IG	processes	as	testbed	for	solutions	to	the	various	p roblems	on	the	table	(access,	cybersecurity,	
+A.I.,	data	protection,	etc.).	The	various	UN	specialized	agenci es	and	other	international	bodies	concerned	
+will	have	to	be	part	of	this	process,	in	a	synergetic	way.	3.	A 	different	approach	towards	the	media,	to	
+involve	them	and	make	part	of	the	GDC	process.	Only	through	an	 active	involvement	of	the	media	this	
+process	could	become	relevant	to	the	ruling	classes	and	be	able 	to	involve	citizens.	
+b)Key	Commitment/ 	Pledges/	Actions
+WHAT	WE	DON’T	WANT:		
+1.I
+f	wish	1	above	will	not	be	implemented,	the	GDC	will	be	ano ther	structure	on	the	top	of	the	existi ng
+ones,	and	
+they	all	risk	to	remain 	talk	shops	without	any	concre te	impact	on	reality.	
+2.
+If	Leadership	Panel	will	not	be	able	to	play	its	role	properly,	there	is	a	high	risk	of	overlaps	and	conflicts
+between	MAG	and	LP	that	could	paralyze	the	IGF	work	and	hamper	 its	contribution	to	the	whole	process	
+to	build	a	global	Internet	Governance.		
+3.
+If	UNSG	will	not	exercise	its	own	leadership	role	directly,	 in	tight	cooperation	with	UNGA,	and	 through
+a
+ll	existing	dialogue	platforms, 	the	risk	that	the	whole	proces s	will	not	fly	is	very	high. 	

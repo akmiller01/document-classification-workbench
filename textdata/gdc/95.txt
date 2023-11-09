@@ -1,0 +1,288 @@
+Digit al Rights
+Report
+
+Launched in November 2022, the Myanmar Sustainable Busin ess Network (MSBN) is a mul tistak eholder
+platf orm bringing togeth er busin esses and professionals commit ted to buildin g a more sustainable economy
+in My anmar thr ough r esponsible busin ess pr actices. Our c ommunit y gath ers 440 + professionals.   
+The developm ent of technology in Myanmar has been extraordinar y between 2010 and 2020: according to the 
+International Telec ommunication Union (ITU), the shar e of individuals usin g internet went from less than 1% 
+in 2010 to 35% in 2 020.1
+Furthermore, according to a r ecent r epor t publish ed b y Datar epor tal,/two.numr  Myanmar ha d in e arly 2023:
+However, the digital landscape has dramatically changed in Myanmar after Februar y 2021, when the Myanmar 
+milita ry seized power./three.numrDigitalRe ach notes, in a recent repor t, that in 2021 and 2022, various practices were  
+comm on, includin g nation wide internet restrictions, blockin g of social media platf orms, restricting the use of 
+virtual private networks, increasin g the costs to access the Internet, amending laws related to digital space, 
+usin g enhan ced surveillan ce systems, etc. All of this severely imp acts digital rights in Myanmar and especially 
+free access and use of the Internet./four.numr
+In this challen ging context, MSBN member s are very muc h interested in digital rights: when they regist er, 
+member s are asked to selec t their areas of interest among 20 topics. With 28% of the member s interested, 
+digital rights rank 5 after corporate gover nance, human rights due diligen ce, environm ent & biodiv ersity and 
+climat e change. As a resul t, MSBN organised speciﬁc e vents f or its member s on data secur ity and privacy. The 
+recording of th ese e vents is a vailable on MSBN’ s websit e for its m ember s./five.numr F urthermore, th e My anmar C entr e 
+for Responsible Busin ess (MCRB), one of the MSBN’ s partners, continued to provide feedb ack to various actors 
+on digital rights: in 2022, MCRB submit ted input to the UN Ofﬁc e of the High Commission er for Human Rights 
+on the right to privacy in the digital age and on the practical application of the Guidin g Principles on Busin ess 
+and Human Rights (UNGPs) t o th e tech sec tor.
+Therefore, MSBN f elt it w as impor tant t o provide input t o th e UN Glob al Digital C omp act (UNGDC). Introduction
+23.93 million int ernet user s wh en My anmar ’s population w as 54 .38 million. 
+15 million social m edia user s, of whic h 97% use F acebook , 75% use F acebook Messen ger,
+9% use Insta gram, an d 5% Link edIn. 
+64.60 million a ctive cellular m obile c onn ections. 01
+/one.numr See data shared by the World Bank here. 
+/two.numr See : https://datareportal.com/reports/digital-2023-myanmar 
+/three.numr Free Expression Myanmar has published a timeline of the impacts on free expression after 1 February 2021.     
+They also recently published a new report summarising the main impacts on digital rights.
+/four.numr Myanmar Witness released in January 2023 a report on digital battlegrounds in Myanmar, with a focus on  the impacts on 
+women online. 
+ /five.numr https://www.myanmarsbn.org/ 
+ /six.numr See: https://www.myanmar-responsiblebusiness.org/news/mcrb-submits-input-ohchr-right-privacy.html 
+ /seven.numr See: https://www.myanmar-responsiblebusiness.org/news/guiding-principles-tech-sector.html 
+The survey was accessible for one month, between 27 Februar y 2023 and 31 March 2023. We received 64 
+contr ibutions. Th e details on th e respon dents ar e provided belo w: Methodol ogy
+We developed an onlin e questionnair e to survey our member s and Myanmar people. The questionnair e 
+included 10 questions, available in Myanmar and English. MSBN shar ed the survey on its social media 
+accounts an d dir ectly b y email with its m ember s. 
+The respon dents w ere ask ed to selec t their top pr iorities am ong th e following: 
+Description
+Connect all people to
+the internet 
+tPriority
+Avoid internet
+fragmentation 
+Protect data
+Apply human rights
+online 
+Accountability for 
+discrimination and
+misleading content
+Regulation of artiﬁcial
+intelligence #
+1
+2
+3
+4
+5
+6
+7Digital commons as a
+global public good Ensure that everyone in Myanmar can access the Internet
+regardless of where they live and their personal situation.  
+Remove all the limitations that block people to access freely all
+the contents, social media platforms,etc.  
+Organisations collecting information about their
+customers/users/stakeholders should protect these data. 
+Support, respect and protect human rights both online and 
+o ine. 
+Eliminating fake news, unchecked and misleading contents is
+crucial to empower people to access trustworthy contents.  
+Ensure that Myanmar entities set proper rules and guidelines to 
+use responsibly AI tools. 
+Develop standards and policies to strengthen Myanmar digital
+space, while making sure it remains a public good.  02
+83% of th e respon dents w ere My anmar citiz ens, an d 17% were foreign ers. 
+5% of the respon dents were between 18 and 25 year s old, 30% between 25 and 35, 39% between 35 
+and 50, and 27% over 50 years old. A detailed breakdown between the different age groups and the 
+citiz enships is pr ovided in c hart 1. 
+59% of the respon dents work in the private sector, 22% in NGOs and CSOs, 2% are students, 2% are 
+unemplo yed, and 16% prefer not to shar e their current occupation. A detailed breakdown between 
+the citiz enships an d th e oc cupation is pr ovided in c hart 2. 
+Myanmar ForeignerChart 1 - Distribution of the respondents by age group and citizenship
+30
+25
+20
+15
+10
+5
+0
+18 to 25 35 to 50 25 to 35 50 to 70
+
+Myanmar ForeignerChart 2 - Distribution of the respondents
+by occupation and citizenship
+030303
+Private sector (6)
+Other (1)Myanmar
+Private sector (32)Public sector (10) 
+(NGO,CSO, etc.)
+Students (1)
+ForeignerOther (9)
+Unemployed (1)
+Private sector (4)
+(NGO,CSO, etc.)
+Key points
+When ask ed about th eir top pr iority for My anmar t o enhan ce its digital lan dscape, w e obser ve in c hart 3 that:  
+ 28% of th e respon dents selec ted digital c omm ons as a public good/eight.numr
+ 16% data pr otection
+ 16% ensur ing that e veryone could a ccess th e Int ernet. 
+Howe ver, when we look at different factors, such as the age and citiz enship of the particip ants, we can notice 
+that:
+ 
+These ﬁndings inform decision-mak ers and can enable them to develop conduciv e actions and programm es 
+in Myanmar by targetin g audien ces with areas that interest them the most. It could help identif y the what or 
+the focus of th e digital a gen da in My anmar . But what about th e how? 
+When w e ask ed th e respon dents t o provide us with th eir ide as to help a dvance the agen da of th e UNGDC in 
+Myanmar ,  they mostly suggest ed focusin g on:Findings
+ awareness r aisin g an d cap acity buildin g
+ ensur ing free a ccess t o th e int ernet both f rom a geogr aphic an d ec onomic point of vie w
+ data pr ivacy
+ tackling misle ading content onlin e, an d
+ suppor ting th e ec onomy.   
+Chart 3 - Segmentation of the priorities selected by the respondents (number)20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+Ensure
+accountability
+for misleading
+contents onlineApply human
+rights onlineAvoid Internet
+fragmentationConnect
+everyone to the
+internetSecure digital
+commons as a
+public goodProtect data Regulate
+artiﬁcial
+intelligence
+Myanmar Foreigner Finally , for th e oc cupation, only on e priority was chosen b y all th e diff erent t ypes of oc cupation:
+ digital comm ons as a public good (see c hart 6).   
+/eight.numr The UNGDC explains in this 1-pager that “to unlocking a more equitable world, a global effort is needed to encourage 
+and invest in the creation of digital public goods: open source software, open data, open artiﬁcial intelligence models, 
+open standards and open content. (…) Digital public goods should adhere to privacy and other applicable laws, 
+standards and best practices, do no harm. These should also and help attain the Sustainable Development Goals.”   
+/nine.numr We notice that the UNGDC has a workstream on digital capacity buildin g and a dedicat ed onlin e platf orm.  Ho wever, 
+the datab ase does not allow people to search for speciﬁc contents in Myanmar language. Likewise, it could suppor t the 
+translation of regional tools in Myanmar language, such as the Digital Secur ity Communit y Dir ectory or th e Totem 
+projec t. 0404
+Age inﬂuences prioritisation as well. Proportionally, people over 50 years old did not consider AI 
+regulation a priority but were mostly concerned about ensuring Internet access to everyone. People 
+below 25 years old focused on ensuring accountability for misleading  content
+online, data protection and digital goods (see chart 5).         
+ Foreign ers tend to prioritise t wo topics: a ccountabilit y for misle ading contents onlin e an d   a voidin g  
+ th e int ernet fragmentation (see c hart 4).       
+100%
+80%
+60%
+40%
+20%
+0%
+Ensure
+accountability
+for misleading
+contents onlineApply human
+rights onlineAvoid Internet
+fragmentationConnect
+everyone to the
+internetSecure digital
+commons as a
+public goodProtect data Regulate
+artiﬁcial
+intelligence
+Myanmar ForeignerChart 4 - Segmentation of the priorities selection by the respondents (%)
+Ensure
+accountability
+for misleading
+contents onlineApply human
+rights onlineAvoid Internet
+fragmentationConnect
+everyone to the
+internetSecure digital
+commons as a
+public goodProtect data Regulate
+artiﬁcial
+intelligenceChart 5 - Segmentation of priorities based on the age of the respondents (%)
+100%
+80%
+60%
+40%
+20%
+0%
+18 to 25 25 to 35 35 to 50 50 to 70
+Ensure
+accountability
+for misleading
+contents onlineApply human
+rights onlineAvoid Internet
+fragmentationConnect
+everyone to the
+internetSecure digital
+commons as a
+public goodProtect data Regulate
+artiﬁcial
+intelligence100%
+80%
+60%
+40%
+20%
+0%
+Other Private sector Public sector (NGO, CSO, etc.) Students UnemployedChart 6 - Segmentation of priorities based on the occupation of the respondents (%)100%
+80%
+60%
+40%
+20%
+0%
+Ensure
+accountability
+for misleading
+contents onlineApply human
+rights onlineAvoid Internet
+fragmentationConnect
+everyone to the
+internetSecure digital
+commons as a
+public goodProtect data Regulate
+artiﬁcial
+intelligence
+Myanmar ForeignerChart 4 - Segmentation of the priorities selection by the respondents (%)
+Ensure
+accountability
+for misleading
+contents onlineApply human
+rights onlineAvoid Internet
+fragmentationConnect
+everyone to the
+internetSecure digital
+commons as a
+public goodProtect data Regulate
+artiﬁcial
+intelligenceChart 5 - Segmentation of priorities based on the age of the respondents (%)
+100%
+80%
+60%
+40%
+20%
+0%
+18 to 25 25 to 35 35 to 50 50 to 70
+Ensure
+accountability
+for misleading
+contents onlineApply human
+rights onlineAvoid Internet
+fragmentationConnect
+everyone to the
+internetSecure digital
+commons as a
+public goodProtect data Regulate
+artiﬁcial
+intelligence100%
+80%
+60%
+40%
+20%
+0%
+Other Private sector Public sector (NGO, CSO, etc.) Students UnemployedChart 6 - Segmentation of priorities based on the occupation of the respondents (%)05
+
+06
+13
+6
+5
+4
+3
+Raise awareness and
+educateFree Internet access Secure Dara privacy Combat Fake news Support economic
+playersChart 7 - Triggers to activate to enhance the digital landscape in Myanmar
+according to respondents

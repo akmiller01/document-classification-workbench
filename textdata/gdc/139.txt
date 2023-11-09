@@ -1,0 +1,933 @@
+A Brighter Digital Tomorrow: 
+An equitable digital future 
+built for, with and by today's 
+children and young peopleUNICEF
+© UNICEF/UN0610423/Vu
+Table of Contents
+Introduction02
+03
+04
+06
+08
+10
+12
+14
+17U-Report
+Inputs and 
+Recommendations
+• Universal connectivity is critical for an inclusive digital future, 
+where all people can participate
+• Children’s rights and safety should be explicitly prioritized 
+and protected in digital environments
+• All children and youth must have the agency and resources 
+to meaningfully participate in a digital future
+• Accountability criteria for discrimination and misleading 
+content should be introduced
+• Internet fragmentation needs to be avoided to ensure an 
+open, free, inclusive, and secure digital future
+• Digital commons, including technologies and services (both 
+existing and emerging), must be accessible, equitable and 
+safe for all children and youth
+• Introduce a commons-approach to data governance to 
+protect sovereignty and productive capacity by realizing data 
+as a shared resource for inclusive benefits also for children
+An equitable digital future needs 
+tomorrow’s voice, today.
+The world’s digital future must be defined, designed, and 
+decided for, with and by those to be most impacted by it: 
+children, youth and future generations. We must ensure that 
+we amplify the voices of influence for children and youth as 
+well as assure their rights, interests and opportunities are 
+promoted and protected  now and into the future. 
+It is imperative that UNICEF takes a leading 
+role in raising the voice of young people all 
+over the world to ensure full engagement and 
+participation in the process that will shape 
+their digital future.  
+In September 2021, the United Nations 
+Secretary-General released his report Our 
+Common Agenda.  The Common Agenda 
+proposes a Global Digital Compact (GDC) 
+to be agreed at the Summit of the Future in 
+September 2024. As part of the process of 
+preparing the GDC, the United Nations 
+Secretariat, through the Secretary-General's 
+Envoy on Technology, is supporting the 
+Co-facilitators, Rwanda and Sweden, who 
+are leading the intergovernmental process on 
+the GDC. During the preparatory phase of the 
+GDC, all stakeholders have been invited to 
+provide their input.
+More information about the GDC and the 
+process to develop the Compact can be 
+accessed here.This document is UNICEF's submission 
+to the preparatory phase of the GDC 
+process. It has been developed 
+collaboratively through co-drafting and 
+co-editing as well as through the organization 
+of deep dive sessions on specific topics that 
+are relevant to the GDC from a UNICEF 
+mandate’s lens.  
+UNICEF has also organized a U-Report poll 
+to gather input from young people on their 
+views of their digital future.  
+02Introduction
+UNICEF's Contribution to the Global Digital Compact Preparatory Process - 2023
+https://www.un.org/techenvoy/global-digital-compact
+28%
+of respondents feel that they 
+have much control on how 
+technology will impact their 
+life over the next decade.  
+While 6/10 of female 
+respondents report that they 
+feel they have some control 
+on how technology will impact 
+their life in the next decade 
+only 4/10 male respondents 
+share this sentiment. Bringing Children & Youth Voices to the GDC consultation: 
+UNICEF Office of Innovation and UNSG’s 
+Youth Envoy collaboration with U-Report1 
+0329%
+of the respondents think the 
+most important issues for 
+the future of digital 
+technology is that everyone 
+can access the internet. 
+This is followed by  control 
+of their own data  and 
+information (21%) and the 
+protection of their human 
+rights online  (15%).To better understand young people’s 
+sentiments and concerns about the future of 
+digital technologies, and how much control 
+they feel they have to shape the digital 
+future, UNICEF’s U-Report Global Platform 
+and country office platforms launched a 
+one-month global consultation together with 
+the Secretary-General's Envoy on Youth. Over 80,000 young people from 32 countries 
+participated in the consultation. Of these 
+respondents, 59,10% identified as male, 
+40,88 identified as female and 0,02% 
+identified as non-binary. It can also be noted 
+that 39.6% of the U-Reporters who 
+responded were 24 years old or younger.
+Looking at the results, it can be seen that:
+41%
+said that when they think 
+about how technology will 
+change the world over the 
+next decade, they are 
+mostly worried. 
+Just over 37% of male 
+respondents said that they 
+are mostly worried, around  
+46% of the female 
+respondents said that 
+they are mostly worried. 
+The U-Report poll data reflects the information provided by the respondents, and is not 
+statistically representative of young people globally, or in any specific country or region. It does 
+provide a snapshot of young people’s view on the future of digital technologies and how much 
+control they feel they have to shape the digital future. For full results of the poll, see this annex. 
+UNICEF's Contribution to the Global Digital Compact Preparatory Process - 20231Only around a quarter of the respondents do not feel 
+particularly worried or excited about the potential impact of 
+technology in the future. 
+https://unicef.sharepoint.com/:p:/r/teams/OOI-Venture/Ventures%20Shared%20Folder/Global%20Digital%20Compact/Public%20Submission%20-%20GDC/U-Report%20Digital%20Compact%20Poll%20Report_v1.pptx?d=we024d82d2c5c4ff58966df555f41be67&csf=1&web=1&e=H5pEUa
+Overview of key proposed inputs and 
+recommendations from UNICEF 
+1.Universal connectivity is critical for 
+an inclusive digital future, where all 
+people can participate. 
+2.7 billion people are still 
+offline and 96% of these 
+people live in developing 
+countries. Of those who are 
+unconnected, 1.3 billion of 
+them are children with no 
+access to the Internet at home 
+and only half of the world’s 
+schools are online.This digital exclusion particularly affects the 
+poorest, girls, and those with disabilities; 
+causing learners to miss out on the resources 
+online, the option to learn remotely (e.g. 
+during pandemics or instability), and the 
+opportunity to develop digital skills. This lack 
+of connectivity means that many children 
+have fewer opportunities to learn and fulfil 
+their potential. Closing this digital divide 
+requires global cooperation, leadership, and 
+innovation in finance and technology. 
+04UNICEF's Contribution to the Global Digital Compact Preparatory Process - 2023© UNICEF/UN070230/Chisiza
+Giga: Connecting the dots    
+OECD: Connecting every school in the 
+world to internet
+The Digital Transformation of learning: 
+Connecting schools, empowering learners 
+UNICEF: Internet Connectivity at home 
+factsheet 
+Meaningful school connectivity : An 
+assessment of Sustainable Business models 
+Connecting Learners: Narrowing the 
+education divide 
+Africa CDC: Digital Transformation 
+Strategy   
+WHO: Global Health Facilities Database 
+(GHFD)  
+WHO: Digital Clearing House Programmes  
+Global Fund:  Digital Health Impact 
+Accelerator  (DHIA) 
+Resilient and Sustainable Systems for 
+Health (RSSH) Programmes 
+USAID: Digital Invest Initiative 
+ Recommendations
+Recognize reliable access to connectivity 
+and thus to digital information as a new 
+universal child/human right. 
+Ensure that connectivity is safe, 
+sustainable, and equitable  by leveraging 
+cross-sectoral initiatives, such as Giga 
+(UNICEF and ITU), to implement the 
+policies, regulations, technologies, and 
+financing required.  
+Connect schools to allow children to 
+develop digital skills and access online 
+learning content. Schools can also become 
+anchor points for surrounding communities. 
+Ensure connectivity to critical physical 
+infrastructure, such as schools and 
+health centres, in order to make digitally 
+enabled services accessible and affordable 
+to the most marginalized communities. Sources of Knowledge
+05UNICEF's Contribution to the Global Digital Compact Preparatory Process - 2023
+There is vast potential in the digital 
+environment for realizing children’s rights,
+for example their rights to education, 
+healthcare, and play. At the same time, 
+digital technologies may contribute to the 
+violation of children’s rights, for example, 
+their rights to privacy and protection from 
+violence, exploitation and abuse. 
+The rapid uptake and development of 
+digital technologies have not been 
+accompanied by the legislation, services, 
+and education required to ensure its safe 
+and empowering use.
+This has left children 
+vulnerable to serious harm. In 
+low/middle-income countries 
+surveyed by UNICEF, up to 
+20% of internet-using children 
+experienced online sexual 
+abuse in the last year.Online risks can be substantial even in 
+countries where internet access is low, 
+highlighting the importance of investing in 
+child protection efforts at an early stage of a 
+country's digital transformation. These efforts 
+should be guided by the goal of ensuring that 
+the digital environment serves children’s best 
+interests, respects their rights, and actively 
+supports their well-being. 
+Recommendations
+The rights of every child must be 
+respected, protected and fulfilled in the 
+digital environment, as set out in General 
+Comment 25 by the UN Committee on the 
+Rights of the Child. Digital environments 
+that work for adults may create risks for 
+children. To ensure that such risks do not 
+remain invisible, dedicated efforts are 
+required to identify and address child rights 
+impacts. Governments should ensure that 
+the best interest of every child is a primary 
+consideration in the provision, regulation, 
+design, management and use of digital  
+06Children’s rights and safety should 
+be explicitly prioritized and 
+protected in digital environments.   
+UNICEF's Contribution to the Global Digital Compact Preparatory Process - 20232.© UNICEF/UNI320494/Elias
+UN CRC General Comment 16 on State 
+obligations regarding the impact of 
+business on children’s rights 
+UNICEF Office of Research – Innocenti: 
+Children’s Experiences of Online Sexual 
+Exploitation and Abuse in 12 Countries in 
+Eastern and Southern Africa and 
+Southeast Asia 
+UNICEF: Ending online child sexual 
+exploitation and abuse: Lessons learned 
+and promising practices in low- and 
+middle-income countries 
+WeProtect & UNICEF: Framing the future : 
+How the Model National Response framework 
+is supporting national efforts to end child 
+sexual exploitation and abuse online 
+UNICEF: Legislating for the digital age : 
+Global guide on improving legislative 
+frameworks to protect children from online 
+sexual exploitation and abuse Policies and interventions designed to 
+protect children’
+s rights in the digital 
+environment should be based on 
+regularly updated data and research. 
+Governments and others should collect 
+robust, comprehensive data to understand 
+the implications of the digital environment for 
+children’s lives, including by conducting 
+national-level research on children’s lived 
+experiences of the digital environment, 
+should be collected. This research should 
+include an assessment of how national 
+systems are responding to 
+technology-facilitated crimes against children 
+to construct an evidence-based roadmap for 
+improving prevention and response. technologies, and ensure due weight is
+given to children’s own views across
+these efforts. 
+Legislation should be in line with 
+international human rights standards and 
+protect children from recognized and 
+emerging risks of violence in the digital 
+environment. Governments should update 
+and enforce legislation to protect children 
+from all forms of technology-facilitated 
+violence including online child sexual 
+exploitation and abuse. 
+All businesses have a responsibility to 
+respect children’s rights within the digital 
+environment, in line with the UN Guiding 
+Principles on Business and Human 
+Rights. To meet their responsibility to respect 
+children’s rights, businesses should 
+undertake child rights due diligence, including 
+child rights impact assessments in relation to 
+the digital environment. In addition to 
+preventing and mitigating all online harms, 
+businesses should strive to proactively 
+support child well-being through their digital 
+products and services.
+Children must have access to justice and 
+remedies for violations of their rights 
+relating to the digital environment. 
+Governments should ensure that appropriate 
+and effective remedial judicial and 
+non-judicial mechanisms for the violations of 
+children’s rights relating to the digital 
+environment are widely known and readily 
+available to all children and their 
+representatives. Remedial mechanisms must 
+be designed with children’s requirements in 
+mind to ensure their effectiveness as children 
+face particular challenges in accessing 
+justice. 
+07Sources of Knowledge
+UNICEF's Contribution to the Global Digital Compact Preparatory Process - 2023
+All children and youth must have the 
+agency and resources to meaningfully 
+participate in a digital future.  
+Children constitute one-third 
+of all users of digital 
+technologies  and in 
+low/middle-income countries 
+this percentage is even 
+higher. In the process of 
+negotiating the GDC, it should 
+be ensured that the compact 
+speaks for multiple 
+demographics and for the 
+plurality of people that the 
+GDC will seek to serve.Therefore, it must be ensured that all norms, 
+principles and values related to digital are 
+child-sensitive, catering to all, especially 
+those youngest and most vulnerable across 
+the globe, including paying specific attention 
+to addressing the gender digital divide and 
+how girls tend to have both less access to 
+digital technologies and lower digital literacy 
+compared to boys. 
+The main constituents affected by digital 
+solutions of the future must be proactively 
+and equitably included in the processes of 
+designing and developing these solutions. 
+Young people’s enthusiasm for technology’s 
+positive social impact potential must be 
+unequivocally supported. It is imperative that 
+UNICEF takes a leading role in raising the 
+voice of children and young people all over 
+the world to ensure full engagement and 
+participation in the process that will shape 
+their digital future. This also calls for new 
+funding and investments to be directed 
+toward emerging markets to enable young 
+people as digital solution makers.  
+ 
+08UNICEF's Contribution to the Global Digital Compact Preparatory Process - 20233.© UNICEF/UN0551725/Dejongh
+
+UN CRC General Comment 25 on 
+children’s rights in relation to the digital 
+environment 
+UNICEF Innocenti:
+Child Rights in the Digital Age 
+UNICEF: Policy Guidance on AI for 
+Children 
+UNICEF: What we know about the digital 
+gender divide for girls Recommendations
+Ensure meaningful youth participation by 
+recognizing young people as right 
+holders and provide them with the 
+necessary education and protection to 
+engage safely and effectively. For 
+example, through digital platforms such as 
+UNICEF’s U-Report. 
+Establish a new global governance board, 
+with young people and children included, 
+focused on digital technologies and 
+access to related rights, especially in light 
+of recent calls for global artificial intelligence 
+(AI) governance frameworks. This will ensure 
+that future generations' needs and 
+perspectives are represented in both 
+discussions and decision-making around 
+digital governance, fostering more effective 
+and inclusive governance frameworks. 
+Foster diversity and inclusion by 
+ensuring inclusiveness, gender balance, 
+accessibility, and the engagement of 
+youth who are traditionally underserved, 
+including youth with disabilities. This 
+includes facilitating opportunities for 
+participatory decision-making and working 
+with youth-led organizations as core 
+partners, as well as addressing gender 
+norms restricting girls’ access. 
+Address inequalities in the lives of 
+children to get the most out of digital 
+inclusion efforts. In UNICEF’s child-centred 
+digital equality framework, a holistic 
+approach from ‘inclusion’ in technological 
+terms to ‘equality’ in developmental and 
+well-being outcomes is recommended. This can be achieved by, for example, 
+setting key performance indicators to 
+gauge how digital inclusion efforts 
+contribute to equality in outcomes for 
+children, such as in education, well-being 
+and safety, and empowerment. 
+Diversify and redirect global Venture 
+Capital flows and investments  into 
+emerging markets , to strengthen 
+innovation ecosystems and opportunities 
+for young entrepreneurs and innovators 
+access global markets. 
+Social-impact oriented digital 
+entrepreneurs, and their ecosystems, 
+must be proactively and equitably 
+included in the processes of designing 
+and developing digital solutions of the 
+future. Technical and financial resources 
+to support young people’s enthusiasm for 
+technology’s positive social impact should 
+be intentionally redistributed to emerging 
+ecosystems. 
+Sources of Knowledge
+09UNICEF's Contribution to the Global Digital Compact Preparatory Process - 2023
+Accountability criteria for 
+discrimination and misleading content 
+should be introduced. 
+The Secretary-General noted 
+in Our Common Agenda that 
+the ability of digital 
+technologies to be used to 
+cause large-scale 
+disinformation is an existential 
+risk to humanity. Since then, 
+advances in AI have only 
+amplified this risk.The ability 
+for AI to instantly generate 
+text-based disinformation that 
+is indistinguishable from 
+human-generated content has 
+been established. Synthetic content (text, image, audio and 
+video) can now potentially be personalized to 
+individual users to maximize persuasion and, 
+as a result, be harder to combat by 
+automated and human moderators. 
+The same concerns hold for the future of 
+other automatically created harmful content, 
+including hate speech, online harassment, 
+propaganda and increasingly realistic – and 
+misleading – deepfakes. The deleterious 
+effect of an internet flooded with misleading 
+content is an erosion in trust as the 
+authenticity of all content is questioned.   
+Current forecasts are that AI tools will only 
+become more effective at human-like content 
+generation, that bad actors will likely leverage 
+open-source versions that can be trained on 
+harmful content and deployed without safety 
+guardrails, and that certain nation states may 
+invest in the technology themselves. 
+10UNICEF's Contribution to the Global Digital Compact Preparatory Process - 20234.© UNICEF/2022/Le Vu
+UNICEF: Digital Misinformation/ 
+disinformation and children  
+Generative Language Models and 
+Automated Influence Operations: 
+Emerging Threats and Potential Mitigations  
+ChatGPT: The impact of Large Language 
+Models on Law Enforcement 
+Artificial Intelligence Can Persuade 
+Humans on Political Issues Recommendations Sources of KnowledgeAs active digital users, mis/disinformation is 
+very much part of children’s lives. With their 
+cognitive capacities still in development 
+children are particularly vulnerable to the 
+risks of mis/disinformation and a more 
+complex, corroded and harmful information 
+ecosystem is of great concern. Require technology companies to undergo 
+regular public audits of their algorithms, AI 
+systems, content policies and 
+mis/disinformation moderation practices 
+concerning children’s use of their services 
+and products.  
+Devise regulations and codes of conduct 
+to protect children from harmful 
+mis/disinformation, while enabling 
+children to safely access diverse content. 
+Regulation should focus on requiring 
+procedures for classifying content and 
+ensuring transparency and accountability, 
+over defining what constitutes harmful 
+content and mis/disinformation (except in 
+extreme cases such as child sexual abuse 
+material). The latter approach can be 
+misused to censor and restrict access to 
+information.
+In the case of virtual environments, regulation 
+and codes of conduct need to develop 
+accountability criteria not only for content but 
+also behaviour as avatars (human or AI 
+driven) interact with each other. Regulation 
+may consider “hold points” where 
+advancement in technology development is 
+paused if there are precautionary concerns 
+around unknown risks.  
+Broadly require greater transparency, 
+accountability and global responsibility 
+from technology companies around 
+mis/disinformation and children. Relevant 
+companies now include not only content 
+distributors, such as social media platforms, 
+but those whose tools generate content. 
+11UNICEF's Contribution to the Global Digital Compact Preparatory Process - 2023
+Internet fragmentation needs to be 
+avoided to ensure an open, free, 
+inclusive, and secure digital future. 
+The internet has never been as fragmented 
+as it is today. This splintering undermines the 
+possibility of an open, free, inclusive and 
+secure digital future on a number of levels. 
+Uneven and patchwork internet governance 
+poses a significant risk to children and young 
+people's rights in the digital environment. 
+Their rights to access to information, 
+education, and healthcare are increasingly 
+dependent on connectivity, and their 
+freedoms of expression and peaceful 
+assembly (both online and offline) are 
+hindered by censorship and surveillance. 
+This also impacts the most disadvantaged 
+children disproportionately, particularly those 
+with disabilities, who often lack access to the 
+resources needed to bridge the technology 
+divide.  
+In light of these challenges, it is important to 
+note that young people see internet 
+fragmentation as closely linked to growing 
+technology disparities.Therefore, the GDC needs to work for 
+young people by aiming to bridge the 
+technology divide, reduce risks associated 
+with uneven internet governance, and 
+promote a more equitable and democratic 
+digital society for all.
+The trend towards greater 
+fragmentation is not going 
+unchallenged and can be 
+reversed. Children and youth 
+are the most active internet 
+user cohort; the battle today 
+for the future of the internet 
+will determine whether it 
+empowers them, or becomes 
+a tool used against them. 
+12UNICEF's Contribution to the Global Digital Compact Preparatory Process - 20235.© UNICEF/2017/Georgiev
+UNICEF: Prospects for Children in the 
+Polycrisis: A 2023 Global Outlook 
+Freedom House:  Freedom on the Net 2022
+UNICEF: Changing Childhood  Project 
+ Recommendations
+Support opportunities for a range of 
+stakeholders, including children and 
+young people, to rally against internet 
+fragmentation. Such efforts should include 
+establishment of government alliances for a 
+shared vision of a unified internet, civil 
+society calls for oversight and regulation of 
+digital surveillance tools, and youth 
+movements against digital products and 
+services that undermine their well-being. 
+Facilitate knowledge sharing and 
+alignment between governments, for 
+example, highlighting those that model 
+positive approaches to internet governance 
+by developing child-centred regulations. The 
+pattern of spill-over of regulations in one 
+geography to others, such as being seen with 
+the EU’s GDPR or the UK’s Age-Appropriate 
+Design Code, can be leveraged. 
+Develop a roadmap on how the 
+multilateral system can nurture a unified 
+internet. Task the new global governance 
+board, recommended in the previous section 
+on the meaningful participation of youth in a 
+digital future, with the development of a plan 
+on how the international community can act 
+as a force for a unified internet. 
+Build evidence on drivers of policy 
+formulation and implementation that 
+promotes the right to access to information, 
+education and healthcare through 
+connectivity for children and young people 
+across countries and regions. 
+ Sources of Knowledge
+13UNICEF's Contribution to the Global Digital Compact Preparatory Process - 2023
+Digital commons, including technologies 
+and services (both existing and emerging), 
+must be accessible, equitable and safe for 
+all children and youth.  
+Digital commons must 
+become and remain 
+accessible, equitable, and 
+safe to use for everyone. 
+Furthermore, children and young people 
+should be empowered to participate in digital 
+ecosystems in an equitable way, including by 
+having their skills and capacity developed, 
+and provided systemic ways to contribute to 
+the development and maintenance of digital 
+commons. 
+Currently, the digital commons face a range 
+of challenges such as commercialization and 
+inequitable participation. Millions of children 
+and young people, especially in low/middle- 
+income countries are digitally excluded, 
+which exacerbates existing inequalities. Shared digital public goods (DPGs), as 
+defined by the Digital Public Goods Alliance 
+(DPGA), have been recognized as an 
+accelerator for children’s rights and the 
+Sustainable Development Goals (SDGs) and 
+are therefore a vital part of the digital 
+commons. DPGs can support governments 
+and other partners to build Digital Public 
+Infrastructure (DPI) in a more equitable, 
+transparent, and inclusive way. Open and 
+accessible DPI as part of the digital common 
+also serve as a foundation for vibrant digital 
+innovation ecosystems by young 
+entrepreneurs. 
+DPI also opens alternative approaches to the 
+governance and use of data generated by 
+(and through) the use of DPI, approaches 
+that promise a more equitable distribution of 
+benefits derived from such data ( see next 
+section on the Data Commons ).
+14UNICEF's Contribution to the Global Digital Compact Preparatory Process - 20236.© UNICEF/UNI317552/Frank Dejongh
+While the potential of DPGs for building DPI 
+is increasingly recognized, a range of 
+challenges remain, including 
+misconceptions about open-source, lack of 
+sustainable funding/business models and 
+unclear/nontransparent governance. 
+Consequently, the potential of the digital 
+commons for the SDGs is not fully realized. 
+As a co-founder of the DPGA, UNICEF 
+supports the discovery, maintenance, and 
+implementation of DPGs that support the 
+achievement of children’s rights, for 
+example in areas such as health, 
+education, and social protection. UNICEF 
+supports the Secretary-General’s vision of 
+reclaiming the digital commons to ensure 
+an inclusive and equitable digital future for 
+everyone, including children. 
+Recommendations
+To fully realize the potential of digital 
+commons for the SDGs, UNICEF 
+recommends the following actions: 
+Create inclusive governance models for 
+DPGs for DPI and the digital commons. 
+Governance is central to reclaiming the 
+digital commons and specifically for 
+successful long-term maintenance of 
+DPGs that can benefit children.
+Creating a coherent and interoperable 
+ecosystem of DPGs for DPI, including 
+collective ownership modalities, will require 
+more coordination and transparent 
+governance to ensure multi-stakeholder 
+participation. Incentive structures for 
+everyone to participate in and contribute 
+back to DPGs need to be designed. Develop new financing mechanisms for 
+DPGs. The GDC should put forward 
+improved finance mechanisms for the 
+maintenance of key foundational DPGs for 
+children, such as health, education, social 
+and child protection systems. These 
+mechanisms could include multi-donor or 
+interagency shared funds. Viable business 
+models for DPGs, such as SaaS models, 
+should be further researched and lessons 
+learned should be shared. Private sector 
+actors need to recognize the value of open 
+systems and dedicate resources 
+appropriately.
+This requires a mindset shift from all involved 
+partners, including donors, where equal focus 
+and resources are dedicated to high-impact, 
+mature and foundational DPGs as for new, 
+innovative DPGs. Creating transparency 
+about the benefits of and the business case 
+for sharing technology, can support advocacy 
+for shared financing. 
+Strengthen inclusive and meaningful 
+participation in the design, development, 
+and maintenance of DPGs.  As everyone is 
+affected by digital technologies, everyone 
+should have ways to contribute to the digital 
+commons. Open-source communities 
+traditionally struggle with inclusive 
+participation across age, disciplines, genders, 
+disabilities, but also across different income 
+contexts. The GDC should put forward 
+mechanisms for strengthening participation 
+from low/middle- income countries in the 
+digital commons.  
+15UNICEF's Contribution to the Global Digital Compact Preparatory Process - 2023
+UNICEF: Towards a child-centred digital 
+equality framework 
+UNCTAD: Technology and Innovation 
+Report 2021 
+The MIT Tech Reader: Tech Companies Are 
+Profiling Us From Before Birth 
+UN CRC General Comment 25 on 
+children’s rights in relation to the digital 
+environment 
+Responsible Innovation in Technology for 
+Children 
+Children’s Rights and Digital Technologies 
+State of the Digital Public Goods 
+Ecosystem 2022  
+Principles for Digital Development 
+UNESCO and UNICEF: Gateways to Public 
+Digital Learning 
+UNICEF: Pulse Check on Digital Learning Create a broad, multi-stakeholder alliance 
+for empowering and engaging future 
+generations in building the digital 
+commons ecosystem, including DPGs 
+and DPI.  
+Young people's engagement in the 
+DPG and DPI ecosystem will ensure its 
+intergenerational solidarity and equity. 
+Facilitated by the UN, and championed by 
+Member States, the alliance will create 
+actionable frameworks for engaging future 
+generations in designing, consulting, and 
+decision-making processes related to 
+building, maintaining, and owning DPGs and 
+DPI, to advance digital trust, local capacity 
+and dialogue.  
+Create and strengthen standards as the 
+basis for an interoperable DPG ecosystem 
+(standards-first approach). A strong DPG 
+for DPI ecosystem requires a standards-first 
+approach, that supports open-exchange 
+formats and defines open specifications. 
+Many sectoral efforts are underway (for 
+example in health, child protection and social 
+protection) that can be brought together in a 
+comprehensive way. Accessibility standards 
+are key for creating truly inclusive DPI.  
+Strengthen multi-stakeholder 
+collaboration on the digital commons.  The 
+private sector needs to be engaged in a 
+meaningful way in the identification of 
+pathways for a more equitable digital future 
+that recognises the value of open digital 
+systems. Academia, on the other hand, has 
+been proven an effective custodian of DPGs 
+(for example for DHIS2 and MOSIP). The 
+potential role of universities in inclusive 
+governance of DPGs, including by young 
+people, needs to be further explored and 
+good practices need to be shared.  Sources of Knowledge
+16UNICEF's Contribution to the Global Digital Compact Preparatory Process - 2023Adhere to privacy by design in the 
+development of DPGs and DPI. Data of 
+children generated or used by digital systems 
+needs to be protected. Responsible data 
+practices need to be a cornerstone of DPGs 
+and DPI development and governance.  
+Introduce a commons-approach to 
+data governance to protect 
+sovereignty and productive capacity 
+by realizing data as a shared resource 
+for inclusive benefits also for children. 
+Data are a key driver of social 
+and economic vitality, a 
+source of economic and 
+political power, and a crucial 
+resource and essential 
+infrastructure in the digital era 
+– for knowledge-based 
+decision-making, for building 
+artificial intelligence products, 
+for conducting research, etc. – 
+with demonstrated potential to 
+serve the public good, 
+including the delivery of 
+benefits to children.There has been a massive increase in 
+data collection for and about children but 
+today, access to data and the capacity to 
+use and benefit from data are unevenly 
+distributed within and across countries and 
+across actors.
+Choosing who can access and use data is 
+a central societal question we must answer 
+as our sovereignty as individuals and 
+societies, our rights, our productive 
+capacity, and (in)equities in opportunities 
+and outcomes now and for future 
+generations depend on how data is 
+governed: collected, accumulated, shared, 
+accessed, and used. We must develop 
+sustainable data ecosystems that broaden 
+access to data and their benefits. 
+17UNICEF's Contribution to the Global Digital Compact Preparatory Process - 20237.© UNICEF/UN036675/Sharma
+This can be achieved through management 
+of data as a commons (within the context of 
+the digital commons, see previous section 
+on the Digital Commons), a way to resolve 
+the data governance “trilemma”: balancing 
+public interest, economic value, and 
+fundamental rights.  
+'Data commons’ are digital data that are 
+collectively stewarded and governed by a 
+community. Data commons are not data 
+alone but refer to entire systems including 
+institutions, standards, (technical) 
+infrastructures, and decision structures that 
+enable data access, sharing, and use in 
+service of public value generation at 
+community, national, regional, and global 
+level. The idea of the data commons has 
+attracted the attention of policymakers (as 
+seen in the European Health Data Space 
+proposal, for example) interested in 
+developing institutional responses that can 
+advance public interest goals.
+By employing the idea of the commons, the 
+debate on data access and use can be 
+shifted beyond opposition and the stalemate 
+between treating data as a commodity and 
+de facto property for extraction of (largely 
+private) benefits and protecting it as the 
+object of fundamental rights (limiting 
+opportunities to use data).
+Moving towards data governance as a 
+commons, we will have to differentiate, of 
+course, between different types of data – 
+personal data, non-personal data, health 
+data, shipping industry data, public statistical 
+data, data collected by online platforms – 
+though there are recommendations that are 
+sufficiently general to leave room for 
+accommodating this diversity. Elevate the role of data as a crucial 
+resource and essential infrastructure in 
+the digital commons as a steppingstone 
+towards concerted action to address 
+digital inequities. Only 8% of DPGs 
+registered with the DPGA are concerned 
+with data. Global discussions on AI 
+insufficiently highlight inequities due to (lack 
+of) access to data and the centralization of 
+productive capacity and power through data 
+and, subsequently, AI in very few hands. 
+Therefore, there is a need for significant time 
+and resources to be dedicated to the 
+discussion of data as a crucial resource and 
+essential infrastructure at the Summit of the 
+Future (and other relevant fora) including 
+consultations with Member States and 
+stakeholders leading up to it. 
+Commit to developing and putting in 
+place measures to address data 
+asymmetries and inequities and, in the 
+process, give serious consideration to a 
+commons-approach to data governance 
+as it promises to provide a path forward 
+where progress pursuing alternative 
+approaches  – strengthening of data property 
+rights, expansion of data protection and 
+privacy rights – has stalled. An interagency 
+dialogue on a commons-approach to data 
+governance should be facilitated through a 
+dedicated Interagency and Expert Working 
+Group – or by leveraging the HLCP 
+international data governance working group 
+or its successor – and to host consultations 
+with Member States, civil society 
+organizations, academia, and the private 
+sector, a key partner given dominance in this 
+space, to reinvigorate progress on this issue. Recommendations
+18UNICEF's Contribution to the Global Digital Compact Preparatory Process - 2023
+Exploring Data as and in Service of the 
+Public Good 
+Data Commons Primer: Democratizing the 
+Information Society 
+Public-interest Framework for B2G Data 
+Sharing in the Data Act 
+European Health Data Space  
+European Data Act 
+Best Practices for the Governance of 
+Digital Public Goods 
+Digital Colonialism: The 21st Century 
+Scramble for Africa through the Extraction 
+and Control of User Data and the Limitations 
+of Data Protection LawsInvest in identifying where a global data 
+commons may help realize global public 
+goods and, subsequently
+, to establish 
+and resource such a commons. Global 
+issues that are significantly hampered by 
+lack of access to data needs to be identified 
+to inform decisions or to develop solutions 
+and to commit to putting in place a commons 
+where needed, building on the UN’s role as 
+steward of existing commons (the Oceans 
+through the UN High Seas Treaty, satellite 
+imagery data during emergencies through 
+the International Charter on Space and 
+Major Disasters) with UNICEF to (co)lead on 
+data for climate, data for anticipatory and 
+humanitarian action, and other areas core to 
+the UNICEF mandate (WASH, nutrition, 
+education, etc.). Consideration should be 
+given to the role of data in climate change 
+prevention and mitigation, an issue that 
+transcends national and regional interests, 
+and anticipatory and humanitarian action 
+given the UN mandate. 
+Develop guidance for Member States for 
+putting in place data commons in service 
+of regional, national, and community 
+public good including mechanisms for 
+meaningful community participation  
+starting with the development of principles 
+for such commons, their design and 
+participation.  Sources of Knowledge
+19UNICEF's Contribution to the Global Digital Compact Preparatory Process - 2023

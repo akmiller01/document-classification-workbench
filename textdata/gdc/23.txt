@@ -1,0 +1,846 @@
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.  CONTRIBUTION TO THE  
+GLOBAL DIGITAL COMPACT by G3ict 
+Benchmarking Progress of Countries in 
+Implementing Digital Accessibility for Persons with 
+Disabilities  
+
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.  T
+able  of Contents  
+Contents  
+Table  of Contents  .............................................................................................................................................. 2  
+Introduction  ....................................................................................................................................................... 3  
+Impact of disability and digital accessibility barriers on Global Digital Compact  objectives  ........................ 3  
+Background on G3ict and Digital Accessibility  .............................................................................................. 3  
+Data collection  .............................................................................................................................................. 3  
+Methodology  ..................................................................................................................................................... 4  
+Regional Results  ................................................................................................................................................ 6  
+Results  by Levels  of Income  per Capita ............................................................................................................. 6  
+Results  by CRPD  Ratification  Date  ..................................................................................................................... 7  
+Country Commitment Analysis ......................................................................................................................... 8  
+Country  Capacity  to Implement  Analysis  ........................................................................................................... 9  
+Lack  of a Process  to Involve  Persons  with  Disabilities  in Policy  Making  on ICT Accessibility  ....................... 10 
+Lack  of Country  References  to International  ICT Accessibility  Standards  ................................................... 10 
+Lack  of Availability  in ICT Accessibility  Courses at Country  Level  ................................................................ 10 
+Global Levels  of Implementation  and Outcomes  Analysis  ............................................................................... 11 
+Comparison  Analysis  2018 -2020  DARE  Index  .................................................................................................. 14 
+Country  Commitment  Comparison  Analysis  ................................................................................................ 14 
+Country  Capacity  Com parison  Analysis  ....................................................................................................... 16 
+Actual  Implementation  and Outcomes  Analysis  .......................................................................................... 17 
+ANNEX  ................................ ............................................................................................................................. 20 
+3 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.  Introduction  
+Impact of d isability a nd digital accessibility barriers on Global Digital Co mpact objectives 
+Accordin g to t he W orld B ank a nd W HO, more t han one b illion persons , or fift een per cent of the w orld 
+population, live w ith d isabilities out of which two -third w ith s evere d isabilities.  In o ur digit al world, a severe 
+disability translates into m ultiple types o f barriers t o access c ontents, online s ervices, w eb sites, t elevisions, 
+e-books,  ATMs a nd e verything digital .  Unless a ccessibility s tandards an d appropriate d esign methodologies 
+are i mplemented , those b arriers limit th e digital interaction s of users with d isabilities such as : 1/ perceiving 
+digit al content, 2 / understandin g digital content and 3/ inter acting with content via i nput .   Multiple type of 
+barriers may aris e for blin d or low v ision p ersons,  color b lind p ersons,  hard o f hearing o r deaf, p ersons with 
+physical , dexterity or intellectu al or neurologic disabil ities at v arious s tages of digital interaction.
+It is th erefor e essential for the fu ll realization of the Global Digital Compact objectives, t hat d igital 
+accessibility be fac tored i n as a core e nabler o f universal outreach for d igital p roducts, c ontent a nd services.
+Background on G3ict a nd Digital Ac cessibility 
+Anticipating t hose c hallenges, members of t he United N ations General Assembly Ad’Hoc C ommittee 
+responsible f or negotiatin g the text o f the Convention o n the R ights o f Persons with D isabilities ( CRPD) 
+helped launch G3ict, the Global Initiative for Inclusive Information and Communication Technologies (ICTs) 
+in December 2006 in cooperation with the Secretariat for the CRPD at UN DESA to promote the  
+comprehensive policy framework of the CRPD in matters of ICT accessibility and assistive technologies.   
+Since its l aunch, 186 UN  Member S tates h ave ra tified the CRPD and have made significant p rogress i n 
+adopting its digital accessibility dispositions but s everely lag ging in im plementation.  Mean while the 
+technology i ndustry ha s brought t o the marketplace unprecedented digital accessibility solutions notably 
+through m obile platforms .  Those, h owever, are no t effectively p romoted a nd sparsely implemented .    As 
+the fo llowing analysis demonstrate s, while a majority o f countries h ave a dopted legal , regulatory an d policy 
+frameworks consistent with t he C RPD,  their limited capacity t o implement remains the main c ause f or lack 
+of progres s including a general  lack o f multi-stakeholde r cooperation including persons w ith disabilities at 
+country le vel. 
+Contributing t o closing t his gap in th e conte xt of Global Digital Compact a genda a nd a ctivities would 
+therefor e be ver y timely an d im pactful . 
+Benchmarking countries p rogress in i mplementing digital accessib ility. 
+To provide a benchmarking t ool for disability ad vocates, g overnments, industry, civil society,  and 
+international  organizations in evaluating t heir achievements in i mplementing digital accessibility , G3ict 
+monitors t he p rogress o f ratifying c ountries through t he D igital  Accessibility R ights E valuation I ndex – 
+DARE I ndex .  Its d ata allow s to trac k country p rogress in m aking I nformation an d Communication 
+Technologies ( ICT) ac cessible fo r all, in c ompliance with A rticle 9 of the C onvention o n the R ights of 
+Persons w ith D isabilities (CRPD).  Th e contribution of th is data to th e Global Digital Compact is m eant to 
+provide a fact -based approach t o assessing t he impact o f digit al accessibility g aps on d igital inclusion 
+around the w orld.  
+Data c ollection 
+4 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.  Dat
+a collection is coordinated by G3ict, in cooperation with Disabled  People ’s International (DPI) , the 
+European Disability Forum (EDF) and other regional disability advocacy groups .  
+T
+he DARE Index  analys es and rank s for 137 countries, across eight regions: Africa, Central Asia, East Asia 
+and Pacific, Europe, Latin American  and Caribbean, Middle East and North Africa, Northern America, and 
+South Asia.   Out of the 137 countries surveyed, 128 States Parties had ratified the CRPD  as of 2020 . The 
+137 countries surveyed have a combined population of approximately  7 billion  corres ponding to 90%  of 
+the world  population.   
+T
+he data used in this contribution was collected just prior to the COVID pandemic.  A new data collection cycle 
+is planned for 2023 the results of which will be contributed to the Global Digital Compact  towards the later 
+part of 2023 when they are available.  
+Methodology  
+The DARE Index conceptual framework is consistent with the United Nations Deve lopment Programme 
+(UNDP) guidelines on Human Rights reporting (structure, process, and outcome). The DARE Index survey 
+is divided into three dimensions or legs, as follows:  
+L
+eg #1 audit assessment tool, or the Country Commitments (Structure):  It monitors essential laws, 
+regulations or policy programs in place in the country. This section measures the formal status of the country’s government legal and policy regime in relation to those ICT commitments, the political commitments made with respect to nationa l laws, policies, programs and plans of action that are 
+relevant to the ICT provisions. Variables include:  
+•Marrakesh Treaty Signing/Ratification/Accession
+•CRPD Signing/Ratification (UN Treaty)
+•General Law protecting the Rights of Persons with Disabilities
+•Definition of ICT accessibility
+•Definition of Reasonable Accommodation  in legislation
+•Universal Service Obligation (USO) includes Persons with Disabilities
+L
+eg #2 audit tool or Country Capacity to Implement (Process): Reflects the basic capacity of a coun try to 
+implement the ICT provisions of the CRPD. It refers to the required government agencies, organizational and institutional resources involved, the digital/technology resources available and the standard bodies the country follows. Key success factors  in capacity to implement are identified through statistical and 
+case study analysis. Variables include:  
+•Go
+vernment Agency for Persons with Disabilities
+•Government Agency for accessible ICTs
+•Process to involve DPOs in Policy Making on ICT Accessibility
+•Country refers to international ICT accessibility standards
+•ICT accessibility Courses available at Universities
+L
+eg #3 audit tool or Country Actual Implementation (Outcomes):  
+It checks the systemic and/or individual impact(s) of a country’s fulfillment of the ICT provisions of the CRPD. Outcomes are measured by degrees consistent with CRPD notion of progressive implementation 
+5 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+ in the 10 key areas of ICT accessibility according t o the Digital Accessibility Decennial Call for Action 
+issued at the United Nations on 3 December 2016 by the International Disability Alliance, Disabled 
+People’s International and G3ict. Variables include:  
+ 
+• Web  
+• TV and multimedia  
+• Mobile telephony  
+• E-books an d digital contents  
+• Internet availability and usage among Persons with Disabilities  
+• Inclusive ICTs for all in education  
+• Enabling ICTs for all in employment  
+• E-government and Smart Cities for all  
+• Enabling Assistive Technologies and ICTs for independent living  
+• Procurement of accessible public goods and services for all citizens  
+ 
+Scoring is computed as follows:  
+ 
+• 25 points (2.5 points each for Marrakesh Treaty and CRPD ratifications, 5 points for each of the 
+3 remaining variables) for the first leg (Country Commitments)  
+• 25 points (5 points for each of the 5 variables) for the second leg (Country Capacity to Implement)  
+• 50 points (5 points for each of the 10 variables) for the third leg (Country Actual Implementation 
+and Outcomes for Persons with Disabilities)  
+Score out of 100 points in total per country.  
+ 
+For the first two legs (Country Commitments and Capacity to Implement), points are calculated as 0 (item 
+is not present in country), 2.5 or 5 (item is present in country).  
+ 
+For the third leg (Cou ntry Actual Implementation and Outcomes), points are calculated on a scale of 0 to 
+5 as follows:  
+ 
+0 = no program or policy  
+ 1 = policy or program but no implementation  
+ 2 = minimum level of implementation (pilot project only)  
+ 3 = policy or program being rolled out but less than half implemented (examples provided to respondents)  
+ 
+4 = policy or program being rolled out, more than half implemented (examples provided to 
+respondents)  
+ 5 = full implementation  
+The following  results  identify  gaps  and opportunitie s for countries  to improve  the accessibility  and 
+availability of digital products and services accessible for persons with disabilities.  
+ 
+6 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+ 
+DARE  Index  Points  
+100 
+90 
+80 70 60 50 
+40 Average  DARE  Index  2020  
+Country  Scores  by Region  
+20 
+20.1 
+30 
+20 
+10 
+0 7 
+10.8 
+14.5 13.8 
+6.9 
+14.4 10.4 
+11.4 
+14.3 16 
+ 
+19 11.2 
+11 
+17 13.7 
+11.9 
+16.3 20 
+ 
+23.8 8.3 
+8.8 
+15.7 
+AFRICA  CENTRAL   EAST ASIA   EUROPE  LATIN  
+ASIA  & PACIFIC  AMERICA & 
+THE 
+CARIBBEAN  MIDDLE  
+EAST  & 
+NORTH  
+AFRICA  NORTHERN   SOUTH  
+AMERICA  ASIA  
+Country  Actual  Implementation  and Outcomes  
+Country  Capacity  to Implement  
+Country  Commitment  Regional Results  
+Regional results reflect  different  stages  of development.   Some  regions  have  a larger number  of countries 
+with higher levels of income that impact their overall score.  
+While most regions show improvements in their legal framework (legal, regulatory, policies and 
+programs) and  capacity to implement (organization, processes, resources), the real winners  are those 
+regions  that have  outperformed  in actual digital  accessibility  outcomes  for persons  with  disabilities  in 10 
+areas of digital products and services – e.g., Northern America and Europe.  Those regions are also 
+performing better in all three areas of commitments, capacity to implement and outcomes.  
+As shown in the bar chart in Figure 1, capacity to implement remains an area for improvement by 
+ratifying countries. Across all regions, scores are still lower than commitment scores while levels of 
+implementation and outcomes vary significantly. Northern America and Europe maintain their position as  
+the top-performing  regions  showing top average  scores, followed  by the Middle  East and North  Africa and 
+Latin America and the Caribbean, due to the good  performance of Qatar, Israel and Oman, and Brazil and 
+Uruguay, respectively.  
+ 
+ 
+Figure  1 - Average  DARE  Index 2020 Country  Scores  by Region  
+ 
+ 
+Results  by Levels  of Income  per Capita  
+Progress and better outcomes are undoubtedly achieved and concentrated in high income economies,  
+as shown in Figure 2. Among lower levels of income per capita (upper- middle, lower -middle and low - 
+income countries), the capacity to implement remains comparatively low. The low priority assigned by local decision ma kers to accessibility may result in a lack of progress in adopting digital accessibility 
+policies  or standards;  fewer  resources  allocated  or made  available  for accessible  technologies;  and lower 
+technical capabilities and infrastructure to develop local as sistive technologies.  Areas of improvement 
+for these economies are:  
+7 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+ • Consultation  and participation  of persons with  disabilities  in developing and monitoring  policies 
+and programs – only 9% of low -income countries reported to involve Disabled Persons 
+Organizations (DPOs) in the decision -making process;  
+• Awareness  and adoption  of international ICT accessibility standards  – only  29%  of upper -middle 
+income -countries follow ISO, W3C, Secti on 508, EN 301 549 and ITU guidelines; and  
+• ICT accessibility  courses  available  at major  universities  or offered  by professional  educational 
+services in the country – only 39% of lower- middle income countries reported to have ICT 
+accessibility courses in th eir countries.  
+ 
+As also reflected  in the first edition  of the DARE  Index,  the second  edition ’s results  show that  countries ’ 
+commitment scores are less influenced than outcomes scores when analyzed by levels of income. This 
+points to the readiness of many countries to develop digital accessibility policies and programs across different levels of economic development, a positive indication for future progress.  
+ 
+Figure  2 - Average  DARE  Index  2020 Country  Scores  by Levels  of Economic Development  
+ 
+ 
+ 
+   
+ 
+   
+ 
+  
+ 
+   
+ 
+  
+ 
+ Results  by CRPD  Ratification  Date  
+The ratification of the CRPD has clearly been a success among the countries surveyed in  the 2020 DARE 
+Index – 93% of the countries have ratified it.  Figure 3 shows the trend since 2007 of the ratifying 
+countries surveyed in the 2020 DARE Index. Countries that ratified over the first years have a better 
+average DARE Index performance compared to those countries that ratified later, meaning that average DARE Index points decrease as the years pass. Eighty percent (80%) of countries surveyed ratified the Convention between 2007 and 2012 depicting overall DARE Index average points of 42.86, which is 
+17.51 average points higher compared to the remaining 26 ratifying countries with an average of 25.35 
+points.  
+  Average  DARE  Index  2020  Country  Scores  by Levels  of 
+Economic  Development  
+100 
+ 
+75 
+ 
+50 
+ 
+25 
+ 
+0 
+High  Income  
+Countries  Upper -Middle  Lower -Middle  
+Income  Countries  Income  Countries  Low Income  
+Countries  
+Country  Actual  Implementation  and Outcomes  
+Country  Capacity  to Implement  
+Country  Commitment  DARE  Index  Points  
+8 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+ Figure  3 - CRPD Ratification  and DARE  Index  Points  Scatterplot  
+ 
+ 
+   
+ 
+  
+ 
+   
+ 
+  
+ 
+ 
+ 
+    
+Country Commitment Analysis  
+Table  1 results  show  the consistent  efforts  and improvements  countries  have  made  in terms  of progress 
+of laws, regulations and policies.  
+ 
+Table  1 - Country  Commitment  for Digital  Accessibility  
+ 
+ 
+COUNTRY  COMMITMENT  GLOBAL  
+AVERAGE  
+% OF COUNTRIES WITH 
+LAW/REGULATION/POLICY  IN 
+PLACE  
+CRPD  RATIFICATION  93% 
+MARRAKESH  TREATY RATIFICATION/ACCESSION  37% 
+GENERAL  LAW  PROTECTING  THE RIGHTS  OF PERSONS  
+WITH  DISABILITIES  (PWDs)  88% 
+REASONABLE  ACCOMMODATION  DEFINED  68% 
+DEFINITION  OF ACCESSIBILITY  INCLUDES  ICTs 61% 
+UNIVERSAL  SERVICE  OBLIGATION  INCLUDES  PWDs  41% 
+COUNTRY  COMMITMENTS  GLOBAL  AVERAGE  IN 
+PERCENTAGE  65% 
+ 
+For example,  whereas  a minority  of countries  had a general legislation  protecting  the rights  of persons 
+with  disabilities  prior to 2006,  88%  today  do. This represents  remarkable  progress  achieved  over  a 14- 
+year period.  Similarly, legal definitions such as “Reasonable Accommodation” and a “Definition of  
+CRPD  Ratification  and DARE  Index  
+100 
+90 
+80 70 60 50 40 
+30 
+20 10 
+0 
+2006  y = -2.2009x  + 4466.1  
+R² = 0.1266  
+2008  2010  2012  2014  2016  2018  2020  2022  
+CRPD  Ratification  Year  DARE  Points  
+9 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+ Accessibility  that Includes  ICTs”,  which  merely  existed  in country  legislation  prior  to the CRPD  launch, 
+are now present in 68% and 61% of the countries surveyed for the DARE Index, respectively.  
+To better  assess the country level  of commitment,  this second edition  of the DARE  Index  incorporates  a 
+new variable under country commitment: The Marrakesh Treaty Ratification, a copyright treaty that 
+facilitates the access to published works for persons who are blind, visually impaired or with print disabilities. Since its adoption on June 27, 2013 in Marrakesh, Morocco, 68 States Parties have ratified the treaty.  
+Finally, only 41% of surveyed countries reported to have a Universal Service Obligation (USO) in telecommunication  legislation that includes persons with disabilities. It is important to mention that 
+Universal Service Funds (USF) appear as a viable source and alternative of funding for programs in support of persons with disabilities. Governments can leverage those funds by making all ICT -based 
+applications  and services  accessible  and promoting assistive  technologies. Universal Service  -- funded by 
+contributions coming from phone bills -- provides a regular and consistent source of income for 
+accessibility programs and services more predictable than annual budget allocations subject to variations. 
+ 
+Country  Capacity to Implement  Analysis  
+Under  the leg Country  Capacity  to Implement,  a new  variable  “Does  the country  have  an agency  for 
+accessible ICTs?” was incorporated to better evaluate how governments are doing specifically in managing accessible ICTs.  As shown  in Table  2, only  39%  of countries surveyed reported to have an 
+agency dedicated to accessible ICTs.  
+ 
+Table  2 - Country  Capacity  to Implement  Digital  Accessibility  
+ 
+ 
+COUNTRY  CAPACITY  TO IMPLEMENT  GLOBAL  AVERAGE  OF COUNTRIES  WITH 
+KEY IMPLEMENTATION RESOURCES OR 
+PROCESSES  
+GOVERNMENT  AGENCY  FOR PERSONS  WITH 
+DISABILITIES   
+88% 
+ 
+GOVERNMENT  AGENCY  FOR ACCESSIBLE  ICT  
+39% 
+PROCESS  TO INVOLVE  PERSONS  WITH  DISABILITIES  IN 
+POLICY MAKING ON ICT ACCESSIBILITY   
+26% 
+COUNTRY  REFERS  TO INTERNATIONAL 
+ICT ACCESSIBILITY STANDARDS   
+44% 
+ICT ACCESSIBILITY COURSES AVAILABLE 
+AT MAJOR UNIVERSITIES  OR OFFERED  BY 
+PROFESSIONAL  EDUCATIONAL  SERVICES   
+38% 
+COUNTRY  CAPACITY TO IMPLEMENT  
+GLOBAL PROGRESS AVERAGE  IN PERCENTAGE  
+46% 
+ 
+The 2020 DARE Index reflects the same areas for improvements under capacity to implement as the 2018  
+DARE  Index.  Capacity  building is a more  complex  challenge  due to the cross -sector  collaboration and 
+coordination needed among public, academia and private sectors to address the limited international 
+10 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+ cooperation resources and language barriers to access technical information, among others, as follows:  
+ 
+Lack  of a Process  to Involve  Persons  with  Disabilities  in Policy  Making  on ICT Accessibility  
+The lack of involvement of Disabled Persons Organizations (DPOs) is a global phenomenon, with the 
+global percentage  for involvement  of DPOs  in policy  making  of only  26%.  The key country drivers  for this 
+low involvement rate may relate to the lack of awareness associat ed with accessibility and to the absence  
+of an active role  by government  agencies.  Government  may not  have a  legal  procedure  in place to solicit 
+DPOs participation and inputs, nor a plan to involve DPOs in policy formulation, auditing and 
+implementation.  
+Persons  with  Disabilities  bring indispensable  knowledge  and perspectives  on how  policies  and programs may 
+best serve their needs and are instrumental in ensuring that proper monitoring is implemented.  
+Regression analysis in past  G3ict research to identify variables most associated with outcome scores 
+shows  that countries  which  involve  Persons  with  Disabilities  in policy  making  and monitoring achieve 
+better results than those who don ’t. 
+ 
+This situation is also inconsistent with CRPD article 4.3: “In the development and implementation of 
+legislation and policies to implement the present Convention, and in other decision- making processe s 
+concerning issues relating to persons with disabilities, States Parties shall closely consult with and actively  
+involve  persons  with  disabilities,  including children with  disabilities,  through their  representative 
+organizations.”  
+ 
+Lack  of Country  References  to International  ICT Accessibility  Standards  
+Country references to international ICT accessibility standards is often correlated to country size and 
+level of economic development. Eighty -eight (88%) of the high -income countries reported such 
+references, compared to 22% of the low- income countries. However, there are low- income countries 
+that are advancing  in this matter.  In Nepal,  many  disability  organizations  and government agencies,  like 
+the Ministry of Women and Children and the Social Welfare , have adopted WCAG standards to make 
+their websites accessible. Accessibility standards are a critical foundation for any program or policy in 
+support of ICT accessibility. Furthermore, given the global nature of the ICTs marketplace, it is in the 
+best in terest of countries to align themselves with well -recognized international standards, such as 
+WCAG  or EN  301 549. It  should be a priority for all stakeholders promoting digital accessibility  to foster 
+those standards and ensure that they are referenced by national accessibility policies and programs.  
+ 
+Lack  of Availability  in ICT Accessibility  Courses  at Country  Level  
+Only 38% of countries have ICT accessibility courses available at major universities or offered by 
+professional educational services.  This means that students in 2/3 of countries continue to graduate in 
+computer sciences or any other related discipline without having formal coursework in ICT accessibility. 
+Employers who want to implement ICT accessibility need to help close this gap by ensuri ng themselves 
+that their  personnel  are trained  in ICT accessibility.  The training  and knowledge  gap also involve  schools  
+of education  that are preparing future  teachers  who  need  to create,  or routinely  use, digital education 
+material to accommodate student s with disabilities.  
+Notably, several organizations and institutions around the world are closing this gap at the academic level. The Masaryk University and Czech Technical University in the Czech Republic provide accessibility 
+11 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+ courses and professional edu cation services (CZ.NIC Academy). In Ghana, various ICT related programs 
+and courses are provided at some tertiary institutions (first Degree and postgraduate), such as the 
+University  of Ghana  and Kwame  Nkrumah  University  of Science  and Technology.  Qatar has implemented 
+collaboration efforts between universities and government institutions to advance in implementing 
+accessibility courses. For example, Qatar University offers a graduate program in special education and e -
+Accessibility is c overed extensively in several courses at Carnegie Mellon University Qatar, where this 
+university offers undergraduate e -Accessibility courses in conjunction with Mada Center. Most recently, 
+Hamad Bin Khalifa University offers a graduate degree in Human Com puter Interaction (HCI) with  several 
+courses and academic modules dedicated to digital accessibility.  
+For organizations  and professionals  seeking  training  and certification  in ICT accessibility,  G3ict  promotes 
+the programs of the International Association of Accessibility Professionals (IAAP) and its certifications: 
+Certified  Professional in Accessibility  Core Competencies, Web Accessibility Specialist, and new in 2020, 
+Accessible Document Specialist.  Those certifications frameworks are now embraced by gove rnment 
+agencies, academic institutions and corporations to ensure that they have the appropriate ICT 
+accessibility skills set available within their organization. Countries seeking to promote digital accessibility can explore those various resources to jum p start their efforts in developing their ICT accessibility know -
+how.  
+ 
+ 
+Global Levels  of Implementation  and Outcomes  Analysis  
+Table  3 shows  the global levels  of implementation  by ICT accessibility  area.  Across  the board,  51%  of 
+countries do not have a policy in place for the implementation of ICT accessibility in the ten areas 
+monitored by the DARE Index.  
+As reviewed in Table 3 and the following discussion, levels of implementation are increasing globally 
+among  those  105 countries  that were  surveyed  both in 2018  and 2020 (G3ict,  2020,  pp. 14-16) with  46% 
+of countries in the process of implementing policies at various stages. However, the vast majority of 
+those are still either at a minimum level of implementation, such as pilot projects (24%), or are at a 
+partial level of implementation, such as deployment of programs proceeding with still limited impact (19%).  
+ 
+Table  3 - Global  Levels  of Implementation and Outcomes  
+ 
+GLOBAL LEVELS OF 
+MPLEMENTATION AND 
+OUTCOMES  (RANKED  BY 
+PERCENTAGE  OF “NO  POLICY”)  NO 
+POLICY  
+% POLICY BUT NO 
+IMPLEMENTATION  
+% MINIMUM 
+LEVEL  
+% PARTIAL 
+LEVEL  
+% SUBSTAN 
+TIAL LEVEL  
+% FULL 
+LEVEL  
+% 
+TV 39% 7% 26% 24% 3% 1% 
+WEB  42% 4% 20% 30% 4% 1% 
+INCLUSIVE ICTs  IN EDUCATION  46% 0% 31% 21% 1% 1% 
+E-BOOKS  49% 4% 26% 19% 3% 0% 
+E-GOVERNMENT AND SMART 
+CITIES  50% 4% 23% 18% 4% 0% 
+12 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+ INTERNET AVAILABILITY AND 
+USAGE AMONG PWDs  51% 1% 27% 18% 2% 1% 
+ENABLING ICTs FOR 
+EMPLOYMENT  53% 2% 26% 16% 3% 0% 
+PUBLIC PROCUREMENT  54% 4% 24% 16% 2% 0% 
+ATs AND ICTs FOR INDEPENDENT 
+LIVING  61% 3% 23% 12% 1% 0% 
+MOBILE  62% 4% 18% 13% 1% 2% 
+GLOBAL AVERAGE ALL AREAS OF 
+ICTs 51% 3% 24% 19% 2% 1% 
+13 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+  
+By area  of ICT accessibility,  the most  advanced  sectors  on a global  basis  are by decreasing  order  of 
+progress measured as % countries in the process of implementing policies at various stages are:  
+ 
+ 
+1. TV 61% 
+2. WEB  58% 
+3. INCLUSIVE  ICTs IN EDUCATION  54% 
+4. E-BOOKS  51% 
+5. E-GOVERNMENT  AND  SMART  CITIES  50% 
+6. INTERNET  AVAILABILITY  AND  USAGE  49% 
+7. ENABLING  ICTs FOR EMPLOYMENT  47% 
+8. PUBLIC  PROCUREMENT  46% 
+9. ATs AND  ICTs FOR INDEPENDENT  LIVING  39% 
+10. MOBILE  38% 
+ 
+ 
+These  results  are promising  and showing that the trend  across  countries  is to advance  in policy 
+implementation.  
+Most advanced sectors include TV, Inclusive ICTs for Education, Web and e -Books, all with more than 
+50%  of countries  in the process  of implementing policies.  At the same  time,  more  than  50%  of surveyed 
+countries reported no policy or program undertaken to promote accessibility in the following five ICT 
+sectors: e -Government and Smart Cities, Mobile Telephony, Internet Availability and Usage among 
+Persons with Disabilities,  ATs and ICTs for Independent Living and Procurement of Public Goods and 
+Services.  ATs and ICTs for independent living is low mostly because of the lack of delivery and support 
+ecosystems in most countries.  
+ 
+ 
+14 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+  
+Comparison  Analysis 2018- 2020 DARE  Index  
+Country  Commitment Comparison  Analysis  
+ 
+As mentioned under Methodology1 on the G3ict website, an overall comparison analysis showing the 
+trend  between  the years  2018  and 2020  is not possible. The 2020  DARE  Index  edition  includes  three  new 
+variables and covers a larger number of countries surveyed which does not allow for a direct 
+comparison. Nonetheless, a separate comparison analysis is feasible by including only the 105 countries 
+that participated in both years (2018 and 2020) and by incorporating the same set of variables used in 
+the 2018 DARE Index. Please refer to the Annex to see the list of countries included.  
+As shown by Tables 4 and 5, the trend is for improvement across all the areas under country 
+commitment.  Fifty -nine  (59%)  of the countries  reported  having a definition  of accessibility  in place  that 
+included ICTs in 2020, compared t o 49% achieved in 2018.  
+ 
+Table  4 - 2018-2020 Country  Commitment  Comparison  Analysis 
+ 
+ 
+ 
+COUNTRY  COMMITMENT  GLOBAL  AVERAGE  
+% OF COUNTRIES WITH 
+LAW/REGULATION/POLICY 
+IN PLACE  
+2018  GLOBAL  AVERAGE  
+% OF COUNTRIES WITH 
+LAW/REGULATION/POLICY 
+IN PLACE  
+2020  
+ 
+CRPD  RATIFICATION   
+92%  
+93% 
+GENERAL LAW PROTECTING THE 
+RIGHTS  OF PERSONS  WITH  DISABILITIES   
+83%  
+89% 
+REASONABLE  ACCOMMODATION 
+DEFINED   
+64%  
+68% 
+DEFINITION  OF ACCESSIBILITY  INCLUDES 
+ICTs  
+49%  
+59% 
+UNIVERSAL SERVICE OBLIGATION INCLUDES  PERSONS  WITH  DISABILITIES   
+34%  
+39% 
+COUNTRY  COMMITMENTS GLOBAL 
+AVERAGE IN PERCENTAGE  
+64%  
+69% 
+    
+ 
+  
+ 
+ 
+1 DARE  Index,  Methodology  (2020).  Retrieved  from G3ict:  https://www.g3ict.org/digital -accessibility -rights - 
+evaluation -index/methodology  
+15 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+ 
+Commitments  by Region  Comparison  2018 - 
+2020 DARE  Index 
+Positive  Difference  in Average  Points  
+3.13  
+2.09  1.88  
+1.54  
+0.32  0.25  0 0 
+South  Asia  Middle  
+East & 
+North  
+Africa  East Asia & 
+Pacific  Africa  Europe  Latin  
+America  & 
+Caribbean  Northern  Central  
+America  Asia  
+ 
+ 
+Table  5 - 2018-2020 Country  Commitment  Variable  Comparison  by Decreasing  Order  
+ 
+ 
+ 
+COUNTRY  COMMITMENT  COMMITMENT  2018 -2020 
+DARE COMPARISON  
+% POSITIVE  DIFFERENCE  BY 
+DECREASING ORDER  
+ 
+DEFINITION  OF ACCESSIBILITY  INCLUDES  ICTs  
++10%  
+GENERAL  LAW PROTECTING THE RIGHTS  OF 
+PERSONS WITH DISABILITIES (PWDs)   
++6% 
+ 
+UNIVERSAL  SERVICE  OBLIGATION  INCLUDES  PWDs   
++5% 
+ 
+REASONABLE  ACCOMMODATION  DEFINED   
++4% 
+ 
+CRPD  RATIFICATION   
++1% 
+ 
+ 
+As d epicted in Figure 4, the regions with better performance, such as South Asia, the Middle  East and 
+North Africa and East  Asia and Pacific,  are progressively  adopting legislation  promoting  accessible  ICTs 
+and policies.  
+ 
+Figure  4 - 2018-2020 DARE  Index  Country  Commitment  Comparison  by Region  
+ 
+16 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+  
+Country  Capacity  Comparison  Analysis  
+ 
+The comparison analysis also shows a better performance in 2020 with an increase of 3% of country 
+capacity progress. As depicted by Table 6, all the countries have in place an agency dedicated to ICTs, a positive indication that governments are focused on the impact of ICTs on economic and social 
+development. The areas for greatest potential improvement remain the same under capacity:  process 
+to involve  DPOs  in policy  making  on ICT accessibility,  country  references  to international ICT accessibility 
+standards, and the availability in the country of accessibility courses at major universities or offered by 
+professional educational services. Figure 5 below displays the regional trend for country capacity 
+showing the Middle East and North Africa, South Asia and Europe with larger point differences; 
+conve rsely, Middle East and North Africa, East Asia and Pacific and Africa showed no point difference.  
+Countries should make efforts to allocate resources to have stakeholders directly involved in the 
+decision making process, to foster the adoption of international ICT accessibility standards, and to 
+promote  the availability  of courses  at major  universities  or offered  by professional educational  services 
+that will have, in turn, a positive impact on the labor market with more training and skills to address accessibility of ICTs in the market place.  
+ 
+ 
+Table  6 - 2018-2020 Country  Capacity  Comparison  Analysis 
+ 
+ 
+ 
+COUNTRY  CAPACITY  TO IMPLEMENT  GLOBAL AVERAGE OF 
+COUNTRIES WITH KEY 
+IMPLEMENTATION 
+RESOURCES  OR PROCESSES  
+2018  GLOBAL AVERAGE OF 
+COUNTRIES WITH KEY 
+IMPLEMENTATION 
+RESOURCES  OR PROCESSES  
+2020  
+GOVERNMENT  AGENCY  FOR PERSONS  WITH 
+DISABILITIES   
+85%  
+90% 
+ 
+GOVERNMENT  AGENCY  FOR ICT  
+100%   
+100%  
+PROCESS TO INVOLVE PERSONS WITH 
+DISABILITIES  IN POLICY  MAKING ON ICT 
+ACCESSIBILITY   
+23%  
+26% 
+COUNTRY  REFERS  TO INTERNATIONAL 
+ICT ACCESSIBILITY STANDARDS   
+39%  
+44% 
+ICT ACCESSIBILITY COURSES AVAILABLE 
+AT MAJOR UNIVERSITIES  OR OFFERED  BY 
+PROFESSIONAL  EDUCATIONAL  SERVICES   
+37%  
+39% 
+COUNTRY  CAPACITY TO IMPLEMENT  
+GLOBAL PROGRESS AVERAGE  IN PERCENTAGE  
+57%  
+60% 
+17 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+ 
+Capacity  by Region  Comparison  
+2018- 2020 DARE  Index  
+Average  Points  Difference  
+ 
+MIDDLE  EAST  & NORTH  AFRICA  
+SOUTH  ASIA  
+EUROPE  
+CENTRAL  ASIA  
+LATIN  AMERICA & CARIBBEAN 
+NORTHERN  AMERICA 
+EAST ASIA & PACIFIC  
+AFRICA  2.5 
+1.25 
+1.25 
+1 
+0.75 
+0 
+0 0.5 1 1.5 2 2.5 3  
+Figure  5 - 2018-2020 DARE  Index  Country  Capacity  Comparison  by Region  
+ 
+ 
+Actual Implementation  and Outcomes  Analysis  
+ 
+As discussed  earlier,  the actual  implementation  and outcomes  also experienced  an improvement across 
+all the areas showing that initiatives in various sectors are progressing globally, as shown by Tables 7 
+and 8.  Five out of ten of the accessibility areas experienced a considerable increase in two years over 
+7%, such as Web Accessibility (8% increase), e -Government and Smart Cities  (8% increase), TV (10% 
+increase),  Public  Procurement  (11%  increase),  and Internet Availability  and Usage (14%  increase).  This is 
+in fact an encouraging sign which seems to indicate that countries do try to implement ICT accessibility policies once they ar e adopted.  In addition, the regional comparison analysis shows that East Asia and 
+Pacific, Middle East and North Africa and Europe were the regions with better performance under outcomes with a score difference of two points and over.  
+By area of ICT access ibility,  the most  advanced sectors on a global  basis  are by  progress  measured  as % 
+countries in the process of implementing policies at various stages are:  
+Table  7 - 2018-2020 Implementation and Outcomes  Comparison  Analysis  
+ 
+ 
+AREA  OF ICT ACCESSIBILITY   
+2018   
+2020  
+1. TV 51% 61% 
+2. WEB  46% 54% 
+3. INCLUSIVE  ICTs IN EDUCATION  48% 51% 
+4. E-BOOKS  45% 49% 
+5. E-GOVERNMENT  AND  SMART  CITIES  39% 47% 
+6. INTERNET  AVAILABILITY  AND  USAGE  34% 48% 
+7. ENABLING  ICTs FOR EMPLOYMENT  42% 47% 
+8. PUBLIC  PROCUREMENT  33% 44% 
+9. ATs AND  ICTs FOR INDEPENDENT  LIVING  35% 38% 
+10. MOBILE  34% 39% 
+18 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+  
+Table  8 - 2018- 2020 Implementation and Outcomes  Comparison  Percentage  Difference  
+ 
+ 
+GLOBAL  LEVELS  OF ICT ACCESSIBILITY 
+IMPLEMENTATION AND OUTCOMES 
+PROGRESS  GLOBAL LEVELS OF ICT 
+ACCESSIBILITY 
+IMPLEMENTATION AND 
+OUTCOMES PROGRESS % 
+DIFFERENCE  BY DECREASING  
+ORDER  
+INTERNET  AVAILABILITY  AND  USAGE  AMONG  PWDS  +14%  
+PUBLIC  PROCUREMENT  +11%  
+TV +10%  
+WEB  +8% 
+E-GOVERNMENT  AND  SMART  CITIES  +8% 
+ENABLING  ICTs FOR EMPLOYMENT  +5% 
+MOBILE  +5% 
+E-BOOKS  +4% 
+INCLUSIVE  ICTs IN EDUCATION  +3% 
+ATs AND  ICTs FOR INDEPENDENT  LIVING  +3% 
+ 
+ 
+ 
+ 
+Figure  6 - 2018- 2020 DARE  Index  Actual  Implementation and Outcomes  Comparison  by Region  
+ 
+
+19 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+  
+Among the 105 countries  included  in the comparison  analysis,  the ones  showing  higher  points  difference 
+under outcomes were Barbados, Fiji, Germany, Myanmar, Mongolia and Pakistan. Except for Germany, 
+these countries have mainly policies and programs at minimum or partial levels of implementation.  
+ 
+However, this  means a considerable improvement  compared  to 2018 where no  policy  or programs  were 
+in place. For example, in the past few years, the Municipality of Ulaanbaatar in Mongolia -- a lower - 
+middle income country -- cooperated with the Asian Foundation to implement a project titled “Urban 
+Governa nce Project” to promote accessibility of the public services. In Pakistan, educational institutions 
+have  a role in promoting  ICT for persons  with  disabilities  by developing  accessible  applications.  Germany 
+has a more comprehensive policy for accessible TV segmented by audio description, sign language interpretation and captioning which are at different level of progress. Audio description and sign language interpretation are at minimum level of implementation, whereas captioning shows a substa ntial level of implementation with more than half of the programs already in place and  
+monitored. Moreover, Germany has adopted laws and legislation that may have positively affected its 
+outcomes performance. For instance, the eGovernment Act requires digi tal documents to be accessible 
+in public entities and the European Accessibility Act requires e -books to be accessible by 2025.  
+20 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+  
+ANNEX  
+ 
+The list of the 105 countries  participating  in both  DARE  editions  2018  and 2020  is the following:  
+ 
+Afghanistan  Guinea -Bissau  
+Algeria  Guyana  
+Angola  Haiti  
+Argentina  Honduras  
+Armenia  India  
+Australia  Indonesia  
+Austria  Iraq 
+Bangladesh  Ireland  
+Barbados  Israel  
+Bhutan  Italy  
+Brazil  Jamaica  
+Burundi  Japan  
+Cambodia  Kenya  
+Cameroon  Kyrgyz  Republic  
+Canada  Laos  PDR 
+China  Lebanon  
+Colombia  Lesotho  
+Cook  Islands  Liberia  
+Cote  D'Ivoire  Madagascar  
+Denmark  Malawi  
+Dominican  Republic  Malaysia  
+Ecuador  Maldives  
+Egypt,  Arab  Republic  of Mali  
+El Salvador  Malta  
+Ethiopia  Mauritius  
+Fiji Mexico  
+France  Mongolia  
+Gambia,  The Montserrat  
+Germany  Morocco  
+Ghana  Myanmar  
+Greece  Namibia  
+Guatemala  Nepal  
+21 
+© 2020  G3ict  - Global  Initiative  for Inclusive  Information  and Communication  Technologies.  All Rights  Reserved.   
+  
+  
+ 
+  
+ 
+Nicaragua  Slovenia  
+Niger  South  Africa  
+Nigeria  South  Sudan  
+Norway  Spain  
+Oman  Sri Lanka  
+Pakistan  Sudan  
+Palestine,  State  of Suriname  
+Panama  Sweden  
+Peru  Tanzania,  United  Republic  of 
+Philippines  Thailand  
+Poland  Togo  
+Portugal  Trinidad  and Tobago  
+Qatar  Tunisia  
+Russian  Federation  Turkmenistan  
+Saint  Lucia  Tuvalu  
+Samoa  United  Kingdom  
+São Tome  and Principe  United  States  of America  
+Senegal  Uzbekistan  
+Serbia  Yemen,  Republic  of 
+Sierra  Leone  Zambia  
+Singapore   
+ 

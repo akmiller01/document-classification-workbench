@@ -1,0 +1,423 @@
+G l o b a lD i g i t a lC o m p a c t
+S u b m i s s i o nb yG E O D E-G e o p o l i t i c so ft h eD a t a s p h e r e
+A p r i l2 0 2 3
+
+A b o u tG E O D E
+T h et h r e ec o o r d i n a t o r sf o rt h es u b m i s s i o na r em e m b e r so ft h eG E O D EC e n t e r .“ G E O D E ”s t a n d sf o rG e o p o l i t i c so ft h eD a t a s p h e r e .
+G E O D Ei sam u l t i d i s c i p l i n a r yr e s e a r c ha n dt r a i n i n gc e n t e rd e d i c a t e dt ot h ea n a l y s i so fs t r a t e g i ca n dg e o p o l i t i c a li s s u e sr a i s e db yt h ed i g i t a lr e v o l u t i o n .T h eC e n t e ri ss u p p o r t e db yt h eU n i v e r s i t yo fP a r i s8( F r a n c e )a n dh a sb e e na w a r d e dt h e“ C e n t e ro fE x c e l l e n c e ”l a b e lb yt h eF r e n c hM i n i s t r yo ft h eA r m e dF o r c e sa sp a r to ft h eH i g h e rE d u c a t i o nP a c t .I ti sa l s ot h el a r g e s tr e c i p i e n to ft h eW i l l i a ma n dF l o r aH e w l e t tF o u n d a t i o n ’ sC y b e rI n i t i a t i v ep r o g r a m .
+T h ee m e r g i n gn o t i o no fD a t a s p h e r ea l l o w st h ea n a l y s i so fs t r a t e g i ci s s u e sr e l a t e dt oc y b e r s p a c eb u ta l s ot ot h eg e o g r a p h yo fd a t aﬂ o w sa n dd a t ac o n t r o l ,t h eu n d e r s t a n d i n go fi n f o r m a t i o n a ls p a c e ,t h em a p p i n go ft o p o l o g i c a ln e t w o r k s ,t h ef u s i o no fg e o l o c a l i z e da n dn o n - s p a t i a l i z e dd a t a .
+T h es c i e n t i ﬁ ca m b i t i o no ft h er e s e a r c h e r sa tG E O D Ei st w o f o l d .
+O nt h eo n eh a n d ,t h er e s e a r c h e r su s et h er e s o u r c e so ft h ed a t a s p h e r ef o rg e o p o l i t i c a la n a l y s i s .I no t h e rw o r d s ,t h e yd e v e l o pt o o l st oc o l l e c t ,p r o c e s sa n de x p l o i tt h el a r g em a s s e so fd a t ar e l a t i n gt ot h ed a t a s p h e r e .T h e ya l s oc a l lf o rt h ed e v e l o p m e n to fn e wm e t h o d sf o rm a p p i n gp h y s i c a ls p a c e sb a s e do nt h ef u s i o no fs p a t i a l i z e da n dn o n - s p a t i a l i z e dd a t a .
+O nt h eo t h e rh a n d ,t h er e s e a r c h e r sa tG E O D Es t u d yt h ed a t a s p h e r ea sag e o p o l i t i c a lo b j e c ti ni t so w nr i g h t ,w i t ha na n a l y s i so ft h ed e f e n s ea n ds e c u r i t yi s s u e st h a tt h e yc o v e r ,i no r d e rt of e e dac o m p r e h e n s i v es t r a t e g i cr e ﬂ e c t i o nt h a tt a k e si n t oa c c o u n tt h es t r o n ge n t a n g l e m e n to fc i v i l ,i n d u s t r i a l ,a n dm i l i t a r yi s s u e s .T h i so b j e c t i v ei n c l u d e st h ed e v e l o p m e n to fas p e c i ﬁ cc a r t o g r a p h yt ob e t t e ru n d e r s t a n da n dr e p r e s e n tt h ed a t a s p h e r e .
+2
+
+E x e c u t i v es u m m a r y
+O n eo ft h ep o p u l a rb e l i e f sa b o u tc y b e r s p a c e ,p a r t i c u l a r l yf r o ma ni n t e r n a t i o n a ll a wp o i n to fv i e w ,i st h a ti ti sal a w l e s ss p a c e .T h i sv i e wi su n w a r r a n t e dd e s p i t et h el a c ko fau n i v e r s a lt r e a t yr e g a r d i n gt h a tm a t t e r .U n d o u b t e d l y ,av a r i e t yo fi n t e r n a t i o n a ll a wi n s t r u m e n t sc a nb ea p p l i e dt oc y b e r s p a c ea n dt od i g i t a la c t i v i t i e si ng e n e r a l.A l lt h eﬁ e l d sf r o mi n t e r n a t i o n a ll a ws h o u l db el e v e r a g e dt od os o :i n t e r n a t i o n a lh u m a nr i g h t sl a w ,i n t e r n a t i o n a lh u m a n i t a r i a nl a w ,i n t e r n a t i o n a lc r i m i n a ll a w ,i n t e r n a t i o n a lt r a d el a w ,s p a c el a w ,e t c .
+S t i l l ,t w oc a v e a t ss h o u l db ec o n s i d e r e d .F i r s t ,d u et oc h a l l e n g i n gl e g a ld e b a t e sb e t w e e nS t a t e sr e g a r d i n gt h ed i g i t a ls e c t o r ,m a n yn o n - s t a t ei n i t i a t i v e sh a v ee m e r g e dt op r o p o s ei n t e r p r e t a t i o n so fi n t e r n a t i o n a ll a w ,o re v e nn e ws t a n d a r d s .S e c o n d ,t h el e g a lv a l u eo ft h eh u n d r e d so fi n s t r u m e n t st h a tm a ya p p l yt od i g i t a la c t i v i t i e sv a r i e sg r e a t l y .
+U n d o u b t e d l y ,t h el a c ko fa ni n t e r n a t i o n a lt r e a t y( n o t w i t h s t a n d i n gt h eC o u n c i lo fE u r o p e ’ sC o n v e n t i o na g a i n s tC y b e r c r i m e )i so n ee x p l a n a t i o nf o rt h i sl a r g en u m b e ro fi n s t r u m e n t sa n di n i t i a t i v e s .A l o n g s i d et h ec l a s s i cs o u r c e so fi n t e r n a t i o n a ll a w( t r e a t i e s ,c u s t o m a r yl a w ,g e n e r a lp r i n c i p l e so fl a w ) ,t h e s ei n s t r u m e n t sa n di n i t i a t i v e sh a v eav a r y i n gn o r m a t i v es c o p e ,a r es e l d o ml e g a l l yb i n d i n ga n dr a n g ef r o ms i m p l er e p o r t sa n dg u i d e l i n e st ou n i l a t e r a la c t so rs e c o n d a r yl e g i s l a t i o ne n a c t e db yi n t e r n a t i o n a lo r g a n i z a t i o n s ,i n c l u d i n gn o n - c o n v e n t i o n a lc o n c e r t e da c t s .T h e i rv a s tm a j o r i t yc a n n o tb er e l i e du p o nt oh o l dp r i v a t eo rp u b l i cd i g i t a la c t o r sr e s p o n s i b l ei nt h ee v e n to fv i o l a t i o no ft h e i ro b l i g a t i o n s .
+W h i l et h i sv a r i e t yo fi n s t r u m e n t sa n di n i t i a t i v ec o n t r i b u t et op r o v i d i n gaf r a m e w o r kf o rd i g i t a la c t i v i t i e s ,ac l a r i ﬁ c a t i o no ft h ea p p l i c a b l el a ws h o u l db ep r o v i d e da ta ni n t e r n a t i o n a ll e v e l .
+T h ee m e r g e n c eo fn e wt e c h n o l o g i e sh a sp r o f o u n dp o l i t i c a l ,s o c i a la n de c o n o m i ci m p l i c a t i o n s,b o t hp o s i t i v ea n dn e g a t i v e ,t h a ts h o u l db ea d d r e s s e db yi n t e r n a t i o n a ll a w .S e v e r a lc h a l l e n g e sa n do p p o r t u n i t i e sa r i s ef r o mt h eu s eo fd i g i t a lt e c h n o l o g i e s :r e l a t i o n s h i pb e t w e e np u b l i ca n dp r i v a t ea c t o r s ,p o l i t i c a li n s t r u m e n t a l i z a t i o no fi n t e r n a t i o n a ll a wo nd i g i t a li s s u e s( r i g h to fa c c e s st ot h eI n t e r n e t ,c o n t e n tc o n t r o l ,d a t ap r o t e c t i o n )a n de n d e m i cd i g i t a li n e q u a l i t i e s .
+T h ea d e q u a c yo fe x i s t i n gl e g a lr u l e st oa d d r e s st h e s ec h a l l e n g e si sc o n s t a n t l ya s s e s s e di nt h el i g h to ft h ei m p a c to fn e wt e c h n o l o g i c a ld e v e l o p m e n t s .E x i s t i n ga c a d e m i ca n dp o l i c yd i s c u s s i o n so f t e nd e b a t ew h e t h e rc u r r e n ti n t e r n a t i o n a ll e g a lr u l e sa r ec l e a r ,p r e c i s ea n dc o m p r e h e n s i v ee n o u g ht ok e e pu pw i t ht h er a p i dp a c eo fd i g i t a l i s a t i o n .I ti sn ol o n g e rt i m et os i m p l yr a i s et h i sq u e s t i o na n dr e i t e r a t et h ep r i n c i p l eo ft h ea p p l i c a b i l i t yo fi n t e r n a t i o n a ll a wt oc y b e r s p a c e .I ti sn o wt i m et op r o v i d ec o n c r e t ea n do p e r a t i o n a la n s w e r st h a tw i l lm e e tt h er e g u l a t o r yn e e d so ft h ed i g i t a ls e c t o r.
+I na c c o r d a n c ew i t ht h ep r i n c i p l e so fI n t e r n e tg o v e r n a n c er e c o g n i s e db yt h eW o r l dS u m m i to nt h eI n f o r m a t i o nS o c i e t y ,n o n - s t a t ea c t o r s ’v i e w sm u s tb et a k e ni n t oa c c o u n ti nt h ef o r m a t i o na n da p p l i c a t i o no fl a w .O p e r a t i o n a lm e c h a n i s m st h a tw i l le n a b l ee ﬀ e c t i v em u l t i - s t a k e h o l d e ra n dmu l t i l a t e r a lg o v e r n a n c es h o u l db ee n v i s i o n e dt oe n a b l eb a l a n c e dr e l a t i o n s h i p sb e t w e e np r i v a t ea n dp u b l i ca c t o r s .C o o p e r a t i o na n dc o - r e g u l a t i o np r o c e s s e st h a ti n c l u d ea l ls t a k e h o l d e r ss h o u l db ef o s t e r e d ,r a t h e rt h a ns t r i c t l yd i v i d i n gr o l e sb e t w e e np u b l i ca c t o r sd e a l i n gw i t hp u b l i cp o l i c ya n dp r i v a t ea c t o r sd e a l i n gw i t ht e c h n i c a li s s u e s .
+3
+S u b m i s s i o n
+C o n n e c ta l lp e o p l et ot h ei n t e r n e t
+R e s t r i c t i o n s
+t o
+i n t e r n e t
+a c c e s s
+c a n
+v i o l a t e
+b o t h
+i n t e r n a t i o n a l
+h u m a n
+r i g h t s
+l a w
+a s
+w e l l
+a s
+t r e a t y 
+p r o v i s i o n s
+r e l a t e d
+t o
+t h e
+r u l e
+o f
+l a w
+a n d
+d e m o c r a t i c
+p r o c e s s e s .
+W h i l e
+n o t
+s p e c i f i c a l l y
+e n s h r i n e d
+i n
+t h e 
+i n t e r n a t i o n a l
+l e g a l
+i n s t r u m e n t s ,
+t h e
+r e q u i r e m e n t
+t h a t
+S t a t e s
+s h o u l d
+n o t
+i n t e r f e r e
+w i t h
+p e o p l e ’ s
+a c c e s s
+t o 
+t h e
+I n t e r n e t
+c a n
+b e
+a d d r e s s e d ,
+a m o n g
+o t h e r s ,
+t h r o u g h
+f r e e d o m
+o f
+e x p r e s s i o n
+a n d
+r i g h t
+t o
+i n f o r m a t i o n 
+s a f e g u a r d s .
+T o
+t h i s
+e n d ,
+i n t e r n e t
+r e s t r i c t i o n s
+s h o u l d
+b e
+c o n s i d e r e d
+n o t
+m e r e l y
+a s
+t e c h n i c a l
+m e a s u r e s
+a f f e c t i n g
+t h e 
+l o g i c a l
+o r
+p h y s i c a l
+l a y e r s
+o f
+t h e
+n e t w o r k s ,
+b u t
+a l s o
+a s
+a
+t o o l
+u s e d
+t o
+i m p a i r
+t h e
+m e a n s
+o f
+e x p r e s s i o n
+o f 
+i n d i v i d u a l s
+( s e e
+b e l o w ,
+A v o i d
+i n t e r n e t
+f r a g m e n t a t i o n
+) .
+T h e r e f o r e ,
+i n t e r n e t
+s h u t d o w n s
+a n d
+c o n t e n t 
+b l o c k i n g
+m a y
+c o n s t i t u t e
+v i o l a t i o n s
+o f
+t h e
+p r i n c i p l e s
+c o n t a i n e d
+i n
+s e v e r a l
+i n t e r n a t i o n a l
+h u m a n
+r i g h t s 
+i n s t r u m e n t s ,
+i n
+p a r t i c u l a r
+a r t i c l e
+1 9
+( r i g h t
+t o
+f r e e d o m
+o f
+e x p r e s s i o n ,
+t h e
+s c o p e
+o f
+w h i c h
+i s
+c l a r i f i e d
+b y 
+G e n e r a l
+C o m m e n t
+3 4
+o f
+t h e
+H u m a n
+R i g h t s
+C o m m i t t e e )
+a n d
+a r t i c l e
+2 1
+( r i g h t
+o f
+a s s e m b l y )
+o f
+t h e 
+I n t e r n a t i o n a l
+C o v e n a n t
+o n
+C i v i l
+a n d
+P o l i t i c a l
+R i g h t s
+( I C C P R ) .
+R e g i o n a l
+c o n v e n t i o n s
+f o r
+t h e
+p r o t e c t i o n 
+o f
+h u m a n
+r i g h t s
+g e n e r a l l y
+i n c l u d e
+s i m i l a r
+p r o v i s i o n s .
+T h i s
+p e r s p e c t i v e
+i s
+s u p p o r t e d
+b y
+t h e
+p r a c t i c e
+o f
+s e v e r a l
+o r g a n s
+a n d
+i n t e r n a t i o n a l
+i n s t i t u t i o n s ,
+n o t a b l y 
+r e s o l u t i o n s
+a d o p t e d
+b y
+t h e
+H u m a n
+R i g h t s
+C o u n c i l
+o n
+“ T h e
+p r o m o t i o n ,
+p r o t e c t i o n
+a n d
+f u l f i l l m e n t
+o f 
+h u m a n
+r i g h t s
+o n
+t h e
+I n t e r n e t ”
+( A / H R C / 3 2 / L . 2 0 ,
+J u n e
+2 7 t h ,
+2 0 1 6 ) .
+T h e
+C o u n c i l
+c o n d e m n s
+m e a s u r e s 
+t h a t
+s e e k
+t o
+“
+i n t e n t i o n a l l y
+p r e v e n t
+o r
+d i s r u p t
+a c c e s s
+t o
+o r
+d i s s e m i n a t i o n
+o f
+i n f o r m a t i o n
+o n l i n e
+i n 
+v i o l a t i o n
+o f
+i n t e r n a t i o n a l
+h u m a n
+r i g h t s
+l a w ,
+a n d
+c a l l s
+u p o n
+a l l
+S t a t e s
+t o
+r e f r a i n
+f r o m
+a n d
+c e a s e
+s u c h 
+m e a s u r e s
+” ,
+r e l y i n g
+o n
+a
+s u b s t a n t i a l
+n u m b e r
+o f
+s e c o n d a r y
+l e g i s l a t i o n
+n o t
+s p e c i f i c a l l y
+r e l a t e d
+t o
+t h e
+i s s u e 
+o f
+I n t e r n e t
+a c c e s s .
+S e v e r a l
+U N
+S p e c i a l
+R a p p o r t e u r s
+h a v e
+r e c o g n i z e d
+t h e
+f u n d a m e n t a l
+n a t u r e
+o f
+t h e 
+r i g h t
+o f
+a c c e s s
+t o
+t h e
+I n t e r n e t
+t h r o u g h
+t h e
+p r i s m
+o f
+f r e e d o m
+o f
+e x p r e s s i o n
+o r
+t h e
+r i g h t
+t o
+p e a c e f u l 
+a s s e m b l y .
+H o w e v e r ,
+t h i s
+r i g h t
+o f
+a c c e s s
+t o
+t h e
+i n t e r n e t
+s h o u l d
+n o t
+b e
+c o n s t r u e d
+a s
+a
+d u t y
+o f
+S t a t e s
+t o 
+p r o v i d e
+a c c e s s
+w i t h o u t
+a n y
+c h a r g e .
+K e yc o m m i t m e n t s :
+-S t a t e ss h o u l dr e f r a i nf r o mr e s t r i c t i n gp e o p l e ’ sa c c e s st ot h ei n t e r n e t ,i no r d e rt oc o m p l yw i t hr e l e v a n th u m a nr i g h t si n s t r u m e n t s .
+-S t a t e ss h o u l dr e c o g n i z et h a ta c c e s st ot h ei n t e r n e ti sad r i v e rf o rd e v e l o p m e n ta n dm u s tb es a f e g u a r d e d .
+A v o i di n t e r n e tf r a g m e n t a t i o n
+S i n c et h ee a r l y2 0 1 0 s ,s e v e r a lS t a t e sh a v ei n t r o d u c e dp o l i c i e st h a tp r e v e n tt h e i rc i t i z e n sf r o ma c c e s s i n gag l o b a la n do p e nI n t e r n e t .S o m eo ft h e mh a v ee v e ng o n ea sf a ra st r y i n gt od e m a r c a t et h e i rd i g i t a ls p a c e ,c r e a t i n gb o r d e r so fas o r tt h r o u g ht h ed e v e l o p m e n to fd e d i c a t e dd o m e s t i ci n f r a s t r u c t u r e sa n d ,t h u s ,i s o l a t i n gt h e m s e l v e sm o r eo rl e s sf r o mt h er e s to ft h ed i g i t a lu n i v e r s e .O t h e rS t a t e sr e s o r tt od a t ar e l o c a t i o np r o c e s s e s ,w i t ht h ea i mo fm a k i n gi tac o n d i t i o nf o rd i g i t a lc o m p a n i e st oc o n t i n u et h e i ra c t i v i t i e st h a td a t ab ep r o c e s s e do nt h e i rt e r r i t o r y .C y b e r s e c u r i t yi s s u e s ,d i s i n f o r m a t i o n ,d a t ab r e a c h e s ,p e r s o n a ld a t ap r o t e c t i o na n dn a t i o n a ls e c u r i t yr e q u i r e m e n t sh a v eb e e nu s e da sj u s t i ﬁ c a t i o n st oc r e a t ed ef a c t oi n t r a n e t s .
+T h i sr e s u l t si na n“ i n t e r n e tf r a g m e n t a t i o n ”( o ri n t e r n e ts e g m e n t a t i o n ) ,i no t h e rt e r m st h ec r e a t i o no fat e c h n i c a lb o r d e ra r o u n dt h e i rt e r r i t o r y ,r a n g i n gf r o mt h ed i s c r i m i n a t i o no fc e r t a i nc a t e g o r i e so f
+4
+i n f o r m a t i o nt ot h ec o m p l e t eb l o c k i n go fd a t aﬂ o w st oa n df r o mt h eo u t s i d ew o r l d .A sar e s u l t ,i n t e r n e tu s e r sf r o mas p e c i ﬁ cc o u n t r ym a yb et o t a l l yp r e v e n t e df r o mi n t e r a c t i n gw i t hu s e r sb a s e da b r o a da n dm a yb eu n a b l et oa c c e s sc e r t a i nc o n t e n t ,w e b s i t e so ra p p l i c a t i o n s .
+I n t e r n e tf r a g m e n t a t i o ns h o u l dn o to n l yb es e e na sas e to ft e c h n i c a lm e a s u r e st h a tc r e a t eb o r d e r sw i t h i nt h el o g i c a lo rp h y s i c a ll a y e r so ft h en e t w o r k s .I nm o s tc a s e s ,i tw i l la l s or e s t r i c tt h em e a n so fc o m m u n i c a t i o no fi n d i v i d u a l s ,a n dt h u st h e i rc a p a c i t yt om e e t ,c o n s u l t ,m o b i l i z e ,i n f o r ma n db ei n f o r m e da tag l o b a ls c a l e .I n t e r n e tf r a g m e n t a t i o nn o t a b l yi n c l u d e sc r e a t i n gb a n so ng l o b a ls o c i a lm e d i ap l a t f o r m so rs e a r c he n g i n e sw i t ht h ei n t e n tt op r e v e n tc i t i z e n sf r o ma c c e s s i n gc o n t e n tt h a ti so fv i t a li n t e r e s tt ot h e ma n dm a yh e l pt h e mk e e pi n f o r m e d .T h i st y p eo fm e a s u r ec a nb eaw a yf o rg o v e r n m e n t st oc o n t r o lt h ed i g i t a la c t i v i t i e sc a r r i e do u t“ o n ”t h e i rt e r r i t o r y ,t oi s o l a t et h e i rc o u n t r yf r o mt h er e s to ft h en e t w o r ka n de v e nt oc r e a t eb l a c k o u ts i t u a t i o n sf o rp o p u l a t i o n si nt h ec a s eo fi n t e r n e ts h u t d o w n s .U s e r so f t e nu s eV P N st ob y p a s st h e s er e s t r i c t i o n s .H o w e v e r ,s u c hp r a c t i c e sh a v eb e e nd e e m e du n l a w f u lb ys e v e r a ll e g i s l a t i o n sa c r o s st h eg l o b e ,i no r d e rt od i s c o u r a g et h e m ,w h i l em o s tu s e r sa r eu n a w a r eo fh o wt os a f e l yu s eV P N s .
+T h u s ,i n t e r n e tf r a g m e n t a t i o ni sh a r m f u lf r o mt h ep o i n to fv i e wo fi n t e r n a t i o n a lh u m a nr i g h t s .I tc a nb ea ni n d i r e c tw a yo fr e s t r i c t i n gi n d i v i d u a l s ’d i g i t a la c t i v i t i e sa n dv i o l a t i n gp r i n c i p l e ss e to u ti ns e v e r a li n t e r n a t i o n a li n s t r u m e n t s .
+K e yc o m m i t m e n t s :
+-S t a t e ss h o u l dp r o m o t eag l o b a l ,o p e na n dn e u t r a li n t e r n e t .
+-S e c u r i t yi s s u e ss h o u l dn o tb eu s e da sap r e t e x tt oi n f r i n g eo nh u m a nr i g h t sb yl i m i t i n g u s e r s ’a c c e s st og l o b a lc o n t e n t .
+-C o m p a n i e ss h o u l db ee n c o u r a g e dn ot oc o n t r i b u t et oi n t e r n e tf r a g m e n t a t i o n .
+P r o t e c td a t a
+D i g i t a ld a t ah a sb e c o m ea ni n e s c a p a b l er e s o u r c et h a tr a i s e sc o n t r a d i c t o r yi s s u e s :p r o t e c t i o no fh u m a nr i g h t sa n dp r i v a c y ,n a t i o n a ls e c u r i t y ,e c o n o m i cd e v e l o p m e n t ,d a t ac i r c u l a t i o n ,d i g i t a ls o v e r e i g n t y ,a p p l i c a t i o no ft h el a wt ot h em u l t i p l eu s e so fd a t a ,e t c .T h ei n c r e a s ei nt h ev o l u m eo fd a t aa n dt h ed i v e r s i ﬁ c a t i o no fi t su s e s ,i np a r t i c u l a rw i t ha r t i ﬁ c i a li n t e l l i g e n c e( A I ) ,r a i s e sn e wq u e s t i o n si nt e r m so fg o v e r n a n c eo ft h i sd a t a .
+T h ei n t e r p r e t a t i o no fp r i v a c yp r o v i s i o n sw i l lb eo fp a r t i c u l a ri m p o r t a n c ei nt h ef u t u r e ,b e c a u s ei ti saf u n d a m e n t a lr i g h ta n do n eo ft h ee l e m e n t so ft h el e g a lr e g i m ef o rt h ep r o t e c t i o no fp e r s o n a ld a t a .T h i sr i g h ti sa tt h eh e a r to fc o m p l e xs i t u a t i o n ss u c ha sm a s sa n dt a r g e t e ds u r v e i l l a n c eb yp u b l i ca n dp r i v a t ea c t o r s ,i n t e r c e p t i o na n ds t o r a g eo fp e r s o n a ld a t at oﬁ g h tc y b e r c r i m e ,e x t r a t e r r i t o r i a l i t yo fd a t ap r o t e c t i o nr e g i m e s ,a n dp r i n c i p l e sf r a m i n gt h i sp r o t e c t i o n( r i g h tt ob ef o r g o t t e n ,r i g h tt or e c t i ﬁ c a t i o n ,p r i n c i p l eo fc o n s e n tt ot h ep r o c e s s i n go fo n e ’ sp e r s o n a ld a t a ,p u r p o s el i m i t a t i o n ,d a t am i n i m i s a t i o n ,a c c u r a c y ,l a w f u l n e s s ,t r a n s p a r e n c y ,l a w f u l n e s s ,d a t as t o r a g el i m i t a t i o n ,c o n ﬁ d e n t i a l i t ya n di n t e g r i t y ,e t c . ) .
+T h ed i v e r s i ﬁ c a t i o no fd a t ai m p l i e sab e t t e ri d e n t i ﬁ c a t i o no ft h et y p e so fe x i s t i n gd a t at oa d a p tt h er e g u l a t i o no ft h e i ru s e .F o ri n s t a n c e ,o n em a yw o n d e ri fd i g i t a ld a t ai sa na s s e tu n d e ri n t e r n a t i o n a lh u m a n i t a r i a nl a wd u r i n ga r m e dc o n ﬂ i c t ,i n t e r n a t i o n a lt r a d el a wo ri nt h el a wo fd i p l o m a t i ci m m u n i t i e s .
+S i n c ea ni n t e r n a t i o n a ll e g a lr e g i m ei sc u r r e n t l yl a c k i n g ,t h e r ei sat e n d e n c yt oa d o p tl a w sa tr e g i o n a l ,n a t i o n a lo re v e ns u b - n a t i o n a ll e v e l ,w h i c hi n c l u d ep r o v i s i o n sw i t he x t r a t e r r i t o r i a ls c o p e .T h i si n c r e a s e s
+5
+t h er i s ko fc o n ﬂ i c to fl a w sa n dc r e a t e sd i ﬃ c u l t i e s ,p a r t i c u l a r l yi nc r o s s - b o r d e rd a t aﬂ o w sa n dm u t u a ll e g a la s s i s t a n c e .
+C o l l e c t i n g ,s h a r i n ga n ds e l l i n gd i g i t a ld a t a ,i np a r t i c u l a rp e r s o n a ld a t a ,h a sb o t hp o s i t i v ea n dn e g a t i v eh u m a nr i g h t si m p l i c a t i o n s .P r a c t i c e ss u c ha st a r g e t e da d v e r t i s i n g ,c o n t e n tm o n i t o r i n g ,p r i v a t ea n dp u b l i cs u r v e i l l a n c e ,s p y i n g ,d a t ac o l l e c t i o nf o rc r i m i n a li n v e s t i g a t i o n s ,i n t e r n e tﬁ l t e r i n g ,u s eo fb i o m e t r i cd a t a ,e t c .c a ne n d a n g e rp r i v a c ya n df r e e d o mo fe x p r e s s i o n .B u td i g i t a ld a t aa n dA Ic a na l s oc o n t r i b u t et oi m p r o v i n gt h eh u m a nc o n d i t i o n .T h u s ,i ti sn e c e s s a r yt os t e e rr e g u l a t i o nt o w a r d sav i r t u o u su s eo fd a t a .
+K e yc o m m i t m e n t s
+-D a t as h o u l db ed e ﬁ n e da n dc a t e g o r i z e dm o r ep r e c i s e l y( p e r s o n a ld a t a ,s e n s i t i v ed a t a ,s e c u r i t yd a t a ,e t c . )t oa d a p tt h e i rl e g a lr e g i m ea c c o r d i n gt ot h e i rn a t u r ea n du s e .M a n ye ﬀ o r t sh a v eb e e nm a d ei nt h eﬁ e l do fp e r s o n a ld a t ap r o t e c t i o nb u tm a n yo t h e rd a t as h o u l da l s ob er e g u l a t e d .
+-W i t hr e g a r dt op e r s o n a ld a t a ,t h ep r i n c i p l e ss e to u ti nt h eG D P Ro ﬀ e rs t a n d a r d so fp r o t e c t i o nw h i c hc o u l db ee x t e n d e di n t e r n a t i o n a l l yt of a c i l i t a t et h ec i r c u l a t i o no fd a t aw h i l ep r e s e r v i n gt h ep r o t e c t i o no fi n d i v i d u a l s .H o w e v e r ,t h ei n t e r p r e t a t i o no ft h e s es t a n d a r d sn e e d st ob eh a r m o n i z e di no r d e rt oa v o i dc o n ﬂ i c t so fe x t r a t e r r i t o r i a ll a w sa n dr e g u l a t o r yf r a g m e n t a t i o n .
+-I nv i e wo ft h ee v o l u t i o no ft h eu s e so fd a t a ,w h e t h e rf o rc o m m e r c i a lo rs u r v e i l l a n c ep u r p o s e s ,b yp r i v a t eo rp u b l i ca c t o r s ,t h ep e r s o n a ld a t ap r o t e c t i o nr e g i m es h o u l db er e f o c u s e do nt h ep r o t e c t i o no fp r i v a c y ,w h i c hi si t sf o u n d a t i o n ,a n dn ol o n g e rb ed e v e l o p e da sa na u t o n o m o u sr e g i m e ,w h o s ee x i s t e n c ew o u l db ej u s t i ﬁ e ds o l e l yf o rc o m m e r c i a lo rs e c u r i t yp u r p o s e s .
+-I ti si m p o r t a n tt ol i m i tt h er i s k so fc o n ﬂ i c t so fl a wr e s u l t i n gf r o mt h ee x t r a t e r r i t o r i a ls c o p eo fn a t i o n a ll a w sb yd e v e l o p i n gs t a n d a r d so re v e nr u l e so fi n t e r n a t i o n a ll a w .
+-D a t ap r o t e c t i o nr e g i m e ss h o u l db ed e v e l o p e dt oi m p r o v et h eh u m a nc o n d i t i o n ,r e d u c et h ed i g i t a ld i v i d e ,a n df a c i l i t a t et h ea c h i e v e m e n to ft h eS D G s .
+A p p l yh u m a nr i g h t so n l i n e
+D i g i t a la c t i v i t i e ss h o u l dn o tb ei m p l e m e n t e dw i t h o u tt a k i n gi n t oa c c o u n tt h e i ri m p a c to nh u m a nr i g h t s ,t h er u l eo fl a wa n dt h ed e m o c r a t i cv a l u e se n s h r i n e di nt h eU NC h a r t e ra n dr e l a t e dl e g a li n s t r u m e n t s .B u s i n e s si n n o v a t i o nc o n c e r n ss h o u l db em a t c h e dw i t ht h es y s t e m a t i cu s eo fi m p a c ta s s e s s m e n t sa n dc r i t i c a lr i s ka s s e s s m e n t sw h e nd e v e l o p i n gt e c h n o l o g i c a lt o o l sa n dd i g i t a lp r o c e s s e st h a tm a yi n f r i n g eo nh u m a nr i g h t s .S i m i l a r l y ,n a t i o n a ls e c u r i t yc o n c e r n so rp u b l i co r d e rc o n s i d e r a t i o n ss h o u l dn o tj u s t i f yd i s p r o p o r t i o n a t ei n f r i n g e m e n t so ni n d i v i d u a lr i g h t s .
+T od a t e ,t h e r ei sn os p e c i ﬁ cf r a m e w o r kf o rd i g i t a la c t i v i t i e st h a ti st r u l yu n i v e r s a li ns c o p e ,c o v e r i n g ,f o re x a m p l e ,t h ep r o t e c t i o no fp e r s o n a ld a t a ,a u t o m a t e dd e c i s i o n - m a k i n gp r o c e s s e so ro n l i n ee x p r e s s i o n .T h el a c ko fau n i q u ef r a m e w o r ki sl i k e l yt ob el e v e r a g e db ys o m eS t a t e si no r d e rt oe x p l o i td i g i t a lt o o l sf o rt h ep u r p o s eo fm o n i t o r i n gi n d i v i d u a l sa n dr e s t r i c t i n gt h e i rr i g h t s .Y e t ,d e s p i t et h el a c ko fau n i v e r s a ld i g i t a l - s p e c i ﬁ ci n s t r u m e n t ,r e s o r t i n gt op r e - e x i s t i n gl e g a li n s t r u m e n t si sar e l i a b l ew a yt op r o t e c ti n d i v i d u a l sa n dc o m m u n i t y ’ sr i g h t si nt h ed i g i t a ls p h e r e .
+I n d e e d ,i np r a c t i c e ,am a j o r i t yo fU n i t e dN a t i o n sM e m b e rS t a t e sr e c o g n i z et h ea p p l i c a t i o no fp r e - e x i s t i n gr u l e so fi n t e r n a t i o n a ll a wi nt h ed i g i t a ls p h e r e ,i n c l u d i n gt h o s ed e r i v e df r o mi n t e r n a t i o n a ll a wi n s t r u m e n t s( U n i t e dN a t i o n sC h a r t e r ,I n t e r n a t i o n a lC o v e n a n t so f1 9 6 6 ,r e g i o n a lc h a r t e r sf o rt h ep r o t e c t i o no fh u m a nr i g h t s ,e t c . ) .I n t e r n a t i o n a lh u m a nr i g h t sl a wi st h em o s to b v i o u sa n dm o s tv i s i b l ew a yo fa d d r e s s i n gp r a c t i c e so nt h eI n t e r n e t ,w h e t h e ri tb et or e g u l a t et h ea c t i v i t i e so fp u b l i ca c t o r s( S t a t e s ,l o c a la u t h o r i t i e s ,i n t e r n a t i o n a lo r g a n i z a t i o n s )o rt h o s eo fp r i v a t ea c t o r s( c o m p a n i e s ,n o n - p r o ﬁ t
+6
+o r g a n i z a t i o n s ) .T h er e a s s e r t i o no ft h eS t a t e s ’p o s i t i v eo b l i g a t i o n si nt h i sr e s p e c ta p p e a r sp a r t i c u l a r l yn e c e s s a r yi nt h ef a c eo ft h ei n f r i n g e m e n t sc a u s e db yp r i v a t ea c t o r s .
+I nt h i sr e s p e c t ,i tw o u l ds e e mv i t a lf o rt h ei n t e r n a t i o n a lc o m m u n i t yt or e c o g n i z et h a th u m a nr i g h t s ,a se n s h r i n e di nt h er e l e v a n tl e g a li n s t r u m e n t s ,a p p l yi nt h ed i g i t a ls p h e r e ,p a r t i c u l a r l yo n l i n e .T h es t a t e m e n t so fa c t o r sr e f u t i n gt h i sv i s i o na r ea to d d sw i t ht h ea c t u a lp r a c t i c e ,i n c l u d i n gi n t e r n a t i o n a la n dr e g i o n a lc a s el a w .
+K e yc o m m i t m e n t s :
+-S t a t e ss h o u l dr e c o g n i z et h a th u m a nr i g h t s ,a se n s h r i n e di nt h er e l e v a n tl e g a li n s t r u m e n t s ,a p p l yi nt h ed i g i t a ls p h e r e .
+-I m p a c ta s s e s s m e n t sp r o c e s s e sa n dc r i t i c a lr i s ka s s e s s m e n t ss h o u l db ei m p l e m e n t e dw h e nd e v e l o p i n gt e c h n o l o g i c a lt o o l sa n dd i g i t a lp r o c e s s e st h a tm a yi n f r i n g eo nh u m a nr i g h t s .
+-S t a t e ss h o u l dr e f r a i nf r o mr e s t r i c t i n gi n d i v i d u a l s ’l e g i t i m a t ea c c e s st ot e c h n o l o g i c a lt o o l s .
+A c c o u n t a b i l i t yf o rd i s c r i m i n a t i o na n dm i s l e a d i n gc o n t e n t
+D i g i t a lp l a t f o r m sa r e ,a tt h es a m et i m e ,s p a c e sf o rt h ep r o m o t i o no fh u m a nr i g h t sa n dd e m o c r a t i cp r o c e s s e sa n dt h et o o l st h a tm a yl e a dt ot h e i re r o s i o n .
+I n i t i a l l y ,t h e s ep l a t f o r m sw e r em o s t l yr e c r e a t i o n a lo ri n f o r m a t i v ei nn a t u r e .O v e rt i m e ,t h e yh a v ea c q u i r e dac r i t i c a lr o l ea ss p a c e sf o rt h ec i v i ls o c i e t yt om o b i l i z eo rt oe x p o s er e g i m e st h a td on o tr e s p e c tf u n d a m e n t a lr i g h t s .T o d a y ,t h e yh a v eb e c o m ea ni n d i s p e n s a b l et o o lf o ra l m o s th a l fo fm a n k i n d :c l o s et ot h r e eb i l l i o ni n d i v i d u a l su s et h es e r v i c e so ﬀ e r e db yt e c hc o m p a n i e s ,m o s tn o t a b l ys o c i a lm e d i a .H o w e v e r ,t h ec o n t i n u o u ss t r e a mo fc o n t e n tp u b l i s h e db yu s e r sg e n e r a t e sn u m e r o u sa b u s e st h a tc a no n l yb ea d d r e s s e db ym o d e r a t i o nm e c h a n i s m s( d e l e t i n gc o n t e n t ,m a r k i n gi t ,d o w n g r a d i n gi to re v i c t i n gu s e r s ) .D i s c r i m i n a t o r yc o m m e n t s ,c a l l st oh a t r e do rv i o l e n c e ,d e f a m a t i o n ,p r i v a c yb r e a c h e so rd i s i n f o r m a t i o no p e r a t i o n sa r ea m o n gt h eh a r m f u lb e h a v i o r st h a tp l a t f o r m sh a v et or e g u l a t ei nr e a lt i m e .
+H o w e v e r ,a c t i n ga g a i n s tu n l a w f u lc o n t e n tc o m e sw i t hc h a l l e n g e s .T h eﬁ r s ti st h a tc o n t e n tm o d e r a t i o ni sc a r r i e do u tb yc o m p a n i e so nt h eb a s i so fs p e c i ﬁ cs t a n d a r d st h a td on o ta l w a y sc o m p l yw i t hl a w sa n dr e g u l a t i o n s ,p a r t i c u l a r l yi nt e r m so fh u m a nr i g h t s ,a n dt h a ta r ea p p l i e do na ni n t e r n a t i o n a ls c a l ew i t h o u ta d a p t i n gt ol o c a lc u l t u r a lc o n t e x t s .T h es e c o n di st h a t ,w h e ni ti sn o ta u t o m a t e d ,t h em o d e r a t i o na c t i v i t yi se n t r u s t e dt oe m p l o y e e so rs u b c o n t r a c t o r sw h om a yb eb a s e di nr e m o t er e g i o n so ft h ew o r l da n dw h oa r eg e n e r a l l yi l l - e q u i p p e dt od e t e r m i n ew h e nc o n t e n ti sl e g i t i m a t eo rn o t .
+T h e s et w of a c t o r sc a nl e a dt oz e a l o u so rh a s t ym o d e r a t i o np r a c t i c e s ,l i k e l yt oc o n s t i t u t ea ni n f r i n g e m e n to ff r e e d o mo fe x p r e s s i o n .O nt h eo t h e rh a n d ,s o m ec o n t e n tt h a ts h o u l db em o d e r a t e db e c a u s ei tv i o l a t e sh u m a nr i g h t so ru n d e r m i n e sp u b l i co r d e ro rd e m o c r a t i cp r o c e s s e sr e m a i n so n l i n ea sar e s u l to fc o m m e r c i a ld e c i s i o n s .S t a t e ss h o u l dt a k et h en e c e s s a r ym e a s u r e s ,i na c c o r d a n c ew i t hi n t e r n a t i o n a ll a w ,t oo v e r s e et h em o d e r a t i o na c t i v i t i e so fp l a t f o r m sa n dm a k et h e ma c c o u n t a b l e .I ti se s s e n t i a lt h a tc o n t e n tv i o l a t i n gf u n d a m e n t a lr i g h t sb et r e a t e da c c o r d i n gt od u ed i l i g e n c es t a n d a r d sa n dt h a tf r e e d o mo fe x p r e s s i o nn o tb es u b j e c tt od i s p r o p o r t i o n a t er e s t r i c t i o n s .
+K e yc o m m i t m e n t s :
+-S t a t e ss h o u l da d d r e s sd i s i n f o r m a t i o na n dm i s i n f o r m a t i o np r a c t i c e si nc o o r d i n a t i o nw i t hc o m p a n i e s ,c i v i ls o c i e t ya n du s e r s .
+7
+-S t a t e ss h o u l dt a k et h en e c e s s a r ym e a s u r e s ,i na c c o r d a n c ew i t hi n t e r n a t i o n a ll a wa n dt h e i rn a t i o n a ll a w s ,t oo v e r s e et h em o d e r a t i o na c t i v i t i e so fp l a t f o r m sa n dm a k et h e ma c c o u n t a b l ef o rt h e i rs h o r t c o m i n g s .
+-O n l i n em o d e r a t i o np o l i c i e ss h o u l da l w a y sb ei n t e r p r e t e da n di m p l e m e n t e db yc o m p a n i e sa n dS t a t ea c t o r si na c c o r d a n c ew i t hr e l e v a n ti n t e r n a t i o n a lh u m a nr i g h t si n s t r u m e n t s .
+-S t a t e ss h o u l dn o tm i s u s et h ep r e v e n t i o no fd i s i n f o r m a t i o na sap r e t e x tf o rd i s p r o p o r t i o n a t er e s t r i c t i o n so nf r e e d o mo fe x p r e s s i o n
+R e g u l a t i o no fa r t i ﬁ c i a li n t e l l i g e n c e
+N ol o n g e ro n l ye m b e d d e di np r o d u c t sa n di n d u s t r i a ls y s t e m s ,a r t i ﬁ c i a li n t e l l i g e n c e( A I )h a sr e c e n t l ym a d eab r e a k t h r o u g hi no u re v e r y d a yl i f et h r o u g hb e c o m i n ga c c e s s i b l ea n dd i r e c t l yu s a b l eb ye n d - u s e r s .I nd o i n gs o ,c o m p u t i n gp o w e ra n da l g o r i t h m sa r em o r et h a ne v e rp r o c e s s e sa n dt o o l st h a ta r ei m p a c t i n go u rl i v e s ,o u re c o n o m i e sa n do u rd e m o c r a c i e s .A Ic a nb r i n gi n n o v a t i o na n dp r o g r e s sf o ri n d i v i d u a l sa n dd e m o c r a c y ,b yo ﬀ e r i n gn e wm o d e so fe x p r e s s i o na n dp r o d u c t i o n .C o n s i d e r i n gt h eg l o b a lc h a l l e n g e st h a to u rs o c i e t i e sa r ef a c i n g ,A Ip r o v i d e sn e wm e a n st oa d d r e s st h e m ,p a r t i c u l a r l yi nt h ed o m a i n so fp u b l i ch e a l t ha n dt h ee n v i r o n m e n t .A I - b a s e dp r o d u c t sa n ds e r v i c e sc a na l s op l a yar o l ei ns t r e n g t h e n i n gt h er u l eo fl a wa n dt h ee n f o r c e m e n to fi n t e r n a t i o n a ll a w ,i n c l u d i n gt h r o u g hm o n i t o r i n ga n de v a l u a t i n gt h ei m p l e m e n t a t i o no fS t a t e s ’i n t e r n a t i o n a lc o m m i t m e n t s .
+H o w e v e r ,t h ed e v e l o p m e n to fA Ii sn o tw i t h o u tr i s k st ot h ef u n d a m e n t a lr i g h t sa n df r e e d o m so fi n d i v i d u a l s ,t h er u l eo fl a w ,a n di n t e r n a t i o n a ld e v e l o p m e n t .I n d e e d ,A Il e a r n i n gm o d e l sr e q u i r el a r g ev o l u m e so fd a t a ,w h i c hp r o c e s sc a nd i s r e g a r dt h el e g a lp r o t e c t i o na t t a c h e dt ot h ed a t a .B i a s e sf r o md a t ap r o c e s s i n ga r em u l t i p l i e d ,c r e a t i n gn e wa n do f t e nu n d e r e s t i m a t e dr i s k so fd i s c r i m i n a t i o n .I nac o n t e x tw h e r en o n - s t a t ea c t o r s ,e s p e c i a l l yc o m p a n i e s ,a r et h em a i nh o l d e r so ft h i sd a t a ,t h eu n d e r - r e p r e s e n t a t i o no fc e r t a i nr e g i o n so ft h ew o r l da n dt h ec o n c e n t r a t i o no fc a p a c i t i e si nt h eh a n d so faf e wa c t o r sp r e s e n tar i s kf o rc u l t u r a la n ds o c i a ld i v e r s i t ya n di n t e r n a t i o n a ld e v e l o p m e n t .T h u sA Ic o n t r i b u t e st ot h er e i n f o r c e m e n to ft h ed i g i t a ld i v i d ea n dt h ec o n ﬁ n e m e n to ft h ei n d i v i d u a lt h r o u g ht h ep r i s mo fd a t a .F i n a l l y ,b e c a u s eo fi t sv e r yo p e r a t i n gp r o c e s s e s ,t h ei m p a c to fA Io nt h ee n v i r o n m e n ti sb e c o m i n gam a j o ri s s u et h a tr e m a i n su n e v a l u a t e d .
+T h em u l t i p l i c i t yo fA Iu s e su n d e n i a b l yc o n s t i t u t e sad i ﬃ c u l t yw h e nt a c k l i n gi t sr e g u l a t i o n .T h eu n k n o w n sa c c o m p a n y i n gi t sc o n s e q u e n c e so ns o c i e t i e sa n df u n d a m e n t a lr i g h t sm u s tb es e e na sa l e r t sg u i d i n ge a c hs t e po ft h ed e v e l o p m e n to fat e c h n o l o g y ,ap r o d u c to ras e r v i c eb a s e do nA I .T h eo p e ns o u r c i n go fA Is y s t e m sa n dt h ec o n d i t i o n sf o rt h e i rr e u s es h o u l db eg i v e np a r t i c u l a ra t t e n t i o ni no r d e rt oe n c o u r a g ed e v e l o p m e n tt h a ti sc o n s i s t e n tw i t hi n t e r n a t i o n a ll a w ,a n di np a r t i c u l a ri n t e r n a t i o n a lh u m a nr i g h t sl a w .A ss u c h ,A It h u sc o n s t i t u t e san e wa r e ai nw h i c hS t a t e s ’p o s i t i v eh u m a nr i g h t so b l i g a t i o n sﬁ n dt h e i rw a y ,a n di nap o t e n t i a l l yn e wd i m e n s i o n .
+I nr e c e n ty e a r s ,n u m e r o u sn o r m a t i v ei n i t i a t i v e sh a v ee m e r g e dt or e g u l a t et h ed e v e l o p m e n ta n du s eo fA I .T h e yt e n dt os e tam i n i m u mo fc o m m i t m e n t sf o rA I ,r e g a r d l e s so fs e c t o r - s p e c i ﬁ cn e e d s .Y e t ,s e c t o r a la p p r o a c h e sm i g h tb en e e d e dt ob e t t e rt a c k l et h ec h a l l e n g e s .S i m i l a r l y ,a na u t o n o m o u sa p p r o a c ht oA Is h o u l dn o tl e a dt oi t so m i s s i o nf r o mf o r u m sd e a l i n gw i t ho t h e rs u b j e c t s ,n o t a b l yc y b e r s e c u r i t ya n dt h ee n v i r o n m e n t .I nb o t hc a s e s ,t h ee t h i c a la p p r o a c hi sn o ts u ﬃ c i e n ti ni t s e l f .I ti sa l s oi n t e r e s t i n gt on o t et h a td e s p i t ea ne t h i c a la p p r o a c ht oA Ir e g u l a t i o n ,t h ec o n t e n to ft h ei n s t r u m e n t sd i s c u s s e di so f t e nv e r yl e g a l .T h ec h o i c eo fl e g a lo v e re t h i c a ls h o u l db ep r e s e r v e d .
+K e yc o m m i t m e n t s :
+-A n yd e v e l o p m e n to fa nA Ip r o d u c to rs e r v i c es h o u l do n l yb ec o n d u c t e da f t e rac a r e f u lr i s k a s s e s s m e n ta n ds h o u l db ec o m p a t i b l ew i t hh u m a nr i g h t sf r a m e w o r k s .I nc a s eo fh i g ho r
+8
+u n d e t e r m i n e dr i s k sf o rh u m a nr i g h t s ,t h ed e v e l o p m e n to fa nA Ip r o d u c to rs e r v i c es h o u l d b ep r o h i b i t e do ro n l yc o n d u c t e du n d e rh i g hs c r u t i n yf r o mp u b l i ca u t h o r i t i e s .
+-S t a t e ss h o u l ds e tu pi n d e p e n d e n ta u t h o r i t i e st a s k e dw i t ho v e r s e e i n gt h ed e v e l o p m e n ta n d u s e so fA Ib ys t a t ea n dn o n - s t a t ea u t h o r i t i e s .T h o s ea u t h o r i t i e ss h o u l db eg i v e n a p p r o p r i a t em e a n sa n dr e s o u r c e s .T h e ys h o u l dn o te x c l u d et h er e c o u r s et oj u d i c i a l a u t h o r i t i e si nc a s er i g h t sa n do b l i g a t i o n sa r eb e i n ga b u s e d .
+-N e x tt ot h ei n t e r n a t i o n a lc o n s e n s u so na c c o u n t a b i l i t y ,r e s p o n s i b i l i t ya n dt r a n s p a r e n c ya s c o r ep r i n c i p l e sg u i d i n gt h ed e v e l o p m e n ta n du s eo fA I ,S t a t e sa n dn o n - s t a t ea c t o r ss h o u l d c o o p e r a t eo nt h ec o n c r e t ei m p l e m e n t a t i o no ft h e s ep r i n c i p l e st h r o u g ht h ee x c h a n g eo fb e s t p r a c t i c e si no r d e rt oe n g a g ei nm o r ep r e c i s er e g u l a t i o n .
+-I n d e p e n d e n tr e s e a r c ho nt h eb i a s e sa n dn e g a t i v ei m p a c to fA It e c h n o l o g i e sa n ds e r v i c e s s h o u l db ec o n d u c t e d .S t a t ea n dn o n - s t a t ea c t o r ss h o u l dt h u sc o o p e r a t ew i t hr e s e a r c h e r st o d e v e l o pe v i d e n c e - b a s e dr e s e a r c h .
+D i g i t a lc o m m o n sa sag l o b a lp u b l i c/G o o dI n t e r n e tg o v e r n a n c e
+A se a r l ya st h eW o r l dS u m m i to nt h eI n f o r m a t i o nS o c i e t yi nG e n e v aa n dT u n i s( 2 0 0 3a n d2 0 0 5 ) ,s t a k e h o l d e r sc a l l e df o rm u l t i l a t e r a la n dm u l t i - s t a k e h o l d e rg o v e r n a n c e .T h e s eg o v e r n a n c em o d a l i t i e sh a v ec o n s t a n t l yb e e nc a l l e df o r( N e tM u n d i a lD e c l a r a t i o n ,S ã oP a u l o ,2 0 1 4 ;U N G G Ea n dU n i t e dN a t i o n sO E W Gr e p o r t so ni n t e r n a t i o n a lc y b e r s e c u r i t y )b u th a v en o t ,h o w e v e r ,m a d ei tp o s s i b l et or e s p o n dt ot h ec h a l l e n g e so ft h ed i g i t a le r ao rt op r e v e n td e a d l o c k si ni n t e r n a t i o n a ln e g o t i a t i o n s .
+T h ei s s u e sa ts t a k ei ni n t e r n a t i o n a ln e g o t i a t i o n sa r ee s s e n t i a l l yg e o p o l i t i c a lb u ta l s oh a v eal e g a li m p a c t .S t a t e sa r ec o m p e t i n gt oi m p o s ed i ﬀ e r e n tc o n c e p t i o n so fI n t e r n e tg o v e r n a n c e :s o m eo ft h e ms e et h ed i g i t a ls p h e r ea sa ne s s e n t i a l l ye c o n o m i co p p o r t u n i t y ,s o m ef o c u so nh u m a nd e v e l o p m e n ta n do t h e r sg i v ep r i o r i t yt os t a t es e c u r i t y .T h e s ec o n ﬂ i c t i n gc o n c e p t i o n sh i n d e rt h ea p p l i c a t i o na n da d a p t a t i o no fi n t e r n a t i o n a ll a wt od i g i t a la c t i v i t i e s .T h eg e o p o l i t i c a lc h a l l e n g e ss u r r o u n d i n gI n t e r n e tg o v e r n a n c ea l s oa ﬀ e c tt h em o d e lo fc y b e r s p a c ei t s e l f ,c o n t r i b u t i n gt oi t sf r a g m e n t a t i o n ,t h ei n t e g r a t i o no rn o n - i n t e g r a t i o no fi n f r a s t r u c t u r e s ,t h ei n c l u s i o no re x c l u s i o no ft h ei n f o r m a t i o n a ld i m e n s i o n .I n t e r n e tg o v e r n a n c ed e p e n d so nt h ew a yi nw h i c ht h eI n t e r n e ta n d ,m o r eg e n e r a l l y ,t h ed i g i t a lo b j e c ta r ed e s c r i b e d :c r i t i c a li n f r a s t r u c t u r e ,g l o b a lr i s k ,c o m m o ng o o d .E a c ho ft h e s eq u a l i ﬁ c a t i o n se n t a i l st h ea p p l i c a t i o no fap a r t i c u l a rl e g a lr e g i m ea n dt h ei n v o l v e m e n to fs p e c i ﬁ cg o v e r n a n c ea c t o r s .T h i n k i n go ft h eI n t e r n e ta sac o m m o ng o o dr e q u i r e su st oc o n s i d e rt h eg l o b a lm a n a g e m e n to fi t sr e s o u r c e s ,n a m e l yd a t a ,o nt h em o d e lo ft h eI n t e r n a t i o n a lS e a b e dA u t h o r i t y ,f o re x a m p l e .B u tu n l i k eo t h e ri n t e r n a t i o n a lr e g i m e sf o rm a n a g i n gt h ec o m m o n s ,t h er e s o u r c e sc o n s t i t u t e db yd i g i t a ld a t aa r en o tl i m i t e d ;o nt h ec o n t r a r y ,t h e ya r eg r o w i n ge x p o n e n t i a l l y .E x i s t i n gr e g i m e sm u s tt h e r e f o r eb ea d a p t e dt ot h es p e c i ﬁ c i t i e so fd i g i t a ld a t a .
+T h ec o n s e q u e n c e so ft h e s ec o n c e p t u a lo p p o s i t i o n sa r em a n i f o l d :S t a t e sc a n n o tr e a c hac o n s e n s u so nw h a tg o o dg o v e r n a n c es h o u l db et oe n s u r et h es e c u r i t ya n ds t a b i l i t yo fc y b e r s p a c e ;t h el o g i co fc o a l i t i o nb e t w e e nc e r t a i nS t a t e si sr e i n f o r c e d ,c o n t r i b u t i n gt oag r e a t e rf r a g m e n t a t i o no fr e g u l a t i o na n dt h ee x c l u s i o no fc e r t a i nS t a t e sf r o mt h es c o p eo ft h ed i s c u s s i o n ;c e r t a i ni s s u e s ,s u c ha sc y b e r s e c u r i t y ,c a n n o tb es e t t l e do ra r es e t t l e di nar o u n d a b o u tw a yf r o ma ne c o n o m i ca n g l e ,f o re x a m p l e( s e et h eO E C D ’ sw o r ko nt h i sp o i n t ) .
+K e yc o m m i t m e n t s :
+-S t r e n g t h e nm u l t i l a t e r a l i s mb yi n c l u d i n gd e v e l o p i n gS t a t e sa n db yp r o m o t i n gd i a l o g u eb e t w e e nt h ed i ﬀ e r e n tc o n c e p t i o n so fc y b e r s p a c ea n da p p l i c a b l ei n t e r n a t i o n a ll a w .
+-I m p l e m e n t i n gi nam o r ec o n c r e t ew a ym u l t i s t a k e h o l d e r i s mt h r o u g ht h en o t i o no fc o - r e g u l a t i o n :t h eb a l a n c eb e t w e e ns t a k e h o l d e r si sn o tn e c e s s a r i l yt h es a m ea c c o r d i n gt ot h es u b j e c t st ob er e g u l a t e d ;t h em o d a l i t i e so fc o o p e r a t i o nb e t w e e np u b l i ca n dp r i v a t ea c t o r sm a yv a r ya c c o r d i n gt ot h eﬁ e l d so fa c t i o n .
+9
+-E n c o u r a g ec o o p e r a t i o nb e t w e e ni n t e r n a t i o n a li n s t i t u t i o n sd e a l i n gw i t hI n t e r n e tg o v e r n a n c et oa v o i dr e g u l a t o r yf r a g m e n t a t i o n .C u r r e n tg o v e r n a n c et e n d st od i s t i n g u i s hb e t w e e ns u b j e c t sa n db o d i e s ,w h e r e a st h e s es u b j e c t s( t e c h n i c a lo rp o l i t i c a l )a r ei n c r e a s i n g l yi n t e r t w i n e d .C o o p e r a t i o nm e c h a n i s m sb e t w e e nt h ei n s t i t u t i o n s( p u b l i c ,p r i v a t e ,h y b r i d )c o n c e r n e dm u s tb ee s t a b l i s h e d .
+10
+C o n t a c t
+C o o r d i n a t o r s :
+A u d eG E R Y,P o s t - d o c t o r a lR e s e a r c h e ra tG E O D E ,g e r y . a u d e @ g m a i l . c o m
+V a l è r eN D I O R,L a wP r o f e s s o r ,U n i v e r s i t éd eB r e s t( F r a n c e ) ,R e s e a r c h e ra tG E O D E ,M e m b e ro ft h eI n s t i t u tu n i v e r s i t a i r ed eF r a n c e ,n d i o r @ u n i v - b r e s t . f r
+A n n e - T h i d aN O R O D O M,L a wP r o f e s s o r ,U n i v e r s i t éP a r i sC i t é( F r a n c e ) ,R e s e a r c h e ra tG E O D E ,a n n e - t h i d a . n o r o d o m @ u - p a r i s . f r
+W e b s i t e:h t t p s : / / g e o d e . s c i e n c e / e n / h o m e - 2 /
+11

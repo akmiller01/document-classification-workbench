@@ -1,0 +1,163 @@
+ 
+CAICT  Input to the Global Digital Compact  
+ 
+1. CONNECT ALL PEOPLE TO THE INTERNET, INCLUDING ALL 
+SCHOOLS  
+a. Core Principles  
+i. Take the promotion of digital infrastructure development and the achievement of 
+universal and meaningful digital connectivity as the overarching principle of the 
+Global Digital Compact, and ensure that all people have access to affordable digital 
+connectivity and devices, necessary digital skills and literacy, a nd appropriate Internet 
+applications and services . 
+ii. Adhere to the sharing, inclusiveness and universality of digital technology  for all , 
+and ensure that vulnerable groups such as the elderly , women , children, persons with 
+disabilities, indigenous people, and poor people have equal rights to share digital 
+technology.  
+iii. Encourage the deployment and utilization of new technologies, and give full play 
+to the role of digital technology in achieving the goals of The 2030 Agenda for 
+Sustainable Develop ment by the United Nations, promoting the balanced regional 
+development , and bridging the digital gap.  
+iv. The provision of development assistance such as capacity building  should respect 
+the cyber polic ies and regulations of each country, and be based on local cultures, 
+languages and needs to ensure long -term sustainable development.  
+b. Key Commitment/ Pledges/ Actions  
+ITU and other related international organizations , governments, the private sector and 
+other stakeholders shall jointly build a community of development in the digital age  
+based on the Tunis Agenda for the Information Society and the Geneva Declaration of 
+Principles , adopt more proactive, coordinated and inclusive policies, enhance 
+international experience exchange and cooperation , share best practices, and work 
+together to : 
+i. Promote digital  infrastructure development and innovation through greater 
+multilateral and multi  stakeholder cooperation  in an inclusive and equitable  
+manner : 
+
+ Encourage the in corporation  of universal connectivity into national strateg y to 
+promote investment in digital infrastructure. Mobilize  and utilize multi -channel 
+funds, such as national special plans and budgets, universal service funds, 
+international aid and financing , to achieve  universal connectivity  based on  
+reasonable development goals and evaluation period . 
+ Invest in and deploy  technology solutions that are economical, flexible, 
+environmentally friendly, quality -reliable , and introduce more 
+development -friendly policies for frequency spectrum, sites, right of way, 
+construction, and power supply , etc. , to reduce the cost of building, operating and 
+maintaining digital infrastructure . 
+ Encourag e to interconnect  submarine cable networks and satellite networks  
+globally , and jointly  explore the cross -border interconnection of digital 
+infrastructure such as the industrial Internet and blockchain.  
+ Encourag e cooperation  on joint research on cross -border applications, 
+implementation of international standards, verification of regulatory rules, 
+construction of public services, incubation of innovative applications and 
+cultivation of industrial ecology based on digital infrastructure, to  promote the  
+innovation and  development of the global digita l economy . 
+ii. Increase the supply of  affordable smart terminals and digital  applications 
+through the following measures:  
+ Reduce the production, circulation and transaction costs of entry -level smart  
+terminals.  
+ Encourage the development, distribution  and operation of apps suitable for 
+entry -level smart terminals.  
+iii. Ensure that digital applications and digital devices are accessible to 
+vulnerable groups such as the elderly and the disabled , through the following 
+targeted measures : 
+ Provide policy guarantee for safe and equal a ccess to digital technology for 
+vulnerable groups . 
+ Collaboratively  promote the development of global unified technical standards 
+and specifications for digital inclusion in areas such as mobile internet 
+applications and smart terminal devices . 
+ Encourage gl obal developers of digital technologies and applications to integrate 
+the universal design concept into the whole product lifecycle , expand the scale of 
+inclusive digital product supply, and explore replicable and sustainable business 
+models . 
+ Encourage innovation and application of digital technologies such as artificial 
+intelligence and big data in digital inclusion.  
+iv. Empower everyone  with  digital skills and literacy through the following 
+measures:  
+ Provide legal, regulatory or policy guarantee  to enhance digital skills and literacy . 
+ Encourage the digital industry to carry out education and training on digital 
+literacy and skills, and design targeted training content according to user 
+characteristics that is easy for user to understand  and opera te. 
+ Develop and provide online training platforms accessible to all, and conduct 
+offline education and training activities in communities and elderly nursing homes 
+at irregular intervals . 
+v. Promote the use of digital technology to achieve  SDGs , including:  
+ Actively track and evalua te the role of digital technolog ies in  the achievement of 
+SDGs . 
+  Promote experience sharing and cooperation related to the application of digital 
+technology in achieving SDGs  such as poverty alleviation , quality education, 
+decent work and economic growth, innovation and infrastructure, reduction of 
+inequality, sustainable cities and communities . 
+  Provide financial input, technical and policy training, personnel training, etc. for 
+developing countries  to accelerate digital infrastru cture construction, and the 
+application and popularization of digital technologies.  
+2. DIGITAL PUBLIC GOODS  (DPGs)  
+a. Core Principles  
+i. Driven by digital innovation:  The core driving force of DPG s comes from digital 
+innovation. DPGs should provide innovative digital solutions, promote continuous 
+innovation, better meet social needs, provide  higher -quality social public services, and 
+help achieve SDGs.  
+ii. Accessible and usable to anyone: Based on t he non -rivalrous and non -excludable 
+nature of public goods, DPGs should be operated and used in a way that allows 
+unrestricted and equitable access by all.  
+iii. Sustainability: DPGs should be stable throughout their life cycle, able to ensure 
+long-term ope ration under normal use as well as foreseeable risks, able to respond to 
+all kinds of emergency.  
+iv. Scalability:  DPGs should be able to be deployed flexibly to accommodate 
+growing, iterative and localized  needs.  
+v. Harmlessness:  DPGs should be free of har m to all users. DPGs should be safe, 
+adhere to international and local regulatory frameworks, protected data privacy and 
+security, and prevent discrimination and bias. DPGs should not be exploited for 
+illegitimate gains.  
+vi. Interoperability:  DPGs should e nsure interoperability to the maximum extent. 
+Through a unified standard framework, the processes and mechanisms of all aspects 
+of the DPGs should be standardized to achieve reciprocal sharing among stakeholders.  
+vii. Inclusiveness:  The entire life cycle o f DPGs should ensure the fair and 
+transparent participation of all stakeholders, with particular attention paid to the 
+development needs of low - and middle -income countries as well as the demands of 
+vulnerable and marginalized groups. It should adopt an in clusive design concept to 
+ensure that the public can gain benefit. It should promote inclusive digital 
+transformation to bridge the global digital divide.  
+b. Key Commitment/ Pledges/ Actions  
+i. Promote the common understanding of DPG s 
+Encourage in -depth exchanges and discussions on the definition and scope of DPG s, 
+to seek common ground , promote common understanding, enhance the inclusiveness 
+and representativeness of the concept of DPGs , and promote DPG s to maximize 
+people’s well-being.  
+ii. Cultivate a good innovation ecology  
+ Promote multidisciplinary cross -fertilization  and the exchange and sharing of 
+science, technology, and data, and bring together all stakeholders to promote 
+innovation.  
+ Foster the initiation of more open -source projects and prosper more open -source 
+communities, to enhance the contribution of DPGs . 
+ Set up an expert evaluation committee in the DPGA with the support of the UN,  to 
+analyze and advise on the feasibility of DPGs.  
+ Encourage and support capaci ty building in implementation countries , to empower 
+localized applications and innovation.  
+iii. Maintain the public good attributes of DPGs  
+ Open access to data and resources as much as possible while abiding by the FAIR 
+principle and ensuring digital security and privacy.  
+ The functions of DPG s should be convenient and  operator -friendly.  
+iv. Guarantee the stability of DPGs  
+ Develop an ar chiving mechanism, prepare records and timely update source code, 
+user instructions, functional requirements and other documents.  
+ Establish a risk warning mechanism and plans , to ensure regular maintenance of 
+projects and data.  
+v. Ensure the safeness and  harmlessness of DPGs  
+ All projects should demonstrate before implement ation  that measures have been 
+taken to ensure that they are foreseeable, preventable and harm less. 
+  Guarantee  security and privacy of material s (information, data, etc.) received in 
+project s, identify source s, content and type s of materials,  and take steps to prevent 
+adverse effects wh ile collecting, storing and distributing them . 
+ Comply with agreements and licenses  permitted by international and  local laws  
+and regulations,  and respect different cultural environments.  
+vi. Provide a conducive international development environment  
+ Explore the establish ment of  a governance mechanism under the UN framework 
+to regulate and govern the entire life cycle of DPGs, and ensur e stakeholders’  
+participation.  
+ The participation of all stakeholders and consistency of stakeholders ’ needs and 
+objectives should be ensured while  developing DPGs.  
+ Encourage stakeholders to participate  in setting up standardization and assessment 
+mechanisms for DPGs, facilitate the participation of developing countries in 
+relevant works.  
+ UN should facilitate collaboration among stakeholders and  support countries in 
+establish their own repositories to identify, document and share DPG projects, 
+organizations and best practices, and link them with the DPG Registry.  
+ 

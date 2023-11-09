@@ -1,0 +1,531 @@
+  Microsoft’s Input 
+to the Global 
+Digital Compact 
+Consultation
+April 2023
+  2
+Microsoft’s Input to the Global Digital Compact ConsultationIntroduction  
+Microsoft’s mission to empower every person and every organization on the planet has 
+never been more urgent. We need to deliver innovation that helps drive economic growth. 
+But as we drive growth, we must also commit to creating a future for everyone. To do this, 
+we focus on supporting inclusive economic growth, protecting fundamental rights, creating 
+a sustainable future, and earning trust. 
+We believe digital technologies can be a positive force in the world and accelerate progress 
+on the Sustainable Development Goals . However, we know that no one company, industry, 
+or country can solve these challenges alone. That is why we work across sectors and borders 
+to foster collective action and amplify impact, driving progress faster and farther than we 
+could on our own. 
+Microsoft was therefore glad to have the opportunity to respond to a public consultation on 
+a proposed Global Digital Compact that the UN Secretary-General hopes will “outline shared 
+principles for an open, free and secure digital future for all.” 
+The consultation  invited comments on seven areas identified in paragraph 93 of the 
+Secretary-General’s Our Common Agenda report . It also invited respondents to suggest 
+another area of focus that the Compact could have. For all these areas, the UN wanted to 
+hear views on: 
+• core principles that all governments, companies, civil society organizations, and other 
+stakeholders should adhere to;
+• key commitments to bring about these specific principles. 
+This consultation response shares Microsoft’s initial contribution to this important exercise to 
+leverage the perspectives and expertise of stakeholders on the path toward a Global Digital 
+Compact to be adopted by all UN Member States. We look forward to continuing to engage 
+in discussions as they evolve.
+3
+ 
+Microsoft’s Input to the Global Digital Compact Consultation3
+Table of Contents
+Reaffirm the commitment to connect all people to the  
+internet, including all schools ............................................................ 4
+Avoid internet fragmentation   ............................................................ 6
+Protect data ............................................................................................. 8
+Apply human rights online ................................................................. 10
+Accountability criteria for discrimination  
+and misleading content ....................................................................... 1 2
+Regulation of artificial intelligence ................................................... 14
+Digital commons as a global public good ...................................... 16
+Other areas: Multistakeholder and multidisciplinary  
+approaches to digital cooperation ................................................... 18
+  4
+Microsoft’s Input to the Global Digital Compact ConsultationReaffirm the commitment 
+to connect all people to the 
+internet, including all schools
+Core principles
+The Global Digital Compact should acknowledge that affordable 
+access to meaningful connectivity is now a necessity and should 
+be considered a fundamental human right. 
+Broadband is the electricity of the 21st century, fueling economic and social opportunities, 
+whether improving outcomes in education and healthcare, starting or growing a small 
+business, providing access to clean drinking water, or adopting ecologically sustainable and 
+financially successful farming practices. As noted by the International Telecommunication 
+Union (ITU) “[a]chieving universal and meaningful digital connectivity - the possibility for 
+everyone to enjoy a safe, satisfying, enriching, productive and affordable online experience - 
+is key for enabling digital transformation.” 
+However, for billions of people around the world, these opportunities remain out of reach 
+simply because they can’t access or afford a high-speed internet connection. ITU data show 
+that 2.7 billion people—or one third of the world’s population—remained unconnected to 
+the internet in 2022 , either because it’s not available or they cannot afford it. In addition, 770 
+million people lack access to electricity, and a billion more have only sporadic, unreliable 
+access to electricity—a prerequisite for powering networks and devices. These challenges 
+disproportionately impact the less developed regions of the world, but they also persist in 
+developed markets. 
+The freedom to learn and interact with the world requires access to the global network that 
+today shapes human communication. For every person on the planet to reach their full 
+potential, access to meaningful connectivity must be recognized as a fundamental human 
+right in order to drive inclusive economic opportunity and accelerate efforts to close the 
+global digital divide once and for all. 
+For connectivity to be meaningful, both access to the internet, and the devices used to 
+access it, need to be affordable. In addition, people need to be equipped with the necessary 
+digital skills to use connectivity, as a foundation for empowerment and digital transformation 
+across the world. This should include skills and training necessary for pursuing in-demand 
+jobs, including in the important field of cybersecurity and in relation to AI.
+  5
+Microsoft’s Input to the Global Digital Compact ConsultationKey commitments to bring about these core principles 
+To achieve this vision, governments, international organizations, companies, civil society 
+organizations, and others must all be involved. We support the UN’s set of aspirational 
+targets for 2030  to help prioritize interventions, monitor progress, evaluate policy 
+effectiveness, and galvanize efforts around achieving universal and meaningful connectivity 
+by the end of the decade, including to reach 100 percent of households and schools with 
+internet access by 2030.
+Another important target is digital gender parity, with ITU data continuing to show a gender 
+gap in internet use. Gender equality, besides being a fundamental human right, is essential 
+to achieving peaceful societies, with full human potential and sustainable development, as 
+well as to spur productivity and economic growth.
+As our primary contribution to these goals, Microsoft has expanded our Airband initiative 
+through new partnerships with local and global partners to extend internet coverage to 
+250 million people globally by the end of 2025, including 100 million people in Africa . 
+Accomplishing these aggressive goals will need to leverage public-private partnerships, such 
+as Microsoft’s agreement with Liquid Intelligent Technologies in Africa , which will involve 
+middle-mile broadband providers, local ISPs for last-mile connectivity, energy partners, 
+international organizations, and local governments. It is also vital to use all available 
+technologies to deploy networks and fill in the gaps of the hardest to reach communities—
+Microsoft’s approach is to use technologies based on what is best for a particular 
+community, whether that is fixed wireless, satellite, TV white spaces, fiber, or Citizens 
+Broadband Radio Service (CBRS). To enable Microsoft and others to make these great 
+strides, we call on governments, regulators, and international organizations to promote and 
+enact policies that allow for and encourage the building of networks that leverage a hybrid 
+mix of technologies.
+Microsoft has also made a number of commitments in relation to skilling, notably a 
+commitment via the ITU’s P2C initiative to train and certify 10 million people with in-demand 
+digital skills by 2025 , and an initiative across 26 countries to increase cybersecurity skills for 
+women and job seekers . As a part of that, Microsoft is partnering with the OECD in support 
+of a detailed study  that analyzes the cybersecurity skills gap and presents strategies to grow 
+cybersecurity workforces through secondary education and training.
+  6
+Microsoft’s Input to the Global Digital Compact ConsultationAvoid internet fragmentation
+Core principles
+The Global Digital Compact should recognize the importance 
+of trusted cross-border data flows and regulatory 
+harmonization as indispensable tools to support growth, 
+innovation, and cybersecurity. 
+Governments have a vital interest in protecting the privacy, safety, and security of their 
+citizens. Managing the flow of data and sensitive information across borders is an important 
+tool in ensuring these protections. However, isolating data within physical borders can 
+effectively fragment the internet, preventing individuals, businesses, and governments from 
+realizing the full economic and societal benefits of digital transformation. And as jurisdictions 
+develop different approaches to content regulation, users in different countries may have 
+differing access to information, with consequent impacts on the free flow of ideas and 
+communications between countries.
+Individuals rely on data flows to access health, education, and other essential services, 
+particularly in communities with limited local services, where digital services can enhance 
+inclusion. Organizations of every size and in every corner of the world depend on the flow 
+of data across borders to deliver these services. Data enables innovation, productivity, and 
+economic development by enabling trade and the exchange of knowledge on a global 
+scale. Data flows also foster cooperation between countries on common challenges such as 
+climate change and disaster response. 
+Cross-border data flows strengthen cybersecurity and provide resilience to destructive 
+attacks, as demonstrated in Microsoft’s report on early lessons from the war in Ukraine . 
+Cyberattacks are often transnational and fast-moving, so cybersecurity requires swift and 
+effective data sharing on a global basis and the ability to disburse digital assets into a global 
+cloud. Preventing such data transfers hampers necessary international coordination and can 
+lead to greater threats to security and privacy. 
+Governments should therefore support international legal frameworks that enable 
+trusted cross-border data flows; resolve conflicting laws related to data access, privacy, 
+safety, and sovereignty; and allow governments to request data through a transparent 
+process that abides by internationally recognized rule of law and human rights 
+standards. Regulatory harmonization, the development of standards, and international 
+legal frameworks are key to resolving potential conflicts and securing strong data 
+protection and the free flow of information. 
+  7
+Microsoft’s Input to the Global Digital Compact ConsultationKey commitments to bring about these core principles
+Microsoft advocates for laws, regulations, and international agreements that keep data safe 
+and respect sovereignty. This includes support for the development of strong, interoperable 
+national privacy laws that engender customer trust. We also support the development of 
+practical, risk-proportional, and harmonized approaches to content regulation.
+In 2022, Microsoft and other cloud service providers committed to Trusted Cloud Principles  
+to protect the rights of our customers. In setting out these principles, we seek to partner 
+with governments to resolve international conflicts of law that impede innovation, security, 
+and privacy, and to establish and ensure basic protections for organizations that store and 
+process data in the cloud. There are three fundamental tenets that could be enshrined in the 
+Global Digital Compact: 
+• We recognize the interest of governments around the world in protecting the safety, 
+security, privacy, and economic vitality of individuals and organizations
+• We recognize that international human rights law enshrines a right to privacy
+• We recognize the importance of customer trust and customers’ control and security of 
+their data
+Microsoft also supports multilateral efforts to facilitate transnational data flows, such as the 
+OECD Declaration on Government Access to Personal Data Held by Private Sector Entities , as 
+well as bilateral and regional agreements and mechanisms that foster trusted data flows. The 
+OECD Declaration was a major achievement that builds an important foundation for other 
+international agreements which will help governments protect public safety and national 
+security while maintaining trust in global technology.
+Rules governing international data transfers should be aimed at ensuring that personal 
+data remains sufficiently protected, no matter where it goes. Criteria and requirements 
+for international data transfer mechanisms should be designed to tackle specific risks to 
+data with thoughtful and purposeful rules, rather than broad restrictions that may not be 
+necessary in a given circumstance. These mechanisms should be regulated in ways that 
+promote good data protection behavior by the controllers and processors that have been 
+entrusted to protect and respect data subjects’ personal data. 
+  8
+Microsoft’s Input to the Global Digital Compact ConsultationProtect data
+Core principles
+The Global Digital Compact should underline the important 
+principles of transparency, consumer empowerment, corporate 
+responsibility, and strong enforcement. 
+Privacy is a fundamental human right, and strong data privacy laws are vital for safeguarding 
+it. This right is more important than ever with the growth in the volume of data in our world 
+and its importance in our lives. This growth in the collection and use of personal data has 
+heightened concerns about its protection. To build trust in technology, we need strong data 
+privacy laws that place accountability where it belongs—on the organizations that collect, 
+store, and process data.
+As the number of privacy laws increases, so does the importance of interoperability. Clear, 
+consistent rules across jurisdictions reduce compliance complexity, promote accountability 
+for responsible data practices, and help ensure that everyone’s privacy is protected 
+regardless of location.
+Creating a framework of trust—both for government action and corporate accountability—
+should begin with these four principles:
+• Transparency  about how companies collect, use, and share personal information. 
+Consumers should understand what data companies have and how they will interact with it.
+• Consumer empowerment,  which guarantees the right of individuals to access, correct, 
+delete, and move personal information.
+• Corporate responsibility  that requires companies to be good stewards of consumer 
+information.
+• Strong enforcement  through regulators that have sufficient authority, tools, and funding 
+to enforce legal requirements and take meaningful action.
+Key commitments to bring about these core principles
+Microsoft believes the following four principles should also be taken into account by the 
+private sector in relation to protecting data. 
+  9
+Microsoft’s Input to the Global Digital Compact Consultation1. Companies should be transparent about the data they collect and how they use it
+Microsoft demonstrates transparency through the Microsoft Privacy Statement , which 
+explains the personal data Microsoft processes, how we process it, and for what purposes. 
+Our biannual digital trust reports  share how Microsoft responds to government and law 
+enforcement requests for user data and user requests to remove content. In addition, the 
+biannual Microsoft Privacy Report  describes changes to our data collection including any 
+new requirements.
+2. Companies should empower customers to control their data
+Acknowledging the global relevance of the rights at the heart of the GDPR, we believe 
+these rights should apply to all our customers wherever they live. Microsoft enables all our 
+customers around the globe to control the data we collect through our privacy dashboard .
+3. Companies should protect customer data
+Microsoft does not give any government direct or unfettered access to data, and we will not 
+disclose it to a government except as customers direct or where required by law. We also 
+make legal commitments to defend customers’ data. Our Defending Your Data program  
+ensures that requests by all governments for our commercial and public sector customers’ 
+data meet expectations that access is necessary and proportionate. We challenge—including 
+in court if necessary—inappropriate government access requests, and we provide redress 
+to our customers’ users who may be affected. Microsoft also offers robust protections for 
+customers, including: 
+• Strong encryption of data in transit and at rest in Azure , Office 365 , and Dynamics 365 . 
+• Azure Confidential Computing , a fully encrypted runtime environment for processing.
+• Customer Lockbox for Azure and for Office 365 , which helps customers manage access 
+to their data and track activity through audit logs.
+• Managed Encryption Keys, which enables customers to use their own encryption keys to 
+protect data within Azure  and Microsoft 365 . 
+4. Companies should support regulation
+Microsoft supports strong privacy regulation , and we encourage greater dialog between 
+technology companies, governments, and other stakeholders on meaningful guardrails for 
+data protection. 
+  10
+Microsoft’s Input to the Global Digital Compact ConsultationApply human rights online
+Core principles 
+The Global Digital Compact should underline the importance 
+of international human rights laws, principles, and norms, 
+which set out duties and responsibilities to guide the actions of 
+governments, companies, and others. 
+The online and offline spheres in today’s world are inextricably intertwined. Online 
+technologies should be used for the good of humanity, to empower and protect everyone, 
+and to leave no one behind—online or offline. We believe that people, organizations, and 
+societies will only use technologies they trust, and they will only trust technologies that 
+respect their rights and advance human dignity, agency, and wellbeing.
+To that end, governments, companies, civil society organizations, and other stakeholders 
+should be guided by international laws, principles, and norms, including the Universal 
+Declaration of Human Rights , the International Covenant on Civil and Political Rights , the 
+International Covenant on Economic, Social, and Cultural Rights , and the work of the United 
+Nations on good governance and the rule of law . 
+Key commitments to bring about these core principles
+As set out in the Microsoft Global Human Rights Statement , respecting human rights is a 
+core value of the company. It is inseparable from our mission to empower every person and 
+every organization on the planet to achieve more with our technologies. 
+We conduct due diligence to assess the impact of our technologies on human rights. We 
+look to international principles and norms such as the UN Guiding Principles on Business 
+and Human Rights  to guide our diligence. We use what we learn from stakeholders to 
+challenge our thinking, develop and refine our policies and practices, mitigate risks,  
+and improve our technologies and how we provide them to fulfill our commitment to 
+human rights.
+  11
+Microsoft’s Input to the Global Digital Compact ConsultationIn relation to exercising human rights due diligence, it is important to note the roles of both 
+governments and companies. Under the UN Guiding Principles on Business and Human 
+Rights, companies have a responsibility to respect human rights and should conduct human 
+rights due diligence to assess the impact of their technologies on human rights. 
+In fulfilling the state’s duty to protect human rights, many stakeholders are encouraging 
+governments to commit to conduct, and in practice conduct, timely human rights due 
+diligence (HRDD) and human rights impact assessments (HRIAs) when the state (1) 
+regulates digital technologies and/or (2) deploys digital technologies. They also encourage 
+governments to incorporate timely, meaningful, and transparent multistakeholder 
+consultation in such HRDD and HRIAs. 
+Finally, to put international human rights laws, principles, and norms into practice in digital 
+technologies, governments, companies, civil society organizations, and other stakeholders 
+should commit to multistakeholder dialogue and collaboration to share knowledge, 
+perspectives, ideas, and solutions, and forge consensus on how digital technologies could 
+and should be used in a society that protects and advances human rights.
+  12
+Microsoft’s Input to the Global Digital Compact ConsultationAccountability criteria for 
+discrimination and misleading 
+content 
+Core principles
+The Global Digital Compact should call for stronger 
+international norms to protect against malicious information 
+operations and create a standard of behavior for nation-state 
+information campaigns. 
+Microsoft is committed to helping people use technology to overcome discrimination, 
+exclusion, or oppression. Ongoing information operations pose a threat to health, safety, 
+and democracy, eroding trust in critical institutions by creating doubt, distrust, and dissent 
+in targeted, marginalized, or underserved communities. The ability for our adversaries to 
+create cyber-enabled information operations through technological advances has increased 
+the scope, scale, and efficiency of campaigns. The Global Digital compact should encourage 
+further clarity regarding what’s intended by “discrimination” particularly in the context of a 
+healthier information ecosystem and the impact of information operations. 
+Microsoft is dedicated to supporting a healthy information ecosystem that empowers every 
+person and organization where trusted news and information thrive. Microsoft’s June 2022 
+Early Lessons from the Cyber War report  established the Information Integrity Principles that 
+outline how we approach information operations:
+• Freedom of expression:  We will respect freedom of expression and uphold our customers’ 
+ability to create, publish, and search for information via our platforms, products, and services.
+• Authoritative content: We will prioritize surfacing content to counter foreign cyber-influence 
+operations by using internal and trusted third-party data on our products.
+• Demonetization: We will not willfully profit from foreign cyber-influence content or actors.
+• Proactive efforts: We will proactively work to prevent our platforms and products from 
+being used to amplify foreign cyber-influence sites and content.
+Microsoft also created a national security whole-of-society approach to counter these 
+information operations, which we call “The Four Ds”:
+  13
+Microsoft’s Input to the Global Digital Compact Consultation• Detect: Hunt, track, and investigate foreign perpetrators of information operations.
+• Disrupt: Leverage threat intelligence to disrupt cyber-influence operations. 
+• Deter: Seek to strengthen and extend international norms to protect against the impact of 
+these operations and create a standard of behavior for nation-state information campaigns.
+• Defend: Build consumer-facing technology with information integrity as a key principle 
+and foster innovation and research to enable more responsible technology. 
+Key commitments to bring about these core principles
+Microsoft is developing tools and multistakeholder partnerships to combat the ongoing 
+plague of information operations. For instance, we have partnered with trusted third parties 
+like NewsGuard to empower our product teams to take additional actions to promote 
+authoritative information and provide a more trusted experience to our customers. In 
+addition, Microsoft is a founding member of the Coalition for Content Provenance and 
+Authenticity (C2PA) , which launched an open-source content provenance standard in 2022. 
+Microsoft recently announced a new provenance platform to authenticate images  with our 
+partners at Truepic.
+We are increasingly analyzing the intersection between cyberattacks and influence 
+operations. In June 2022, Microsoft published the aforementioned intelligence report 
+Defending Ukraine: Early Lessons from the Cyber War  and a follow-up  report in March 
+2023 on ongoing cyber-enabled Russian operations . These reports unveiled detail about 
+sophisticated and widespread Russian foreign influence operations being used to undermine 
+Western unity and bolster Russian war efforts. 
+An important element in ensuring information integrity is fostering information literacy and 
+access to trusted sources of information . Beginning in July 2022, we have been donating 
+in-kind advertising space across Microsoft platforms to promote information literacy 
+campaigns and help online users develop tools and skills to consume information critically 
+and analytically. In 2022, Microsoft partnered with the News Literacy Project to launch three 
+ad campaigns across Microsoft platforms, which garnered over 70 million ad impressions 
+by Microsoft users. In addition, Microsoft has partnered with Verified, an organization co-
+founded by the United Nations and Purpose, to fund the development and dissemination of 
+a Spanish-language course  focusing on increasing awareness of disinformation tactics and 
+tools and building skills in vulnerable audiences in Latin America. Often communities without 
+access to local news sources are further marginalized and possibly susceptible to targeted 
+information operations. That is why support to independent trusted sources of local news is 
+critical. Microsoft recently announced an investment in the viability of newsrooms across the 
+world  with our partners at InterNews and USAID. 
+  14
+Microsoft’s Input to the Global Digital Compact ConsultationRegulation of artificial intelligence
+Core principles
+The Global Digital Compact should call on governments, civil 
+society, and industry to come together to ensure that laws, 
+norms, and standards are in place to guide responsible and 
+ethical use of AI. 
+AI presents huge opportunities for society, offering the potential to help address major 
+societal challenges and drive breakthroughs in productivity, healthcare, scientific discovery, 
+and sustainability. However—like every technology before it—some will turn this advance 
+into both a tool  and a weapon, and there are risks that must be addressed. 
+Transformative technologies like AI require new rules of the road. Proactive, self-regulatory 
+efforts by responsible companies will help pave the way for these new laws, but not all 
+organizations will adopt responsible practices voluntarily. Countries and communities will 
+need to use democratic lawmaking processes to engage in whole-of-society conversations 
+to ensure that people are protected.
+Informed by our internal work to identify and address AI risk, we believe regulation should be:
+• Risk-based:  focusing resources and safeguards on the highest risk applications.
+• Outcomes-focused: setting out what regulated actors must achieve rather than how 
+they achieve it will help frameworks remain relevant and effective in the face of rapid 
+developments in AI technology and responsible AI practice.
+• Adaptable and aligned to international norms and standards: aligning to 
+international norms and standards, including the important work of the  OECD , so that 
+organizations can collaborate across borders and the benefits of this technology can 
+be spread as broadly as possible. 
+Key commitments to bring about these core principles
+Although the potential of AI is significant, there are concerns that AI may undermine 
+information integrity, exacerbate bias and inequality, and harm jobs, education, and the 
+environment. As a company developing and deploying this technology, Microsoft is 
+committed to working with others to ensure AI is: 
+• built and used responsibly and ethically
+• advances international competitiveness and national security, and 
+• serves society broadly, not narrowly
+  15
+Microsoft’s Input to the Global Digital Compact ConsultationWe support multistakeholder efforts to advance responsible AI, including the Rome Call 
+on AI Ethics  and UNESCO’s Recommendation on the Ethics of AI , both important initiatives 
+that can help realize the important principles outlined above.
+Microsoft continues to build out our responsible AI program , investing in research, policy, 
+and engineering so that our systems are designed to perform fairly, accurately, and safely. 
+Advancing transparency and ensuring humans remain accountable for the performance of 
+AI systems is core to this work. So too is ensuring that our AI work continues to build on 
+our strong foundation in privacy, security, accessibility, and digital safety.
+Microsoft’s AI for Good program  provides technology and resources to empower 
+organizations working to solve global challenges to the environment, humanitarian issues, 
+accessibility, health, and cultural heritage. This includes work related to preparedness for 
+disaster response and the use of satellite data imagery to enable sharing of information 
+with governments, NGOs, and other stakeholders.
+We will continue to share what we learn  and seek feedback from our stakeholders. A 
+recent example of this is our publication of Microsoft’s Responsible AI Standard  (that 
+guides how teams at Microsoft build and use AI), Impact Assessment template , and guide .   
+  16
+Microsoft’s Input to the Global Digital Compact ConsultationDigital commons as a global 
+public good
+Core principles
+The Global Digital Compact should recognize that opening, 
+sharing, and collaborating around data can help us make better 
+decisions, improve efficiency, and tackle some of the world’s 
+most pressing societal challenges.
+Making trusted digital resources more accessible to all members of society is a key factor in 
+providing broad and equitable access to the opportunities of modern technology. 
+Many of the big societal challenges of our time, from climate change to the COVID-19 
+pandemic, are too vast and too complex for any single stakeholder to address alone. There 
+is a synergistic effect in sharing ideas. This is particularly the case for data, which can become 
+considerably more valuable when combined with other datasets leading to new, unexpected 
+insights. We believe that everyone can benefit from sharing digital resources in a manner 
+that facilitates and strengthens collaboration across stakeholders to make better decisions, 
+improve efficiency, and gather new insights.
+Microsoft has adopted the following principles to inform how we open and share data in a 
+responsible way:
+• Open and accessible:  It should be open to anyone in the community who wants to 
+advance work and initiatives in support of addressing societal challenges.
+• Encouraging use and collaboration:  Digital goods should be easy to find, easy to share, 
+and easy to use.
+• Empowering: Open data models, standards, open source software, and other digital 
+assets should be selected with the purpose of empowering community stakeholders, 
+and they should be accompanied by content and opportunities to develop the talent 
+of the community.
+• Secure: Security controls should be employed to ensure that data and tools are 
+operationally secure where desired, that sovereignty is maintained where required, and 
+that governance structures are in place to maintain trust across stakeholders.
+• Protecting privacy: The community stakeholders should have tools and processes in 
+place to help organizations protect individuals’ privacy and identify potential risks.
+  17
+Microsoft’s Input to the Global Digital Compact ConsultationKey commitments to bring about these core principles
+To ensure the benefits of opening, sharing, and collaborating around data, we have made 
+commitments in the following five areas:
+1. Open data: The amount of data in the world is growing exponentially, but access to the 
+potential value from this data is not. Focus on improving access to data is needed to 
+help address the looming data divide where a small number of companies and countries 
+have access to the majority of the data that fuels today’s technological advancements. As 
+such, we will continue our Open Data Campaign , enable access to data sets that can help 
+address societal challenges, and deepen our collaboration around data with others. This 
+includes collaboration around open data and digital public goods—we all have a role 
+in advocating for, and contributing to, curated libraries of open data and open source 
+GovStack digital public goods. 
+2. Tools to make data usable: Easy access is required for data resources to serve as 
+a global public good, but making data accessible is not sufficient. To facilitate the 
+adoption and use of open data, we will provide tools to make it easier to curate, share, 
+and consume data in a manner that is aligned to data standards and is secure, privacy-
+respecting, and intuitive. 
+3. Open source software: Microsoft has a long history of supporting the open source 
+community and will continue to provide tools for people to share and use open source 
+software on GitHub as well as to make a wide range of our own internal solutions and 
+projects available as open source projects. We strongly believe that partnerships are 
+necessary to accelerate open source GovStack digital public goods. 
+4. APIs and services: Microsoft makes a wide range of APIs, services, models, and technical 
+infrastructure available for the worldwide developer community to use. We also provide 
+no-code and low-code capabilities that allow a much broader range of people and skills 
+to engage with technologies like AI.
+5. Skilling and learning: We provide skilling and learning programs that are free or 
+affordable, readily accessible, and adapted to fit the context of learners in many cultures. 
+We commit to providing in-kind digital advisory services and technical assistance 
+through a dedicated Tech for Social Impact Digital Development program focused on 
+LDCs.
+Microsoft also published A new Open Data for Social Impact Framework , which builds 
+upon initial lessons learned from our Open Data Campaign, and includes practical 
+recommendations on how to apply these lessons to an organization’s data strategy.
+  18
+Microsoft’s Input to the Global Digital Compact ConsultationOther areas: Multistakeholder 
+and multidisciplinary approaches 
+to digital cooperation 
+Core principles
+The Global Digital Compact should recognize the value 
+and importance of multistakeholder approaches to digital 
+cooperation, including in the manner in which the Compact itself 
+is developed.
+Many of the most pressing global challenges can only be addressed effectively through 
+multistakeholder action. International cooperation among governments is vital. However, 
+it needs to be combined with inclusive initiatives that bring in the perspectives, ideas, and 
+resources of civil society and private sector organizations to collaborate on solutions.
+One of the most significant transformations since the UN was established has been the 
+advent of the internet and the use of digital technologies. Multistakeholder models for digital 
+cooperation are now largely accepted as important for informed policymaking in many 
+intergovernmental organizations and by at least some national governments. Microsoft 
+welcomes the Secretary-General’s embrace of multistakeholderism and digital cooperation. 
+It is also important to face up to the challenges and opportunities presented by digital 
+transformation in a multidisciplinary and cross-cutting way, which means ensuring a breadth 
+and diversity of expertise and experience are brought to bear. This is not just about involving 
+stakeholders from outside government; it is also about working sensibly across governments, 
+as well as between UN agencies and international organizations, to avoid working in silos. 
+For example, this means involving both those responsible for sectors that can benefit from 
+digital transformation and those involved in ensuring the underlying connectivity needs of 
+this digital transformation. 
+Bringing a full range of voices to the table will enable more holistic policymaking, which is 
+better equipped to strike the right policy balances. The OECD provided a good example 
+of this with its Going Digital integrated policy framework  designed to help policymakers 
+develop a strategy for making digital transformation work for growth and wellbeing. 
+Finally, as the Secretary-General said in outlining his priorities for 2022 , global problems 
+are, at heart, failures of global governance. We should take this opportunity to set out the 
+need for good governance principles, including transparency and inclusiveness, as these are 
+essential for building and retaining trust. Importantly, these are principles that should be 
+embodied not just by governments and the UN system but also by businesses.
+  19
+Microsoft’s Input to the Global Digital Compact ConsultationKey commitments to bring about these core principles
+Convened by the UN, the Internet Governance Forum is a truly global and bottom-up forum 
+for multistakeholder discussion about the challenges and opportunities stemming from 
+digital technologies. At the most basic level, there is value in how it brings people together 
+from different backgrounds, perspectives, and parts of the world, allowing new connections 
+and viewpoints to be formed. It then plays an important role in identifying and forming 
+consensus views as inputs on how to manage the governance of digital technologies and 
+the internet itself. 
+We welcome the improvements being driven by the Secretary-General, including the recent 
+appointment of an IGF Leadership Panel that can add value by transmitting the IGF’s outputs 
+to relevant decision-making bodies and intergovernmental processes, and by bringing in 
+more funding to ensure the IGF has the resources to deliver on its mandate. 
+Microsoft itself commits to continuing to contribute to multistakeholder initiatives that 
+offer the potential to maximize the opportunities from, and tackle the pitfalls of, digital 
+transformation. Examples include: 
+• Ongoing contributions to the IGF, including donations to the IGF Trust Fund, and our 
+partnership with the IGF Secretariat to provide capacity-building. It also means generally 
+playing a part in the work of the IGF, including through leadership roles Microsoft has 
+held in intersessional workstreams on cybersecurity, AI, and the environment and by 
+contributing to the work of the IGF’s Multistakeholder Advisory Group. 
+• Microsoft co-chaired the Private Sector Forum at the 5th UN Conference on the Least 
+Developed Countries (LDC5) in 2022-23, collaborating with the UN, governments, civil 
+society, and companies across sectors to harness entrepreneurship and advance the 
+goals and aspirations of people living in LDCs.
+• Microsoft is actively engaged in multistakeholder organizations and processes aimed at 
+addressing online harms. For example, Microsoft has led an effort through the World 
+Economic Forum’s Global Coalition for Digital Safety to develop Global Principles on 
+Digital Safety: Translating International Human Rights for the Digital Context . Microsoft 
+has also been actively involved in the Christchurch Call to Action  to eliminate terrorist 
+and violent extremist content online, and the WeProtect Global Alliance . 
+20
+ 
+Microsoft’s Input to the Global Digital Compact Consultation20

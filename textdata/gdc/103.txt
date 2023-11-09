@@ -1,0 +1,133 @@
+Future-proofing the Digital Transformation
+How do we need to rethink the tenets of digital transformation and tech 
+regulation to address global inequalities ?
+Submission to the Global Digital Compact
+by SUPERRR Lab
+April 29, 2023
+1
+
+Content:
+1. Digital Transformation Without Direction: Core Issues of Digitisation and Global 
+Inequalities
+2. Recommendations for a Futures-oriented Digital Transformation
+3. Appendix: A Conceptualisation of a Feminist Digital Policy Framework
+2
+1. Core issues of digital transformation and global 
+inequalities
+Despite all hopes, the digital transformation fails to deliver on the many promises of 
+universal access and increased equality. One of the core reasons lies in the fact that 
+tech policy is still often thought of and shaped as economic policy. This leads to a 
+number of negative outcomes: Innovation happens for innovation’s sake rather than 
+being prioritized and regulated towards decreasing inequalities. Regulation instead 
+happens after the fact, when disruptive technologies have already made it to the 
+market. While tech already does damage that impacts the marginalized and under-
+resourced groups the hardest, regulators are still figuring out the right ways to reign 
+in these new developments. 
+The result is tangible: Lack of access, insecure communication and IT infrastructure, 
+digital public or basic services that are unusable for those that most need them, 
+extractive industries that pollute the planet, online surveillance, digital stalking, hate 
+speech, massive disinformation and online slander campaigns. All of them mostly 
+affect those that are already at risk. As a result, the way how the digital 
+transformation is shaped now continues to exacerbate social inequalities.
+We call on the Global Digital Compact to systemically reframe digital policy as social 
+policy and adopt an approach that diligently assesses global, societal and 
+intergenerational risks, follows core feminist values, and strives to raise the ground 
+for all instead of raising the ceiling for the few. 
+We call on the Summit for the Future to adopt foresight formats and to actively 
+enable civil society stakeholders to take part in them.
+2. Recommendations:
+Adopt societal risk assessments to inform tech regulation and make use of 
+foresight methods to create future-ready digital policies and digital solutions.
+Preserve fundamental rights in the digital world by providing access and 
+means to participation and by fostering safe and secure digital infrastructure.
+Include experts from civil society and academia early on and continuously in 
+consultations and negotiations. 
+Evaluate feminist approaches like the feminist digital policy to digital 
+policymaking to address power inequalities in the digital sphere.
+3
+3. Appendix: A Conceptualisation of a Feminist Digital 
+Policy Framework
+A feminist tech or digital policy analyses existing social power 
+relationships and works to promote equity.
+Definition
+Digital policy is social policy that addresses social issues such as accessibility, active 
+participation, sustainability and equity. This requires an intersectional feminist 
+approach to focus on those societal groups that are most affected by the negative 
+consequences of digitisation. Feminist digital policy stands for a paradigm shift: 
+Away from “higher, further, faster” to “more sustainable, equitable, people-centred”.
+Why do we need a feminist digital policy?
+When digitisation is discussed today, it is usually within an economic context: It 
+serves as an instrument to optimise processes and reduce costs. But such narratives 
+ignore sociopolitical dimensions. As long as digitisation theory and practice remain 
+focused on innovation and efficiency, they ignore the needs of numerous people.
+The consequence: Certain groups within our society are particularly strongly 
+affected by negative digitisation effects. Because digitisation not only perpetuates 
+existing discrimination patterns and inequity, it also consolidates and reinforces 
+them.
+For example, not all people have equal opportunities to access new technologies. The
+well-off, able bodied, educated, younger people and those who do not (have to) 
+provide care services are clearly privileged in this respect.
+Digitisation reproduces and deepens existing social inequalities in regards to access 
+to digital services, presence and visibility on platforms as well as discrimination 
+through algorithmic decision making. The manner and type of digitisation therefore 
+has a significant influence on social participation, access to knowledge and 
+education, and equity.
+Digital policy should thus not be solely focused on economic aspects – particularly 
+not in times of climate crisis, threats to democracy and resource shortages. It must 
+aim to protect fundamental rights and deconstruct social inequities.
+4
+What does feminist digital policy do?
+Our aim is to create futures that are characterised by accessibility, active 
+participation, sustainability and equity. By applying an intersectional feminist 
+approach, we are capable of looking and thinking beyond existing narratives and 
+structures.
+Feminist digital policy examines digitisation macro-socially and analyses it with 
+respect to discriminatory patterns and power structures. It looks critically at 
+whether technology is used appropriately and practically.
+Feminist digital policy delivers context-based solution approaches. These contexts 
+are subject to change, and so the solution approaches also need to be continuously 
+evaluated.
+Feminist digital policy is a policy of nuances. It is uncomfortable because it does not 
+offer easy solutions, and it is honest because it actively points out the gaps.
+Feminist digital policy is a (learning) process and not an agenda. There are no simple 
+answers to the complex challenges posed by digitisation – ongoing demands and 
+promises can never really be fulfilled.
+Observation levels in feminist digital policy
+The process behind feminist digital policy is accompanied by an iterative 
+consequence evaluation of specific (legislative) projects. This process goes far 
+beyond purely technical and legal analysis, and looks at three levels:
+Global:Digital policy projects in Germany or the EU always have global impacts or 
+even have a specific claim of being globally effective. Additionally, they are planned 
+and implemented in a post-colonial context, allowing Europe to profit from its 
+dominant position. This is why digital policy actors should always evaluate their 
+actions within a global context, support solidarity and ensure that power imbalances 
+are reduced wherever possible.
+Social:The consequences of digitisation must be evaluated for the entire society – 
+within the context of existing inequalities. Based on this, decision-makers should 
+prioritise measures that benefit those who are most negatively affected by the 
+impacts of digitisation. This process, orientated along the guideline “from the 
+margins to the centre”, necessitates continuous checks, reflection and 
+modifications.
+Systemic:Judiciary and executive power structures must be critically examined and 
+must not be strengthened by digital policy projects. This is why safety mechanisms 
+must be installed to counteract any expansion of power, surveillance measures and 
+the weakening of fundamental rights.
+5
+What is our vision?
+Feminist digital policy aims to shape desirable futures in which society itself is not 
+digitally transformed, but where digitisation contributes towards social-ecological 
+transformation.
+How do we achieve this?
+By influencing discursive change: We are working on ensuring that digital 
+policy is viewed as it should be: As a civil and equitable challenge.
+Opening up political processes: We are working towards a clear 
+acknowledgement by political decision-makers that they will actively include 
+civil society organisations in their expert committees and open up consultation
+processes for civil society actors.
+Ensuring that necessary expertise is a prerequisite: We aim to promote 
+continuous exchange of knowledge between authorities and civil society 
+actors. This requires a change in attitude and behaviour on the part of the 
+authorities. Because, all too often, relevant debates only include civil society 
+actors at a late stage, too late or even not at all.
+First published on https://feministtechpolicy.org/en/ , an initiative by SUPERRR Lab. 
+6

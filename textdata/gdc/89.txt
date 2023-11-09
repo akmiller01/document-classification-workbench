@@ -1,0 +1,147 @@
+ 
+ 
+The International Digital Health & AI Research Collaborative (I -DAIR)  
+ 
+Submission to the Global Digital Compact 2023  
+ 
+Methodology for consultation  
+During the Science Summit at UNGA77  on the 22nd September 2022 , I-DAIR and its  global 
+partners from the United Nations University Institute in Macau (UNU Macau), Indraprastha 
+Institute of Information Technology Delhi (IIIT -Delhi), Universidade Federal do Rio Grande do 
+Sul (UFRGS), the Africa -Canada AI and & Data Innovation Consortium  (ACADIC) led by York 
+University and the University of the Witwatersrand, and the City University of New York 
+(CUNY) conducted a  hybrid (both online and in -person)  session  to explore how collaborative 
+research in AI for health can be established and sustained, as well as how technology can 
+help to achieve the Sustainable Development Goals (SDGs), in particular overcome pressing 
+global health challenge s to achieve healthy liv es and well -being for all.  
+The session was divided into two discussions. The first panel “Promoting collaborative 
+research in AI for health” looked  at means to level the playing field so as to promot e 
+collaboration , inclusivity and transdisciplinarity in research to foster responsible development 
+and deployment of AI in health with contextualized and unbiased technology that can ensure 
+human agency over AI in the long run. The second panel “State of the art in AI for health” 
+explore d how to leverage technology to overcome pressing global health challenges , namely 
+anti-microbial resistance, outbreaks of emerging infectious diseases, cardiovascular diseases, 
+and environmental changes. This pan el also  examined  how AI can help cut across scientific 
+silos to promote a holistic approach to solving these challenges.  
+ 
+Each panel discussion was preceded by short presentations from invited experts on the topic 
+to be discussed, and followed by a question -and-answer session with interactive polls . The list 
+of invited experts included: 1) Dr. Christoph Benn – Chair, I -DAIR Board (Switzerland); 2) USG 
+Amandeep Singh Gill – Secretary -General’s Envoy on Technology (United Nations); 3)  Prof. 
+Anurag Agrawal – Dean, Biosciences and Health Research, Trivedi School of Biosciences, 
+Ashoka University (India); 4) Dr. Sathy Rajasekharan – Co-Executive Director, Jacaranda 
+Health (Kenya); 5) Dr. Dominique Charron – Vice-President, Programs and Pa rtnerships, IDRC 
+(Canada); 6) Dr. Soumya Swaminathan – Chief Scientist, World Health Organization 
+(Switzerland); 7) Mr. Jake Okechukwu Effoduh – Chief Counsel, ACADIC (Canada/Nigeria);  8) 
+Prof. Bruce Mellado – University of the Witwatersrand (South Africa) ; 9) Prof. Bruce Lee – 
+Executive Director, Center for Advanced Technology and Communication in Health (CATCH), 
+CUNY School of Public Health (USA) ; 10) Prof. Carisi Polanczyk – Professor of Medicine, 
+UFRGS (Brazil) ; 11) Dr. Serge Stinckwich – Head of Resear ch, UNU -Macau (United Nations) ; 
+12) Dr. Peiling Yap – Chief Scientist, I -DAIR (Switzerland) ; and 13) Dr. Stefan Germann – CEO, 
+Fondation Botnar (Switzerland).  
+ 
+The session was attended by  about 1 15 people either in -person or online, and about 80 entities  
+were represented.  Stakeholder groups present included representatives from government 
+international organizations, research and academia, as well as civil society , resulting in a rich 
+dialogue reflecting diverse perspectives. The in-person  session  was audio recorded and 
+ 
+transcribed , while online exchanges were also noted. With this submission  to the Global Digital 
+Compact , I-DAIR is sharing  key highlights and  collective views put forth during the session for 
+the thematic area s of digital commons as  a global public good  and advancing responsible AI 
+in health  research . 
+ 
+ 
+Thematic areas  
+ 
+Digital commons as a global public good  
+ 
+Core principles that all governments, companies, civil society organizations, and other 
+stakeholders should adhere to:  
+• In order to solve global challenges, namely in health, climate change and food security, 
+that no single country can tackle alone, we need coalitions of the willing so that 
+countries can pool resources and investments to maximize opportunities and address 
+significant risks collectively.  
+• Digital technologies, including AI, have been seen as potential solutions for global 
+challenges  but they have to be utilized in a thoughtful manner and be seen as enablers 
+rather than taking over the agency of humans.  
+• The development of digital commons has to be  underpinned by science and  done  
+through a multi -stakeholder collaboration involving gove rnments, philanthropic 
+foundations, academia, private sector, international organizations and civil society .  
+• Development of digital commons should focus on leveling the playing field  and not 
+leaving any country behind , in particular, ensure access and usa ge of these public 
+goods by low -and-middle income countries  (LMICs)  and not further widen the current 
+digital divide.  
+• Value derived from the digital commons should be brought back to all countries in a 
+fair and equitable manner.  
+ 
+Key commitments, pledges or actions to be taken to bring about the core principles : 
+• Urgent need for countries to invest in digital public infrastructure, not just in the 
+hardware and software but also in the governance of these infrastructure s.  
+• Governments a nd the private sector should invest in providing network access to their 
+citizens regardless of where they live.     
+• Efforts should be made to ensure robust data systems exist in LMICs so that their 
+needs and challenges can be captured and addressed through the digital commons.  
+• By ensuring t ransition from connectivity to digital public goods, to digital public 
+infrastru cture and finally to unbiased as well as trusted  data systems  and AI commons , 
+where governance is there by design,  we lay the ground  responsibly  for AI to benefit a 
+wider population.  
+• Establishing a solidarity of purpose, trust and transparency between all stakeholders , 
+who are  contributing and accessing the digital commons , to encourage global 
+collaboration and breaking of  silos across disciplines and sectors.  
+• Expertise from LMICs is currently insufficiently represented at global decision -making  
+processes and more commitments should be made to increase capacity and 
+opportunities for them to be at the table and create change.  
+ 
+ 
+Advancing responsible AI in health  research   
+ 
+Core principles that all governments, companies, civil society organizations, and other 
+stakeholders should adhere to:  
+• Tackling global health challenges as one requires transdisciplinary collaboration 
+across research domains as well as between health and non -health sectors. It also 
+requires systems thinking  and for re searchers, citizens and policy makers to have the 
+SDGs as their common agenda.  
+• It is essential for decision -makers, be they individual citizens or governments, to have 
+agency and be significantly participating and engaged in AI in health research so that 
+the research can be trusted and better positioned to address societal needs and 
+challenges.  
+• To encourage citizen science in AI in health research, there has to be bi -directional 
+exchanges, transparency and communication on what the research and algorithms are 
+doing in laymen terms . Researchers have to go beyond simply asking for data from 
+citizen s. 
+• Key ethical principles around AI in health research include fairness, accountability , 
+legal responsibility, privacy  and transparency,  
+• Ethical guidelines should be  implementable and be  viewed as the starting point where 
+responsible AI research has to be  built up on , and not as the endpoint . 
+• For LMICs to build on and benefit from the tools and technologies developed by global 
+AI research ecosystems, there is a need for a paradigm shift from “adaptation” to “local 
+production”.  
+ 
+Key commitments, pledges or actions to be taken to bring about the core principles:  
+• Current capacities to conduct AI in health research is uneven across the globe and 
+investments should be made to allow researchers in LMICs to gain capacity, resources 
+and networks to lead global collaborations.  
+• In order to overcome the huge global divide, in terms of resources, capabilities and 
+research outputs, in AI in health research, i t is important to invest and build hyperlocal 
+AI research capabilities  and infrastructure  so that the d ata curated and models 
+developed and  implemented  are attuned to local contexts.  
+• In order to reduce social biases existing in current datasets and algorithms , it is 
+essential for multidisciplinary/transdisciplinary collaboration to take place between 
+scienc e and humanities, with social sciences being a critical part in developing the  data 
+systems and  AI we use for healt h.  
+• Newer architectures of machine learning, such as federated systems, hold promise for 
+multi -system stakeholders to collaborate together while preserving data privacy by 
+linking algorithms as well as parameters and not data.  
+• Integration of machine learning approaches with traditional modeling approaches, 
+such as epidemiological models, would embrace the complementary strengths of both 
+approaches and there is a need to train researchers who are fluent in both.  
+• Given that health issues are composed of  complex system s, ranging from biological, 
+behavioral, environmental  to economic, it is essential  to adopt the system approach  
+ 
+and develop models , such as agent -based and network models,  that incorporate  all 
+these factors to truly simulate what  is happening in our societies.  
+• Participatory approaches that are useful for AI research should be developed to allow 
+for non -technical individuals, including marginalized populations, to be engaged 
+throughout the r esearch  lifecycle . 
+ 
+ 

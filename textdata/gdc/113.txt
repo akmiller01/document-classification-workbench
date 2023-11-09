@@ -1,0 +1,217 @@
+Contribution to the Global Digital Compact  
+  
+Premise  
+The Internet and digital technologies play a fundamental role in social, economic and cultural 
+development and the definition of the principles of the Global Digital Compact will have a 
+significant impact on their evolution in all countries of the world, including Italy.  
+IGF Italia  community has decided to join the many voices that intend to participate in this 
+process. In fact, we believe that the debate on the GDC is an opportunity for the IGF multi -
+stakeholder community and for all those who want to contribute to building a better, safer 
+and fairer digital future for all, which leaves no one behind.  
+We thank the Secretary -General of the United Nations for initiating this inclusive and m ulti-
+stakeholder debate, open to all.  
+This document takes into consideration the contributions collected during the public 
+consultation on the Global Digital Compact by IGF Italia and the results of the  debate  held 
+during IGF Italia 2022 in Ancona1. 
+The contributions to the GDC consultation were edited and consolidated by: Concettina 
+Cassa (AgID, vice -president of Italy  IGF), Debora Barletta (Youth IGF Italy), Riccardo Nanni 
+(Youth IGF Italy), Andrea Beccalli (founding member of Italy IGF).  
+ 
+ 
+  
+ 
+1 Some considerations in cluded in the document could be attributed to the authors.  
+ 
+ 
+1)   Connectivity  
+Connecting all people to the Internet, including schools and safeguarding human rights 
+online  
+Principles 
+· Safeguarding  the development of the Internet as a unique, free, global, open, 
+interoperable, secure, resilient asset accessible to all , is an essential tool for economic 
+growth and social well -being and for the achievement of the Sustainable Development 
+Goals (SDGs).  
+· Guaranteeing the development of network infrastructures in every part of the national 
+territory.  
+· Ensuring the application and respect of human rights online as well as offline with 
+particular attention to the defense of the rights of children and marginalized groups  
+· Maintaining access to the Internet for all as a fundamental right of all.   
+· Promoting the digital inclusion of the population at all levels with particular attention to 
+youth, women and the elderly and to the most fragile ca tegories.  
+· Supporting business models that guarantee Internet access at a fair price and accessible 
+to all.  
+· Ensuring that schools, universities and cultural centers are equipped with quality Internet access, accessible to students and teachers.  
+· Requesting that the digital divide  is a priority for Governments and stakeholders 
+involved in the management and evolution of the Internet. Support the promotion of 
+any initiative useful for the development of digital skills in every segment of the 
+populat ion without which it is not possible to promote digital inclusion.  
+Key commitments:  
+1. Member States need to promote the necessary investments, also through public -
+private partnerships, for the diffusion of ultra -broadband, the strengthening of the 
+transport network and of the I nterchange Points (Internet Exchange Points) and any 
+useful action to guarantee safe, reliable, resilient connections as well as the quality of 
+the network services that should be homogeneous across the territories. In support of 
+this initiative, it should also be considered to:  
+· require a balanced distribution of investments between governm ents, ISPs and 
+OTTs.  
+· annually measure the progress and impact of the investments supported.  
+2. It is suggested that Member S tates pay more attention to Internet Governance  priority 
+issues. On this aspect it could be useful to activate a national Multistakehokder Center 
+of Expertise on the Internet with a global and non- fragmented knowledge of the 
+Internet Governance  public policies issues  in their various dimensions: network 
+infrastructures, protocols, DNS, social platforms, security, privacy, etc.  Those 
+dimensions should be measured and monitored on a regular basis to ensure an 
+informed understanding of policy makers of the Internet Governance priority iss ues. 
+In support of this initiative, it should also be foreseen:  
+· The definition of globally valid indicators to measure progress on Internet  
+development at national and regional level. The Unesco Internet Universality 
+indicators could be used as reference ( ROAM).  
+3. Initiate a dialogue between Governments, Telecom Operators, OTT and other interested 
+stakeholders in order to:  
+· Improve meaningful connectivity at national and global level.  
+· Cover the mountainous and remote areas, completing the distribution of the fiber 
+coverage.  
+· Strengthen the community networks in territories where there is less diffusion of 
+the broadband.  
+· Set up free Wi -Fi access zones . 
+· Launch an informational campaign aimed at Citizens  on the possibilities that 
+Internet access can provide in terms of services and opportunities.  
+4. It is suggested to launch an informational campaign aimed at  Citizens  on the 
+possibilities that Internet access can provide in terms of services and opportunitie s. 
+5. Include digital training in school curricula and to equip all schools with the appropriate 
+tools and skills necessary to teach the use of the Internet and digital technologies.  
+6. Encourage the redistribution and reuse of devices in the  Public Administrati ons so as 
+to maximize the impact and lifespan of the devices for some entities but still usable 
+for others, which could be completely lacking them.  
+7. Activate any useful initiative, also of a legislative nature, so that access to the Internet 
+is considered a fundamental right of the citizens.  
+8. Ensure the  respect for Human Rights online as well as offline.  In support of this 
+initiative,  we should also:  
+· Emphasize that accessing the Internet and defending human rights online must be a commitment of any democratic government.  
+· Pay particular attention to the safeguarding of minors, elderly and gender 
+diversity.  
+· Uphold and promote the principles included in the European Declaration on 
+Digital Rights and Principles for the Digital Decade and  those included in the 
+Internet Bill of Rights approved in Italy by the Parliamentary Commission on July 
+28 2015.  
+· Promote collaborations between Member S tates to outline a set of universal 
+digital rights taking inspiration from the regulatory initiatives activated by the 
+European Union (Digital Markets Act, Digital Services Act, Artificial Intelligence Act, 
+Cybersecurity Act, GDPR).  
+9. It is suggested  to prom ote the development of digital skills and digital literacy 
+initiatives through Schools and Universities and in collaboration with the interested 
+stakeholders (social platforms, private companies, etc.), favoring a full awareness of 
+the use of the Internet and technologies and measuring the development of digital 
+skills.  
+2) Avoid Internet fragmentation  
+Support the value of the Internet as an interconnection of networks, unique, free, global, 
+open, secure, interoperable and accessible to all . 
+Support the multi -stakeholder governance model as a model that helps counter the 
+fragmentation of the Internet.  
+ Key commitments:  
+In light of these points, it is deemed necessary to:  
+1. Support the adoption of open and interoperable standards.  
+2. Advocate for Governments to take regulatory measures that do not put the logical infrastructure of the Internet at risk.  
+3. Promote a dialogue with the technical sector and with civil society to understand which people or groups of people are most negatively affected by t he fragmentation 
+of the Internet and develop possible solutions based on that.  
+4. Avoid raining down solutions that do not reflect the needs of the people/communities affected.  
+3) Data protection 
+Principles 
+· Identifying a set of principles that highlight the centrality and importance that data 
+have in the economic, social and political life and define global rules to protect 
+data, to regulate the data collection, data storage, use of data and that ensure a trust and safe trans -national transfer o f data.  
+· Define a global data governance strategy that guarantees data privacy and protection but also the free flow of data as an economic resource.  
+· Promoting education and the " data cultur e" in a multidisciplinary and 
+multistakeholder context.  
+· Enhancing the public information assets and the dissemination of Open Data.  
+  
+ 
+Key commitments:  
+In light of these points, it is deemed necessary to:  
+1. Draw the attention of Governments to data protection and suggest them to adopt a 
+data governance strategy based on the respect and defense of Human Rights . 
+2. Promote the definition of a global regulatory framework that takes into account the European Data Pr otection Regulations, the GDPR and the EU DATA Act, and promote 
+the adoption of privacy by design models.  
+3. The global regulatory framework should ensure a trust ed and safe trans -national 
+transfer of data and the application of adequate security and privacy  measures in 
+cloud infrastructures. In support of this initiative, it should also be considered to:  
+· Communicate data protection rules and practices in simple and usable language even for less experienced users.  
+4. Establish principles for the development of quality and interoperable data such as: a)  
+the adoption and development of common and global standards  by the Governments 
+and Private Companies, b) the promotion of Open Data  by the Governments, c) the 
+Data reuse, d) Data transparency, e) Data Accountability, f) Data Portability.  
+5. Ensure greater protection of the identity of minors. In support of this initiative, it should also be considered to:  
+· Strengthen the data protection of minors considering that, despite the existence 
+of formal restrictions, they often use digital products and platforms designed for 
+adults and it is difficult to prevent it.  
+5. Insert more restrictions and ensure that authorization to use facial r ecognition is 
+requested before entering places where this tool is used.  
+7. Foster public regulation in order to strengthen digital users' trust in areas such as data 
+protection. Avoid measures (also resulting from non -regulation) that restrict the 
+platform ma rket to oligopolies of private giants headquartered in only one or two 
+countries.  
+8. Empower and make as many users as possible aware of the risks and potential of the 
+Internet and its applic ations . Currently, this problem is completely ignored especially 
+in relation to the most fragile groups (very young people up to 18 years of age in 
+particular).  
+  
+ 4) Security and misleading content 
+Principles 
+· Outline a set of principles that underpin the development of one Trusted Internet . 
+· Advocate for the development of the Internet as a single, global, non -fragmented, 
+secure and inclusive network of networks and support " The core principles of the 
+Internet ”. 
+· Promote and support a common security strategy among member states.  
+· Promote and support a plan to combat disinformation and propaganda among 
+member states.  
+ Key commitments:  
+In light of these points, it is deemed necessary to:  
+1. Support training initiatives and an awareness campaign on how to defend people from 
+cyberattacks.  
+2. Support the necessary investments to ensure the security of Internet infrastructures and processes. Promote the development of "security by design" models and 
+procedures in SMEs  and public administration.  
+3. Promote and support a common regulation of Artificial Intelligence based on the defense of human rights and on the concept of “Digital Humanism ” where the role of 
+AI is to help humans expand their capabilities. In support of this initiative, it should also be considered to:  
+· support the centrality of the human being and respect of human rights  in the 
+development of the Internet and digital technol ogies . 
+· support and promote the transparency and accountability of AI algorithms and ensure a governance model that protects human rights.  
+ 
+5) Other  
+In addition to the topics and points listed above, we believe it is essential to highlight the following add itional indications:  
+· We think it is important to keep an open, inclusive, transparent and multi stakeholder 
+approach throughout all steps of the Global Digital Compact, not only during the current 
+consultations but also in the following negotiations.  
+·  We believe that the Global Digital Compact should not only recommend guiding 
+principles for the Internet of the future, but should identify clear and concrete actions to achieve its objectives, including metrics to measure progress towards a chieving these 
+goals.  
+· We want to emphasize the importance of the IGF as a global multistakeholder platform facilitating the discussion of public policy issues pertaining to the Internet, the important 
+contribution the IGF could give to the GDC processes an d the need to sustain the renewal 
+of the IGF mandate in the WSIS +20 review process. We also support the strengthening of the IGF as suggested in the " Roadmap for Digital Cooperation" and in " Our Co mmon 
+Report".  
+· We suggest the involvement of the IGF in the follow up processes of the GDC and in the 
+drafting of the GDC principles  that should take into account the IGF results/messages.  We 
+also suggest using the IGF as a central space for taking stock and assessing implementation 
+of the Compact’s  principles and commitments going forward . 
+· We suggest increasing collaboration between the GDC processes and other similar 
+initiatives such as the Declaration on the Future of the Internet and the European 
+Declaration on Digital Rights and Principles, whic h focus on the same issues  included in 
+the Global Digital Compact.  
+· We suggest using knowledge and expertise  developed by the NRIs, Dynamic Coalitions 
+and other intersessional IGF activities and working groups (PNEs and BPFs) in the GDC 
+processes.  
+· We suggest leveraging  IGF's National and Regional initiatives to activate collaborations 
+and concrete initiatives to assess and implement the principles of the GDC.  
+· We think that Internet Governance issues and  that GDC principl es should  be highlighted  
+in the politi cal agendas at the national, regional and international levels.  
+· We suggest activating open channel s for listening to C itizens on concrete actions to be 
+taken to improve Internet regulatory policies.  
+Finally, recognizing the excellent work done by the IGF Secretariat , we strongly suggest that 
+this very small structure should be strengthened by allocating the necessary funds and human resources. This would allow for a more appropriate expression of the IGF's potential and for 
+a better dissemination, thro ugh support of the activities of the MAG and of the Leadership 
+Panel, of the IGF messages and outputs.   
+ 
+Thanks  
+Thanks to Andrea Sammarco, D eputy General Secretary of Unioncamere, and his team, for 
+having promoted the public consultation o f the Global Digital Compact in Italy , among SMEs.  
+ 
+ 

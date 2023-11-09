@@ -1,0 +1,403 @@
+ 
+Switzerland  
+Contribution to the Global Digital Compact  
+30. April 2023  
+ 
+ 
+I. Introduction  
+ 
+Switzerland is convinced that the United Nations provides the appropriate framework to develop a Global Digital Compact in an  open and inclusive process that brings 
+together governments, the  private sector, civil society, academia and all other interested stakeholders in a multi -stakeholder approach.  
+ 
+A Global Digital Compact has the potential to strengthen a principles -based order in the area of digital cooperation. We believe that this pot ential can only be harnessed if 
+the process is open, inclusive and based on existing work streams and fora. Geneva, with its ecosystem and know -how, is an ideal location for involving all relevant actors 
+in the development of a Global Digital Compact and g enerating added value.  The “Messages” from the UN Internet Governance Forum  (IGF)  2022 held in Addis Ababa, 
+which focused on the Global Digital Compact  themes, should be especially taken into consideration, as they provide key inputs from the global multistakeholder community.  
+Switzerland stands ready to support the Co -Facilitators of the Global Digital Compact, and to work towards the establishment of a  Geneva -based presence of the Office of 
+the Secretary -General’s Envoy on Technology.  
+ 
+The themes foreseen so far are all relevant, and should build on already existing agreements, especially those of the World S ummit on the Information Society  (WSIS)  and 
+its outcomes, as well as the outcomes of the WSIS+10 review.  Probably attention should also be given to the intersection between digitalization and climate change, which 
+has been discussed inter alia during the UN IGF 2021 (where a report on the matter was produced by a de dicated UN IGF Policy Network). An appropriate follow -up to the 
+Global Digital Compact  is essential. Considering its multistakeholder nature and multilateral basis, the UN IGF is best placed for offering a platfo rm for periodic discussions 
+and actions related to the follow -up and implementation of the GDC, ensuring ownership of the process by all stakeholders.  The follow -up actions to the Global Digital 
+Compact  should build on existing structures, especially the Tech Envoy Office as a focal point within the UN, as well as the UN IGF as central policy discussion and action 
+platform, for taking multistakeholder networks to develop and implement the Global Digital Compact  forward.  
+ 
+ 
+II. Core Principles and Commitments  
+ 
+ 
+                                                  Inputs  
+ 
+ 
+Thematic Areas   
+Core Principles ( policy inputs / concepts )  
+Key Commitments  (ongoing projects, pledges, 
+activities ) 
+1. Connect all people to the internet, including 
+all schools  Connecting the unconnected, especially considering 
+the needs of the “bottom billion”  - and particularly 
+including those of women and girls to bridge the 
+“gender digital divide”  - are essential in order to 
+overcome the digital divides.  
+ 
+Meaningful connectivity goes beyond the technical 
+means to enable such connectivity by making it 
+widely available, but includes  meaningful and 
+affordable access,  the acquisition of digital skills, and Switzerland commits to further supporting the efforts 
+to address connectivity issues, such as through the 
+GIGA Initiative and other efforts undertaken by ITU, 
+UNESCO and other UN institutions.  
+ 
+Switzerland moreover commits to further 
+international discussions and best practice on 
+enabling environments for the deployment of 
+broadband, such as the recommendations from the 
+ 
+ 
+critical digital literacy and awareness, as w ell as 
+cultural and solutions. This also implies profound 
+changes in the way curricula should be designed in 
+schools and in teaching and education as a public 
+good. It also implies to ensure the favorable 
+framework conditions including the right regulatory 
+framework conditions.  
+ 
+True connectivity requires meaningful partici pation 
+of all stakeholder groups worldwide to the 
+corresponding governance processes and 
+institutions.  
+ 
+Moreover, it is important  to foster competition for an 
+inclusive digital transformation and promote 
+investment and easing infrastructure deployment.  
+ 
+Policy principles that support bridging the digital 
+divide,  as listed in this OECD report  
+Bridging digital divides in G20 countries | en | OECD , 
+need to be taken into account.  
+ 
+ 
+ 
+ Broadband Commission  Expert Group on how to 
+close the broadband gap . 
+ 
+Switzer land will continue to support the work of the 
+Diplo Foundation and its  Geneva Internet Platform , 
+which amongst other things offers state of the art 
+quality information and capacity development 
+resources, including on policies to foster access to 
+networks a nd services . 
+ 
+Switzerland will continue to support UNESCO 
+International Bureau of Education in Geneva which, 
+among other things, is working to steer the 
+transformation of education (hybrid education 
+learning assessment). The organization is also 
+supporting the Education  in Emergency thematic in 
+Geneva, among other actors such as the Geneva 
+Global Hub for Education in Emergencies.  
+ 
+Switzerland will continue to  support  global efforts to 
+bridge the digital divide  by promot ing initiatives and 
+projects that enable developin g countries to use 
+digital technologies in order to make their economies 
+more competitive, integrate them into the global 
+production and trade system, reduce barriers to 
+market entry, and facilitate access to digital financial 
+services for people and busin esses.  This includes for 
+example Switzerland’s participation in the Private 
+Infrastructure Development Group (PIDG) , which 
+supports the financing of internet infrastructure and 
+mobile networks, and Switzerland’s participation in 
+the UNCTAD E -commerce and D igital Economy 
+Programme , which helps policy makers of 
+developing countries to create favorable  framework 
+conditions and enhance capacities for e -commerce 
+by supporting them in identifying and removing 
+obstacles to its development.  
+2. Avoid internet fragment ation  The best way to avoid Internet fragmentation is to 
+continue efforts towards a single, open, Switzerland commits to continue working towards 
+the core principles spelled out, and to offer its 
+ 
+ 
+interoperable, safe, and secure nternet for all 
+worldwide.  
+ 
+Free cross -border data flows need to be anchored in 
+international law, while taking into account data 
+protection needs and avoiding  forced data 
+localization policies .  
+ 
+Fragmentation  at the user -layer of the Internet , 
+imposition of unnecessary barriers for usage of the 
+internet across borders  and imposition of tariffs on 
+electronic transmissions need to be avoided by 
+working towards common policy standards . 
+ 
+This requires strengthening open, inclusive and 
+accountable governance structures, especially 
+through further developing an effective, pr oactive 
+and politically visible UN IGF.  support in providing a venue and facilitation efforts 
+between all interested parties.  
+ 
+Switzerland is actively working  towards anchoring 
+the free flow of data and prohibitions to forced data 
+localization in its Free Trade Agreement practice and 
+multilaterally at the WTO.  
+3. Protect  privacy and  data In order to better tap into the social and economic 
+power of data while also preventing users from losing  
+control over their own data, we should  develop a 
+data governance  approach that overcomes the 
+supposed tension between data privacy and data 
+use, bearing however in mind that the protection of 
+personal data and privacy is a fundamental right and 
+acknowledging the importance of ensuring high 
+standards in this regard .  
+ 
+Digital self -determination aims to be a new approach 
+in governing responsible data access, use, re -use, 
+management and empowering data subjects in the 
+digital age . At its foundation is the idea that 
+individuals, companies and society as a whole 
+should be able to determine what actions they take 
+in our digital ecosystem. This includes giving these 
+actors the ability to determine the relevance  and 
+value of data that is important to them, to have 
+access to and control over this data, and to 
+determine how said data is used  and reused .  
+ Switzerland commits to further international 
+discussions on data governance and to address 
+data-related challenges in a horizontal and cross -
+sectoral manner in accordance with its privacy and 
+data protection legal framework and international 
+obligations , including furthering discussion on data 
+divides.  
+ 
+Switzerland  commits to promote the development of 
+interoperable trustworthy data spaces and to explore 
+further processes and policies  to make digital self -
+determination a reality.  
+ 
+ 
+By improving the level of control that individuals and 
+organisations have over their  own data, we can 
+increase their trust in our data -driven society and 
+raise their willingness to share and  make use of data. 
+Increased data sharing between different actors will 
+increase access and growth opportunities for various 
+players and sectors and open up new ways of using 
+and combining data. This will lay the foundation for 
+developing innovative applications with individual 
+and collective  benefits.  
+ 
+Society as a whole should benefit from the efficiency 
+gains and innovative potential brought about by data 
+– without losing demo cratic control over basic 
+societal functions in important sectors. We  therefore 
+conceive of digital self -determination as a long -term 
+goal.   
+ 
+Trustworthy data spaces show great potential as a 
+way of making digital self -determination a reality . 
+There is a n eed to promote the development of 
+standards for trustworthy data spaces in cooperation 
+with existing organisations for norms and 
+standardization, and to develop  international 
+guidelines for trustworthy data spaces in order 
+enable their interoperability and to create legal 
+certainty on an international level . 
+ 
+Users and owners of data should have the freedom 
+to transfer data across borders and have the choice 
+of storage, Forced data localization, which creates 
+data insecur ity and infringes on the rights of data 
+subjects and owners  should be avoided.  
+4. Apply human rights online  The development and use of digital technologies 
+should be guided by the UN Guiding Principles on 
+Business and Human Rights. States should develop 
+effective regulatory and policy responses to the risks 
+associated with digital technologies.  
+  Switzerland has supported OHCHR’s B -tech project 
+from its onset in 2019 and is committed to continue 
+its cooperation.  
+ 
+Switzerland is a member  of the Freedom Online 
+Coalition since 2019 and Friend of the Chair since 
+2020.  
+ 
+ 
+The Global Digital Compact should build on 
+recommendations 3a/b of the SG Roadmap on 
+Digital cooperation and be guided by OHCHR’s  B-
+Tech Project , that provides authoritative guidance 
+and resources for implementing the United Nations 
+Guiding Principles on Business and Human rights 
+(UNGPs) in the technology space.   
+ 
+Technology companies (and all companies using 
+new technologies) should implement human right s 
+due diligence (for example through identifying, 
+preventing , mitigating  and accounting for how  they 
+address  adverse human rights impacts related to 
+their products). Effective remedies need to be 
+available to individuals and communitie s exposed to 
+those human rights risks. Internet freedom and 
+fundamental human rights have to be protected 
+online.   
+Switzerland supports Access Now’s campaign to 
+prevent internet Shutdowns and the 2023 
+conference on digital rights Rightscon.  
+5. Accountability for discrimination and 
+misleading  content  Switzerland attaches great importance to the fight 
+against  online discrimination and the distribution of 
+misleading content.  
+ 
+Online platforms are  beneficial  in many ways: They 
+facilitate the finding of information , allow active 
+participat ion in public discourse and increase 
+diversity in opinions. As such, they contribute to 
+freedom of expression  and have become an 
+essential feature for democracy.  
+ 
+At the same time, digital platforms have negative 
+impacts,  notably when it comes to hate speech and 
+disinformation . Their algorithms  determine what we 
+read and what we don't even see. This narrows our 
+reality and raises questions with regard to 
+transparency.  
+ 
+Digital platforms should have their responsibilities in 
+ensuring a functioning public communication: They  
+need to become more transparent with regards to 
+their central processes such as  development and Switzerland commits to support the efforts to 
+increase accountability for discrimination and 
+misleading content, while protecting human and 
+fundamental rights. As such, Switzerland will 
+contribute as member of the Catalyst Group to 
+UNESCO efforts for an In ternet for Trust.  
+ 
+ 
+ 
+enforcement of community standards. Also, they 
+should put in place mechanisms for reporting and 
+access to redress.  
+ 
+States  have the duty to guarantee freedom of 
+expression  as well as other fundamental rights such 
+as protection from discrimination. As such, it is 
+crucial that a clear framework for  communication on 
+digital platforms  is developed and applied . Any 
+measures they take to combat hate  speech and 
+disinformation  must be consistent with international 
+law as well as the protection of fundamental and 
+human rights . 
+ 
+6. Regulation of artificial intelligence  Any international regulatory efforts should build on 
+existing international law, expanding and 
+concretizing it only where necessary.  
+ 
+Wherever possible, any efforts should focus on 
+regulating the p otentially negative and undesirable 
+effects of AI, and not the "technology" AI per se.  
+ 
+Any efforts should take into account the different 
+responsibilities of public and private actors and, 
+where appropriate, set specific requirements for 
+government use of  AI. 
+ 
+Any efforts should be exemplary in terms of human 
+rights, democracy and the rule of law and strengthen 
+these. At the same time, they should also emphasize 
+the opportunities of AI and be designed in such a way 
+that they promote innovation and do not " stifle" it.  
+ 
+Any efforts should not only focus on a prior ("ex -
+ante") risk assessment of the applications of AI, but 
+also include impact assessment considerations.  
+ 
+Implementation mechanisms: To guarantee their 
+effectiveness, any efforts should provide for  
+implementation mechanisms. States should be given Switzerland took part in the elaboration of the 
+UNESCO Recommandation on Ethics of AI.  
+ 
+Switzerland, in the person of Ambassador  Thomas 
+Schneider,  chairs the Council of Europe's 
+Committee on Artificial Intelligence, which aims to 
+negotiate a framework convention on artificial 
+intelligence, human rights, democracy and the rule 
+of law . The convention is intended  to reach a 
+maximal number of States, beyond those that are 
+members of the Council of Europe . 
+ 
+Switzerland is supporting the AI for Good Global 
+Summit of the ITU which will take place in July 2023 
+in Geneva.  
+ 
+ 
+as much leeway as possible in designing national 
+mechanisms.  
+ 
+Any efforts should make use of internationally 
+recognised methods following recommendations 
+from competent organisations, good practices, or 
+international standards.  
+ 
+Any efforts should promote digital self -determination 
+in order to enable the protection and control of one’s 
+own data protecting  while at the same time enabling  
+data use and thereby  innovation .  
+ 
+Human rights, the rule of law and the overall impact 
+and systemic risks of AI on democracy and the wider 
+society should be considered.  
+ 
+As long as research is in accordance with human 
+dignity, human rights and fundamental freedoms, no 
+unnecessary requirements should be imposed on 
+research and science so that they can reach their full 
+potential for the benefit of society.  
+ 
+Any process should be inclusive and transparent and 
+should involve all interested and relevant 
+stakeholders.  
+ 
+Gender equality is a priority for Switzerland. 
+Switz erland is therefore committed to ensuring that 
+the gender equality perspective is maintained and 
+upheld throughout any efforts.  
+7. Digital commons as a global public good  Regu lation for digital content platforms should  ensure 
+information as a public good, while preserving freedom 
+of expression and other human rights, as well as other 
+relevant international commitments and obligations . 
+ 
+Building on the idea to expand, rather than restrict 
+access to data, information, culture and knowledge, the 
+concept of digital commons supports and taps into the 
+long-term goal of digital self -determination.   Switzerland is part of the Catalyst Group of UNESCO's 
+Global Conference Internet for Trust  
+ 
+ 
+Other areas  In general terms, the GDC should build on the 
+agreements of the World Summit on the Information 
+Society and its outcomes, as well as the outcomes 
+of the WSIS+10 review.  
+ 
+An appropriate follow -up to  the GDC  through existing 
+structures  is essential. Considering its 
+multistakeholder nature and multilateral basis, the 
+UN IGF is best placed for offering a platform for 
+periodic discussions and actions related to the 
+follow -up and implementation of the GDC , ensuring 
+ownership of the process by all stakeholders . 
+ 
+The follow -up actions to the GDC should build on 
+existing structures, especially the UN IGF as central 
+policy discussion and action platform, for taking 
+multistakeholder networks to develop and impl ement 
+the GDC forward. Follow -up actions can well be 
+channeled through WSIS structures, such as WSIS -
+Forum and the WSIS Action Lines, updated as 
+appropriate.   
+ 

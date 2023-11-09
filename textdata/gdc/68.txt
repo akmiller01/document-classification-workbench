@@ -1,0 +1,215 @@
+ 
+GDC -submission_ISO  2023 -04-28 1 GDC -submission_ISO  
+2023 -04-28 
+INTERNATIONAL STANDARDS AND THE GLOBAL DIGITAL 
+COMPACT  
+ISO (International Organization for Standardization) is an independent, non- governmental 
+international organization with a membership of 168 national standards bodies.  
+Through its members, it brings together experts to share knowledge and develop voluntar y, 
+consensus -based, market relevant International Standards that support innovation and provide 
+solutions to global challenges.  
+Our members play a vital role in how we operate, meeting once a year for a General Assembly that 
+decides our strategic objective s. Our Central Secretariat in Geneva, Switzerland, coordinates the 
+system and runs day -to-day operations, overseen by the Secretary -General.  
+Each national standard -setting body therefore represents a member state. After receiving a proposal 
+for new work du ly endorsed by the organization’s membership , ISO convenes an expert group tasked 
+with the creation of a particular standard through a robust and transparent consensus process. ISO 
+develops international standards across a wide range of industries, includi ng technology, food, and 
+healthcare, in order to ensure that products and services are safe, reliable, of good quality, and 
+ultimately, facilitate international trade.  
+We work closely with two other international standards development organizations, the In ternational 
+Electrotechnical Commission (IEC) and International Telecommunication Union (ITU). In 2001, ISO, IEC 
+and ITU formed the World Standards Cooperation (WSC) in order to strengthen the standards systems of the three organizations. The WSC also prom otes the adoption and implementation of 
+international consensus -based standards worldwide.  
+In addition, we also have a close relationship with the World Trade Organization (WTO), which 
+particularly appreciates the contribution of International Standards to  reducing technical barriers to 
+trade.  
+ISO also works with United Nations (UN) partners. For example, we liaise with UN specialized agencies that carry out technical harmonization or give technical assistance, including the UN Economic and Social Council ( ECOSOC).  
+In total, ISO collaborates with over 700 international and  regional  organizations. These organizations 
+take part in the standards development process as well as sharing expertise and best practices.  
+ 
+About ISO standards  
+ISO standards are voluntary and we don’t regulate or legislate, although countries may decide to adopt our standards as regulations or refer to them in legislation.  
+We have more than 24744 standards in our portfolio. Our programme ranges from standards fo r 
+traditional activities, such as agriculture and construction, through mechanical engineering, manufacturing and distribution, to transport, medical devices, the environment, safety, information and communication technologies and to standards for good pra ctice and for services.
+ 
+ 
+GDC -submission_ISO  2023 -04-28 2 Understanding the benefits  
+ISO standards are internationally agreed by experts.  Think of them as a formula that describes the 
+best way of doing something.  
+It could be about making a product, managing a process, delivering a service or supplying materials –  
+standards cover a huge range of activities.  
+Standards are the distilled wisdom of people with expertise in their subject matter and who know the 
+needs of the organizations they represent –  people such as manufacturers, sell ers, buyers, 
+customers, trade associations, users or regulators.  
+ISO is active in many areas, including those directly relevant to the Global Digital Compact, such as IT security.  
+ISO in the digital landscape  
+ISO is known over the world over for its capaci ty to create global solutions to global challenges.  We 
+bring together expert women and men to distil state- of-the-art knowledge into practical guidance 
+and requirements that enable us to address some of our greatest challenges.  
+On a globalized planet, hom e to 8 billion people, the complexity of the issues that we face has grown 
+exponentially.  Today, we have unprecedented potential to understand and tackle them.  
+Digitalization not only provides new avenues of human connection and activity but can also enab le us 
+to address existing problems in new ways. Through capturing information, analysing and acting -upon 
+it to achieve the best outcomes, we're doing more than just boosting efficiency. We’re beginning to 
+grasp the networks of complex interrelations between our activities and our environment.  
+ISO digital standards are essential to making this happen.  
+International Standards are visible in the physical and built world, enabling us to better manage 
+resources like water and energy through digital technology. But increasingly they’re working in the background, the unseen underpinnings to many of the technologies that enable and improve our everyday lives.  
+From the way in which is information is encoded, transmitted and stored, to the networks that 
+underpin int eractions from online shopping and remote working to keeping in touch with friends and 
+family or streaming our favourite entertainment and information ISO digital standards are hard at 
+work.  
+More than this, ISO standards are the digital glue that is drivi ng Industry 4.0 and the application of 
+smart technology to revolutionize the building and organization of our cities and homes, and the ways 
+that we grow our food.  
+As an organization committed to accelerating digital growth and making lives safer, easier and better, we’re continuing to develop new digital standards. Beyond enabling the smart revolution and 
+reinforcing the essentials of interoperability, and cybersecurity ISO standards provide a globally 
+agreed basis on which innovation can flourish.  
+In line with our 2030 strategy , we’re continually evolving our own processes.  
+At ISO, we are on an ambitious digital journey that will change the ways in which standards ar e 
+developed, and ultimately provide new ways in which they can be accessed and used.  
+Digital standardization activities  
+A large number of the international standards and related documents developed by ISO are related to 
+information and communication techno logies (ICTs), such as the Open Systems Interconnection (OSI) 
+that was created in 1983 and established a universal reference model for communication protocols.  
+ 
+GDC -submission_ISO  2023 -04-28 3 The organisation is also active in the field of emerging technologies including blockchain, the  Internet 
+of Things (IoT), and artificial intelligence (AI). The standards are developed by various technical 
+committees dedicated to specific areas including information security, cybersecurity, privacy protection, AI, and intelligent transport systems.   
+Artificial intelligence  
+The joint technical committee of ISO and the International Electrotechnical Commission (IEC) for AI is 
+known as ISO/IEC JTC1/SC 42 Artificial intelligence and is responsible for the development of 
+standards in this area. To date, i t has published one standard specifically pertaining to AI with 18 
+others in development.  
+ISO/IEC TR 24028 provides an overview of trustworthiness in AI systems, detailing the associated 
+threats and risks associated and addresses approaches on availabilit y, resiliency, reliability, accuracy, 
+safety, security, and privacy.  
+The standards under development include those that cover  concepts and terminology for AI (ISO/IEC 
+22989); bias in AI systems and AI -aided decision -making (ISO/IEC TR 24027); AI risk management 
+(ISO/IEC 23894); a framework for AI systems using machine learning (ISO/IEC 23053); and the 
+assessment of machine learn ing classification performance (ISO/IEC TS 4213).  
+For up -to-date  information on the technical committee (e.g. scope, programme of work, contact 
+details, etc.) simply search on ISO.org .  
+Cloud computing  
+ISO and IEC also have a joint committee for standards related to cloud computing which currently has 19 published standards and a further 7 in development.  
+Of those published, two standards of note in clude ISO/IEC 19086 -1, which provides an overview, 
+foundational concepts, and definitions for a cloud computing service level agreement framework, and ISO/IEC 17789, which specifies the cloud computing reference architecture.  
+Standards under development i nclude those on health informatics (ISO/TR 21332.2); the audit of 
+cloud services (ISO/IEC 22123 -2.2); and data flow, categories, and use (ISO/IEC 19 94 4 - 1).For up -
+to-date  information on the technical committee (e.g. scope, programme of work, contact deta ils, etc.) 
+simply search on ISO.org .  
+Internet of Things (IoT)  
+Recognising the ongoing developments in the field of IoT, ISO has a number of dedicated standards both p ublished and in development, including those for intelligent transport systems (ISO 19079), 
+future networks for IoT (ISO/IEC TR 29181 -9), unique identification for IoT (ISO/IEC 29161), Internet of 
+Media Things (ISO/IEC 23093 -3), trust -worthiness of IoT (IS  O/IEC 30149), and industrial IoT systems 
+(IS O/IEC 30162).  
+IoT security is addressed in standards such as ISO/IEC 27001 and ISO/IEC 27002, which provide a common language for governance, risk, and compliance issues related to information security.  
+  
+ 
+GDC -submission_ISO  2023 -04-28 4 In addition, there are seven standards under development, some of which provide a methodology for 
+the trustworthiness of an IoT system or service (IS O/IEC 30147); a trustworthiness framework (IS 
+O/IEC 30149); the requirements of an IoT data exchange platform for various IoT services (I S O/ I E C  
+3 0161); and a real -time IoT framework (ISO/IEC 30165). For up -to-date  information on the ISO and 
+IEC joint technical committee for IoT (e.g. scope, programme of work, contact details, etc.) simply 
+search on ISO.org .  
+Telecommunications infrastructure  
+ISO’s standardisation work in the field of telecommunications infrastructure covers areas such as planning and installation of networ ks (e.g. ISO/IEC 14763 -2 and ISO/IEC T R 14763 -2-1), corporate 
+telecommunication networks (e.g. ISO/ IEC 17343), local and metropolitan area networks (e.g. 
+ISO/IEC/IEEE 8802 -A), private integrated telecommunications networks (e.g. ISO/IEC TR 14475), and 
+wireless networks.  
+Next generation networks –  packet -based public networks able to provide telecommunications ser -
+vices and make use of multiple quality of service enabled transport technology –  are equally covered 
+(e.g. ISO/IEC TR 26905). ISO also has sta ndards for the so -called future networks, which are intended 
+to provide futuristic capabilities and services beyond the limitations of current networks, including the 
+Internet.  
+For up -to-date  information on the joint ISO and IEC technical committee that d evelops these 
+standards (e.g. scope, programme of work, contact details, etc.) simply search on ISO.org .  
+Blockchain  
+ISO has published three standards on blockchain an d distributed ledger technologies: ISO/TR 23455 
+gives an overview of smart contracts in blockchain and distributed led -ger technologies; ISO/TR 
+23244 tackles privacy and personally identifiable information protection; and ISO 22739 covers fundamental block chain terminology respectively.  
+ISO also has a further ten standards on blockchain in development. These include those related to  
+security risks, threats and vulnerabilities (ISO/TR 23245.2); security management of digital asset 
+custodians (ISO/TR 23576);  taxonomy and ontology (ISO/TS 23258); legally -binding smart contracts 
+(ISO/TS 23259); and guidelines for governance (ISO/TS 23635).  
+For up -to-date  information on the technical committee (e.g. scope, programme of work, contact 
+details, etc.) simply search on ISO.org .  
+Emerging technologies  
+ISO develops standards in the area of emerging technologies. Perhaps the largest number of 
+standards in this area are those related to robotics.  
+ISO has more than 40 different standards either published or in development that cover issues such 
+as: collabo rative robots (e.g. ISO/TS 15066); safety requirements for industrial robots (e.g. IS O 10218 
+-2); and personal care robots (e.g. ISO 13482).Autonomous or so -called intelligent transport systems 
+(ITS) standards are developed by ISO’s ITS Technical Committee and include those for forward 
+vehicle collision warning systems (ISO 15623) and secure connections between trusted devices (ISO/TS  21185).Standards are also being developed to address the use of virtual reality in learning, 
+education, and training (e.g. ISO/IEC 23843) and the display device interface for augmented reality 
+(ISO/IEC 23763).  
+ 
+ 
+ 
+GDC -submission_ISO  2023 -04-28 5 Cybersecurity  
+Network security Information security and network security is also addressed by ISO and IEC 
+standards. The ISO and IEC 27000 family of standards covers information security management systems and are used by organisations to secure information assets such as financial data, intellectual property, and employee information.  
+For example, ISO/IEC 27031 and ISO/IEC 27035 are specifically designed to help organisations 
+respond, diffuse, and recover effectively from cyberattacks. ISO/IEC 27701 is an extension to ISO/IEC 
+27001 and ISO/IEC 27002 for privacy information management, and details requirements and 
+guidance for establishing, implementing, maintainin g, and continually improving a Privacy Information 
+Management System (PIMS).  
+Network security is also addressed by standards on technologies such as the IoT, smart community infrastructures, medical devices, localisation and tracking systems, and future ne tworks.  
+For up -to-date  information on the joint ISO and IEC technical committee (e.g. scope, programme of 
+work, contact details, etc.) simply search on ISO.org .  
+Encryption  
+As more and more information (including sensitive personal data) is stored, transmitted, and processed online, the security, integrity, and confidentiality of such information becomes increasingly important.  
+To this end, ISO has a number of standar ds for the encryption of data. For example, ISO/IEC 18033 -1, 
+currently under development, addresses the nature of encryption and describes certain general aspects of its use and properties. Other standards include ISO/IEC 19772 that covers authenticated encryption, ISO/IEC 18033 -3 that specifies encryption systems (ciphers) for the purpose of data 
+confidentiality, and ISO 19092 that allows for encryption of biometric data used for authentication of individuals in financial services for confidentiality or ot her reasons.  
+ISO also has standards that focus on identity -based ciphers, symmetric and asymmetric encryption, 
+public key infrastructure, and many more related areas.   
+Legal and regulatory consideration s  
+Data governance  
+Big data is another area of ISO s tandardization, and around 80% of related standards are developed 
+by the ISO/IEC AI committee. The terminology for big data -related standards is outlined in ISO/IEC 
+20546, while ISO/IEC 20547 -3 covers big data reference architecture. ISO/IEC TR 20547 -2 pro vides 
+examples of big data use cases with application domains and technical considerations and ISO/IEC TR 20547 -5 details a roadmap of existing and future standards in this area.  
+A further eight standards are in development and include those for big data security and privacy (ISO/IEC 27045), terminology used in big data within the scope of predictive analytics (ISO 3534- 5), 
+and data science life cycle (ISO/TR 23347).   
+For up -to-date  information on the technical committee (e.g. scope, programme of work, con tact 
+details, etc.) simply search on ISO.org .  
+ 
+ 
+ 
+GDC -submission_ISO  2023 -04-28 6 Human rights – Privacy and data protection  
+Privacy and data protection in the context of ICTs is another area covered  by ISO’s standardisation 
+activities. One example is ISO/IEC 29101 which describes a privacy architecture framework. Others 
+include those for privacy -enhancing protocols and services for identification cards ( ISO/IEC 1928 6); 
+privacy protection requirement s pertaining to learning, education, and training systems employing 
+information technologies (ISO/IEC 29187 -1); privacy aspects in the context of intelligent transport 
+systems (ISO/ TR 12859); and security and privacy requirements for health informatics 
+(ISO/TS  14441).  
+Digital identities  
+Digital signatures that validate digital identities help to ensure the integrity of data and authenticity of particulars in online transactions. This, therefore, contributes to the security of online applications and servi ces.  
+Standards to support this technology cover elements such as: anonymous digital signatures (e.g. ISO/IEC 20008 -1 and ISO/IEC 20008 -2); digital signatures for healthcare documents (e.g. ISO 17090 -
+4 and ISO 17090 -5); and blind digital signatures, which is where the content of the message to be 
+signed is disguised, used in contexts where, for example, anonymity is required. Examples of such standards are ISO 18370 -1 and IS O/IEC 18370 -2.  
+Digital tools  
+ISO has developed an online browsing platform that  provides up to date information on ISO 
+standards, graphical symbols, publications, and terms and definitions.   
+Supporting digital transformation and growth  
+In addition to those areas mentioned above, our  dedicated technical committees work to devel op ISO 
+standards that cover related areas such as : 
+• Technical product documentation ,  
+• Quantities and units,  
+• Laboratory equipment,  
+• Applications of statistical methods,  
+• Non-destructive testing,  
+• Processes, data elements and documents in commerce, industry and administration , 
+• Document management applications ,  
+• Quality management and quality assurance ,  
+• Automation systems and integration ,  
+• Intelligent transport systems ,  
+• Cleanrooms and associated controlled environments ,  
+• Geographic information/Geomatics , Health informatics , Market, opinion and social research , 
+• Nanotechnologies , 
+• Road traffic safety management systems , and 
+• Transaction assurance in E -commerce.  

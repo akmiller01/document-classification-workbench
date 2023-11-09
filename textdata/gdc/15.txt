@@ -1,0 +1,244 @@
+1 
+  
+ 
+ 
+Our Common Agenda: Global  Digital Compa ct  
+ 
+Statement of Priorities  (revised)   
+202 3 
+ 
+The U.S. Council for International Business (USCIB) believe s that digital technologies and the online 
+environment enabled by them present an unprecedented opportunity  to grow th e glob al economy , bridge 
+inequalities through access to info rmation and opportunity  by raising productivity, foster  creativity and 
+innovation, build  trust , and e xpand  soci etal engagement and exchange . USCIB therefore applauds the UN 
+Secretary G eneral’s inclusion of the proposed Global Digital Compact  (GDC) as part  of Our Common Agenda.   
+ 
+Key to realizin g the developmental benefits of digital transformation are policies that support an enabling 
+environment  for technology innovation . Such policies  may addres s economic, social/cultural, technical, and 
+governance issue s, all of which are interlinked and cross -cutting. This  holistic approach best ensures the 
+development of an open, safe, highly secure, stable, interoperable, seamless , and sustainable digital 
+ecosystem with the potential to close development gaps  and addr ess other inequities . In short, this is how 
+the suggested GDC object ives  can be achieved . 
+ 
+USCIB regards the following issues as ke y to realiz ing improved digital cooperation:  
+ 
+Infrastr ucture, Con nectivity, and Spectrum  – Access to connectivity is an imperative to the achievement of 
+the Sustainable Development Goals (SDGs).  The be nefits of digita l transformation and the GDC ’s proposed  
+aspiration to connect all people to the Internet, i ncluding all schools  can only be realized if there is 
+adequate broadband infrastructure and spectrum .  In its most recent official statistics , the International 
+Telecommunication Union (ITU) found that more than 2.9 billion people are not using the Internet,  96% of 
+who m live in developing countries.1  
+ 
+Lack of affordable financing is a critica l inhibitor to the growth of Internet Service Providers (ISPs ) in 
+developing countries. If we are to  succeed in connecting the unconnected , it is critical that International 
+Financial Institutions as well as  developed and developing countries alike do more to incentivize new 
+financing models, included blended finance and  multistakeholder partnerships,  to support the build -out of 
+broadband in frastructure as well as wireless devices and other related aspects of a rapidly evolving digital 
+ecosystem.   
+ 
+For connectivity  to be people -centered  and meaningful,  we need  to go beyo nd universal  access . We support  
+the Roundtable  on Global  Connectivity’s  base line and targets  for meaning ful connectivity  as well  as the 
+inclusion  of five connectivity  enablers,  including  infrastructure,  affordability , skills,  devices,  and safety  and 
+securi ty. 
+ 
+In addition, the availability of licensed spectrum for  exclusive use an d shared use as well as unlicensed use 
+has an important and complementary role in promoting the accessibility of t he Internet and its 
+developmental potential. There are many import ant uses of spectrum, including broadcast and mobile 
+broadb and as well as fo r Wi -Fi. Effective and technologically neutral management of this increasingly scare 
+ 
+1  2021  edition  of Facts  and Figures , https://www.itu.int/itu -d/reports/statistics/fac ts-figures -2021/  
+
+2 
+ resource must be a priority f or UN members while ensuring the integrity of services offered by existing 
+spectrum license holders.   
+ 
+Multistakeholder Gover nance Approaches  -- The global digital ecosystem benefits when government 
+policymakers work in close cooperation with business , civil society , academia, and the technical 
+community . Giv en the rapi d pace of technological change, governments need the per spec tives provide d by 
+these stakeholder groups to better understand what policies are commercially viable, technically feasible, 
+and o ffer adequate personal privacy protections. Such stakeh older inclu sion also can lower the risk of 
+unintended consequences and increase the leg itimacy of policies  that are adopted . The UN h as been at the 
+forefront of establishing a multistakeholder approach as the norm.2 As such, the GDC should reinforce this 
+principle an d actors should endeavor to carry out multistakeholder processes for Interne t governance, 
+while not duplicating existin g forums  and instead leveraging and strengthening  existing forums and 
+workstreams. The GDC can also serve as a centralized med ium for wor kstreams related to digital 
+devel opment and inclusion.  
+ 
+Avoid  Internet Fragment ation – The remarkable success of the Internet as a communications tool is 
+grounded in its design as an  open, interconnected , and interoperable network . Particularly  in support  of 
+achieving the UN Sustainable Development Goals (SDGs), we must promote this design. However,  various 
+technical, legislative , and policy developments  - including restrictions on da ta flows, interference with free 
+expression , techno -protection ist initiat ives,  and Internet shutdowns - have in recent y ears caused the 
+Internet to fragment  and digital divides to grow . Whether taking place at the technical, network , or 
+application layers of the Internet , this fragme ntation is undermin ing the open, i nterconnect ed, and 
+interoperable Intern et and consequently undermining the associated b enefits to social and economic 
+developme nt as well as harming human rights.  
+ 
+We therefore warmly welcome the Secretary -General’s propo sal to have Internet fragmentation  included  
+as pa rt of the GDC . The GDC shou ld call for harmonization in global approaches to Internet governance that 
+promote free flows of data, encryption, and rig hts to freedom of expression and privacy online.  We note 
+that the Internet Governance Forum has recentl y establish ed a Policy Network3 to explore these issues, 
+which should provide helpful input as to how these issues can be understood and a ddressed.  Further 
+unders coring the urgency to address Internet f ragmen tation, w e note that USCIB has endors ed principl es 
+to he lp prote ct and open, inter connected, and interoperable Internet .4 
+ 
+Free Flow of Data  Across Borders  – USCIB  embraces the view that the free flow of data and information is 
+critical for economic reco very  and growth , as well as  advancemen t of the SDGs . Policies that facilitate the 
+adoption of new technol ogie s and the global movement of data and information will enable all cit izens and 
+companies to realize the full potential of the Internet as a platform for innovation, economic growth, and  
+gender equality. Digital technologies can pro vide women with tools  to feel more secure, access education  
+and healthcare , and obtain financi al resources . 
+ 
+The proliferation of government -mandated  requirements to process or store data locally, us e or develo p 
+technology locally, use local content or com ply with specif ic technical requirements  serve as onerous 
+barriers to cross -border flows of da ta. Such localization requirements – as well as di fferences in domestic 
+approaches – hurt domestic econom ies and jeo pardize the very privacy and security they aim to safeguard.  
+ 
+ 
+2  The UN -sponsored Wo rld Summit on the Information Soc iety in 2003 and 2005 set the foundation for a multistakeholder 
+appro ach to the  governance of ICTs.  
+3 https ://www.intgovforum.or g/en/content/policy -network -on-internet -fragmentation   
+4 https://www.gp -digital.org/an -open -interconn ected -and-interoperabl e-internet -joint -letter/  
+3 
+ The GDC should encourage collaboration on the interoperability of frameworks to promote the flow of data 
+and explicitly oppose restrictions on data flows, while upholding privacy  stan dards, reco gnizing the 
+ongoing evidence -based work by  the OECD on the topic .5 
+ 
+Indeed, in line with Our Common Agenda’s  call to establish a Digital Commons as a global public good , it 
+would be val uable to look at the societal benefits that can be accr ued f rom open da ta – finding ways to 
+share and collaborate  around data to make decis ions, improve efficiency, foster scientific discover y and 
+innovation, and tackle some of the world’s most pressing societal challenges , including fights COVID -19. 
+The GDC could also offer definition and clarity into the notion of a “global digital commons ” and what it 
+exactly entails.  
+ 
+Another way in which the GDC could help build a Digital Commons i s to provide backing for the concept of 
+Digital Public Goods, as promoted in the Secretar y-General’s  2020 Roadmap for Digital Cooperation. Digital 
+Public Goods (DPGs) are open -source software, open d ata, open AI models, open standards, or open 
+content that  adhere to the  standard6 developed by the Digital Public Goods Alliance . One of the DPG 
+stan dard’s indicat ors is relevance to the Sustainable Development Goals  (SDG s), and DPGs can be seen as a 
+tool to accelerate achievement of the Agenda for Sustainable D evelopment.  
+ 
+Complem enting this USCIB encourages the GDC to consider the OECD Re commendatio n on Enhancing 
+Access to and Sharing of Data to maximize the benefits of data while protecting the rights o f individuals and 
+organizations.7 
+ 
+Importance of Trust  and Security  – By the same token, U.S. business realizes that  the benefits of digit al 
+transformat ion enable d by data flows will only be realized and embraced by consumers, businesses, and 
+governments who trust the  online environment and fe el confident that the privacy of  their perso nal data 
+will be respected and tha t their online systems  are secure. We ag ree wi th the GDC ’s call for data protection . 
+Business remain s committed to complying with applica ble privacy regulations and recognize s its 
+responsibility to adopt best p ractices to ensure that personal data and information is appropriate ly secure 
+as techn ology and serv ices evolve.  
+ 
+We further recognize tha t a risk-based , voluntary  approach to online security , which leverages 
+international standards such as th ose adopted by the  ISO, is essential to ensur ing a secure, stable, and 
+resilient Internet ecosy stem . We b elieve that trust in the online e nvir onment is best achieved thro ugh 
+privacy and security protections that do not unnecessarily restrict  the free flow of data across internati onal 
+boundaries  and are globa lly interoperable . Stakehold ers should ens ure that s ecurity principles do not 
+promote fragmentation. In addition, the  work should not duplicate or conflict with ongoing workstreams in 
+the UN , including but not limited to  the Ope n Ended Working Group on C ybersecurity  (OEWG ) 2021 -2025 
+and th e Ad Hoc  Committee on Cybercrime . These various UN wo rkstreams have recognized  cybersecurity 
+as essential to international security and th e securit y of users  onlin e, as have o ngoing efforts by companies 
+to curb the harms from  bad actors  in cyberspace.  We welcome the link between digital  trust and security in 
+the Secretary -General ’s Roadmap for Digital Cooperation , and look forward to further  consultations with 
+companies in deve loping and deploy ing ICT further in a t rustwor thy manner  alongside the UN thro ugh 
+multis takeholder processes  and partnerships.  
+ 
+ 
+5 https://goingdigital.oecd .org/dat a/notes/No21_ToolkitNote_PrivacyDataInteroperability.pdf . In additio n, 
+https:/ /www.oecd.or g/digital/ieconomy/privacy.htm  
+6 https://digitalpublicgoods.net/standard/  
+7 https: //legalinstruments.oe cd.org/e n/instruments/OECD -LEGAL -0463  
+4 
+ Online Safe ty and Well -being  in the Di gital Age  - Fostering trust also involve s ensuring a safe and 
+empowering  online experience.  USCIB recognizes the shared challenge of e mbedding  safety onlin e and 
+encourag ing multi stakeholder coope ration to help individuals, es pecially youth a nd vulnerable groups, 
+make h ealthy decisions online, stay safe , buil d resilience , and thrive in the digital w orld . This includes  not 
+only  committing to privacy and safety -by-design  but ensuring digital experiences e nable children to grow 
+constructively  and d evelop 21st century ski lls like creativity, problem solving and cri tical thinking.  
+ 
+The protectio n of users ’ – and thus human – rights is core to the UN ’s mission, and cor e to protecting the 
+safety of users on line. The GDC should  also na me the  shar ed responsibility of governments to e nable open,  
+public discourse online and refrain f rom censoring speec h, as well as ensuring co nnectivity and access to 
+the Internet and digital pla tforms and products. This framewor k can advance  the goals outl ined in the 
+Secretary -General ’s Roadm ap on  Digital Coop eration  in relati on to digital human righ ts and enable further 
+discuss ion aro und guidance and ga ps. 
+ 
+We encourage innovative ap proaches, such as the application of Artificial Intelligence (AI), to help  enhanc e 
+efforts to address harmful content. We urge the GDC to consider  existing recommendation s such as the 
+OECD Recommendation of the Council o n Children in the Digital Env ironmen t, which was also recognized 
+by the 2021  G20 and in the 2021 G7 Internet Safety Principl es.8 It should also build on the wor k of the UN 
+system such as UNICEF’s programs on Ch ild Rights in the Digital Age9 and Responsibl e Innovation in 
+Technology fo r Children10 as well as  and the ITU’s work on Child Online Protection.11  
+ 
+In promoting  better onli ne environments, the GDC should reco gnize th e importance of adopting a  holistic 
+approach that inc orporates safety  alongside  individ ual rights and  a person ’s overall well -being , 
+acknowledging  the fact that it is better to manage risks  and create opportu nities for expression, growth and 
+develo pment rather than mandate  sterile digital spaces.  This includes educating and equipping individuals 
+with digital skills and  literacy, so use rs are empowered t o make informed ch oices online , navigate risk , and 
+discern mis - and disinformation.  
+ 
+Open Market s and Predictabl e Regulatory Environments  – The availa bility of d igital technology and online 
+services to an ever -increasing  percentage of th e world’s population requires that  governments open their 
+markets to competitive ICT and application providers and foreign investme nt.  UN m embers should 
+support the  adoption of pr edictable, rules -based regulatory environments that will re sult in a full ra nge of 
+competitive providers suppl ying services to markets that are currently unders erved.  We urge that this 
+elemen t be included in  the GD C. 
+ 
+Protection of Human Rights Online -- With the a dven t of the Internet and digital transfo rmation o f the 
+economy, U.S. business has sought op portunities to work with governments, regulators, non-governmental 
+organizations,  and others to m eet the challenges posed by new tec hnologies and to help ensure tha t the 
+Internet is used to foster an excha nge of id eas. We are strongly committed to human ri ghts, including the 
+right to free dom of expression , in line with the UN Guiding Principles on Business and Human Rights.  The 
+UN has a track record of engagi ng the private sector on these issues, including through t he Business and 
+Human  Rights in Technology (B -Tech) initiative.12 As the leading UN entity on human rights, the OHCHR  
+plays a key role as a co nvener and thought leader.   
+ 
+8 OECD, Recommendation o f the Co uncil on Children in the Digital Environment, 2021.  
+https://legalinstruments.oecd.org /en/instruments/OECD -LEGAL -0389 
+9 UNICEF, Child R ights in the Digital Age. https:/ /www.unicef -irc.org/research/child -rights -in-the-digital -age/  
+10 UNI CEF, Child Rights in the Digital Age. http s://www.unicef -irc.org/research/child -rights -in-the-digital -age/; UNICEF, 
+Responsible Innovation in Technology for Children . http s://www.unicef -irc.org/ri tec 
+11 ITU, Guideline s on Child O nline Protection, 2020. https://www.itu -cop-guidelines.com/   
+12 OHCHR,  B-Tech Proje ct, https://www.ohchr.org/EN/Issues/B usiness/Pages/B -TechProject.aspx   
+5 
+  
+It is therefore welcome that  the Secretary -Gen eral has proposed that the GDC should recogni ze the need to 
+apply human rights online as one would apply those huma n rig hts offline . Furthermore, USCIB would like 
+to underscore the  importance of transparent, multistakeholder dialogues to advance the goals outlined in 
+the S ecretary General ’s Roadmap on Digital Human Rights, such as addressing protection gaps, 
+discouragi ng In ternet shut downs, an d providing more detailed guidance on th e application of human rights 
+standards in the digital  age.13 
+ 
+Importance of  Artificial Intelligence (AI) – USC IB recognizes the potential  of AI to address economic, 
+societal, and environmenta l inequ alities. Indeed, we regard AI technologies as computationa l intelligence 
+that can help subject matter experts to mak e advances in ever y sector, enabling innovation and highly 
+beneficial applicati ons in healthcare, agriculture, education, manufacturi ng, and  transpor tation, among 
+other areas. AI and other virtual/a ugmented reality technologies  are just at the beginning of  commercial 
+deploy ment and will continue to evolve a nd develop.   
+ 
+We believe that existing  regulation s are sufficient for these servi ces and t hat any  new requirements  should 
+be carefully c onsidered in consultation with stakeholders  to ensure they are narro wly tailored to ad dress 
+specific concerns as they ar ise. Consequently, we do not believe that the GDC  should get involved in the 
+deve lopment of  regul ation of  AI.  Premature and overly expansive reg ulatory activity could have 
+unforeseen consequences  that wo uld stunt the grow th of these emerging technologies and the benefits 
+consumers could enjoy from their contin ued development.  Rather, it is essential that all stakeholders work 
+together to shape the  development of AI to foster trust and broad adopti on.  Thi s includ es educati ng people 
+about AI’s potential for  societal good , addressing worries about job dislocation , and reskilling workers so 
+they can stay  ahead of the technological curve and seize the benefits of AI transformation.   
+ 
+Imp orta ntly, he GDC shoul d not duplicate exis ting workstreams, such as the OECD ’s AI Principles,14 rather 
+they should build on their progress to establish consis tent internation al positions that support effective 
+self-regulat ion. While regulation is important, it should be risk -based and should not be prescriptive . 
+ 
+Introducing Accountability  Criteria for Discrimina tory and Misleading Content  – USCIB encourage s the GDC  
+to consider ongoing efforts and investments by many US companies to strengthen transparency and 
+reporting around ho w they address discriminatory  and misleading content online , and to no t dup licate 
+existing  and ongoing workstreams for co -regulatio n and self -regulation.  
+ 
+ 
+ 
+ 
+ 
+13 https://www.un .org/en/conte nt/digital -cooperation -roadma p/  
+14 OECD, Princip les on AI, 2019. http s://oecd.ai/en/ai -principles   

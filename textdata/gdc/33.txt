@@ -1,0 +1,550 @@
+ 1 
+ 
+Binary’s Submission to the Global Digital Compact  
+ 
+March 2023  
+ 
+ 
+ 
+ 
+Binary  is a non -profit organisation, aiming to bridge the culture of the 
+physical and digital world, tackling the digital divide, the on/off 
+switches, establishing the anthropocentric principles and values to the 
+digital era . 
+ 
+https://www.thebinary.org  
+ 
+The submission was drafted by Dr Mando Rachovitsa . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 2 
+Setting a Human Rights Compliant Legal Framework for the Use of Spyware  
+ 
+A. The Use of Spyware Violates Human Rights  
+1. Pegasus and Mobile Device Hacking: Severe Interferences with the Exercise of 
+Human Rights  
+2. Upholding Media Freedom and the Safety of Journalists in the Digital Age   
+ 
+B. Revising the Wassenaar Arrangement and the Export Control Regime  
+ 
+C. States’ Obligations under the Global Human Rights Framework  
+1. Reinforcing Safeguards in National Legislation  
+2. Requirements for Authorising Spyware Surveillance Operations  
+3. Strict Assessment of National Security as the Basis for a Spyware Surveillance 
+Operation  
+4. Notification of Individuals Placed under Targeted S urveillance  
+5. Effective and Independent Ex -post Oversigh t  
+6. Effective and Meaningful Legal Remedies for Targeted Surveillance  
+ 
+Appendix 1 : Key commitments, pledges, or actions that should be taken by different 
+stakeholders – governments, private sector, civil society  
+ 
+Appendix 2 : Core principles that all governments, companies, civil society organisations and 
+other stakeholders should adhere to  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+Setting a Human Rights Compliant Legal Framework  
+for the Use of Spyware  
+ 
+ 
+A. The Use of Spyware Violates Human Rights  
+ 
+Spyware is intrusive covert technology for surveillance of the content of individuals’ digital 
+communications and other information, including metadata (e.g., location, duration, source and 
+contacts). It has proliferated internationally out of all control and poses substantial  risks to the 
+effective exercise of human rights.1  
+ 
+Our knowledge of the problem is very limited due to the secrecy in the market. What we know 
+of exists mainly thanks to the digital -forensic work of non -governmental researchers, such as 
+Citizen Lab , and tenacious reporting by civil society organisations and the media, especially 
+investigative reporting.2 The huge challenges involved are illustrated by the recent revelations 
+concerni ng the use by repressive regimes of Pegasus, a surveillance software programme 
+manufactured by the intelligence company NSO Group based in Israel. In 2021, the Pegasus 
+Project , a collective of investigative journalists, NGOs and researchers, brought to the surface 
+a list of 50,000 persons who had been targeted with spyware. Among them, journalists, 
+lawyers, prosecutors, activists, politicians, and even (former) heads of state. Citizen Lab has 
+identified Pegasus software being used as a surveillance tool targeting individuals in 45 
+countries, including Bahrain, Saudi Arabia, Togo, the United Kingdom of Great Britain and 
+Northern Ireland and the United Sta tes.3  On 10 March 2022, the European Parliament decided 
+to set up a Committee of Inquiry to investigate the use of Pegasus and equivalent surveillance 
+spyware (PEGA Committee).4 The PEGA Committee found that many EU States, including 
+ 
+1 Human rights implications of the development, use and transfer of new technologies in the context of counter -
+terrorism and countering and preventing violent extremism, Report of the Special Rapporteur on the promotion 
+and protection of human rights and fu ndamental freedoms while countering terrorism, Fionnuala Ní Aoláin, UN 
+Doc A/HRC/52/39, 1 March 2023, [44].  
+2 Surveillance and human rights, Report of the Special Rapporteur on the promotion and protection of the right to 
+freedom of opinion and expression,  UN Doc A/HRC/41/35, 28 May 2019, [1].  
+3 Bill Marczak, John Scott -Railton, Bahr Abdul Razzak, Noura Al -Jizawi, Siena Anstis, Kristin Berdan, and Ron 
+Deibert, Pegasus vs. Predator  Dissident’s Doubly -Infected iPhone Reveals Cytrox Mercenary Spyware , 16 
+December 2021, https://citizenlab.ca/2021/12/pegasus -vs-predator -dissidents -doubly -infected -iphone -reveals -
+cytrox -merce nary-spyware/ ; Surveillance and human rights report (n 2) [9].  
+4 Committee of Inquiry to investigate the use of Pegasus and equivalent surveillance spyware, Draft Report, 8 
+November 2022, Rapporteur: Sophie in ’t Veld, https://www.europarl.europa.eu/doceo/document/PEGA -PR-
+738492_EN.pdf . 
+ 4 
+Poland, Hungary, Gr eece and Cyprus , have used Pegasus and other brands of surveillance 
+spyware against journalists, politicians, law enforcement officials, diplomats, lawyers, 
+business people, civil society actors and other actors in an illegal and abusive manner.5 
+ 
+1. Pegasus and Mobile Device Hacking: Severe Interferences with the Exercise of 
+Human Rights  
+Pegasus spyware is a surveillance product which offers the capability of hacking remotely 
+directly into mobile devices. The use of Pegasus leads to such serious interferences with the 
+right to privacy that it is hardly possible to be considered proportiona te.6 This is so for a series 
+of reasons:  
+▪ Contrary to classic wiretapping, spyware enables control over the mobile system 
+allowing access not only to incoming/outgoing conversations, but also to all messages, 
+log calls, files (e.g., images and documents) o n a phone, allowing to build a full profile 
+of a victim.7  
+▪ This full -control access includes retroactive access to files and messages created in the 
+past, as well as metadata about past communications. 8  
+▪ The victim is not aware of the use of spyware.  
+▪ Spyware leaves few traces on the victim's device, and, even if it is detected, it is nearly 
+impossible to prove who was responsible for the attack.  
+▪ Crucially, not only direct victims have their rights affected, but also potentially all their 
+contacts who ar e indirect victims also suffering possible violations of their human 
+rights.  
+ 
+Targeted and covert surveillance of individuals – often journalists, activists, opposition figures, 
+critics and others exercising their right to freedom of expression – has been shown to lead to 
+silencing dissent, sanctioning criticism or punishing independent reporting.9 The sanctions may 
+not be applied to the targets but to their networks of contacts. The targeted communities know 
+ 
+5 Committee of Inquiry to investigate the use of Pegasus and equivalent surveillance spyware, 4 January 2023, 
+European Parliament Draft Recommendation to the Council and the Commission, pursuant t o Rule 208(12) of the 
+Rules of Procedure, following the investigation of alleged contraventions and maladministration in the application 
+of Union law in relation to the use of Pegasus and equivalent surveillance spyware,  
+https://www.europarl.europa.eu/doceo/document/PEGA -RD-740554_EN.pdf , 3. 
+6 PEGA Draft Report (note 4) 3; PEGA Draft Recommendation  
+7 PEGA Draft Report (note 4) 3.  
+8 PEGA Draft Report (note 4) [430].  
+9 Surveillance and human rights report (note 2) [1].  
+ 5 
+of or suspect such attempts at surveillance, wh ich in turn shapes and restricts their capacity to 
+exercise the rights to freedom of expression, association, religious belief, culture.10 
+ 
+The impact of surveillance on multiple human rights is considerable. The abuse of spyware 
+does not just violate the right to privacy of individuals.  The UN Special Rapporteur on the 
+promotion and protection  of human rights and fundamental freedoms while countering 
+terrorism highlights that the right to privacy functions as a gateway right  protecting and 
+enab ling many other rights and freedoms, and its protection is intimately related to the existence 
+and advancement of a democratic society.11 Participation in public life becomes impossible 
+without the certainty of being free and unobserved.  
+ 
+2. Upholding Media Freedom and the Safety of Journalists in the Digital Age   
+Independent, free and pluralistic news media is a pillar of democracy, a tool to support 
+accountability and transparency, and a means to sustain open deliberation and encourage the 
+exchange of diverse views.12 Public interest media, and in particular investigative journalism, 
+play a crucial role in ensuring access to reliable information on vital issues.13 Targeted 
+electronic surveillance of journalists poses a challenge to investigat ive journalism and 
+compromises the confidentiality of journalistic sources. States have used targeted digital 
+surveillance to limit investigative journalism, intimidate, control public narratives, and 
+undercut critical reporting.14 Widespread digital surve illance practices ultimately discourage 
+confidential sources from communicating with journalists, with significant chilling effects  on 
+free press, civil society, whistle -blowing and investigative journalism .15 For instance,  in the 
+case of journalist Thanasis Koukakis, who was spied on by spyware Predator for at least three 
+months,  the International Federation of Journalists condemned the Greek government’s 
+attempts to interfere with journalists' communications and urged for a swift investig ation.16 
+ 
+10 Surveillance and human rights report (note 2) [21].  
+11 Human rights implications of the development, use and tra nsfer of new technologies in the context of counter -
+terrorism (note 1) [45].  
+12 Reinforcing media freedom and the safety of journalists in the digital age, Report of the Special Rapporteur on 
+the promotion and protection of the right to freedom of opinion and expression, UN Doc A/HRC/50/29, 20 April 
+2022, [13].  
+13 Reinforcing media freedom and the safety of journalists in the digital age (n ote 12) [14], [43].  
+14 Reinforcing media freedom and the safety of journalists in the digital age (n ote 12) [45],  [49].  
+15 Reinforcing media freedom and the safety of journalists in the digital age (note 12) [47].  
+16 Greece: Journalist spied on by new surveillance software , 14 April 2022, https://www.ifj.org/media -
+centre/news/detail/category/press -releases/article/greece -journalist -spied-on-by-new-surveillance -software -
+report.html . See also Eliza Triantafullou and Tasos Tell oglou, Εvidence of a joint National Intelligence Service -
+Predator surveillance centre , 24 March 2023 , https://insidestory.gr/article/evidence -joint-nis-predator -
+surveillance -centre . 
+ 6 
+B. Revising the Wassenaar Arrangement and the Export Control Regime  
+ 
+The Wassenaar Arrangement on Export Controls for Conventional Arms and Dual -Use Goods 
+and Technologies  is a multilateral export control regime for controlling conventional arms and  
+dual use goods and technologies. It was updated to include interception, intrusion and IP 
+network surveillance technologies on its list of controlled items. It defines intrusion software 
+as ‘software specially designed or modified to avoid detection by mo nitoring tools, or to defeat 
+protective countermeasures’ and that either extracted data from a computer or network device 
+or modified the ‘standard execution path’ of a program to allow ‘the execution of externally 
+provided instructions.’ This definition i ncludes spyware.17 
+ 
+The effectiveness of the international export control regime created by the Wassenaar 
+Arrangement is limited . First, the Wassenaar Arrangement is non -binding. Second, several 
+major arms exporters, including Israel, China, and Belarus, are not part of the 42 States 
+participating in the Wassenaar Arrangement retaining open a significant export controls gap.18 
+Third, because of Russia’s nonconstructive participation, the a bility for consensus through this 
+mechanism is increasingly limited.19 Finally, while the Wassenaar Arrangement limits the 
+export of sensitive dual use goods and technologies to non -participating States, it does not 
+prohibit the purchase of surveillance te chnology from a non -participating States.20 The 
+transparency requirements  set up by the  Wassenaar Arrangement are also  inadequate .21 
+ 
+More importantly, the Wassenaar Arrangement’s framework is ill -suited for addressing the 
+threats that targeted surveillance pose to human rights , since  it lacks any guidelines or 
+enforcement measures that would directly address human rights violations caused by 
+surveillance tools.22 
+ 
+ 
+17 PEGA Draft Report (note 4) [445] -[447].  
+18 Currently, the following states participate: Argentina, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, 
+the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, India, Ireland, Italy, Japan, 
+Latvia, Lithuania, Luxembourg, Malta, Mexico, Ne therlands, New Zealand, Norway, Poland, Portugal, Romania, 
+Russia, Slovakia, Slovenia , South Africa, South Korea, Spain, Sweden, Switzerland, Turkey, Ukraine, the United 
+Kingdom, and the United States.  
+19 PEGA Draft Report (note 4) [445] -[447].  
+20 PEGA Draf t Report (note 4) [445] -[447].  
+21 PEGA Draft Report (note 4) [445] -[447].  
+22 Surveillance and human rights report (note 2) [34].  
+ 7 
+The problem is so urgent that many  United Nations (U N) and other bodies have calle d an 
+immediate moratorium on the export, sale, transfer, use or servicing of privately 
+developed surveillance tools until a human rights -compliant safeguards regime is in place.  
+The U N High Commissioner for Human Rights, the  UN Special Rapporteur on the promotion 
+and protection of the right to freedom of opinion and expression,  the UN Special Rapporteur 
+on the promotion and protection of human rights and fundamental freedoms while countering 
+terrorism as well as the PEGA Committee have called for stricter  regulation of surveillance 
+exports and restrictions on their use and for an immediate moratorium on the global sale and 
+transfer of the tools of the private surveillance industry until rigorous human rights safeguards 
+are put in place.23  
+ 
+▪ Putting in plac e rigorous human rights safeguards  
+ 
+(a) Exporting States should join the Wassenaar Arrangement and abide by its rules and 
+standards to the extent that these are consistent with international human rights law.24 
+(b) States participating in the Wassenaar Arrangement  should develop a framework by 
+which the licensing of any technology would be conditional upon a national human 
+rights review and companies’ compliance with the UN Guiding Principles on Business 
+and Human Rights.25 
+(c) States and companies should set clear and  enforceable guidelines on transparency and 
+accountability with respect to licensing decisions, surveillance -related human rights 
+abuses and the treatment of vulnerabilities.26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23 Surveillance and human rights report (note 2) [2], [66(a)]; Use of spyware to surveil journalists and human 
+rights defenders , Statement by UN High Commissioner for Human Rights Michelle Bachelet,  19 July 2021, 
+https://www.ohchr.org/en/ 2021/07/use -spyware -surveil -journalists -and-human -rights -defendersstatement -un-
+high-commissioner ; Human rights implications of the development, use and transfer of new technologies in the 
+context of counter -terrorism (not e 1) [48]; PEGA Draft Report (note 4) [586] -[587].  
+24 Surveillance and human rights report (note 2) [66].  
+25 Reinforcing media freedom and the safety of journalists in the digital age (note 12) [124].  
+26 Surveillance and human rights report (note 2) [66].  
+ 8 
+C. States’ Obligations under the Global Human Rights Framework  
+ 
+The International Covenant on Civil and Political Rights (ICCPR) protects everyone’s rights 
+to privacy, opinion and expression. Article 17(1) of the ICCPR provides that ‘[n]o one shall be 
+subjec ted to arbitrary or unlawful interference with his privacy, family, home or 
+correspondence’. The right to privacy functions as a gateway right protecting and enabling 
+many other rights and freedoms , including the right to freedom of expression or the right  to 
+political participation.27 Article 19 of the ICCPR protects everyone’s right to hold opinions 
+without interference and to seek, receive and impart information and ideas of all kinds, 
+regardless of frontiers and through any media.  
+ 
+The limitation of bo th the right to privacy and the right to freedom of expression is subject to 
+a three -part test, namely that:   
+(a) restrictions must be provided by law;  
+(b) restrictions must be imposed only when serving one of the exhaustively 
+enumerated legitimate reasons provide d in Articles 17 and 19 ICCPR; and  
+(c) restrictions must be necessary and proportionate.  
+ 
+State parties to the ICCPR are under the obligation to provide in law and practice necessary 
+safeguards, oversight and scrutiny mechanisms, and means of redress with regard to the use of 
+spyware.28  
+ 
+1. Reinforcing Safeguards in National Legislation  
+States deploying surveillance tools must ensure that they do so in accordance with a domestic 
+legal framework that meets the standards required by international human rights law.29 
+(a) Any legislation governing surveillance must be clear, foreseeable, precise and publicly 
+accessible.  
+(b) Surveillance should only be authorised in law for the most serious criminal offences.  
+ 
+27 Surveillance and human rights report (note 2) [24]; Human rights implications of the development, use and 
+transfer of new technologies in the context of counter -terrorism (note 1) [45].  
+28 PEGA Draft Report (note 4) 6.  
+29 See in detail, Surveillance and human rights report (note 2) [50]; PEGA Draft Report (note 4) [588].  
+ 9 
+(c) Privileged professions, such as lawyers, journalists, politicians, and doctors, shall not 
+be targeted by spyware.30 
+(d) States should develop and implement national action plans, based on human rights 
+obligations and tailored to online as well as offline issues, to advance the freedom, 
+independence a nd pluralism of the media; set up prevention and protection mechanisms 
+for the safety of journalists; and promote awareness about human rights standards and 
+best practices.  In this regard, States should consult with civil society and journalists’ 
+organi sations in developing, monitoring and assessing their national action plans in a 
+transparent and inclusive way.31 
+ 
+2. Requirements for Authorising Spyware Surveillance Operations  
+A surveillance operation must be approved for use against a specific person only i n accordance 
+with international human rights law and when authorised by a competent, independent and 
+impartial judicial body, with all appropriate limitations on time, manner, place and scope of 
+the surveillance.32 
+(a) A surveillance operation must be authorised by a competent, independent and impartial 
+judicial body.   
+(b) Surveillance requests should only be permitted in accordance with regular, documented 
+legal processes and the issuance of warrants for such use. Surveill ance requests should 
+include all available information.  
+(c) Given the fact that spyware allows for retroactive access to messages, files and 
+metadata, the surveillance request, the judicial approval of authorisation of said request 
+and any ensuing warrants ne ed to define the precise scope of the operation and what 
+information is allowed to be accessed.  
+(d) A surveillance operation should only last as long as is strictly necessary. Prior judicial 
+authorisation should accordingly define the temporal scope of the ope ration.  
+(e) Law enforcement and judicial authorities have the obligation to use a version of 
+spyware that is programmed in such a way that it minimi ses access to data. The spyware 
+should not have access to all data stored on a device, but should be programmed in such 
+a way that it limits access to data to the minimum of what is strictly necessary.  
+ 
+30 Reinforcing media freedom and the safety of journalists in the digital age (note 12) [123]; PEGA Draft Report 
+(note 4) [588(k)].  
+31 Reinforcing media fre edom and the safety of journalists in the digital age (note 12) [105] -[106].  
+32 See in detail, Surveillance and human rights report (note 2) [50]; PEGA Draft Report (note 4) [588].  
+ 10 
+(f) Specific provision and appropriate resources should be made for law enforcement and 
+judicial authorities to have access to independent technological expertise concern ing 
+the use of different types and version s of spyware.   
+(g) When assessing the necessity and proportionality of a surveillance operation, it is the 
+State that has the burden of proving that a given restriction imposed to a human right is 
+the least intrusive instrument among those that might achieve the same function.  
+ 
+3. Strict Assessment of “National Security” as the Basis for a Spyware Surveillance 
+Operation  
+In the area of targeted surveillance, it is commonplace for States to seek to justify restrictions 
+impo sed on the rights of individuals on the basis of national security.33 The mere reference to 
+national security is not sufficient. States need to be able to demonstrate that a threat to 
+national security is genuine, present or foreseeable  in order to justify  serious interferences 
+with human rights.34 Therefore, judges and courts should not grant excessive and/or baseless 
+deference to perceived national security and law enforcement interests.  
+ 
+4. Notification of Individuals Placed under Targeted S urveillance  
+Individual targets of surveillance are often not aware of the surveillance being carried out 
+against them.  Being notified of such surveillance is a necessary precondition for individuals to 
+be able to exercise their rights.35 
+(a) Individuals placed  under targeted s urveillance have the right to be notified without 
+undue delay, unless an independent judicial authority grants delay of such notification  
+because it  would seriously jeopardise the purpose of said surveillance . 
+(b) The notification of a surveil lance operation should include information regarding the 
+date and duration of the surveillance; the warrant issued for the surveillance operation; 
+data obtained; information on how that data has been used and by which actors; and the 
+date of deletion of th e data.  
+(c) The notification  of a surveillance operation should notify the individual placed under 
+targeted s urveillance of their rights and remedies available pursuant to law.  
+ 
+ 
+33 Surveillance and human rights report (note 2)  [24].  
+34 E.g., Court of Justi ce of the European Union, La Quadrature du Net and Others , C-511/18, C -512/18 and C -
+520/18, 6 October 2020 [156]. PEGA Draft Report (ntoe 4) [429], [589] -[590].  
+35 See in detail, Surveillance and human rights report (note 2) [50]; PEGA Draft Report (note 4)  [588].  
+ 11 
+5. Effective and Independent Ex -post Oversight   
+(a) There must be effective and independent oversight over the use of spyware by public 
+authorities.  
+(b) Independent oversight bodies shall have all required means and powers to exercise 
+meaningful oversight.  
+(c) Parliamentary oversight bodies shall have cross -party  membership and full access to 
+information.36 
+ 
+6. Effective and Meaningful Legal Remedies for Targeted Surveillance  
+Article 2(3)(a) of the ICCPR imposes an obligation to provide victims of violations with access 
+to an effective remedy.  
+ 
+Victims of targeted surveillance have had little success in their efforts to obtain recognition of 
+the harm suffered, let alone remedi es for s aid harm.37 Victims are refused access to information, 
+even regarding the charges against them that supposedly justified their surveillance. 
+Prosecutors, judges and law enforcement refuse to investigate and often put the burden of proof 
+on the vict ims, expecting them to prove they have been targeted with spyware.38 Due to the 
+nature of spyware and the little to no traces left behind after its use, it is difficult for victims to 
+prove the existence of a surveillance operation or attribute a surveilla nce operation to State 
+actors. Access to (technical) expertise and resources in order to be able to demonstrate the 
+aforementioned are factors to be seriously considered.39 
+(a) Individuals who claim to be adversely affected by surveillance should have access t o 
+redress through an independent (judicial) oversight body which will conduct a swift, 
+thorough and impartial investigation.  
+(b) Legal remedies must be effective in both law and practice and they must be known and 
+accessible.  
+(c) Effective legal remedies require that the oversight body will be mandated to end on -
+going violations.  
+(d) When alleged violations are of a grave nature, criminal prosecution should be 
+required.40 
+ 
+36 PEGA Draft Report (note 4) [588(f)].  
+37 Surveillance and human rights report (note 2) [40].  
+38 PEGA Draft Report (note 4) 6.  
+39 Surveillance and human rights report (note 2) [54].  
+40 PEGA Draft Report (note 4) [588(g)].  
+ 12 
+(e) During the surveillance operation, authorities should delete all irrelevant data , 
+pursuant to the scope of the judicial authorisation of said operation. After the 
+surveillance operation and the investigation for which the authorisation was granted 
+ceases, authorities should delete the data as well as any related documents, such as notes 
+that were taken during that period. The deletion must be recorded, and the se records 
+should be auditable.41 
+(f) The States’ duty to provide effective remedies also entails an ob ligation to protect 
+individuals from acts by private sector entities that cause infringements, by exercising 
+due diligence to prevent, punish, investigate or redress the harm caused by such acts by 
+private persons or entities.42 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+41 PEGA Draft Report (note 4) [588(h)].  
+42 Surveillance and human rights report (note 2) [39].  
+ 13 
+Appendix 1 : Key commitments, pledges, or actions that should be taken by 
+different stakeholders – governments, private sector, civil society  
+ 
+1. States need to subject the authorisation and use of spyware to rigorous safeguards  that 
+meet the standards required by international human rights law.  
+ 
+2. States should not target by spyware privileged professions, such as lawyers, journalists, 
+politicians, and doctors.  
+ 
+3. States should uphold media freedom and the safety of journalists in the digital age.  
+ 
+4. States should develop and implement national action plans, based on human rights 
+obligations to advance the freedom, independence and pluralism of the media.  
+ 
+5. A surveillance operation must be approved for use against a specific person only in  
+accordance with international human rights law and when authorised by a competent, 
+independent and impartial judicial body, with all appropriate limitations on time, 
+manner, place and scope of the surveillance.  
+ 
+6. National authorities have the obligation to  notify without undue delay  individuals that 
+were placed under targeted s urveillance , unless an independent judicial authority grants 
+delay of such notification.  
+ 
+7. States should put in place effective and independent oversight mechanisms over the use 
+of spyware.  
+ 
+8. States need to provide individuals who claim to be adversely affected by surveillance 
+access to legal and effective redress.  
+ 
+9. States should not invoke in an excessive manner national security as a basis to justify 
+the use of spyware . 
+ 
+10. Law enforce ment and judicial authorities have the obligation to use a version of 
+spyware that is programmed in such a way that it minimises access to data.  
+ 
+11. The States’ duty to provide effective remedies also entails an obligation to protect 
+individuals from acts by  private sector entities that cause infringements, by exercising 
+due diligence to prevent, punish, investigate or redress the harm caused by such acts by 
+private persons or entities.  
+ 
+12. States should agree upon an immediate moratorium on the export, sale, transfer, use or 
+servicing of privately developed surveillance tools  until a human rights -compliant 
+safeguards regime is in place.   
+ 14 
+ 
+13. States should revise the Wassenaar Arrangement by making it binding and embedding 
+rigorous human rights safeguards and processes.  
+ 
+14. Companies that produce spyware should set clear and enforceable guidelines on 
+transparency and accountability with respect to licensing decisions, su rveillance -related 
+human rights abuses and the treatment of vulnerabilities.  
+ 
+ 
+ 
+Appendix 2 : Core principles that all governments, companies, civil society 
+organisations and other stakeholders should adhere to  
+ 
+1. The authorisation and use of spyware  should be subject to rigorous human rights 
+safeguards.  
+ 
+2. Privileged professions, such as lawyers, journalists, politicians, and doctors , should not 
+be targeted by spyware.  
+ 
+3. Media freedom and the safety of journalists needs to be upheld in the digital age.  
+ 
+4. The use of spyware should be subject to necessary safeguards, provided in law and 
+practice; oversight and scrutiny mechanisms; and means of redress.  
+ 
+5. Targeted, covert surveillance tools must be deployed in accordance with a domestic 
+legal fra mework that meets the standards required by international human rights law.  
+ 
+6. A surveillance operation must be approved for use against a specific person only in 
+accordance with international human rights law and when authorised by a competent, 
+independent and impartial judicial body, with all appropriate limitations on time, 
+manner, place and scope of the surveillance . 
+ 
+7. Individuals placed under targeted s urveillance have the right to be notified without 
+undue delay, unless an independent judicia l authority grants delay of such notification  
+if it would seriously jeopardise the purpose of the surveillance . 
+ 
+8. There must be effective and independent oversight by public authorities over the use of 
+spyware.  
+ 
+9. Individuals who claim to be adversely affect ed by surveillance should have access to 
+legal and effective redress through an independent (judicial) oversight body which will 
+conduct a swift, thorough and impartial investigation.  
+ 
+ 15 
+10. National security should not be invoked in an excessive and/or baseless  fashion to 
+justify the use of s pyware.  
+ 
+11. An immediate moratorium needs to be imposed on the export, sale, transfer, use or 
+servicing of privately developed surveillance tools  until a human rights -compliant 
+regime is in place.   
+ 
+12. The Wassenaar Arrangement needs to be revised by embedding rigorous human rights 
+safeguards and processes.  
+ 
+13. Clear and enforceable guidelines on transparency and accountability with respect to 
+licensing decisions, surveillance -related human rights abuses and t he treatment of 
+vulnerabilities need to be set for companies  that produce spyware.  
+ 
+ 
+ 

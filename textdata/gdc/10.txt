@@ -1,0 +1,1122 @@
+Equity 2030: Building an Equitable Future for All
+Rising to the 2030 Agenda and Our Common Agenda by closing the gender equity
+1
+gap
+in technology, data, and financing solutions
+In November 2022, the world’ s population reached 8 billion, presenting the international community with
+a unique window of opportunity to empower women and girls and create a world of equal opportunities.
+There is still much work to be done to ensure all 8 billion people on the planet can exercise their rights
+and choices and realize their full potential.
+While
+the
+exponential
+growth
+of
+digital
+technologies
+continues,
+this
+growth
+is
+not
+equitable,
+and
+consequently , neither are the benefits of the digital revolution.
+Currently ,
+there
+is
+a
+significant
+gap
+in
+gender -inclusive
+digital
+innovation,
+which
+can
+be
+attributed
+to,
+among
+other
+things,
+a
+lack
+of
+women’ s
+inclusion
+in
+various
+stages
+of
+the
+design
+and
+development
+of
+digital
+solutions,
+as
+well
+as
+inadequate
+investment
+in
+research
+and
+innovation
+in
+women-centric
+digital
+solutions.
+A
+large
+body
+of
+evidence
+suggests
+that
+design
+in
+technology
+is
+often
+“male-centric”
+by
+“default”
+2
+.
+Reports
+show
+that
+women-centric
+technology
+companies
+receive
+only
+3%
+of
+all
+digital
+health
+funding
+3
+ .
+A
+study
+from
+2018
+showed
+that
+only
+20%
+of
+healthcare
+venture
+capitalists
+had
+ever
+funded
+a
+women’ s
+healthcare
+company
+4
+.
+Gender
+bias
+in
+the
+adoption
+of
+customer
+technology
+results
+in
+overlooking
+the
+barriers
+faced
+by
+women
+in
+the
+adoption
+of
+technology ,
+including
+geographical
+and
+cultural
+limitations.
+The
+lack
+of
+women’ s
+inclusion
+in
+training
+algorithm
+decisions
+leads
+to
+erroneously
+amplifying
+male
+data,
+rendering
+women
+statistically
+invisible.
+In
+healthcare,
+gender -biased
+technology
+can
+lead
+to
+delayed
+or
+incorrect diagnosis and treatment.
+Furthermore,
+gender
+inequity
+in
+the
+design
+of
+digital
+solutions
+makes
+many
+virtual
+spaces
+unsafe
+for
+women
+and
+girls.
+The
+alarming
+prevalence
+of
+online
+violence
+against
+women
+further
+deprives
+them
+of
+the
+ability to safely participate and maintain a digital presence.
+Digital
+solutions
+can
+be
+the
+great
+equalizer
+to
+disrupt
+inequality .
+Yet,
+progress
+cannot
+be
+achieved
+without
+gender -equitable
+and
+women-centric
+solutions.
+Women
+and
+girls
+are
+not
+a
+niche
+–
+they
+represent
+half
+of
+the
+world's
+population.
+To
+be
+gender -inclusive,
+digital
+technologies
+and
+solutions
+must
+address
+their
+needs.
+The
+Global
+Digital
+Compact
+can
+set
+the
+principles
+for
+designing
+gender -transformative
+digital
+solutions
+and
+establish
+the
+normative
+approach
+for
+digital
+development
+that
+ensures
+equitable
+access
+and
+utilization.
+4
+Frost & Sullivan  “Femtech: Time for a Digital Revolution in the Women’s Health Market”, 31.1.2018.
+3
+Gambon, Stotz & Sandhu  “Femtech is expansive—it’s
+time to start treating it as such”, Rockhealth, 3.8.2020.
+2
+Caroline Criado Perez,
+Invisible Women: Data Bias
+in a World Designed for Men
+(Abrams Press, New York,
+2019)
+1
+Gender equity is the process of being fair to women and men. To ensure fairness, strategies and measures must often be available to compensate for women’s 
+historical and social disadvantages that prevent women and men from otherwise operating on a level playing field. Equity leads to 
+equality
+.(https://www.unfpa.org/resources/frequently-asked-questions-about-gender-equality)
+1
+
+The development of technological solutions and policymaking should:
+-
+Integrate
+gender  equity in design
+at all stages;
+-
+Incorporate
+gender
+equity
+in
+data
+,
+including
+while
+developing
+algorithms,
+training
+data
+sets,
+establishing data security , and in the adoption of customer technologies;
+-
+Secure
+equitable
+financing
+to
+design,
+develop
+and
+produce
+women-centric
+digital
+solutions,
+including in the area of wellbeing, healthcare and education.
+Building
+on
+the
+2030
+Agenda
+for
+Sustainable
+Development,
+the
+Programme
+of
+Action
+of
+the
+International
+Conference
+on
+Population
+and
+Development,
+and
+the
+UN
+Secretary
+General’ s
+“Our
+Common
+Agenda”
+and
+“Roadmap
+for
+Digital
+Cooperation”,
+we
+note
+the
+following
+core
+principles
+and
+actions
+that
+should
+be
+taken to allow us to collectively achieve gender equity in digital technologies:
+1 .
+Ensuring gender equity in the design of all digital solutions at all stages.
+Gender -inclusive
+design
+is
+an
+essential
+step
+towards
+gender
+equity .
+The
+Global
+Digital
+Compact
+should
+promote
+a
+gender -transformative
+approach
+5
+in
+the
+design
+of
+digital
+solutions
+as
+part
+of
+a
+continuum
+towards
+gender
+equity .
+This
+would
+include
+promoting
+policies
+and
+regulations
+that
+ensure
+gender -inclusive
+technologies
+through
+gender
+parity
+in
+data
+sets,
+customer
+technology
+adoption,
+algorithm decisions, as well as data training and security – all following the
+Do No Harm
+principle.
+Including
+women
+in
+user
+testing
+and
+explicitly
+identifying
+their
+concerns,
+including
+for
+safety ,
+is
+an
+essential
+part
+of
+gender
+equity
+in
+design.
+As
+such,
+the
+recognition
+and
+integration
+of
+technology-facilitated gender -based violence prevention and protection tools is critical.
+It
+is
+also
+important
+to
+eliminate
+gender
+bias
+in
+machine-readable
+data
+sets
+that
+result,
+for
+example,
+in
+unequal
+labeling
+of
+men
+and
+women’ s
+images,
+and
+differential
+outcomes.
+Securing
+a
+diverse,
+gender -inclusive
+group
+of
+end-users
+from
+different
+contexts
+is
+critical
+to
+ensuring
+an
+applicable
+and
+contextual solution.
+At
+the
+same
+time,
+a
+global
+alliance
+of
+key
+actors
+is
+required
+to
+ensure
+that
+digital
+technology
+is
+not
+only
+gender
+equitable,
+but
+that
+through
+gender
+equity
+in
+design,
+digital
+solutions
+are
+making
+tangible
+progress
+in advancing gender equality and women’ s empowerment.
+5
+Technical note on gender-transformative approaches to the Global Programme to End Child Marriage Phase II: a summary for practitioners
+(UNICEF & UNFPA 
+publication, 2020). Picture adapted, with permission, from: Pederson, A., Greaves, L., and Poole, N. ‘Gender-transformative health promotion for women – a 
+framework for action’, Health Promotion International, vol. 30, no. 1, March 2015. 
+2
+
+2 .
+Close
+the
+gap
+in
+data
+on
+gender-equity
+in
+digital
+solutions
+and
+women-centric
+digital solutions.
+The
+Global
+Digital
+Compact
+should
+promote
+and
+facilitate
+the
+process
+whereby
+all
+relevant
+actors
+have
+metrics
+and
+mechanisms
+to
+identify ,
+record
+and
+report
+disaggregated
+data
+on
+gender
+equity
+in
+digital
+solutions design, as well as on women-centric digital solutions and relevant investments.
+Diversity ,
+equity
+and
+fairness
+have
+not
+always
+been
+prioritized
+in
+digital
+solutions,
+and
+the
+evidence
+base
+available
+is
+limited.
+6
+Data
+revealing
+the
+existence
+of
+inequalities
+can
+be
+used
+to
+further
+galvanize
+action
+towards
+the
+achievement
+of
+the
+Sustainable
+Development
+Goals.
+Currently ,
+data
+on
+digital
+solutions
+addressing
+the
+inclusion
+of
+women
+in
+data
+sets
+and
+women-centric
+solutions
+is
+so
+marginal
+and
+of
+such
+poor quality that it perpetuates a cycle of insuf ficient evidence, exacerbating existing biases.
+Quality
+data
+is
+needed
+to
+track
+and
+monitor
+progress,
+and
+ensure
+that
+agreed
+upon
+objectives
+are
+met.
+Where
+data
+does
+not
+exist,
+it
+must
+be
+created
+by
+collective
+inputs
+from
+all
+stakeholders,
+with
+careful
+consideration
+made
+to
+the
+possible
+limitations
+and
+biases
+of
+data
+sets.
+Building
+a
+solid
+foundation
+of
+evidence
+is
+a
+complex
+process
+requiring
+multiple
+studies
+and
+the
+engagement
+of
+a
+wide
+range
+of
+population groups.
+5
+Data
+collection
+should
+be
+anchored
+in
+safe
+and
+ethical
+principles,
+including
+instances
+where
+personal
+data
+may be mined for malicious actions through, for example, digital solutions on Internet of Things.
+Human
+rights-based
+approaches
+are
+central
+to
+ensure
+that
+efforts
+are
+made
+to
+address
+the
+gap
+on
+gender -equity in digital solutions and women-centric design solutions.
+3 .
+Facilitate investment across all digital solution processes and value chains
+The
+Global
+Digital
+Compact
+endeavors
+to
+accelerate
+the
+shift
+in
+investment
+distribution
+towards
+gender -inclusive
+and
+women-focused
+digital
+solutions,
+and
+away
+from
+gender -biased
+digital
+solutions,
+including so-called “gender neutral” digital solutions that receive disproportionately lar ger investments.
+Current
+investments
+in
+women-centric
+solutions
+and
+technology
+companies
+developing
+such
+solutions
+are
+meager .
+Data
+on
+investments
+in
+gender -inclusive
+digital
+solutions
+are
+hard
+to
+identify
+due
+to
+a
+lack
+of
+reporting and available metrics.
+The
+scarcity
+of
+investment
+in
+gender -equitable
+digital
+solutions
+is
+a
+self-reinforcing
+circle.
+Global
+inequity
+in
+the
+health
+sector
+leads
+to
+significant
+financial
+losses,
+and
+is
+greatly
+affected
+by
+non-medical
+drivers.
+7
+Representative
+data
+sets
+are
+among
+the
+powerful
+levers
+that
+can
+be
+used
+to
+disrupt
+the
+status
+quo
+and
+also
+require
+more
+funding.
+The
+economic
+interconnectedness
+of
+these
+issues
+underline
+how
+various
+stakeholders can play an important role in closing the equity gap.
+Integrating
+gender
+perspectives
+into
+policies
+would
+strengthen
+the
+case
+for
+national
+and
+international
+financial investments in the implementation and enforcement of regulatory tools and mechanisms.
+7
+Greene & Bishen “Businesses can play a key role in
+advancing health equity worldwide”, World Economic Forum, 10.10.2022.
+6
+Horn & Gebreyes “Erasing bias in emerging technologies – 3 considerations”, World Economic Forum, 31.8.2022.
+3
+
+This
+is
+a
+call
+for
+action
+to
+ensure
+the
+Global
+Digital
+Compact
+advances
+equity
+through
+digital
+technology ,
+helping
+build
+an
+inclusive,
+sustainable
+and
+gender -equal
+future
+where
+women’ s
+voices
+are
+heard, their needs are met, and their potential is fulfilled.
+Gender inequity in digital solutions may not be intentional, but our ef forts to address the bias should be.
+This statement has been endorsed by the following entities:
+●
+Admiral Development Or ganization 
+●
+African Physiotherapy Aid 
+●
+African Women In Tech Startups 
+●
+Alliance for Universal Digital Rights
+(AUDRi)
+●
+Bayer Pharma AG 
+●
+Berlin Partner for Business and
+Technology
+●
+Biba Transformations LBG 
+●
+Burundi Rugby League Rugby A XIII 
+Cooperative
+●
+Community Restoration Initiative Project
+●
+doctHERs
+●
+Echoing Green
+●
+EQUALS Global Partnership
+●
+Equality Now
+●
+Falling Walls Foundation gGmbH 
+●
+GBBC (Global Blockchain Business
+Council)
+●
+Genedos Cooperative
+●
+Global Pre-eclampsia Initiative
+●
+Good Hood Pty Ltd
+●
+hapaSpace
+●
+Hospitainer
+●
+How Women Lead / How Women Invest 
+●
+ImpalaBridge
+●
+International Trade Center/ ITC 
+SheT rades Initiative 
+●
+Kaufmann & Company
+Rechtsanwaltsgesellschaft mbH
+●
+Maternity Foundation
+●
+MecRa Software and Communication
+Agency
+●
+Missionpharma A/S 
+●
+Myanmar Youth Foundation for SDGs 
+●
+Nexleaf Analytics 
+●
+Nordic Innovation House Silicon Valley 
+●
+Oxbow Technologies 
+●
+Paniamor Foundation
+●
+People Centered Internet
+●
+Population Communication
+●
+Population Council
+●
+PROCOSI (Programa de Coordinación
+en Salud Integral)
+●
+Rising Winners Youth Empowerment 
+Initiative (R WYEI) 
+●
+Salesforce
+●
+Society for Peace and Sustainable
+Development
+●
+Sukaar Welfare Or ganization 
+●
+UN Global Pulse
+●
+UNICC - United Nations International
+Computing Centre
+●
+URUKUNDO Initiative
+●
+USA  for UNFP A 
+●
+Viamo 
+●
+Women in Entrepreneurship and
+Technology (WETECH)
+●
+World Wide Web Foundation
+This statement has been endorsed by the following individuals:
+●
+Andrea Lucard
+●
+Annie Lindmark
+●
+Babita Coutinho
+●
+Betty Pittard
+●
+Burcu Avcıbay Vurgeç 
+●
+Eimear Savage
+●
+Emmanuella Hammah
+●
+Hope Ukaegbu
+●
+Jennifer E McClure
+●
+Kasahun
+●
+Laura Holber ger 
+●
+Dr Lennie Bazira
+4
+
+●
+Luma Lessa
+●
+Mahdaoui Elkhansa
+●
+Ma. Zophia Emmanuelle Tendido 
+●
+Muhammad Haris
+●
+Okhala Muacanhia
+●
+Rahul Choudhary
+●
+Sascha Haselmayer
+●
+Stella Dermosoniadi
+●
+Tolotra Andriamanana 
+●
+Dr Tracy Gardner 
+●
+Victoria Cyrus
+If
+you
+wish
+to
+join
+this
+initiative
+and
+see
+your
+name
+or
+the
+name
+of
+your
+organization
+included 
+here, register  your  endorsement
+here
+or send your
+confirmation to:
+equity2030@unfpa.org
+You may find mor e information on the
+Equity 2030 Alliance
+webpage
+5

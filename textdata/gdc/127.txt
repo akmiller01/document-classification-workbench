@@ -1,0 +1,233 @@
+1.
+Global Digital Compact Submission
+April 2023
+This submission is from a coalition of UK experts on violence against women and girls, including both 
+civil society representatives and academics based in the UK. These include the End Violence Against 
+Women Coalition, Glitch, Refuge, Carnegie UK, NSPCC, 5Rights, Suzy Lamplugh Trust, Professor Clare 
+McGlynn (Durham University) and Professor Lorna Woods (Essex University). 
+This group came together for the first time in 2022 in response to the omission of any express men -
+tion of women, girls or misogyny within the Online Safety Bill, the UK’s legislation for the regulation of 
+certain internet services. The coalition developed a code of practice on violence against women and 
+girls, to be added to the Bill’s existing framework. This code of practice provides a ready-to-use set 
+of guidelines to technology companies to enable them to understand, address and respond to the 
+breadth of violence against women and girls online. The coalition continues to campaign for this code 
+of practice to be introduced in the Online Safety Bill – currently going through the UK’s House of Lords 
+– to ensure technology companies are regulated to adequately tackle online violence against women 
+and girls in the UK.  The code of practice can be read here . 
+Whilst the coalition’s work has so far been focused on the UK’s regulatory and legislative system, 
+we believe this code of practice has global relevance along with the underlying principle of system -
+ic regulation that informs it. Systemic regulation shifts the focus from individual items of content and 
+looks instead to the underlying platforms on which content is found and the impact of design choices 
+and business models on the communications environment created by the internet service. This set of 
+guidelines has the potential for adaptation by other national jurisdictions, for the regulation of technol -
+ogy platforms operating elsewhere. Furthermore, it serves as a useful tool for supranational bodies, 
+such as the UN, to promote solutions to online violence against women and girls to their member 
+states. Finally, the guidelines can be adopted by technology companies with global reach, as a tool for 
+them to self-regulate against online violence against women and girls.  It is a model that can be used 
+to tackle different problem areas, as well as capable of being deployed in regulatory, self regulatory 
+or supra national contexts.  This approach also fits with the UN Guiding Principles on Business and 
+Human Rights which specify1 that companies should have ‘a human rights due diligence process to 
+identify, prevent, mitigate and account for how they address their impacts on human rights.’ 
+Tackling violence against women and girls is a significant omission from the key digital issues that the 
+Common Agenda Report suggests should be included in the Global Digital Compact.  As will be illus -
+trated in more detail in our response, women and girls across the globe experience the online world in 
+a gendered way. As we outline in more detail in Section 4, violence against women and girls online is 
+part of the continuum of gendered violence that affects society at a global scale. In the same way as 
+offline violence, this type of gender inequality intersects with multiple structural inequalities including 
+race, disability, sexuality, religion and age. The perpetuation of violence against women and girls in a 
+digital sphere creates wider societal and cultural harm, such as preventing women and girls’ political 
+1  https:/ /www.ohchr.org/sites/default/files/Documents/Publications/GuidingPrinciplesBusinessHR_ EN.pdf
+
+2.April 2023
+participation and freedom of expression in the digital space without abuse. Therefore, an “open, free 
+and secure digital future for all”, as the UN’s Global Digital Compact aims for, cannot be achieved with -
+out naming violence against women and girls online as a key issue.  
+This response references the relevance of online violence against women and girls to key issues 
+included in the Common Agenda Report, namely ‘applying human rights online’ and ‘accountability 
+for discrimination and misleading content’.  However, the coalition also highlights coverage of violence 
+against women and girls itself as a key omission from the list of issues mentioned.  
+4. Apply human rights online 
+a) Core Principles 
+Women and girls’ right to live free from violence is internationally recognised. The UN has long upheld 
+this right, including in the UN declaration on the elimination of violence against women (1993)1.  Gen -
+eral recommendation 35 has recognised that “the prohibition of gender-based violence against wom -
+en has evolved into a principle of customary international law”.2
+It is also internationally recognised that violence against women and girls (VAWG) committed in the 
+digital sphere is part of a continuum of abuse which threatens this right both online and offline. This 
+was reported by the UN Special Rapporteur on Violence Against Women and Girls:  
+“Women and girls across the world have increasingly voiced their concern at harmful, sexist, misog -
+ynistic and violent content and behaviour online. It is therefore important to acknowledge that the 
+Internet is being used in a broader environment of widespread and systemic structural discrimination 
+and gender-based violence against women and girls.” It has repercussions for the enjoyment of their 
+human rights by women and girls as well as the elimination of discrimination.
+The Council of Europe group GREVIO (Group of Experts on Action Against Violence Against Wom -
+en and Domestic Violence) has stated3 that they consider “this obligation to cover all expressions of 
+violence against women, including digital expressions and violence perpetrated with the help of or 
+through technology.” The European Council’s Commissioner for Human Rights also stated4 “Not only 
+does violence perpetrated in the digital sphere amount to gender-based violence against women 
+and girls, breaching a wide range of human rights as protected by international and European human 
+rights standards, but it also has a chilling effect on democratic discourse.”  
+Similarly, the United Nations has emphasised5 that the Convention on the Rights of the Child calls on 
+State parties to take legislative and administrative measures to protect children from violence in the 
+digital environment... Such risks include... gender-based violence’. Furthermore, UNESCO’s Internet 
+for Trust work highlights6 the negative impact online violence has on women’s participation in public 
+life: “Even worse, online gender-based violence and harassment silence women and deter them from 
+participating in the public sphere – for example, in journalism, where nearly three-quarters of women 
+have experienced online violence, and just under a third self-censor as a result.” Refuge, a UK based 
+organisation working to tackle domestic abuse, found that 38% of women who experienced abuse on 
+social media from a partner or formal partner said they felt unsafe or less confident online as a result7.
+An intersectional approach that accounts for all forms of overlapping discrimination of unique and 
+protected characteristics must be applied broadly when ending online gender-based violence. State 
+and technology companies’ responses need to consider and address different types of discrimination 
+women and other marginalised communities experience to create effective ways to prevent and in -
+tervene. Studies show that marginalised groups, such as women and people of colour, are more likely 
+to experience online abuse, which is why a better understanding is needed regarding how different 
+2 Un Convention on the Elimination of Discrimination Against Women, General Recommendation (CEDAW/C/
+GC/35), 26 July 2017, para 2: https:/ /documents-dds-ny.un.org/doc/UNDOC/GEN/N17/231/54/PDF/N1723154.
+pdf?OpenElement
+3 GREVIO, General Recommendation No. 1 on the digital dimension of violence against women, 20 October 2021 https:/ /
+rm.coe.int/grevio-rec-no-on-digital-violence-against-women/1680a49147 
+4 https:/ /www.coe.int/en/web/commissioner/-/no-space-for-violence-against-women-and-girls-in-the-digital-world
+5 UN Convention on the Rights of the Child, General Comment 25: https:/ /www.ohchr.org/en/documents/
+generalcomments-and-recommendations/general-comment-no-25-2021-childrens-rights-relation
+6 https:/ /unesdoc.unesco.org/ark:/48223/pf0000384620.locale=en
+7 https:/ /refuge.org.uk/wp-content/uploads/2021/10/Unsocial-Spaces-for-web.pdf
+3.forms of discrimination intersect and contribute to these issues. To combat abuse, there needs to be 
+an acknowledgement of the varied experiences of different groups.
+Research shows that women are 27 times more likely to be harassed online8 than men and that Black 
+women are 84% more likely9 to be the targets of abusive tweets than white women. Despite these 
+alarming figures, the experiences of Black women are often overlooked and not taken seriously.
+Women and girls’ sexual and reproductive health rights (SRHR) can also be threatened in a number of 
+ways online, from invasions of privacy with significant legal implications10  to the online harassment and 
+abuse of health professionals and those accessing sexual and reproductive health services.11 Research 
+has also demonstrated the prevalence of misinformation and often coordinated disinformation regard -
+ing sexual and reproductive healthcare, including unsafe abortion methods and deliberately mislead -
+ing or false health advice.12 Analysis of tech platform responses to these threats have found significant 
+policy loopholes as well as inconsistencies in their enforcement.13
+There is already wide international recognition that preventing, addressing and responding to online 
+violence against women and girls is vital to the general application of human rights online, and should 
+therefore be included in the UN’s Global Digital Compact. 
+b) Key Commitment/ Pledges/ Actions 
+Violence Against Women and Girls Code of Practice can be read here . 
+Tech companies should acknowledge and respond to the fact that their products can facilitate, and 
+even encourage, harm and adopt a ‘safety by design’ approach when developing and operating their 
+services, taking into account the characteristics and experience of all users. ‘Safety’ must be under -
+stood as a context that enables all women and girls to exercise their freedom of expression online and 
+freedom of access to platforms without fear of VAWG. It is an approach that recognises that women 
+and girls already remove themselves from online spaces and refrain from expressing their views. It 
+should also be acknowledged that women and girls also currently have to exercise a degree of “safety 
+work” that inhibits and curtails their experiences and free expression, and so should not place the bur -
+den of doing further “safety work” on women and girls.  
+A Violence Against Women and Girls Code of Practice has been produced by a coalition of civil society 
+organisations and academics in the UK: Carnegie UK, End Violence Against Women, Glitch, NSPCC, 
+Refuge, 5Rights Foundation, Professor Lorna Woods and Professor Clare McGlynn. This code of prac -
+tice provides detailed guidance for technology companies to help them understand and respond to 
+the breadth of online violence against women and girls. It has ‘safety by design’ at its heart, requiring  
+that consideration of gendered harms be built in, not bolted onto service design taking into account 
+an assessment of the risks faced by women and girls. It recognises that platforms are not neutral as to 
+the content and behaviours those services facilitate and encourage. This approach is not limited to ex 
+post interventions (content moderation and take down) but at a range of different points in the content 
+distribution chain, which we see as a four stage model:
+•	content creation (including account creation) – for example, in the VAWG context security of 
+accounts and defaults to safety are important; availability of anonymous and disposable ac -
+counts constitute risk factors (though we do not suggest that anonymity should automatically 
+be banned);
+8 https:/ /www.womenlobby.org/IMG/pdf/hernetherrights_resource_pack_2017_web_version.pdf  
+9  https:/ /www.google.com/url?q=https:/ /www.wired.com/story/amnesty-report-twitter-abuse-women/&sa=D&source=
+docs&ust=1682605145629654&usg=AOvVaw3UhIRzKaG6f7sPlM9Wiz2M  
+10 https:/ /blogs.lse.ac.uk/humanrights/2022/12/14/rethinking-explicit-consent-and-intimate-data-collection-the-
+looming-digital-privacy-concern-with-roe-v-wade-overturned/  
+11 https:/ /www.reliasmedia.com/articles/148882-privacy-breaches-and-reputation-terrorism-plague-abortion-providers  
+12 https:/ /www.opendemocracy.net/en/5050/global-anti-abortion-misinformation/  https:/ /www.isdglobal.org/digital_
+dispatches/keeping-it-in-the-family-hungarys-pivotal-role-in-the-global-network-against-sexual-and-reproductive-
+rights/  
+13 https:/ /www.isdglobal.org/isd-publications/analysis-of-social-media-platforms-response-100-days-after-us-
+supreme-court-decision-overturning-roe-v-wade/  https:/ /www.isdglobal.org/isd-publications/evaluating-platform-
+abortion-related-speech-policies-were-platforms-prepared-for-the-post-dobbs-environment/  April 2023
+4.•	content discovery – the role of social media companies and search in rewarding and prioritising 
+mysognistic content is one of the issues that could be considered here;
+•	user response concerns the availability of user empowerment tools and how effective and 
+appropriate they are (though responsibility for safety should never be the sole responsibility of 
+women and girls); the role of user flagging mechanisms as well as the impact of features such 
+as likes/upvotes on user behaviour;
+•	platform response includes moderation, complaints processes and also appeals against com -
+pany decisions – in this context questions could include the question of whether some sorts of 
+situation require special response mechanisms (think about the victim of image based sexual 
+abuse, or the victim of domestic violence suffering harassment from an ex-partner). 
+ Not only does this approach give rise to a more holistic range of policy interventions but it also pro -
+vides a steer for companies when balancing potentially conflicting priorities. It a lso provides a great -
+er foundation for collaboration between technology services and those with expertise on violence 
+against women and girls, to gain a robust understanding of the breadth of risks related to this issue, so 
+that they can effectively mitigate against them.   
+5. Accountability for discrimination and misleading content
+a) Core Principles 
+Both discrimination and misleading content impacts women and girls online. While there is discrimina -
+tion offline, online services may increase and amplify the problems (rather than simply mirroring them); 
+the fact that problems exist off line should not be a justification for failing to take action online, espe -
+cially when the business and design choices of these services exacerbate the problem, or create new 
+ones (for example, problems or trolling and organised attacks such as brigading have been noted).
+Discrimination and misinformation not only affects individuals targeted, but creates wider societal 
+harms. There is ample evidence14 that gendered disinformation online undermines women’s political 
+participation and weakens democratic institutions. It has been suggested that:
+“Sexualized disinformation mixes old ingrained sexist attitudes with the anonymity and reach of social 
+media in an effort to destroy women’s reputations and push them out of public life.”15  
+Significantly, however, gendered disinformation is not always recognised as a form of online violence 
+though it is clearly discriminatory and often relies on sterotypes; disinformation is rarely seen as con -
+trary to the criminal law and its potential harm perhaps underplayed as a result. 
+Discrimination against women online limits their ability to express themselves safely in online spac -
+es16. UNESCO’s Internet for Trust work highlights17 the negative impact online violence has on women’s 
+participation in public life: “Even worse, online gender-based violence and harassment silence wom -
+en and deter them from participating in the public sphere – for example, in journalism, where nearly 
+three-quarters of women have experienced online violence, and just under a third self-censor as a 
+result.” 
+There is widespread international agreement that the online services this occurs on, and the States in 
+which these online services exist, are accountable for tackling issues related to violence against wom -
+en and girls. 
+CEDAW, the Committee on the Elimination of All Forms of Discrimination Against Women, the commit -
+tee monitoring implementation of CEDAW (adopted by the UN in 1979) states that any States ratifying 
+14 Inter-Parliamentary Union, Sexism, harassment and violence against women parliamentarians (2016), https:/ /
+www.ipu.org/resources/publications/issue-briefs/2016-10/sexism-harassment-and-violence-against-women-
+parliamentarians  and (2018) https:/ /www.ipu.org/resources/publications/issue-briefs/2018-10/sexism-harassment-
+and-violence-against-women-in-parliaments-in-europe
+15 Nina Jankowicz “How disinformation became a new threat to women: Female politicians and other high profile women 
+face a growing threat from sexualized disinformation” Dispatch, 11 December 2017, https:/ /www.codastory.com/
+disinformation/how-disinformation-became-a-new-threat-to-women/
+16 https:/ /she-persisted.org/wp-content/uploads/2023/02/ShePersisted_MonetizingMisogyny.pdf
+17 https:/ /unesdoc.unesco.org/ark:/48223/pf0000384620.locale=enApril 2023
+5.April 2023
+the convention are legally obliged to:  “eliminate all forms of discrimination against women in all areas 
+of life” and “ensure women’s full development and advancement in order that they can exercise and 
+enjoy their human rights and fundamental freedoms in the same way as men”18. 
+Furthermore, the UN Special Rapporteur on Violence Against Women concludes19 in their report on 
+online violence against women and girls that “To achieve the above-mentioned goals, any effective re -
+sponse to online gender based violence against women will require the cooperation of States, Internet 
+intermediaries and all other stakeholders on the acceptance and implementation of all core interna -
+tional human rights instruments, including those on women’s rights.” 
+This provides a strong argument that state actors have an obligation to ensure online services are 
+held accountable for discrimination and misleading content on women and girls which occurs on their 
+platforms.  This accountability, of both national jurisdictions and technology companies, specifically for 
+tackling violence against women and girls online, should be explicitly named in the UN’s Global Digital 
+Compact.   
+b) Key Commitment/ Pledges/ Actions 
+Violence Against Women and Girls Code of Practice  
+Violence Against Women and Girls Code of Practice can be read here . 
+The Code of Practice and the systemic approach noted in Section 4  are relevant to the fight against 
+dicrimination and gendered misinformation and fit in with the approach noted in the UN Guiding Prin -
+ciples. While there are many concerns relating to gendered misinformation and women in public life, 
+we also note the problem of gendered health misinformation (noted in Section 4a) which could also 
+be tackled by a safety by design approach. The four stage model (above) shows that interventions can 
+be made at a range of stages. While the general principles and concerns noted in relation to VAWG 
+in general remain relevant, specific issues in relation to disinformation could relate to duplicate and 
+anonymous accounts, the financial incentives around advertising revenue for content that receives a 
+lot of engagement, a rebalancing of recommendation tools towards reliable information; effective sup -
+port for trusted flagger programmes and consideration of how to train moderation systems.
+Tech Tax 
+Several countries have benefitted from internet innovation, and the revenue generated from the taxa -
+tion of technology services operating in their country. Nonetheless, a host of societal harms also stem 
+from online services, including online abuse. Therefore, it is appropriate that an appropriate proportion 
+of governments’ tax revenue from online technology companies should be ring fenced for civil society 
+organisations which tackle online abuse, including violence against women and girls online20.  
+ 
+18 https:/ /www.ohchr.org/en/treaty-bodies/cedaw/introduction-committee
+19 https:/ /documents-dds-ny.un.org/doc/UNDOC/GEN/G18/184/58/PDF/G1818458.pdf?OpenElement 
+20 https:/ /glitchcharity.co.uk/tech-tax-campaign/

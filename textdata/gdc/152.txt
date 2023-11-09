@@ -1,0 +1,952 @@
+Wikimedia Foundation 
+contribution to the
+Global Digital Compact
+30 April 2023
+
+2
+Introduction        1
+1. Avoid internet fragmentation   2
+2. Protect data        3
+3. Apply human rights online     5
+4. Accountability for discrimination 
+and misleading content     6
+5. Digital commons as a 
+global public good       8
+6. Liability Protections for 
+community-led Platforms     9
+7. Copyright        10
+TABLE OF
+CONTENTS
+1
+Introduction
+About the Wikimedia Foundation 
+The Wikimedia Foundation is the nonprofit 
+organization that hosts Wikipedia and other 
+free knowledge projects . The vision of our 
+free knowledge movement is a world in 
+which every single human being can freely 
+share in the sum of all knowledge. To this 
+end, we support a vibrant community of 
+more than 300,000 volunteers around the 
+world, who contribute to the Wikimedia 
+projects by adding, editing, and verifying 
+content in over 55 million articles across 
+300 languages, all for free and without ads.
+About the Wikimedia Projects
+Wikipedia and other Wikimedia projects 
+provide free access to neutral, well-sourced 
+information about science, culture, 
+history, and more encyclopedic subjects. 
+The information in question is added, 
+organized, and edited by a decentralized 
+community of volunteers who engage in 
+open debate to reach consensus around 
+content decisions and policies . Volunteers 
+address most everyday content issues 
+on the Wikimedia projects, such as 
+intentional vandalism or edits that do not 
+meet Wikipedia’s reliability and neutrality 
+standards, without interference from the 
+Foundation. This unique community-led 
+governance and content moderation model 
+has allowed the Wikimedia projects to 
+achieve the prominence and high quality 
+they have now, and the volunteer-led, 
+distributed decision-making that occurs on 
+the Wikimedia projects is a manifestation 
+of the ideals of online participation 
+and expression.
+The Wikimedia model is unique and allows 
+editors and volunteers to work together 
+towards the creation of a shared knowledge. 
+We believe that this model should be 
+protected and supported, as well as other 
+community-based models of information 
+sharing. However, these are often unknown 
+by governments and agencies drafting 
+policies and tech regulation.   Internet-related policy development 
+should not only be consistent with 
+universal human rights standards, but also 
+developed and implemented through a 
+multi-stakeholder model and be grounded 
+in a transparent and accountable process, 
+with meaningful participation of different 
+stakeholders, who can best advocate for 
+alternative models of positive internet 
+developments. For this reason, we 
+appreciate the United Nations initiative to 
+develop a Global Digital Compact through 
+a multi-stakeholder process, and welcome 
+the opportunity to submit our input.
+The Wikimedia community experiences 
+the consequences of technology 
+regulation everyday, and sometimes faces 
+unintended consequences of misguided 
+policies alongside harms caused by laws 
+that are inconsistent with human rights 
+standards. With these concerns in mind, 
+the Foundation’s Global Advocacy team, 
+composed of experts in technology policy 
+and regulation, has worked to collect 
+input that reflects and highlights both the 
+Wikimedia model explained above and the 
+experience of our global communities 
+and volunteers.
+ADavenport (WMF), CC BY-SA 4.0
+
+2
+Our team worked to reflect that experience 
+and Wikimedia’s nonprofit, volunteer-led 
+model in our recommendations, which 
+have been collected from the Foundation’s 
+individual experts and then reviewed 
+collegially as a team.
+1. Avoid internet 
+fragmentation
+Core Principles  
+An open, interoperable, resilient, and 
+secure internet is essential for Wikimedia 
+projects, which are hosted and run 
+globally so that everyone, everywhere, can 
+participate in the sum of all knowledge. 
+For instance, Wikipedia is available in 
+more than 300 languages, regardless of 
+geographies, and Wikimedia volunteers can 
+contribute to multiple language versions, 
+no matter their location. 
+Laws intending to split the internet and/or 
+create differences in access to the internet 
+harm the projects and make it impossible to 
+realize our vision.
+The 2022 OHCHR report on internet 
+shutdowns highlights how the lack of 
+internet access, especially during periods 
+of conflict, is connected with human rights 
+abuses, and the disruption of health and 
+welfare systems. The 2021 UN Secretary 
+General report “Our Common Agenda” 
+indicates universal access to the internet 
+as an enabler of human rights. Internet 
+shutdowns, disruptions of service, and any 
+means to create differences in internet 
+access across regions are a direct violation 
+of people’s human rights. Wikimedia 
+volunteers work worldwide to create, share, 
+and maintain trustworthy information 
+concerning all human knowledge, and do 
+so even in locations with limited internet 
+access, such as war zones or remote 
+rural areas. Internet fragmentation and 
+shutdowns prevent their work on the 
+Wikimedia projects and readers’ access to 
+vital information. The information they can 
+access and share is essential to form free opinions, especially where access to said 
+information is limited. 
+Avoiding internet fragmentation is 
+paramount to ensure that the most 
+vulnerable parts of the population, no 
+matter the geographies, can more generally 
+have access to vital information and 
+participate in the sum of all knowledge.
+Participation in sharing knowledge both 
+with and from those most vulnerable is 
+essential to Wikimedia projects, which 
+is why it is vital to promote a diverse 
+and equitable digital environment 
+where technological innovation is at 
+the service of the common good. Said 
+digital environment makes it possible for 
+Wikimedia volunteers to share knowledge 
+from different perspectives and sources 
+in different cultural and geographical 
+areas, enabling minorities and historically-
+excluded voices not only to participate 
+in the sum of all knowledge, but also to 
+make content on Wikimedia projects more 
+trustworthy and less biased by including 
+local and community perspectives. 
+A fragmented internet, on the contrary, 
+risks increasing inequalities.
+Key Commitment/ Pledges/Actions
+Legislation that fragments and splits the 
+internet by imposing different standards 
+and requirements in different geographies 
+causes undue burden on global platforms 
+like Wikipedia as well as on its volunteers. 
+Because Wikimedia volunteers contribute 
+content in various languages regardless 
+of their locations, they cannot continue to 
+access and share knowledge if the internet 
+is fragmented.
+• Governments, civil society, and private 
+companies should prioritize a free, open, 
+interoperable, reliable, and secure internet, 
+and avoid any regulation or policy that can 
+lead to a splinternet.
+
+3
+• Governments should take appropriate 
+measures to ensure that digital innovation 
+serves the common good, and to reduce 
+risks of market concentration lowering 
+people’s choices and opportunities to access 
+the internet, its information, and services.
+Everyone, everywhere can only participate 
+in the sum of all knowledge if they have 
+equal access to the internet, especially 
+minorities and historically-excluded 
+communities. If governments impose 
+sanctions affecting internet services and 
+activities, especially in conflict zones or 
+areas where minorities reside, this can 
+prevent these and other people from 
+accessing Wikimedia projects and their 
+content. Similarly, when people do not 
+have equal access to the internet, this 
+harms their ability to access and share 
+information, which is essential for the 
+exercise of their human rights.
+• Governments should ensure that 
+international sanctions do not prevent 
+communities from accessing the internet.
+• Governments should promote and 
+provide affordable broadband services and 
+extension of broadband services in remote 
+or underserved communities.
+The Foundation promotes the Wikimedia 
+model and other examples of open, 
+community-led, equitable information 
+sharing. Unfortunately, these models are 
+often not well-known to lawmakers. The 
+result can be laws and regulations that 
+inadvertently hinder the functioning of 
+platforms like Wikipedia due to their focus 
+on the top-down, centrally-directed model 
+of large commercial platforms. Multi-
+stakeholder participation in technology 
+policy regulation is essential to ensure that 
+the diversity of models that exist on the 
+internet are considered and supported by 
+emerging legislation.• Governments and international 
+organizations should ensure that a wide 
+variety of stakeholders are adequately 
+involved in internet-related decision-
+making processes, especially civil society 
+groups, and that these processes are 
+grounded in transparency 
+and accountability.
+2. Protect data
+Core Principles  
+Privacy is a human right. Its unwarranted 
+invasion not only interferes with the 
+right to free expression and other human 
+rights, but can also represent an existential 
+risk for minorities and others who are 
+disproportionately exposed to surveillance 
+and other risks, including journalists, 
+activists, dissidents, and marginalized 
+persons whose governments seek to 
+monitor and silence.
+Wikimedia projects are edited by volunteers 
+of every identity—social, religious, ethnical, 
+and political, to name a few. They can often 
+be members of at-risk categories, and their 
+volunteer work can at times lead to political 
+prosecution, incarceration, and even risks 
+to their lives. To ensure their safety, it is 
+essential that their identities are 
+protected on the internet and that their 
+privacy is respected. 
+Our goal is that everyone, everywhere, can 
+participate in the sum of all knowledge, but 
+people cannot engage freely in it if their 
+activities are being tracked. Surveillance 
+that fails to adhere to the “necessary and 
+proportionate” principle is particularly 
+damaging to human rights and has 
+significant chilling effects on the exchange 
+of free knowledge.
+Collecting user data also presents a 
+cybersecurity risk. There is no foolproof 
+way of storing data. In case of a data 
+breach, the personal data of Wikimedia 
+
+4
+volunteers can be used by bad actors to 
+persecute and endanger them. For this 
+reason, the Foundation collects very little 
+personal information about our users, and 
+retains it for only a short time. The less data 
+online platforms hold, the less attractive 
+they are to hackers, hostile governments, 
+and other bad actors that seek to access 
+sensitive data and present an immediate 
+and serious risk to their users—and, in 
+the case of the Foundation, even the lives 
+of Wikimedia volunteers. Due to our 
+principled support for privacy, we also 
+do not track people across the internet, 
+display ads, or sell user data to anyone. 
+In accordance with the Human Rights 
+Council Resolution on the promotion, 
+protection and enjoyment of human rights 
+on the Internet, which states that technical 
+solutions to secure and protect the 
+confidentiality of digital communications, 
+including measures for encryption and 
+anonymity, are important to ensure the 
+enjoyment of all human rights offline and 
+online, we advocate for data minimization 
+as well as pseudonymization and 
+aggregated or de-identified data, which also 
+improve cybersecurity. 
+ 
+Key Commitment/ Pledges/Actions
+Only when everybody, everywhere can 
+participate in the sum of all knowledge 
+can it be free and open. However, for 
+many Wikimedia volunteers, contributing 
+to the projects can mean having to share 
+information that contradicts government claims, or that would expose them to 
+unwanted attention. This is especially true 
+for minorities and the most vulnerable 
+parts of the population. For some 
+volunteers, a data breach or doxxing can 
+mean a threat to their freedom or even life.
+• Governments, as well as private 
+companies, should refrain from 
+implementing surveillance policies, 
+technologies, and services that violate 
+human rights. Legislation providing 
+for targeted surveillance should 
+becomplemented with robust data 
+protection laws. Without adequate 
+safeguards, people have no recourse to 
+protect themselves from unauthorized 
+surveillance, targeted criminal activities, 
+or data breaches.
+ 
+• Governments should ensure that 
+surveillance laws adhere to “necessary 
+and proportionate” principles, and should 
+hence refrain from engaging in mass or 
+blanket surveillance of 
+communications online.
+• Governments must ban the sale of private 
+surveillance technology that has been used 
+to surveil journalists and human rights 
+activists until proper safeguards to protect 
+human rights are in place, and there is 
+adequate assurance that this technology 
+will be used only for legitimate purposes.
+• Governments should minimize the 
+number of targets for surveillance, and 
+should commit to notifying targets of 
+surveillance that their communications 
+have been collected once the purpose of the 
+surveillance has concluded.
+•  Private companies should minimize 
+the data they collect about their users to 
+reduce the amount of data available for 
+government surveillance.
+• Private companies should not retain user 
+data longer than necessary to achieve
+legitimate purposes, and should de-identify 
+and/or delete data at regular intervals.
+
+5
+• Private companies should be transparent 
+with users about the data they collect and 
+when that data might be shared with 
+other entities.
+• Private companies should inform their 
+users when their information has been 
+shared with a government agency, unless 
+they are legally prevented from doing so.
+3. Apply human 
+rights online
+Core Principles 
+ 
+The internet is a key tool for facilitating 
+freedom of expression, which empowers 
+individuals to exercise many other rights, 
+such as the rights to education, artistic 
+expression, economic advancement, 
+free thought, and political participation. 
+Individuals everywhere, no matter national 
+or subnational borders, have the right 
+to access the internet freely in order to 
+exercise their freedom of expression, 
+including during times of conflict 
+or disaster. 
+The Foundation’s commitment to protect 
+the Wikimedia volunteer community-led governance model reflects the strong 
+commitment to freedom of expression 
+built into our projects. This commitment 
+has helped make them reliable sources of 
+knowledge for billions of people in pursuit 
+of a better world. In many ways, the work 
+that volunteers contribute to collective 
+projects like Wikipedia can build the 
+cooperation and understanding, as well as 
+the social and technological skills, which 
+are crucial to the efforts needed toward 
+achieving the Sustainable Development 
+Goals (SDGs). 
+In fact, the right to freedom of expression 
+directly contributes to the achievement 
+of the SDGs by enabling the basic 
+coordination and communication 
+necessary to effectuate any of these goals. 
+Strong protections for this right and that of 
+association create the conditions to form 
+movements, share information, and build 
+upon the advances of a global community. 
+Human rights principles require 
+governments to refrain from infringing 
+upon individuals’ freedom of expression 
+and right to privacy online. Strong technical 
+and policy solutions by private sector 
+entities and online platforms, including 
+community-led platforms like Wikimedia 
+projects, are necessary to protect their 
+users’ freedom of expression and privacy.
+Key Commitment/ Pledges/Actions
+Governments, international organizations, 
+private sector entities (including technology 
+companies), and online platforms are 
+responsible for protecting human rights 
+principles in online spaces. Human 
+rights principles should be at the core of 
+government policies, as well as all content 
+moderation and privacy decisions made by 
+private sector entities and 
+online platforms. 
+• Governments should prioritize human 
+rights principles in all laws, policies, and 
+regulations affecting the internet.
+Victorgrigas, CC BY-SA 4.0
+
+6
+• Governments should enact policies 
+that prevent them from overreaching 
+and requesting user data and/or content 
+alterations as well as from engaging in 
+censorship in ways that are inconsistent 
+with human rights principles.
+• Private sector entities and online 
+platforms should make human rights 
+commitments in alignment with the UN 
+Guiding Principles on Business and Human 
+Rights, and should enact strong technical 
+and policy solutions to safeguard users’ 
+human rights online.
+• Private sector entities and online 
+platforms presented with government 
+requests for user data and/or content 
+alterations, or government-imposed 
+censorship, should respond in a manner 
+that upholds human rights principles in 
+accordance with the UN Guiding Principles 
+on Business and Human Rights. 
+• Private sector entities, including online 
+platforms, should conduct due diligence to 
+identify and mitigate human rights harms 
+they cause, contribute to, or to which they 
+are linked. 
+• Governments, private sector entities, 
+and online platforms should engage 
+constructively and in good faith with civil 
+society, grassroots movements, academics, 
+and individuals in order to 
+promote accountability. 
+• Civil society, grassroots movements, 
+academics, and individuals should hold 
+governments, private sector entities, and 
+online platforms that violate human rights 
+principles online accountable.
+• Governments as well as private companies 
+should promote a human rights-based 
+approach to the design, development, 
+deployment, dissemination, evaluation, and 
+regulation of digital technologies, including 
+accountability of both governments and 
+technological products and services. 4. Accountability for 
+discrimination and 
+misleading content
+Core Principles  
+Wikipedia is currently the largest resource 
+for open and free knowledge in the 
+world. It is one of the most consulted 
+websites worldwide, and its data is also 
+used by search engines like Google, 
+virtual assistant technologies like Siri and 
+Alexa, and machine learning algorithms 
+for information and fact-checking 
+purposes. This makes Wikipedia, and 
+the other Wikimedia projects, targets of 
+disinformation. Thanks to its 
+community-led model, which includes 
+thousands of volunteers worldwide, 
+Wikipedia continues to provide free 
+information that is sourced and vetted by 
+its volunteers, positively influencing the 
+entire information ecosystem.
+When addressing discrimination and 
+misleading content online, governments, 
+private companies, civil society 
+organizations, and other stakeholders must 
+make sure that legislative proposals do 
+not end up hurting the right to freedom 
+of expression as well as digital commons 
+platform models like Wikipedia. 
+For example, laws seeking to fight 
+disinformation by increasing platform 
+liability for user-generated content pose a 
+direct threat to Wikipedia’s decentralized, 
+community-led content moderation model, 
+which as noted provably works well 
+in keeping disinformation and vandalism 
+off widely-read and influential 
+Wikipedia articles .
+Copyright laws creating undue barriers to 
+access to knowledge or requiring tracking 
+of content production are a direct threat 
+to the Wikimedia model. To establish a 
+healthy information ecosystem, it is crucial 
+to promote flexible copyright regimes 
+
+7
+and open licenses that enable sharing 
+factual, trustworthy information for non-
+commercial and public interest purposes. 
+This is vital because online spaces are left 
+open for disinformation when accurate 
+information is unavailable to be shared for 
+these purposes. 
+Wikipedia’s content moderation principles 
+do not allow original research: information 
+must be based on sources that the volunteer 
+community has deemed reliable. Hence, 
+Wikipedia both contributes directly to the 
+information ecosystem through its open 
+model, and also relies on this ecosystem 
+being healthy for its content. The quality of 
+content in turn suffers if the ecosystem is 
+not composed of a plurality of trustworthy 
+and diverse media outlets. To ensure public 
+access to reliable information, support for 
+broad public access to independent media 
+and research must be prioritized, especially 
+local and community media.
+Key Commitment/ Pledges/Actions
+The efforts of Wikimedia projects to 
+develop more trustworthy content rely 
+on the diversity of volunteers and their 
+community-led content creation and 
+moderation model, which emphasizes 
+consensus and use of reliable sources.
+Such content moderation, very different 
+from that of large for-profit technology 
+companies, requires time. To protect 
+community-led, public interest, and 
+non-commercial models, emerging 
+legislation should allow adequate time 
+for communities to collectively work on 
+content. All stakeholders should ensure 
+these online platforms and models are 
+shielded by liability protections so they can 
+operate and thrive.
+Governments as well as private 
+organizations and groups have coordinated 
+and encouraged disinformation campaigns 
+to disrupt or exert influence over 
+Wikimedia editorial processes. 
+These actions interfere with people’s rights 
+to access neutral, verifiable information, 
+and to express themselves. Coordinated disinformation is a particular 
+threat to versions of Wikipedia in languages 
+that are edited by relatively few volunteers, 
+who need more time for edits and 
+moderation. Volunteers—more so those 
+who are minorities or come from at-risk 
+categories—may face persecution for their 
+efforts to confront governments’ attempts 
+to share misleading information, especially 
+when Wikipedia becomes an online redoubt 
+for unbiased information.
+• Governments should forbid laws that use 
+disinformation and propaganda as pretexts 
+to promote their own particular points of 
+views and curb political opposition. Hence, 
+governments should not be the sole arbiters 
+of what constitutes disinformation.
+• Governments and international 
+organizations should ensure multi-
+stakeholder monitoring of influence 
+campaigns, focusing primarily 
+on disinformation actions over 
+misleading content.
+• Proposed laws, including those seeking to 
+address disinformation, should be subject 
+to human rights impact assessments, and 
+existing regulations and laws should be 
+subject to periodic human rights review.
+Wikimedia projects and the rest of 
+the information ecosystem influence 
+each other: providing and requiring 
+reliable sources makes both for 
+healthy encyclopedias and a healthy 
+environment. Hence, healthy and diverse 
+independent media, especially at the 
+local and community level, are essential. 
+Accordingly, regulation should support 
+independent media, research, and all 
+forms of independent and freely accessible 
+information, especially when shared 
+through open licenses.
+
+8
+5. Digital commons as a 
+global public good
+Core Principles  
+Wikimedia projects’ content, be it text, 
+images, data, or other, is created and 
+developed under a Creative Commons 
+open license and is, by definition, part 
+of the digital commons. Informational 
+resources and technologies are open to all, 
+and these are designed to be used by the 
+same communities that have created them. 
+Everyone, everywhere, can access, reuse 
+and/or remix them with attribution, and 
+participate in their development in order 
+to advance toward the Foundation’s goal of 
+joining in the sum of all knowledge. 
+This vision and the openness of Wikimedia 
+projects makes their resources and content 
+a global public good. Everyone, not only 
+the Wikimedia volunteer community, can 
+use and develop them, as well as further 
+develop the community-led policies that 
+sustain them. Minorities and historically-
+excluded communities are especially 
+encouraged to join in these efforts.
+Digital commons such as Wikimedia 
+projects are essential to provide wide 
+access to accurate information, which in 
+turn is fundamental for the development of 
+the SDGs by supporting digital public goods 
+that can be used by all.
+As more services and information sources 
+move online, having access to digital 
+public squares and digital repositories of 
+knowledge and memory is increasingly a 
+prerequisite for participation in public life. 
+The ability to access and share knowledge 
+can create social good and promote social 
+equity, but barriers to access often mirror 
+and amplify existing inequities instead. 
+Consequently, we need a robust public 
+information infrastructure that supports 
+and safeguards global public goods, since 
+gathering and sharing information helps 
+fulfill the promise of the internet as a 
+digital public good. Such an information ecosystem requires not only investment in 
+technical infrastructure to ensure easy and 
+equitable access to public information, but 
+also support for fields that produce and 
+organize knowledge like journalism and 
+academia. This support extends to legal 
+structures and open and free licensing of 
+many different types of information.
+Key Commitment/ Pledges/Actions
+Digital commons such as Wikipedia 
+and other Wikimedia projects should be 
+supported because they are global public 
+goods, and contribute to the development 
+of the SDGs.
+ 
+• Governments and international 
+organizations should protect and support 
+the right of communities to create and 
+maintain online platforms dedicated to 
+public information and other digital 
+public goods.
+• Governments and international 
+organizations should work through 
+multi-stakeholder processes to develop 
+standards and definitions for what 
+constitutes a digital public good, ensure the 
+right to expression online is protected, and 
+that people are not punished for accessing 
+or sharing factual information.
+• Governments should balance intellectual 
+property rights interests with the right to 
+information, and ensure the continued 
+existence of a robust public domain. 
+• Governments and international 
+organizations should invest in and promote 
+the creation and distribution of content that 
+is relevant to local and communities in a 
+variety of languages.
+• Governments and international 
+organizations should support and invest 
+in a variety of knowledge production and 
+preservation organizations and institutions.
+• Governments and international 
+organizations should create policies that 
+
+9
+promote digital inclusion and safety for 
+historically-excluded and/or 
+marginalized groups.
+• Governments and international 
+organizations should invest in online 
+connectivity and critical digital and 
+media literacy.
+6. Liability Protections 
+for Community-led 
+Platforms
+Core Principles
+Policymakers are seeking to impose 
+increased liability on online platforms, 
+holding them directly accountable 
+for third-party hosted content. These 
+legislative and regulatory efforts respond 
+to very real online dangers: harassment, 
+disinformation, and other harmful content. 
+However, regulatory responses imposing 
+liability on internet intermediaries 
+inadvertently risk harming community-led 
+models of information sharing and content 
+moderation like Wikipedia.
+The Foundation does not generally write, 
+edit, or curate the articles on Wikipedia. 
+Unlike large social media platforms, 
+Wikimedia projects rely on a decentralized, 
+volunteer-led content moderation model. 
+The Foundation only complements 
+community-led efforts by providing tools 
+development, research, trust and safety 
+support, and subject matter expertise.
+The Wikimedia model, scalable and 
+replicable, works on collaboratively-built 
+trust. Most regulations aimed at curbing 
+harms caused by the largest for-profit 
+companies often fail to consider our model. 
+Without intermediary liability protection, 
+platform hosts including the Foundation 
+would be forced to proactively monitor 
+and preemptively delete content shared 
+by volunteers in order to avoid endless 
+lawsuits. Wikimedia projects could not exist 
+as we know them: the volunteer community 
+cannot set and enforce rules for content 
+on the projects if the Foundation is held legally responsible for every upload or edit 
+it makes. The outcome prevents ensuring 
+that all people, regardless of economic, 
+geographic, or other privileges, access 
+information equitably.
+While large commercial platforms have 
+content rules written by staff and enforced 
+by content moderators employees, 
+community-led platforms rely on 
+volunteers to create and enforce rules for 
+permissible content. Human interactions 
+imply both advantages and complications, 
+and require real-time communications. 
+Some hosted content may be offensive, 
+inaccurate or misleading, and/or illegal, 
+since mistakes happen even when 
+moderating content in good faith. And 
+yet, the Wikimedia model is reliable and 
+resilient, reducing disinformation as well as 
+content that is harmful and/or illegal.
+Liability protections ensuring that 
+platforms cannot be held legally 
+responsible for user-generated content 
+help support community-led content 
+moderation models. They also allow 
+platforms to give communities more 
+control over content and encourage civic 
+engagement when creating and developing 
+collaborative information sharing projects.
+Key Commitment/ Pledges/Actions
+• Governments should grant online 
+platforms legal protection from liability for 
+user-generated content in order to protect 
+the right to freedom of expression and 
+encourage public interest spaces 
+on the internet.
+• Governments should consider the 
+chilling effects that platform liability has 
+on free expression, and the ways in which 
+incentivizing platform censorship will 
+harm human rights globally by decreasing 
+the ability of marginalized groups to have 
+their voices heard.
+• Governments should explicitly recognize 
+different types of business models, content 
+moderation models, userbases, and goals 
+
+10
+when determining a given platform’s 
+exposure to liability for 
+user-generated content.
+• Governments should not attach criminal 
+liabilities for compliance officers, since 
+fear of false prosecution and/or arrests can 
+incentivize platforms to engage in 
+excessive censorship. 
+• Governments should not mandate the 
+use of AI or automated tools for screening 
+content. Very few platforms can afford 
+deploying such technologies and, as a 
+consequence, such a request would stifle 
+innovation and create a barrier to entrance 
+for start-ups and smaller organizations. 
+Additionally, these tools can produce a 
+number of false positives and negatives, 
+which also casts chilling effects on 
+free speech. 
+• Governments should not require 
+content takedowns by platforms. Instead, 
+governments should consider notice-and-
+action regimes that require platforms to 
+review potentially harmful content and 
+decide whether to take some form of action 
+with respect to that content, especially 
+allowing and promoting the use of 
+community processes.
+7. Copyright
+Core Principles  
+Copyright law establishes who can access, 
+interact with, and use creative and cultural 
+works. Hence, copyright regimes must 
+properly balance the interests of the human 
+rights to free expression and to education 
+with the enforcement of intellectual 
+property rights of private companies
+and individuals.
+Many copyright laws often provide 
+intermediary liability protections on a 
+notice and takedown basis. This regime 
+can be abused to suppress speech, 
+particularly where the volume of copyright 
+notices or legal context rely on automatic 
+removals based on flawed algorithmic identification. Even if content is restored 
+after an incorrect removal, the initial 
+suppression can limit its reach, impacting 
+free expression at scale.
+Copyright law should explicitly encourage 
+free expression, and facilitate cultural 
+participation and access to the benefits 
+of knowledge and scientific progress. 
+The public interest of knowledge and 
+information protected by intellectual 
+property rights should also be considered: 
+suspensions and exceptions to copyright 
+might further vital research, allow access 
+to medicines and health technologies, or 
+enable public and private institutions to 
+increase the resilience of cultural heritage 
+to natural and social disasters.
+Content on Wikimedia projects is created, 
+accessed, remixed, reused, and shared 
+under a Creative Commons free culture 
+license so that everyone, everywhere, 
+can freely access, modify, and reuse it 
+with attribution.
+Copyright laws creating undue barriers 
+to access to knowledge or requiring 
+tracking of content production threaten 
+the Wikimedia model, and other similar 
+nonprofit, content creation and sharing 
+models. Flexible copyright regimes and 
+open licenses protect public interest 
+platforms, and enable open sharing of 
+factual, trustworthy information, which 
+leads to a healthier information ecosystem.
+• Governments should refrain from 
+requiring that platforms decide whether 
+hosted content subject to a copyright 
+holder complaint infringes their rights. 
+It is expected and desirable that only 
+independent judicial authorities, not 
+private sector entities, have the power to 
+determine copyright infringement.
+• Online copyright enforcement 
+mechanisms required for platforms should 
+not interfere unduly with free speech. Such 
+mechanisms should adopt an educational 
+and awareness-raising approach, rather 
+than a retaliatory one requiring the 
+
+11
+removal or blocking of content through an 
+expedited, extrajudicial process initiated by 
+a copyright holder.
+Key Commitment/ Pledges/Actions
+• Governments, as well as international 
+organizations, should promote the 
+development of human rights-respecting 
+copyright regimes.
+• Governments should refrain from 
+imposing copyright obligations on private 
+sector entities to implement content 
+filtering mechanisms.
+• Governments should adopt international 
+instruments that recognize and reinforce 
+the public interest in copyright, including 
+steps to ensure that copyright limitations, 
+durations, and exceptions serve to 
+strengthen access to knowledge 
+across borders.
+• Governments should support open 
+access to all publicly funded educational, 
+artistic, literary, and scientific knowledge. 
+Governments should also consider that 
+the public interest might, upon occasion, 
+require the suspension of the intellectual 
+property rights, say, that of vaccines, 
+medicines, and other new technologies 
+when faced with a pandemic. Similarly, 
+the public interest might require research 
+exceptions to copyright in order to increase 
+the capacity to undertake further vital 
+research and, thereby, better serve 
+the public.
+• Governments should support copyright 
+limitations and exceptions that allow archives, 
+libraries, and museums to fulfill their public 
+interest missions and that allow teachers 
+and students to use copyrighted materials 
+for teaching and learning purposes. Flexible 
+copyrights regimes allow that anyone, 
+regardless of their background or resources, 
+can learn, carry out, and benefit from research 
+and innovation, and also access and enjoy 
+knowledge and culture, even across borders, 
+which greatly improves the resilience of culture 
+and heritage during or after moments of crises 
+such fires, wars, floods, and other natural or 
+social and political disasters. 
+• Governments should support making any 
+content that has been significantly funded with 
+public money freely available to the public. 
+This includes educational content from public 
+broadcasters, data collected and analyzed by 
+government bodies, and publicly 
+commissioned studies.
+“Whose Knowledge? Decolonizing The Internet 
+Conference Participants 026” by Heykc,
+CC BY-SA 4.0
+“Whose Knowledge? Decolonizing The Internet 
+Conference Participants 018” by Heykc,
+CC BY-SA 4.0
+“Wikimania Bangladesh by Rono” by Ruhan, 
+CC BY-SA 4.0
+“Internationalism wmf” by Jason Krüger for 
+Wikimedia Deutschland e.V., 
+cropped by Bianca Flores,  CC BY-SA 4.0Cover image credits

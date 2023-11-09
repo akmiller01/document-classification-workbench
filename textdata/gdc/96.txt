@@ -1,0 +1,433 @@
+ 
+ 
+Input for the Global Digital Compact - 
+Ação Educativa / Tecla  
+ 
+ENGLISH VERSION  
+Area 01 : Connect all people to  the Internet , including  all 
+schools  
+Community networks emerge as the central focus of this area. They are a 
+political sector of society that builds an d discusses internet access policies, 
+appropriation of different technologies and telecommunications regulation 
+and, therefore, should occupy the centrality of the debate around the 
+confrontation of inequalities on the internet and digital inclusion.  
+CORE PRINCIP LES 
+• Express and value respect for the diversity of communities organized 
+by quilombola, indigenous, rural, traditional and peripheral 
+populations, self -organized producers and workers, riverside 
+dwellers, fishermen, shellfish gatherers, coconut breakers, tradit ional 
+communities in the background and pasture closure, populations 
+migrants and refugees, women, black and indigenous people, 
+LGBTQIAPN+ and of all ages. Recognizing that it is the diversity of 
+people that builds the community networking movement in Braz il; 
+• Express fundamental values that unite us in our diversity, such as 
+autonomy, well -being, collaboration, empathy and solidarity against 
+social struggles. Additionally, the communitarian appropriation of 
+social technologies, informational and communication  technologies, 
+the valorisation  of the local ways of living and knowledge and the 
+multicultural existence of Brazilians;  
+• Reaffirm our commitment to community networks as a form of digital 
+inclusion that connects with the construction of free technologies, 
+local content and participatory processes ; 
+• Emphasize that community networks are part of the digital inclusion 
+ecosystem, which are part of the guidelines of public polic ies for 
+digital inclusion in Brazil, and that they should, therefore, be an active 
+part of the processes of discussion, construction, implementation 
+and evaluation of public policies of access and  telecommunications;  
+ 
+ 
+• Highlight that information and communication technologies (ICTs) are 
+essential for communities in guaranteeing fundamental rights and 
+defend ing territories;  
+KEY COMMIT MENTS / PLEDGES /ACTIONS  
+• Map and investigate the barriers and difficulties faced by community 
+networks in Brazil, what public policies and incentive legislation are 
+needed, as well as the need to democratize technical and regulato ry 
+knowledge ; 
+• Denounce the lack of public and private financial resources for the 
+creation and continuity of initiatives led by communities, the logistical 
+and topographical challenges that cross the different territories, the 
+high costs charged by internet o perators, the lack of access combined 
+with the violation of other rights ; 
+• Claim the right to free digital territories and the creation of an 
+environment to encourage community network initiatives for digital 
+inclusion with autonomy in information and commu nication, 
+including the exchange of knowledge, the co -construction of 
+technologies, the expression of community content, the preservation 
+of memory and ancestry, the appreciation of orality and the 
+exchange of diverse knowledge;  
+• Point out the importance tha t norms, policies and public structures 
+are implemented and respected by the State, not being harmed by 
+the alternation of governments, as fundamental to democracy ; 
+• Create and promote public and private funds that support the 
+development of technologies and applications from local 
+communities, the acquisition of necessary equipment and 
+infrastruc ture, the carrying out of training activities, and the 
+maintenance of the social and technical network required for the 
+continuity of these networks ; 
+• Demand the inclusion among public access policies of the co -
+construction of actions for technological, polit ical and regulatory 
+training and for the strengthening of forms of self -management of 
+communities in the territories ; 
+• Encourage the existence of dialogue processes and the construction 
+of safe spaces so that communities can influence the definition of 
+public policies related to the regulation of the Internet and other 
+community technologies;  
+• Enable forms of support for the maintenance and sustainability of 
+local networks;  
+ 
+ 
+Source : letter  Carta Redes Comunitárias, by the  Comite de Redes 
+Comunitárias , 10 e 11 de Novembro de 2022 ( full letter available at  
+https://ibebrasil.org.br/2022/11/carta -de-redes -comunitarias -pela -inclusao -
+digital -de-todes -novembro -22/) 
+ 
+————— – 
+Area 06. Regulation of artificial int elligence  
+Artificial Intelligence is widely used in various spheres of our everyday life. 
+Howeve r, many applications are driven by erroneous assumptions about 
+algorithms' learning capacity and autonomous functioning or by 
+implementations that may harm human rights. Therefore, it is necessary to 
+have a broad dialogue, ensuring the plurality of voices,  when thinking about 
+best practices and standards for the development of technological 
+guidelines for Artificial Intelligence, truly committed to the defense and 
+promotion of human rights.  
+CORE PRINCIP LES 
+• Commit to combating racial discrimination in line with international  
+law in the context of emerging digital technologies;  
+• Combat harm ful discrimination  practic es: public policies, laws and 33, 
+implementation, regulation and social control of technologies ; 
+• Ensure th e development of Artificial Intelligence in order to avoid 
+monopoly and centralization ; 
+• Prom ote privacy and data Governance ; 
+• Offer agency, autonomy, and fair pay to workers.  
+ 
+KEY COMMIT MENTS / PLEDGES /ACTIONS  
+• States, universities and the private sector must comm it to investing in 
+the development of digital technologies that do not pose known or 
+speculative  risks to human rights;  
+• Foster debate and encourage ethical commitments and transparency 
+throughout the ideation, development and implementation phases;  
+• Banning the development of emerging digital technologies with 
+evidence of racialized discrimination, such as mass remote biometric 
+surveillance; recognition of facial expressions, identification of gender 
+ 
+ 
+and sexuality; advertising targeted by psychographi c characteristics; 
+semi -autonomous or autonomous lethal and non -lethal weapons, 
+among others ; 
+• Development of a regulatory approach should consider ex -ante 
+analysis that includes intersectional and interdisciplinary 
+identification of the predicted impacts of emerging digital 
+technologies, with the participation of potentially impacted 
+communities ; 
+• Demand that States supervise algorithmic work intermediation 
+platforms and establish public policies for regulation or promotion in 
+favour  of empl oyment defence  and generation  of fair jobs ; 
+• Establish that States, the private sector, civil society and academia 
+develop measurable inclusion policies to combat the lack of 
+representation of people of color, women, people with disabilities, 
+LGBTQ+ and their intersections in the idealiz ation, design, 
+development, analysis, supervision and implementation of emerging 
+digital technologies ; 
+• Mandate racial justice impact analysis of high -risk and/or large -scale 
+systems. This process must include the participation of independent 
+evaluators and t he representation of impacted communities and civil 
+society ; 
+• Develop technologies that use less natural resources and promote 
+the constant search for replacement with renewable resources ; 
+• • Creating alternative public, non -profit, or worker -owned 
+infrastructur e to compete with or replace data mining companies. 
+Implement mandatory transparency of code and data, shared by big 
+tech companies, to allow public or not -for-profit alternatives . 
+Sources : “Racial discrimination and emerging digital technologies: a human 
+rights analysis” – report of the UN Special Rapporteur  Tendayi Achiume ; 
+“Data Capitalism and  Algorithmic Racism”, by Data4BlackLives and Demos; 
+“Trustworthy AI”,  by Mozilla Foundation; “ Anti-Racis t Priorities on 
+Technology and Society: survey with AfroBrazilian technologists ”, collective 
+research.  
+————— – 
+Area 07. Digital commons as a global public good  
+Open Educational Resources (OER) are teaching, learning and research 
+materials that a re available in a variety of media, including digital and non -
+digital formats. These resources may be in the public domain or under an 
+ 
+ 
+open license that allows free access, use, adaptation and redistribution by 
+others with little or no restrictions. Dealin g with this agenda when 
+discussing global public goods also directs the gaze of free knowledge to 
+the field of primary education, which is so fundamental in constructing a 
+critical social vision. After all, the main objective of OER is to ensure that 
+knowl edge is accessible to all, promote equal opportunities in education, 
+and recognise the place of educators as producers of knowledge.  
+ 
+CORE PRINCIP LES 
+• Make knowledge accessible to everyone;  
+• Stimulate freedom and creativity in production;  
+• Foster collaboration, participa tion and sharing;  
+• Recognize educators and students as authors.  
+ 
+KEY COMMIT MENTS / PLEDGES /ACTIONS  
+• Integrate technology in a productive and planned way into the 
+classroom to encourage teacher and student authorship;  
+• Improve existing knowledge and allow its adaptation to local realities;  
+• Enhance and universally share courseware and other educational 
+resources to support learning;  
+• Share learning resources between institutions, academics and 
+communities of practice;  
+• Adopt technical standards that make resources more interoperable 
+and easy to integrate into different teaching and learning contexts;  
+• Ensure better use of public investment in education;  
+• Promot e open media literacy for people who use digital techno logies;  
+• Create flexible licenses to allow for broader and more legal use of 
+learning materials.  
+Sources : Sebriam, Débora; Markun, Pedro; Gonsales, Priscila. Como 
+implementar uma política de Educação Aberta e Recursos Educacionais 
+Aberto (REA): guia prático para gestores . / Débora  Sebriam, Pedro 
+Markun e Priscila Gonsales. Prefácio de Flávia Lefévre e Alexandre 
+Schneider. Apresentação de Priscila Gonsales. – São Paulo: Cereja 
+Editora, 2017.  
+ 
+ 
+ 
+ 
+ 
+VERSÃO EM PORTUGU ÊS 
+Área 1: Conectar todas as pessoas à internet, incluindo todas 
+as escolas  
+As redes comunitárias despontam como eixo central dessa área. 
+Acreditamos que este é um setor político da sociedade que constrói e 
+discute políticas de acesso à internet, apropriação das diversas tecnologias 
+e regulação de telecomunicações e, por isto, deve ocupar a centralidade do 
+debate em torno do enfrentamento às  desigualdades na internet e inclusão 
+digital.  
+Princípios Chav e 
+• Expressar e valorizar o respeito à diversidade de coletivos 
+organizados por populações quilombolas, indígenas, rurais, 
+tradicionais e periféricas, produtor es e trabalhadores auto -
+organizados, ribeirinhos, pescadores, marisqueiras, quebradeiras de 
+coco, comunidades tradicionais de fundo e fecho de pasto, 
+populações migrantes e refugiados, mulheres, pessoas negras e 
+indígenas, LGBTQIAPN+ e de toda as idades. R econhecendo que é a 
+diversidade das pessoas que constroem o movimento de redes 
+comunitárias no Brasil;  
+• Expressar valores fundamentais que nos unem em nossa 
+diversidade, como a autonomia, o bem -viver, a colaboração, a 
+empatia, as alianças entre lutas sociai s. Também a apropriação 
+comunitária de tecnologias sociais e de informação e comunicação, a 
+valorização das formas de viver e dos saberes locais e da existência 
+multicultural dos brasileiros;  
+• Reafirmar nosso compromisso com as redes comunitárias como 
+forma  de inclusão digital que se conecta com a construção de 
+tecnologias livres, conteúdos locais e processos de participação;  
+• Ressaltar que as redes comunitárias integram o ecossistema de 
+inclusão digital, que são parte das diretrizes de políticas públicas de 
+inclusão digital no Brasil, e que devem, portanto, ser parte ativa de 
+processos de discussão, construção, implementação e avaliação de 
+políticas públicas de acesso e telecomunicações;  
+ 
+ 
+• Destacar que as tecnologias da informação e comunicação (TICs) são 
+indispensáve is para as comunidades na garantia de direitos 
+fundamentais e defesa de territórios;  
+ 
+Compromissos / Promessas / Ações  
+• Levantar e detalhar quais as barreiras e dificuldades enfrentadas 
+pelas redes comunitárias no Brasil, quais as políticas públicas  e 
+legislações de incentivo necessárias, bem como a necessidade de 
+democratizar o conhecimento técnico e normativo;  
+• Denunciar a falta de recursos financeiros públicos e privados para 
+criação e continuidade de iniciativas lideradas pelas comunidades, os 
+desafios logísticos e topográficos que atravessam os diferentes 
+territórios, os altos custos cobrados por operadoras de internet, a 
+falta de acesso combinada com a violação de outros direitos;  
+• Reivindicar o direito a territórios digitais livres e a criação de  um 
+ambiente de incentivo às iniciativas de redes comunitárias para a 
+inclusão digital com autonomia de informação e comunicação, 
+incluindo a troca de saberes, a co -construção de tecnologias, a 
+expressão de conteúdos comunitários, a preservação da memória e 
+ancestralidade, a valorização da oralidade e o intercâmbio de saberes 
+diversos;  
+• Apontar a importância de que as normas, políticas e estruturas 
+públicas sejam implementadas e respeitadas pelo Estado, não sendo 
+prejudicadas pela alternância de governos que  é fundamental à 
+democracia;  
+• Criar e fomentar fundos públicos e privados que sustentem o 
+desenvolvimento de tecnologias e aplicações, a partir das 
+comunidades locais, a aquisição de equipamentos e infraestruturas 
+necessárias, à realização atividades de for mação, a manutenção da 
+rede social e técnica necessárias para a continuidade dessas redes;  
+• Reivindicar a inclusão entre as políticas públicas de acesso a co -
+construção de ações de capacitação tecnológica, política e 
+regulatória, e para o fortalecimento das  formas de auto -gestão das 
+comunidades nos territórios;  
+• Incentivar a existência de processos de diálogo e a construção de 
+espaços seguros de fala para que as comunidades tenham 
+influenciam na definição das políticas públicas ligadas a regulação da 
+Internet  e demais tecnologias comunitárias;  
+ 
+ 
+• Viabilizar formas de apoio para a manutenção e sustentabilidade das 
+redes locais;  
+Fonte: edição adaptada Carta Redes Comunitárias, feita pelo Comite de 
+Redes Comunitárias 10 e 11 de Novembro de 2022 (link para acessar a carta 
+da integra https://ibebrasil.org.br/2022/11/carta -de-redes -comunitarias -
+pela -inclusao -digital -de-todes -novembro -22/ Site externo)  
+————— – 
+Área 6. Regulação de inteligência artificial  
+A Inteligência Artificial é amplamente utilizada em várias esferas d a nossa 
+vida cotidiana. No entanto, muitas aplicações são movidas por 
+pressupostos errôneos da capacidade de aprendizagem e funcionamento 
+autônomo dos algoritmos ou por implementações que podem ferir os 
+direitos humanos. Portanto, é preciso dialogar amplam ente, assegurando a 
+pluralidade de vozes, ao pensar em melhores práticas e padrões para o 
+desenvolvimento de diretrizes tecnológicas para Inteligência Artificial, 
+verdadeiramente, comprometidas com a defesa e promoção de direitos 
+humanos.  
+Princípios Chav e 
+• Assumir o compromisso com o combate à discriminação racial, em 
+uma perspectiva alinhada com o direito internacional no contexto de 
+tecnologias digitais emergentes;  
+• Promover práticas de “não -discriminação negativa”: políticas 
+públicas, leis e mecanismos r egulatórios devem ser desenvolvidos 
+com o considerando raça/etnia, gênero, região, origem e outras 
+variáveis, assim como suas interseções;  
+• A “neutralidade” é racializada! Eliminar vieses de discriminação;  
+• Defender a centralidade dos direitos humanos e fundamentais na 
+ideação, desenvolvimento, implementação, regulação e controle 
+social de tecnologias;  
+• Garantir o desenvolvimento da Inteligência artificial de forma a evitar 
+o monopólio e a centralização;  
+• Promo ver privacidade e governança de dados;  
+• Oferecer agência, autonomia e remuneração justa a trabalhadores . 
+Compromissos / Promessas / Ações  
+ 
+ 
+• Estados, universidades e o setor privado devem se comprometer a 
+investir no desenvolvimento de tecnologias dig itais que não 
+representem riscos conhecidos ou projetados a direitos humanos;  
+• Fomentar o debate e in centivo à compromissos éticos e de 
+transparência em toda a ca deia de ideação, desenvolvimento e 
+impl ementação;  
+• Banimento do desenvolvimento de tecnologias digitais emergentes 
+com evidências de discriminação racializada, a exemplo de vigilância 
+biométrica remota em massa; reconhecimento de  expressões faciais, 
+identificação de gênero e sexualidade; publicidade segmentada por 
+características psicográficas; armas letais e não -letais 
+semiautônomas ou autônomas; entre outras;  
+• Desenvolvimento de abordagem regulatórias deve considerar análise 
+ex-ante que inclua identificação interseccional e interdisciplinar sobre 
+impactos previstos das tecnologias digitais emergentes, com a 
+participação das comunidades possivelmente impactadas;  
+• Reivindicar que Estados supervisionem plataformas de 
+intermediação alg orítmica de trabalho e estabelecer políticas 
+públicas de regulação ou de fomento em prol da defesa e geração de 
+empregos justos;  
+• Estabelecer que Estados, setor privado, sociedade civil e academia 
+desenvolvam políticas mensuráveis de inclusão para combater a falta 
+de representatividade de pessoas negras, mulheres, pessoas com 
+deficiência, LGBTQ+ e suas interseções na idealização, desenho, 
+desenvolvimento, análise, supervisão e implementação de 
+tecnologias digitais emergentes;  
+• Exigir que sistemas de alto risc o e/ou larga escala, obrigatoriamente, 
+prevejam análises análise de impacto de justiça racial. Este 
+procedimento deve incluir a participação de avaliadores 
+independentes e também de com representação das comunidades 
+impactadas e sociedade civil;  
+• Desenvolver tecnologias que que util izem menos recursos naturais  e 
+promov er a busca constante de substituição por recursos renováveis ; 
+• Criar alte rnativas públicas, sem fins lucrativos ou infraestrutura de 
+propriedade dos trabalhadores para competir ou substituir 
+empresas de extração de dados. Implementar transparência 
+obrigatória de código e dados, compartilhados de monopólios de 
+tecnologia, para p ermitir alternativas públicas ou sem fins lucrativos.  
+Fontes: “Racial discrimination and emerging digital technologies: a human 
+rights analysis” – documento da Relatora Especial E Tendayi Achiume ao 
+Conselho de Direitos Humanos da ONU; “Data Capitalism and  Algorithmic 
+ 
+ 
+Racism”, por Data4BlackLives e Demos; “Trustworthy AI”, Mozilla 
+Foundation; “Prioridades Antirracistas sobre Tecnologia e Sociedade”, 
+documento coletivo..  
+————— – 
+Área 7. Digital commons (bens comuns digitais) como bens 
+globais públicos  
+Os Recu rsos Educacionais Abertos (REA) são materiais de ensino, 
+aprendizagem e pesquisa e que estão disponíveis em uma variedade de 
+suportes, incluindo formatos digitais e não digitais. Estes recursos podem 
+estar em domínio público ou sob licença aberta que permi tem o acesso, 
+uso, adaptação e redistribuição gratuitos por terceiros, com poucas ou 
+nenhuma restrição. Tratar dessa agenda ao discutir bens globais públicos é 
+direcionar o olhar do conhecimento livre também para o campo da 
+educação básica, tão fundamental  na construção de uma visão crítica social. 
+Afinal, o objetivo principal do REA é garantir que o conhecimento esteja 
+acessível a todos, promovendo a igualdade de oportunidades na educação, 
+reconhecendo o lugar de educadores como produtores de conhecimento.  
+Princípios Chave  
+• Tornar o conhecimento acessível para todos;  
+• Estimular a liberdade e a criatividade na produção;  
+• Fomentar a colaboração, a participação e o compartilhamento;  
+• Reconhecer os educadores e estudantes como autores.  
+Compromissos / Promessas / Ações  
+• Integrar a tecnologia de forma produtiva e planejada na sala de aula 
+para incentivar a autoria de professores e alunos;  
+• Melhorar o conhecimento já existente e permitir sua adaptação para 
+realidades locais;  
+• Aprimorar e compartilhar universalmente o material didático e 
+outros recursos educacionais para apoiar a aprendizagem;  
+• Compartilhar recursos de aprendizagem entre institu ições, 
+acadêmicos e comunidades de prática;  
+• Adotar padrões técnicos que tornem os recursos mais interoperáveis 
+e fáceis de integrar em diferentes contextos de ensino e 
+aprendizagem;  
+• Garantir um melhor uso do investimento público em educação;  
+ 
+ 
+• Promover letramento midiático aberto para pessoas usuárias das 
+tecnologias digitais;  
+• Criar licenças  flexíveis para permitir um uso mais amplo e legal de 
+materiais didáticos . 
+Fonte: Sebriam, Débora; Markun, Pedro; Gonsales, Priscila. Como 
+implementar uma política de Educação Aberta e Recursos Educacionais 
+Aberto (REA): guia prático para gestores / Débora  Sebriam, Pedro Markun e 
+Priscila Gonsales. Prefácio de Flávia Lefévre e Alexandre Schneider. 
+Apresentação de Priscila Gonsales. – São Paulo: Cereja Editora, 2017.  
+ 
+ 
+Organizações e indivíduos que as sinam a carta  / Organizations and 
+invididuals that sign this open letter:  
+Ação Educativa  
+Associação Brasileira de Organizações N ão-Governamentai s, ABONG  
+Casa dos Meninos  
+Coletivo 660  
+Instituto Camila e Luiz Taliberti  
+Instituto Nupe f 
+Instituto S umaúma  
+Tecla – Tecnol ogia (em) ação  
+ 
+Daiane O liveira, Ação Educativa  / Casa dos Menin os 
+Denise Villas Boas Saleh  
+Helda Oliveira Abumanssur  
+Hyrlla Tomé, Cobi Consultoria  
+Isabela Carletti  
+Jade Christinne da Costa de Paula dos Santos  
+Janaina U emura, Ação Educati va / Coletivo 660  
+ 
+ 
+Juliane Cintra de Oliveira, Ação Educ ativa  / ABONG  
+Kérley Winques, Faculdade Ielusc  
+Larissa Mi lhorance, UNESA  
+Lucas Scaravelli da Silva , USP  
+Poka Nascimento, Oxfam Brasil  
+Raquel Luanda, Ação Educativa  / Tecla  
+Tarcizio Silva, Mozilla Foundation / Tecla  
+Vagner Diniz  
+Vera Lúcia Vieira, Customer Sat Consultoria  
+Vitor Braga , Universidade Federal de Alagoas  
+Wagner Moreira da Silva  
+Waldirey Junior, Aç ão Educativa  / Tecla  
+ 
+ 
+ 
+Contact  
+Juliane Cintra - juliane.cintra@acaoeducativa.org.br  

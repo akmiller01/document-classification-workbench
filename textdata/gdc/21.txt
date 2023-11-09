@@ -1,0 +1,998 @@
+info@concordia-consulting.com
+www.concordia-consulting.com
+Submission to the Global Digital Compact
+Concor dia Consulting
+March 2023
+Overview
+About Concor dia
+Concor dia
+is
+a
+Beijing-based
+consulting
+firm
+aiming
+to
+promote
+the
+safe
+and
+responsible
+development
+of
+artificial
+intelligence
+(AI).
+We
+do
+this
+by
+advising
+top
+AI
+labs,
+suppor ting
+a
+comm unity
+of
+technical
+resear chers
+to
+develop
+AI
+safety
+solutions,
+and
+facilitating
+coordination
+between Chinese and global stak eholders on AI saf ety and g overnance .
+Process f ollowed to collect,  consult,  and pr epar e our input
+Before
+the
+consultation,
+Concor dia’s
+AI
+governance
+affiliates
+1
+were
+asked
+to
+read
+the
+Global
+Digital
+Compact
+,
+review
+“
+Our
+Common
+Agenda
+”,
+an
+initial
+draft
+of
+Concor dia’s
+submission,
+and
+other
+selected
+relevant
+material.
+Affiliates
+were
+also
+asked
+to
+prepare
+one
+principle
+and
+corresponding
+recommendation
+that
+was
+not
+included
+in
+Concor dia’s
+initial
+draft
+submission
+in
+advance
+of
+the
+session.
+During
+the
+session,
+affiliates
+and
+Concor dia
+staff
+discussed
+feedback
+on
+the
+initial
+submission
+and
+the
+potential
+addition
+of
+other
+principles
+and
+recommendations.
+Affiliates and staff w ere invited to r eview this final draft bef ore submission.
+1
+Our AI governance affiliates are also affiliated with the University of Oxford, University of Cambridge,
+Schwarzman College of Tsinghua University, University of Columbia, Massachusetts Institute of Technology, and the
+Centre for the Governance of AI but participated in this consultation in their personal capacity.
+info@concordia-consulting.com
+www.concordia-consulting.com
+Core principles
+Concor dia
+recommends
+the
+following
+principles
+for
+regulating
+the
+potential
+risks
+of
+artificial
+intelligence systems:
+1.
+Ensur e
+multilateralism
+（多
+边
+主
+义
+):
+The
+regulation
+of
+AI
+risks
+should
+involve
+cooperation
+across
+nations
+and
+sectors
+across
+shared
+AI
+safety
+and
+governance
+challenges.
+2
+Stakeholders
+must
+engage
+in
+international
+dialogues
+to
+advance
+common
+understanding
+on
+the
+risks
+from
+AI
+and
+agree
+to
+joint
+solutions.
+These
+agreements
+should
+also
+aim
+to
+build
+confidence
+among
+stakeholders
+by
+adopting
+verification
+mechanisms.
+2.
+Uphold
+bottom
+lines
+（底
+线
+思
+维
+):
+The
+regulation
+of
+AI
+risks
+should
+take
+into
+account
+the
+possibility
+of
+AI
+disasters
+and
+take
+steps
+to
+prevent
+them.
+This
+would
+involve
+defining
+the
+furthest
+limits
+of
+what
+is
+intolerable ,
+unacceptable ,
+unforgivable––bottom
+lines––in
+the
+development
+and
+usage
+of
+AI
+systems,
+committing
+not
+to
+cross
+them,
+and
+establishing v erification and enf orcement mechanisms to back all commitments.
+3.
+Align
+AI
+development
+with
+humanity’ s
+inter ests
+（以
+人
+为
+本
+):
+Our
+primar y
+duty
+is
+to
+humanity ,
+including
+both
+current
+and
+future
+generations.
+Accor dingly,
+the
+development
+of
+AI
+should
+uphold
+basic
+rights
+such
+as
+human
+freedom
+and
+dignity ,
+avoid
+sacrificing
+sustainability
+for
+short-term
+profit,
+and
+the
+benefits
+generated
+by
+AI
+development
+should
+be shar ed equitabl y among humanity .
+3
+4.
+Integrate
+long-term
+thinking
+（深
+谋
+远
+虑
+):
+The
+issuance
+of
+policies
+and
+regulations
+for
+governing
+AI
+should
+consciousl y
+consider
+future
+impacts
+and
+avoid
+prematur e
+policy
+lock-ins.
+Policymak ers
+should
+envision
+a
+world
+in
+which
+AI
+systems
+could
+be
+much
+more
+powerful
+than
+current
+generation
+AI
+and
+design
+regulations
+with
+such
+considerations
+in
+mind.
+5.
+Keep
+governance
+agile
+（敏
+捷
+治
+理
+):
+The
+regulation
+of
+AI
+risks
+should
+be
+able
+to
+adjust
+to
+a
+rapidly
+developing
+technolog y
+in
+a
+changing
+world.
+AI
+systems
+should
+be
+actively
+monitor ed
+for
+potential
+risks
+and
+policies
+should
+be
+regularl y
+reviewed
+so
+that
+stakeholders
+can
+take
+action
+in
+a
+timely
+manner
+to
+mitigate
+harm
+and
+adjust
+the
+tools
+of
+governance as r equired.
+3
+中国信息通信研究院，
+人工智能治理与可持
+续发展实践白皮书
+，
+2022.
+2
+周慎、朱旭峰、梁正，
+全球可持
+续发展视域下的人工智能国际治理
+，
+2022.
+info@concordia-consulting.com
+www.concordia-consulting.com
+Suggested commitments/pledges/actions
+(1) The Office of the Secr etary-General's En voy on Technolo gy or similar
+international bodies can host w orkshops and/or conf erences to pr omote
+international r egulation and joint a greements on the mitigation of AI risks with a
+focus on its r ole as an e xistential risk factor .
+These
+workshops
+and/or
+conferences
+can
+elicit
+inputs
+from
+a
+range
+of
+stakeholders
+including
+corporate
+leadership ,
+technical
+exper ts,
+policymak ers,
+and
+militar y
+personnel.
+Examples
+of
+workshop/conf erence agenda items:
+●
+Develop
+a
+joint
+understanding
+of
+global
+AI
+disaster
+scenarios
+and
+solutions
+to
+prevent
+them.
+Descriptions
+of
+these
+scenarios
+can
+be
+made
+publicl y
+available
+to
+raise
+awareness
+of
+potential
+irreversible
+harms
+from
+the
+deplo yment
+of
+AI
+systems
+and
+solicit
+more
+ideas
+for solutions.
+●
+Create
+a
+common
+technical
+glossar y
+on
+key
+terms
+in
+AI
+safety
+in
+multiple
+languages.
+Such
+a
+glossar y
+can
+further
+international
+cooperation
+and
+exchanges
+on
+AI
+safety
+resear ch.
+See the
+U.S. - Chinese Glossar y of Nuclear Security
+Terms
+for reference.
+4
+●
+Agree
+to
+verification
+mechanisms
+in
+international
+agreements,
+such
+as
+sharing
+information
+on
+relevant
+AI
+resear ch,
+allowing
+for
+third
+party
+auditing,
+and
+engaging
+in
+red-teaming ex ercises.
+5
+●
+Develop
+an
+international
+taxation
+mechanism
+for
+profits
+above
+an
+adaptive
+threshold
+to
+redistribute
+the
+gains
+of
+a
+small
+number
+of
+leading
+AI
+companies,
+avoid
+excessiv e
+wealth
+concentration
+and
+finance
+knowledge ,
+and
+facilitate
+skill
+and
+technolog y
+transf er
+to
+under -resour ced economies.
+6
+What our organisation has alr eady done:  Concor dia has published
+articles
+outlining types of
+threats fr om AI and the state of technical saf ety resear ch to counteract these thr eats. The aim
+of these ar ticles is to raise a wareness of potential risks and encourage r elevant r esear ch,
+especiall y among the Chinese ML comm unity.
+6
+See for example O’Keefe et al., “
+The Windfall Clause:
+Distributing the Benefits of AI for the Common Good
+”,
+2020.
+5
+Brundage et al., “
+Toward Trustworthy AI Development:
+Mechanisms for Supporting Verifiable Claims
+”, 2020.
+4
+朱荣生
+，
+人工智能
+军事化的挑战及中美合作应对探讨
+，
+2021.
+info@concordia-consulting.com
+www.concordia-consulting.com
+(2)
+Government-funded
+resear ch
+and
+infrastructur e
+provisions
+should
+be
+conditioned on upholding these principles.
+Funding,
+especiall y
+at
+academic
+labs,
+is
+impor tant
+to
+follow
+procedur es
+to
+ensur e
+safety
+is
+at
+the
+core
+of
+the
+R&D
+process.
+This
+can
+help
+ensur e
+that
+regulations
+to
+prevent
+AI
+risk
+are
+well-suppor ted
+by
+technical
+solutions.
+For
+example ,
+the
+National
+Natural
+Science
+Foundation
+of
+China
+provides
+funding
+to
+encourage
+resear ch
+on
+interpr etable
+AI
+,
+and
+the
+United
+States
+National
+Science
+Foundation
+has
+a
+Safe
+Learning-Enabled
+Systems
+program
+.
+Resear ch
+on
+AI
+safety,
+for
+example
+in
+the
+fields
+of
+alignment,
+robustness,
+and
+interpr etability ,
+can
+also
+more
+effectively
+mitigate
+the
+dangers
+of
+unsafe
+systems
+and
+bolster
+national
+AI
+competitiv eness
+because states and companies seek to acquir e safe and beneficial AI systems.
+7
+What
+our
+organisation
+has
+already
+done:
+Concor dia,
+in
+partnership
+with
+the
+Beijing
+Academ y
+of
+AI,
+previousl y
+organised
+a
+public
+forum
+and
+closed-door
+workshop
+on
+the
+safety
+of
+large
+language
+models
+(LLMs)
+for
+machine
+learning
+(ML)
+practitioners,
+including
+LLM
+interpr etability
+and
+how
+LLMs
+can
+discriminate
+against
+disadvantaged
+groups.
+Governments
+can
+fund
+similar
+initiativ es
+to
+foster
+greater
+awareness
+of
+and
+solutions
+for
+the
+safety
+and
+ethical
+risks
+in
+AI
+among their domestic ML comm unities.
+(3)
+The
+OECD ,
+the
+proposed
+UN
+Futur es
+Lab
+,
+and/or
+similar
+international
+bodies
+can systematicall y measur e and monitor the possib le failur es of AI systems.
+AI as a sector is r outinel y producing data,  metrics,  and measur es that can be useful f or a range
+of governance purposes.  International bodies such as the OECD can harness this inf ormation to
+analyse pr oposed and deplo yed systems f or potential harms and assess AI’s societal impacts
+across diff erent domains and de velopment trajectories.  This inf ormation can be made publicl y
+available to pr omote transpar ency and impr ove deplo yment decisions.
+8
+What
+our
+organisation
+has
+already
+done:
+Concor dia,
+in
+partnership
+with
+Synced
+Review,
+is
+currently
+developing
+a
+Chinese-language
+database
+tracking
+instances
+of
+AI
+systems
+behaving
+in
+unexpected
+ways.
+The
+project
+aims
+to
+inform
+developers
+and
+users
+of
+the
+ways
+in
+which
+AI
+systems
+can
+fail,
+and
+just
+how
+common
+such
+failures
+are,
+in
+order
+to
+avoid
+serious
+consequences
+as systems get deplo yed mor e widel y.
+8
+Jess Whittlestone and Jack Clark, “
+Why and How Governments
+Should Monitor AI Developments
+”, 2021.
+7
+The Centre for Long-Term Resilience, “
+Future Proof:
+The Opportunity to Transform the UK's Resilience to
+Extreme Risks
+”, 2021
+info@concordia-consulting.com
+www.concordia-consulting.com
+Summary table
+Principles
+Suggested commitments, pledges,
+or actions
+What Concordia has
+done
+Multilateralism (
+多
+边主义
+):
+The
+regulation of AI risks should involve
+cooperation across nations and
+sectors across shared AI safety and
+governance challenges.
+The Office of the Secretary-General's
+Envoy on Technology or similar
+international bodies can host
+workshops and/or conferences to
+promote international regulation and
+joint agreements on the mitigation of
+AI risks.
+Concordia has published
+articles outlining types of
+threats from AI and the state
+of technical safety research to
+counteract these threats.
+Bottom lines (
+底
+线思维
+):
+The
+regulation of AI risks should take into
+account the possibility of AI disasters
+and take steps to prevent them
+Government-funded research or
+infrastructure provisions should be tied
+to upholding these principles.
+Concordia, in partnership
+with the Beijing Academy of
+AI, previously organised a
+public forum and closed-door
+workshop for machine
+learning (ML) practitioners on
+the safety and ethics of large
+language models (LLMs).
+Align AI development with
+humanity’s interests (
+以人
+为本
+):
+Our primary duty is to humanity,
+including both current and future
+generations.
+Agile governance (
+敏捷治理
+):
+The
+regulation of AI risks should be able
+to adjust to a changing technology in
+a changing world.
+The OECD, the proposed UN Futures
+Lab, and/or similar international bodies
+can systematically measure and
+monitor the possible impacts of AI
+systems.
+Concordia, in partnership
+with Synced Review, has
+released a Chinese-language
+database tracking instances of
+AI systems behaving in
+unexpected ways.
+Long-term thinking (
+深
+谋远虑
+):
+The issuance of policies and
+regulations for governing AI should
+consciously consider future impacts
+and avoid premature policy lock-ins.

@@ -1,0 +1,356 @@
+EURODIG’S SUPPLEMENTARY INFORM ATION  
+ IN SUPPORT OF ITS RESP ONSE TO THE ONLINE 
+CONSULTATION  ON THE  GLOBAL DIGITAL COMPACT  
+ 
+Contents  
+ 
+I. EuroDIG’s active engagement  in the GDC process  and related  UN initiatives  
+II. EuroDIG’s consultation s on the Global Digital Compact                                           
+III. EuroDIG ’s responses to the Te ch Envoy ’s consultation on specific  thematic areas  
+IV. Conclusions                            
+ 
+I. EuroDIG’s  active engagement  in the  GDC process and related UN 
+initiatives  
+ 
+Since it was first held in Strasbourg in 2008 as an annual multistakeholder the 
+Euro pean regional Internet governance forum Euro DIG has developed a strong track 
+record as a leading , globally influential regional Internet forum  for promoting 
+multistakeholder dialogue on key Internet policy issues, challenges and 
+opportunities, and for fostering collaborative initiatives . As a multista keholder 
+regional  forum  established a mutually constructive relationship with the annual global 
+Internet Governance Forum (IGF) convened under the auspices of the United 
+Nations as part of the ex panding global IGF ecosystem  of governance . Further 
+information  about  EuroDIG ’s aims, activit ies, agenda -setting and g overna nce is 
+accessible at  https://www.eurodig.org/  
+Furthermore, EuroDI G will continue  to play a prominent part in the implement ation of  
+recommendation s and reforms for strengthen ing the  global IGF an d build on its 
+successful track record since its creation by the World S ummit on the  Inform ation 
+Society (the WSIS) in 2005 . EuroDIG accordingly strongly supports  the renewal of 
+the IGF’s mandate by the UN General Assembly at the time of the WSIS+20 rev iew 
+in 2025  so that it can continue  to serve the best interests of Internet stakeholders 
+including  governments, parliam entarians,  the private sector , the technical 
+community , civil society and individ ual users worldwide.  
+The EuroDIG stakeholder community recognises the critical importance of the UN 
+Secretary -General's proposal for adopting a Global Digital Compact at the Summit of 
+the Future in 2024 that will prom ote more inclusive and effective cooperation in 
+support of an open, free and secure digital future for all , and strengthen the 
+multistakeholder mechanisms for governance and constructive stakeholder 
+interaction.  Provision has accordingly been made for inf ormation sharing and 
+discussion of the Secretary -General’s initiatives  during EuroDIG’s recent annual 
+meeting s.  
+EuroDI G has engaged directly with the  sequence of  activities  undertaken by the 
+Secretary -General ’s initiative on digital cooperation, notably the recommendations of 
+the report of his High -level Panel on Digital Cooperation  entitled “The Age of Digital 
+Interdependence” (June 2019) which were discuss ed at the EuroDIG annual event in 
+The Hague. EuroDIG has subsequently endeavoured to ensure that the European 
+stakeholder community is kept fully informed  of key developments  at the UN level , 
+including in June 2020 the Secretary -General’s “Roadmap fo r Digital Cooperation” 
+with its set of recommended actions .  
+EuroDIG has also undertaken stakeholder consultations on individual proposals such 
+as the establish ment  of a multistakeholder high level board for the IGF (now known 
+as the Leadership Panel) with its key remit on advocacy of outcomes and  advisory 
+role on IGF strateg y.  
+Updates on these UN initi atives have been provide d by EuroDIG ’s intersessional 
+project  on digita l cooperation d etails of which are accessibl e on the  EuroDIG website 
+at https://eurodigwiki.org/wiki/Digital_Cooperation  
+ 
+II. EuroDIG’s consultation s on the Global Digital Compact  
+The Secretary General’s report “ Our Common Agenda ” suggest ed that the GDC  with 
+its shared principles for “an open, free and secure digital future for all ” should cover a 
+range of thematic areas and specific issues including digital connectivity, avoiding 
+Internet fragmentation, providing people with options as to how their data i s used, 
+applying human rights online, and promoting a trustworthy Internet by introducing 
+accountability criteria for discrimination and misleading content.  These issues have 
+been addressed in  various sessions during  annual EuroDIG meetings in the last 
+three years  and their conclusions published for the benefit of the global community 
+as “EuroDIG Messages” .  
+Recognising that when it is adopted at the Summit of the Future  in 2024 , the Global 
+Digital Compact will have a profound influence over the course of digital policy and 
+economic a nd social transformation  worldwide, EuroDIG  unde rtook a comprehensive 
+online consultation on its scope and potential outcomes  which mirror ed the survey 
+questionnaire launched by the UN Office of the Envoy on Technology . As with 
+previous EuroDIG consultations, a commenting platform was used for responses 
+which  provide d a summary of the EuroDIG Messages from re cent EuroDIG meetings 
+which a re relevant to the GDC thematic areas proposed in Our Common Agenda.  
+Stakeholders in the  European re gion were inv ited to comment on core principles and 
+commitments to action by specific stakeholders , with the aim of developing  a 
+substantive input into the GDC development proces s, consist ent with European 
+values of universal access, freedom of expression and democratic rights , support ive 
+of innovation  and digital transformation that create s new economic opportunities and 
+enhance social welfare of all citizens.    
+ 
+ 
+ 
+ 
+III. EuroDIG ’s responses to the Te ch Envoy ’s consultation on 
+specific  thematic areas  
+1. Connect all people to the Internet, including all schools  
+i. Core Principles  
+• Access to all devices and to the Internet must be observed as a  universal 
+right.   
+• Accessibility must take into account all disabilities including the blind and 
+deaf. 
+• A multi -stakeholder approach  is necessary to raise awareness of relevant 
+tools and platforms, to optimise the technical infrastructure for Internet 
+access, and to enhance cybersecurity . This is important when connecting 
+schools and all places where  learning takes place, including lifelong learning 
+centres, libraries and beyon d.  
+• Ehealth and the medical Internet o f things (IoT) requires high quality Interne t 
+connectiv ity. 
+• There are many existing challenges in establishing community networks, 
+particularly on the regulatory, funding, and connectivity side. However, 
+technical aspects go hand in hand with a strong network of community 
+support: both the technology  and the sense of community are crucial 
+elements  in ensuring the success of community networks.  
+ii.  Commitments to action  
+• European policymakers need to devise digital policies that firstly improve 
+European digital infrastructure  and secondly build bridges  through strategic 
+partnerships with key players  like the US and China.  
+• There is a need for increased investment in international connectivity through 
+submarine cables and other technologies.   
+• Sectoral bundling of connect ivity requirements  can stimulate and increase 
+potential investment  e.g. ehealth with agriculture and education . 
+• The EU should take decisive steps in establishing a comprehensi ve digital 
+connectivity strategy  not only between the member states but also other 
+regions, in particular those with high traffic growth in Africa and south 
+America.   
+• Community networks provide Internet access for and by remote communities. 
+When establishi ng community networks, it is crucial to build digital capacity  
+both in terms of installation and maintenance of technical infrastructure and in 
+terms of developing digital literacy programmes  that ensure users’ meaningful 
+participation on the Internet .                                          
+• Secure c onnect ivity i s vital for  the healthcare sector  where  digitalisation and 
+the medical IoT has revolutioni sed how medical devices are manufactured 
+and use d. 
+2. Avoid Internet fragmentation  
+i. Core Principles  
+• The original model for Internet services based on multiple implementations, 
+interoperability and open standards , has proved to be effective in countering 
+the growth and dominance of " walled gardens " and closed platforms.   
+• Any regulatory initiatives aimed at exerting sovereignty in a particular field 
+must ensure they do not harm human rights online, do not harm the open and 
+global nature of the Internet, and are in line with democratic multi -stakeholder 
+principles.  
+ii.  Comm itments to action  
+• The single, global, multi -stakeholder governance framework should be 
+maintained  for the key technical resources of the Internet (including IP 
+addresses and domain names).  
+• One of the ways to reduce the possibility of a “ splinternet ” is to avoid 
+incompatible regulations for Internet infrastructure . Fragmentation at the 
+transport layer (IP, DNS root) should be avoided.    
+• In regulating the Internet infrastructure, collateral damage should be avoided 
+to the services and operators  regarding economic costs and availability and 
+avoid fragmentation of the global critical internet infrastructure.   
+• Sovereign states have the right to create rules over the usage of the Internet 
+by their citizens according to their national values and lega l frameworks , on 
+issues such as moderation and removal of content, privacy and data 
+protection, fair competition, national security and taxation.  
+ 
+3. Protect data  
+i. Core Principles  
+• It is imp ortant for a citizen to know how their data  (including personal health 
+data) is used, stored, and secured : what are the stages, who has access at 
+each particular point.  
+• Privacy should be an important issue in everything we do, and its central parts 
+should be privacy by design and security  by design .  
+• Privacy is about trust, and companies need to demonstrate that they are 
+trustworthy. Privacy enhanced technologies  should be everyone’s right . 
+ii.  Commitments to action  
+• Citizens should have a  choice to control how their data is used by different 
+entities in a centralised or a decentralised manner.   
+• Entities collecting user data need to be proactive in ensuring transparency 
+and accountability .  
+• For AI health application s there needs to  be trust and accountability of 
+algorithms  and human oversight .  
+• The proper consent is required for  users who share their data in return for a 
+service. Education and information are key for users to understand what is at 
+stake, and to take responsibility.                                                                        
+• In the healthcare  sector , patients shoul d be able to move with their personal 
+medical data files and be abl e to access their older  medical data files . 
+Patients ’ consent should be required for third part y access  to data .  
+4. Apply human rights online  
+i. Core Principles  
+• Digital identity solutions need to be measured not only by their usefulness and 
+functionality but more importantly by how they respect and reflect fundamental 
+human rights  and common responsibilities.  An ethical policy  approach  is 
+therefore  important.   
+ii.  Commitments to action  
+• Finding the right balance between the control of online content and upholding 
+fundamental rights , and between pr ivacy and transpa rency, will continue to  be 
+important c onsiderations for policy  makers an d dec ision takers .  
+• An ethics-based approach  should be ado pted for brain wave applications  and 
+other tr ansformative ehealth applica tions. 
+• Given that most cyber incidents occur across borders and that there is no 
+common definition of crime and terrorism, co-operation between states and 
+with the private sector  on such matters is crucial.  
+• A careful impact assessment of new technologies and tools on human rights  
+should be carried out to avoid violations of individual rights.  
+5. Accountability for discrimination and misleading content  
+i. Core Principles  
+• Media literacy is crucial  in fighting misinformation. It is very important to 
+educate and empower people to spot misinformation and make informed 
+decisions on whom to trust . 
+• Manipulation of media source s whether in the form of disinformation or 
+misinformation can fuel violent conflict. Any response must comply with 
+human rights and European values, such as democracy and the rule of law.   
+ 
+ii.  Commitments to action  
+• Multi -stakeholder involvement  (i.e. the involvement of those directly 
+concerned and impacted by misinformation) is of utmost importance in fighting 
+misinformation . This is crucial  for example  in relation to me dical and health  
+issues.  
+• There is also a need for the infrastructure to organise fact checking and 
+research activiti es that would be available in all EU languages and would, 
+therefore, benefit all EU countries.   
+• There is a need  to invest in building media literacy skills in people of all age s. 
+• In order to regulate all platforms in a uniform manner, there is a need for a 
+more comprehensive reflection on how to construct a  “regulatory backstop”  
+that creates more uniformity, more instruments with appropriate oversight 
+mechanisms,  and in cases of need, sanctions.  
+• The proliferation of harmful content such as disinformation during the recent 
+crises has confirmed how it can polarize the public debate  and even be a 
+driver of a crisis. A range of actions to counter disinformation is therefore 
+needed , 
+including:                                                                                                                   
+- a complementary approach of soft -law arrangements  such as voluntary 
+codes of conduct and regulatory measures  to deal with the strong position of 
+platforms;                                                                                                                                          
+- the provision of trustworthy content through the  support of  sustainable and 
+independent journalism , independent public service media  and trusted 
+community institutions  such as librari es;                                                               
+- further strengthening of fact -checking initiatives  and increased investment in 
+digital and media literacy . 
+ 
+6. Regulation of artificial intelligence  
+i. Core Principles  
+• The potential risks relating to AI need to be examined holistically . 
+• Humans should ultimately remain in command , have oversight  and be 
+responsible for AI deployment and applications.                          
+• Establishing transparency of data sources and algorithms .  
+ii.  Commitments to action  
+• In addition to reaching agreement on certain global principles, values and 
+possible rights  to guide AI development, such as prevention of 
+discrimination, data protection and  governance  (including regular  audits for 
+data accura cy and relevance) , building trust, protection of privacy, 
+transparency, and human -centred AI, there is also a need to allow regions 
+and states to adapt these principles to their own s ituations through 
+concrete instruments  targeted at policymakers and other actors.   
+• In this process, the multi -stakeholder approach and cross -regional 
+dialogue are key for ensuring harmonisation . The current escalating 
+geopolitical tensions, however, are ch allenging multi -stakeholderism and 
+cross -regional dialogue. There is accordingly a need to take a fresh look at 
+them.   
+• Investment in educational programmes and raising awareness  is needed 
+to help users understand AI technologies, their benefits as well as their risks , 
+how algorithms wor k, the impor tance o f con sent relating  to data use etc.   
+• Robotics, virtual reality  and quantum computing should all be  taken into 
+account in developing the medical IoT  so that the benefits of digitalisation for 
+the health  sector  are maximised . 
+• Ongoing regional and global initiatives on collabor ation  and information  
+sharing should be supported . 
+  
+7. Digital c ommons  as a global public good  
+EuroDIG has a pan -European remit that extends to all countries in the European 
+region  including the Member States of the European Union.  Discussions at EuroDIG  
+meetings provide an inclusive multistakeholder platform for both the advocacy of 
+European values in global discussions and for fostering the kind of multi -country 
+collaborative projects and international partnerships envisaged in the UN Secretary -
+General’s initiative on di gital cooperation  and the digital commons as a glkobal public  
+good .   
+Consistent with these objectives, EuroDIG meetings  have provided  the opportunity 
+for the European Commission to create  within the wider European geo -political 
+environment greater awareness and discussion of EU digital policy initiative s. These 
+include Europe’s  Digital Decade  with its targets  for digital transformation by 2030 , 
+the Digital Services Act , the Digital Markets Act  and the  Declaration  on Digital  Rights 
+and Principles  which emphasises th e importance of putting people and their rights at 
+the centre of digital transformation , participation in the digital public space  - “the 
+global c ommons”  - and p romoting the sustainability of the digital future . The 
+Declaration is an example therefore of how an EU initiative can contribute as an 
+existing reference point for European values and principles to the current 
+consultations on the GDC . 
+The conceptual fram ing o f a global  “digital common s” has not yet been di scussed in 
+detail during  recent EuroDIG meetings. However, the following  point  was raised  by a 
+stakehol der in EuroDIG ’s most recent  consultation  on the GDC :    
+• As recognised by UNESCO in its Futures of Education report *, knowledge 
+itself should be a commons  and therefore  efforts to avoid enclosures that 
+harm the public interes t should be supported.  
+* https://en.unesco.org/futuresofeducation/  
+ 
+8. EuroDIG p roposal for additional GDC thematic area :  Green Digital 
+Transformation  
+The need  to transition to a green digital economy by the 2030s  has been discussed 
+at several recent EuroDIG  meeti ngs. It was the subject  of an intersessio nal project in 
+2020-21 on information and communications technology (ICT) sustainability and the 
+crucial role of the Internet governance community in ensuring that environmental 
+sustainability is at the heart of ICTs thr oughout their lifecycle.  
+We are at a critical junction given the urgency of this issue  at a time when the policy 
+and regulatory environment recognises the need for more  commit ments to actio n on  
+digitisation and sustainability  inline with the 2030 Agen da on S ustainab le 
+Developme nt and the follow up to COP 27 on catalysing the green digital 
+transforma tion. 
+The foll owing proposals for core principles and commitments to action  in the Global  
+Digital Compact are largely drawn fro m the report of a workshop held at Eur oDIG ’s 
+most recent annual  meeting  in Triest e on 21 J une 2022 . entitle d From commitments 
+to action: Assessing the effectiveness of pan -European policies and regulations for 
+the green digital transformation .  The full report of this session is acc essible  here . 
+i. Core Principles  
+• Digitalisation and environmental sustainability must be looked at 
+together  and not as two distinct policy areas.  
+• Ecological standards should be incorporated  in ICT regulation  and the 
+design and production of digita l devices and applications . 
+• Regulatory frameworks  shoul d be practical, effective and incentive -based . 
+ 
+ii.  Commitments to action  
+• To reduce the environmental impact of the digital world, it is necessary to 
+adopt  measures to optimise energy and material efficiency (circularity) of 
+the digital sector . For example, increasing the use of renewables, innovating 
+for low energy consumption, keeping devices longer in use, facilitating re -use, 
+improving repairability and recyclability, and adopting sustainable business 
+models.  
+• Areas where international coordination  is needed the most are measures to 
+promote the  circular economy , to share  environmental data , to reduce 
+environmentally harmful consumption , to promote efficiency and enhance 
+digital applications , and to ensure  transparency regarding environmental 
+costs . 
+• Governments, regu lators , industry  sectors and the technical community  
+shou ld coop erate in:  
+- promo ting the environmental sustainability of the ICT sector ;  
+- measur ing its impact on the environment ;   
+- ensur ing transparency and corporate accountabilit y;   
+- increas ing circular production and consumption ;   
+- discourag ing illegitimate exports of e -waste ;  
+- promot ing material efficiency by increasing the reuse and repairability of 
+devices.  
+• Increased cooperat ion, data sharing, and external auditing  are crucial to 
+assess and  monit or the envir onment al impact of the ICT sec tor, to avoid 
+greenwashing and  to promote transparenc y.  
+• Standardis ation of  indicator s is imperative  and c ommon methodologies are 
+also necessary  to measure and compare the net -environmental be nefits 
+of digital solutions . 
+Drawing on its exami nation o f this key issue which the EuroD IG multistak eholde r 
+community stands ready to assist the GDC co-facilitators in developing  green 
+digital isation as an additional core them atic area  of the Com pact.  
+ 
+IV. Conclusion s 
+ 
+The proposed Global Digital Compact provides an important opportunity for 
+European stakeholders to promote  Europ ean core values and principles , including 
+those embedded in the EU’s digital objectives and targets,  in a UN instrument that 
+will set the course  for digital cooperation in support of the open, free, unfragmented 
+and sustainable Internet -based eco -system of global digital cooperation.  
+ 
+EuroDIG  provide s a pro-active channel for  stakeholders across the continent  of 
+Europe to contr ibute to achieving th ese aims . A workshop  to discuss the GDC 
+process and related UN initi atives will be held during  the ne xt annual m eeting of 
+Euro DIG in Tampere, Finland , on 19 June 202 3. This interactive worksh op will aim to 
+agree further consens us-based agreement and messages in support of the GDC 
+proces s. The full programme for the annual meeting can be accessed at 
+https://eurodigwiki.org/wiki/Consolidated_programme_2023 .  
+ 
+The Eu roDIG multi stakeholde r community looks forward  to being engaged in and 
+contributing  to all stages of the GDC  process, including  the fina lisation  of the  scope 
+and content of the Compact  during 2023 -34, its launch a t the Summit of the Future in 
+Septem ber 2 024 an d the su bsequent implementation  phase .   
+ 
+Sandra Hoferich ter, Secre tary General  of Euro DIG 
+30 April 2023  

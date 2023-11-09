@@ -1,0 +1,319 @@
+Joint Submission to the Consultation on the Global Digital Compact                                                  Page | 1  
+ Joint Submission to the Consultation on the Global Digital Compact  
+ 
+We welcome the UN Secretary General’s call through the report “Our Common 
+Agenda” proposing to adopt a Global Digital Compact during the Summit of the Future 
+in September 2024.  
+ 
+The Global Digital Compact is expected to “outline shared principles for an op en, free 
+and secure digital future for all” covering issues related to digital connectivity, avoiding 
+Internet fragmentation, providing people with options as to how their data is used, 
+application of human rights online, and promoting a trustworthy Intern et by introducing 
+accountability criteria for discrimination and misleading content. If adopted, the GDC 
+will have an impact in the lives of all and therefore it is important that the GDC adopts 
+a multistakeholder process not only during the consultative p hase but also during the 
+decision making, implementation and monitoring phase.  
+ 
+Further, the GDC should not only recommend guiding principles for the Internet of the 
+future, but also identify and lay down clear actions to achieve these objectives and 
+goals . 
+ 
+1. Connect all people to the internet, including all schools  
+Connecting the nearly 2.7 billion people should be the topmost  priority. To ensure that, 
+there is a need to encourage innovative approaches to connectivity including 
+community networks, appr opriate spectrum allocation, reducing spectrum auction 
+prices, IPv6 deployment, etc. and promote research and development to create 
+affordable devices and technologies. Universal Obligation of funds needs to be used 
+creatively in order to facilitate more p eople to be connected.  
+Resilient and secure digital infrastructure is crucial for digital inclusion. Governments 
+should encourage investment to protect and promote digital infrastructure and  ensure 
+reliable connectivity and speed. They should also avoid I nternet shutdowns.  
+Universal access should respect human rights and ensure the Internet is both 
+accessible and safe for all. Multilingual internet, addressing issues of accessibility 
+online for the differently abled should be a priority . Concepts of gender equality, 
+inclusion, and women’s rights and protection should be encouraged.  
+Exchange of best practices and success stories should be encouraged so that they 
+can be replicated elsewhere or customised to suit the local requirements and the IGF 
+should be promoted as the platform  for such discussions by the GDC.  
+In this information age access to the Internet for information and education in schools 
+is crucial. Governments should partner with private sector and technical institutions to 
+ensure that the schools especially in remote  and rural  locati ons are provided with 
+adequate internet bandwidth, proper devices in keeping with the  increasing bandwidth 
+Joint Submission to the Consultation on the Global Digital Compact                                                  Page | 2  
+ requirements, so that students can ac cess online classes and  information 
+conveniently. Adequate Bandwidth for schools should be quantified to  enable latest 
+technology access for students.  Ensuring regular electricity service at least during the 
+school time is critical. For that, the use of solar power ma y be encouraged for 
+sustainability. Providing capacity building to teachers and students on how to 
+maximise the benefit of the Internet while safe surfing is important.  
+Finally , the GDC should acknowledge that it was the cooperative, interoperable, open,  
+and bottom -up approach that created this dynamic, resilient Internet, and that this 
+same cooperative approach provides us with the tools to extend Internet access to all 
+people.  
+2. Internet governance / Avoid internet fragmentation  
+Over the last 3 decades, m ultistakeholder efforts have been effective in preventing 
+Internet fragmentation around the world by promoting the development and use of 
+globally accepted Internet standards and protocols.  
+ 
+An example of such efforts is the coordination and governance of  the Internet naming 
+and numbering systems, that allow users around the world to access the same content 
+and services without any barriers or restrictions. Numerous individuals and 
+organisations, comprising both governmental agencies and intergovernmental 
+organisations, have contributed significantly to this coordination. Their concerted 
+efforts have been instrumental in maintaining the Internet's open, global, and 
+interoperable nature, while ensuring its stability and security.  
+ 
+The organisations and commu nities that have evolved around these coordination 
+systems, have built an inclusive, transparent and accountable governance framework 
+that has helped to build trust in the global Internet ecosystem. Active coordination 
+should continue to be promoted and su pported to ensure healthy Internet governance.  
+ 
+The Internet Governance Forum (IGF) and its ecosystem play a pivotal role in fostering 
+dialogue and multistakeholder participation on Internet public policy issues and has 
+strengthened the Internet coordinati on ecosystem over the years. Hence, the IGF is a 
+suitable platform to support the implementation of the GDC principles and 
+commitments. Efforts should continue to be made to strengthen the IGF.  
+ 
+Local multistakeholder processes such as the National and Regional Initiatives of the 
+IGF work well and additional efforts could be made to aggregate these initiatives into 
+regional and global fora. Additionally, various multistakeholder national, regional , and 
+global youth initiatives, such as national Youth IGFs, are working towards meaningful 
+youth empowerment and engagement in decision -making processes. More active 
+efforts to integrate such initiatives will ensure young voices in the digital public poli cy 
+and technology development space.  
+Joint Submission to the Consultation on the Global Digital Compact                                                  Page | 3  
+  
+Stakeholders should work together towards avoiding fragmentation. In this regard, we 
+support the work that is currently being done in the IGF Policy Network on Internet 
+Fragmentation (PNIF). The PNIF was a community i nitiative launched by a 
+multistakeholder coalition of civil society, business and technical community 
+organisations to raise awareness of the technical, policy, legal and regulatory 
+measures and actions that pose a risk to the open, interconnected and inte roperable 
+Internet.  
+ 
+We appreciate the efforts of the GDC public consultations. We encourage the ongoing 
+GDC process to be more open, multistakeholder and inclusive, promoting active 
+dialogue and robust discussion, which are key elements for reaching bette r 
+agreements and understandings.  
+ 
+3. Protect data  
+ 
+To enable the free flow of information while ensuring the protection of sensitive data, 
+it is important to have a proactive and collaborative approach to addressing cross -
+border data flow barriers. That is why we support the concept of Data Free Flow with 
+Trust.  
+ 
+There are numerous barriers that can impede the transfer of data across borders, such 
+as data privacy regulations, data localization requirements, and security concerns -
+which might result in fu rther aggravating Internet fragmentation. To overcome these 
+barriers, it is important to implement robust security measures, such as encryption and 
+access controls, to protect the data being transferred. Additionally, adopting 
+internationally recognized da ta protection standards and certifications can help to 
+ensure compliance with data privacy regulations across different jurisdictions.  
+ 
+4. Regulation of artificial intelligence  
+ 
+Some regulation of artificial intelligence (AI) might ensure that it is deve loped and 
+deployed in a manner that aligns with the values and interests of the human kind. 
+However, such regulation will only be possible with good governance in place, as it 
+provides the necessary framework for transparent, accountable, and inclusive 
+decision-making. Good governance involves ensuring that decision -making processes 
+are guided by the needs and aspirations of all stakeholders. It is also conducive to 
+innovation, while safeguarding against the risks and challenges posed by the rapid 
+advanceme nt of AI. By promoting good governance, we can help ensure that the 
+regulation of AI is effective and promotes the public good, while minimising the risks 
+and challenges associated with its development and deployment.  
+ 
+When it comes to the governance of ar tificial intelligence (AI), many of the lessons 
+learned from Internet governance can be applied. Like the Internet, AI has the potential 
+Joint Submission to the Consultation on the Global Digital Compact                                                  Page | 4  
+ to shape our society in profound ways, and it is important that its development and 
+deployment are guided by principles  that reflect the values of our society. Multi -
+stakeholder engagement is critical in this regard, as it enables diverse perspectives 
+and expertise to be brought to the table, ensuring that the development of AI is guided 
+by the needs and aspirations of all  stakeholders. Additionally, transparency, 
+accountability, and inclusivity are essential to ensuring that the governance of AI is 
+conducted in a manner that is fair, equitable, and consistent with the principles of 
+democratic governance. By learning from t he lessons of Internet governance, we can 
+help ensure that the governance of AI is conducted in a manner that promotes the 
+public good, while addressing the complex challenges that are sure to arise.  
+ 
+Regulation should be balanced between targeting the cha llenges faced by widespread 
+adoption of artificial intelligence and other emerging technologies with protecting 
+people online and ensuring human rights are respected. A regulatory sandbox in 
+artificial intelligence (AI) with a multistakeholder approach has  numerous benefits that 
+make it a valuable tool for promoting innovation while protecting the interests of all 
+stakeholders. By allowing innovators to experiment with new AI technologies in a 
+controlled environment, a regulatory sandbox can help to acceler ate the development 
+of new solutions and business models. At the same time, it can provide regulators with 
+valuable insights into the potential risks and benefits of these technologies, allowing 
+them to develop more informed policies and regulations. A mul tistakeholder approach, 
+which involves the participation of stakeholders from government, industry, academia, 
+and civil society, can help to ensure that the sandbox reflects a diversity of 
+perspectives and interests. This approach can also foster collabora tion and dialogue 
+among stakeholders, leading to more inclusive and effective policy outcomes. 
+Ultimately, a regulatory sandbox in AI with a multistakeholder approach can help to 
+create a more balanced and sustainable ecosystem for AI innovation and deploy ment, 
+benefiting society as a whole.  
+ 
+In addition, cross national efforts should be explored in finding solutions. This includes 
+balancing and relating AI principles and guidelines to universal human rights norms 
+and harmonising between the different globa l regulatory frameworks on AI.  
+ 
+This submission is endorsed by the following 73 organisations and individuals from 
+the Asia Pacific region:  
+ 
+Sl. No  Name  Organisation/ 
+Individual  Location  Stakeholder Group  
+1 AI Council  Organization  Hong Kong  Social  
+2 Asia Pacific 
+Network 
+Information Centre 
+(APNIC)  Organisation  Regional  Technical  
+Joint Submission to the Consultation on the Global Digital Compact                                                  Page | 5  
+ 3 Bangladesh 
+toNetwork 
+Operators 
+Group(bdNOG)  Organisation  Bangladesh  Network Operators 
+Group  
+4 Broadband India 
+Forum (BIF)  Organisation   India  Think Tank  
+5 CCAOI  Organisation  India  Civil Society  
+6 Council for Social 
+and Digital 
+Development 
+(CSDD)  Organisation  India  Non-Profit  
+7 DEPRIVE - 
+AKKMA  Organization  Philippines  Civil Society  
+8 Digital Freedom 
+Coalition  Organisation  Nepal  Coalition  
+9 Digital Media 
+Foundation  Organisation  Nepal  Civil Society  
+10 Digital Rights 
+Nepal (DRN)  Organization  Nepal  Civil Society  
+11 Educating Nepal  Organisation  Nepal  Civil Society  
+12 Grade Ace Pvt Ltd  Organisation  India  Private  
+13 ICT Watch  Organisation  Indonesia  Civil Society  
+14 India Internet 
+Foundation (IIFON)  Organisation  India  Technical  
+15 India School of 
+Internet 
+Governance 
+(inSIG)  Organisation  India  Civil Society  
+16 Indian Network 
+Operators Group 
+(INNOG)  Organisation  India  Technical  
+17 Internet Australia  Organisation  Australia  Technical  
+18 Internet 
+Governance 
+Institute  Organisation  Nepal  Civil Society  
+19 Internet Society 
+Bangladesh 
+Chapter  Organisation  Bangladesh  Civil Society  
+20 Internet Society 
+India Chennai 
+Chapter  Organisation  India  Civil Society  
+21 Internet Society 
+India Delhi Chapter  Organisation  India  Civil Society  
+22 Internet Society 
+India Kolkata 
+Chapter  Organisation  India  Civil Society  
+23 Internet Society 
+India Mumbai 
+Chapter  Organisation  India  Civil Society  
+Joint Submission to the Consultation on the Global Digital Compact                                                  Page | 6  
+ 24 Internet Society 
+India Trivandrum 
+Chapter  Organisation  India  Civil Society  
+25 Lanka School on 
+Internet 
+Governance 
+(LKSIG)  Organization  Sri Lanka  Civil Society  
+26 Limitless Lab  Organization  Philippines  Business  
+27 Nepal Internet 
+Foundation  Organisation  Nepal  Civil Society  
+28 Nepal Network 
+Operators’ Group  Organisation  Nepal  Network Operators’ 
+Group  
+29 Nikhil Gehlot  Organisation  India  Business  
+30 Pacific Islands 
+Chapter of the 
+Internet Society 
+(PICISOC)  Organisation  Regional  Civil Society  
+31 Rayznews  Organization  Nepal  Civil Society  
+32 Solutify Myanmar  Organisation  Myanmar  Civil Society  
+33 Specialised -Works  Organisation  Bangladesh  Private  
+34 Story Cycle  Organisation  Nepal  Non-Profit  
+35 UUM 
+InterNetWorks 
+Research Lab  Organization  Malaysia  Academia  
+36 Ved International 
+Society  Organisation  India  Civil Society  
+37 Women in Digital  Organisation  Bangladesh  Business  
+38 Youth IGF India  Organisation  India  Civil Society  
+39 Youth IGF Nepal  Organisation  Nepal  Youth  
+40 Anand R. Nair  Individual  Coimbatore, India  Academia  
+41 Annaliese 
+Williams, NetThing 
+Chair (Australian 
+IGF) Individual  Australia  Civil Society  
+42 Aris Ignacio  Individual  Philippines  Academia  
+43 Arun Mahendru  Individual  India  Public Sector  
+44 Baljinder Singh  Individual  Amritsar, India  Academia  
+45 Charles Mok  Individual  Hong Kong / 
+United States  Civil Society  
+46 Cheryl Langdon -
+Orr Individual  Australia  Civil Society  
+47 Dr 
+Gnanajeyaraman 
+Rajaram  Individual  India  Academia  
+48 Dr Nirosha 
+Wedasinghe  Individual  Sri Lanka  Academia  
+49 Dr. Anurag Vijay 
+Agrawal  Individual  India  Technical  
+50 Dr. Ashish Rastogi  Individual  India/Oman  Academia  
+Joint Submission to the Consultation on the Global Digital Compact                                                  Page | 7  
+ 51 Dr. G. PRAKASH  Individual  India  Private University  
+52 Dr. Yik Chan Chin  Individual  China  Academia  
+53 Engr. Javed Niaj 
+Mohsin  Individual, 
+Janimh 
+Technical 
+Solution  Bangladesh  Technical  
+54 Er. Anoop Kumar 
+Prasad  Individual  India  Technical  
+55 Fernando A. T. 
+Ximenes  Individual, 
+Timorese 
+Association for 
+Progressive 
+Media and 
+Technology  Timor -Leste  Researcher  
+56 G.V. Ihita  Individual  India  Youth  
+57 Iqbal Ahmed  Individual  Bangladesh  Technical  
+58 Jan Jacob Jansalin  Individual  Philippines  Public Sector  
+59 Juliana Harsianti  Individual, 
+Indonesia 
+Internet 
+Governance 
+Forum (ID -IGF) Indonesia  Civil Society  
+60 Kapil Goyal  Individual  India  Academia  
+61 Kasun Tharaka 
+Wickramasuriya  Individual  Sri Lanka  Public Sector  
+62 Kshitiz Sa xena  Individual  India  Academia  
+63 Mohammad Ali 
+Jauhar  Individual  India  Technical  
+64 Mohammad 
+Kawsar Uddin  Individual  Bangladesh  Media  
+65 Naveen K 
+Lakshman  Individual  India  Technical  
+66 Pavel Farhan  Individual  Thailand  Academia  
+67 Priyatosh Jana  Individual    India  Academia  
+68 Sagarika 
+Wickramasekara  Individual  Sri Lanka  Technical  
+69 Shahanaj Begum  Individual  Bangladesh  Technical  
+70 Shradha Pandey  Individual  India  Youth  
+71 Shubham Agarwal  Individual  India  Technical  
+72 Stephen Ng  Individual  Hong Kong  Academia  
+73 Vinay Aseri  Individual  India  Private  
+ 
