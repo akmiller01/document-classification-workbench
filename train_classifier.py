@@ -41,7 +41,7 @@ def main(metadata_path):
 
     training_args = TrainingArguments(
         output_dir='models/{}'.format(metadata_basename),
-        learning_rate=2e-5,
+        learning_rate=1e-5,
         per_device_train_batch_size=16,
         per_device_eval_batch_size=16,
         num_train_epochs=10,
