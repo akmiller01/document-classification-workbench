@@ -66,8 +66,12 @@ dat = data.frame(
   percent_potentially_invalid=c(47/1939, 380/1900),
   accuracy=c(0.931, 0.839),
   positive_recall=c(2076/2123, 4870/5210),
-  negative_recall=c(1961/2011, 5558/5847)
+  negative_recall=c(1961/2011, 5558/5847),
+  dollar_amount=c(
+    2599886411.68, # GBP 2,118,456,565, 
+    97831265270.00)
 )
+dat$dollar_amount = dat$dollar_amount / 1e9
 
 dat$y.min = dat$percent_potentially_invalid - (1 - dat$negative_recall)
 dat$y.min[which(dat$y.min<0)] = 0
@@ -92,3 +96,19 @@ ggplot(dat,aes(
   )
 
 ggsave("validity_bars.png", width=7, height=4)
+
+ggplot(dat,aes(
+  x=donor,y=dollar_amount,group=donor,fill=donor
+)) +
+  geom_bar(stat="identity", show.legend=F) +
+  scale_fill_manual(values=reds) + # Choose colour here
+  scale_y_continuous(expand = c(0, 0), labels=dollar) + # Force y-grid to start at x-axis
+  di_style +
+  rotate_x_text_45 + # Or chose _90 or remove for horizontal
+  labs(
+    y="Mislabeled climate projects (US$ billions)",
+    x="",
+    fill=""
+  )
+
+ggsave("validity_bars_dollar.png", width=7, height=4)

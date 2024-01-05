@@ -6,6 +6,13 @@ import pickle
 from tqdm import tqdm
 
 
+def is_int(test_string):
+    try:
+        int(test_string)
+        return True
+    except ValueError:
+        return False
+
 def main():
     model_dir = '../models/iati_climate_pilot_wb_balanced'
 
@@ -36,18 +43,19 @@ def main():
                 w for w in words if 
                 w not in tokenizer.all_special_tokens and 
                 '#' not in w and
-                len(w) > 3
+                len(w) > 3 and
+                not is_int(w)
             ]
-            bigrams = ['{} {}'.format(word1, word2) for word1, word2 in zip(words, words[1:])]
+            # bigrams = ['{} {}'.format(word1, word2) for word1, word2 in zip(words, words[1:])]
             all_words.update(words)
-            all_words.update(bigrams)
+            # all_words.update(bigrams)
     all_words = list(all_words)
 
     word_results = []
 
     for i in tqdm(range(0, len(all_words))):
         word = all_words[i]
-        inputs = tokenizer(word, return_tensors="pt")
+        inputs = tokenizer(word, return_tensors="pt", add_special_tokens=False)
         with torch.no_grad():
             logits = model(**inputs).logits[0].tolist()
         scores_obj = {id2label[id]: logits[id] for id in id2label}
