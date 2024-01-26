@@ -50,6 +50,9 @@ drop = c("Project Title", "Short Description", "Long Description",
          "Climate Mitigation","Climate Adaptation")
 crs[,drop] = NULL
 gc()
+crs$text_dup = duplicated(crs$text)
+crs = subset(crs, !text_dup)
+crs$text_dup = NULL
 
 crs$id = c(1:nrow(crs))
 
