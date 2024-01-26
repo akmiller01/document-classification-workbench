@@ -30,7 +30,11 @@ def main(metadata_path):
 
     with open(traindata_path, 'rb') as f:
         id2label, label2id, text_data = pickle.load(f)
-    text_dataset = Dataset.from_dict(text_data).train_test_split(test_size=0.33)
+    text_dataset = Dataset.from_dict(text_data).class_encode_column("label").train_test_split(
+        test_size=0.3,
+        stratify_by_column="label",
+        shuffle=True,
+    )
     tokenized_data = text_dataset.map(preprocess_function, batched=True)
 
 
