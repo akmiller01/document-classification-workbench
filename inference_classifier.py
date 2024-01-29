@@ -20,7 +20,7 @@ def main(metadata_path, text):
     # Get the most recent checkpoint folder
     if checkpoint_folders:
         most_recent_checkpoint = os.path.join(model_dir, checkpoint_folders[0])
-        print("Most recent checkpoint folder:", most_recent_checkpoint)
+        # print("Most recent checkpoint folder:", most_recent_checkpoint)
     else:
         print("No checkpoint folders found in", model_dir)
 
@@ -33,11 +33,18 @@ def main(metadata_path, text):
         logits = model(**inputs).logits
 
     predicted_class_id = logits.argmax().item()
-    print(model.config.id2label[predicted_class_id])
+    print("Output: {}".format(model.config.id2label[predicted_class_id]))
 
 
 if __name__ == '__main__':
     text = """
-    The paper provides a narrative, rationale, and a vision for global data governance with the objective of consolidating a United Nations system common understanding on the topic. UN has been providing national and global statistics for the UN Statistics Commission since 1947. Data are the lifeblood of the digital economy, driving international services trade, informing logistics, shaping markets, and shaping markets. UN OCHA, the GovLab and Center for Innovation propose an expanded framework based on six elements: technology, legal, governance, people, and network. The UN's Fundamental Principles of Official Statistics apply to international organisations, but there is no explicit commitment by Member States to these principles. UN data may not always meet the high standards required to inform global policy decisions. The UN could act as one of the repositories of privately generated data that have public global relevance. The private sector has a large concentration of data with probably more decision-making on how to collect, process and use certain data than most governments. There are opportunities to further support Member States efforts in progressing towards an accountable, agile, and fair international
+    Poverty reduction and diminution of internal an transnational migration in Nicaragua and Costa Rica POVERTY REDUCTION AND DIMINUTION OF INTERNAL AN TRANSNATIONAL MIGRATION IN NICARAGUA AND COSTA RICA Poverty reduction and diminution of internal an transnational migration in Nicaragua and Costa Rica
     """
+    print("Input: {}".format(text))
+    main(sys.argv[1], text)
+
+    text = """
+    Documentation of the Early 19th-Century First Baptist Church in Mawlamyine DOCUMENTATION OF THE EARLY 19TH-CENTURY FIRST BAPTIST CHURCH IN MAWLAMYINE Though the architecture of the church is Western in design, the materials and building methods used in its construction stemmed from Burmese craft traditions, resulting in a masterful blend of Burmese and Western styles. This project includes a condition survey, conservation plan, and site documentation.
+    """
+    print("Input: {}".format(text))
     main(sys.argv[1], text)

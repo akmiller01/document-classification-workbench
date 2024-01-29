@@ -1,4 +1,4 @@
-list.of.packages <- c("data.table","dotenv", "httr", "dplyr", "jsonlite")
+list.of.packages <- c("data.table","dotenv", "httr", "dplyr", "reshape2", "ggplot2")
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
 if(length(new.packages)) install.packages(new.packages)
 lapply(list.of.packages, require, character.only=T)
@@ -31,7 +31,9 @@ donors = c(
   # ,"Sweden"
 )
 
-crs = subset(crs, Year >= 2012 & `Donor Name` %in% donors)
+crs = subset(crs, Year >= 1998
+             # & `Donor Name` %in% donors
+)
 gc()
 
 crs$climate = (
@@ -39,6 +41,10 @@ crs$climate = (
 ) | (
   crs$`Climate Adaptation` %in% c(1, 2)
 )
+
+climate_count_by_year = crs[,.(count=.N),by=.(Year, climate)]
+ggplot(climate_count_by_year, aes(x=Year, y=count, group=climate, fill=climate)) +
+  geom_area()
 
 crs$text = paste(
   crs$`Project Title`,
