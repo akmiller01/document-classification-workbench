@@ -9,7 +9,7 @@ import numpy as np
 from transformers import AutoModelForSequenceClassification, TrainingArguments, Trainer
 
 
-tokenizer = AutoTokenizer.from_pretrained('distilbert-base-uncased')
+tokenizer = AutoTokenizer.from_pretrained('climatebert/distilroberta-base-climate-f')
 def preprocess_function(examples):
     return tokenizer(examples['text'], truncation=True)
 
@@ -39,7 +39,7 @@ def main(metadata_path):
 
 
     model = AutoModelForSequenceClassification.from_pretrained(
-        'distilbert-base-uncased', num_labels=len(id2label.keys()), id2label=id2label, label2id=label2id
+        'climatebert/distilroberta-base-climate-f', num_labels=len(id2label.keys()), id2label=id2label, label2id=label2id
     )
 
 
