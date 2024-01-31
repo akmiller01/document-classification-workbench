@@ -48,3 +48,6 @@ if __name__ == '__main__':
     """
     print("Input: {}".format(text))
     main(sys.argv[1], text)
+
+    while True:
+        main(sys.argv[1], input("> "))
